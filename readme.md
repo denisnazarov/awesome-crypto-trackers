@@ -63,6 +63,7 @@
 ## Decentralized exchanges
 - https://dex.watch/
 - https://etherscan.io/dextracker
+- https://0xtracker.com/
 
 ## Dharma
 - https://supermax.cool/dharma
