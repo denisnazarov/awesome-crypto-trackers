@@ -52,6 +52,7 @@
 
 ## Cryptokitties
 - https://www.curiousgiraffe.io/cryptokitties/
+- https://kittysales.herokuapp.com/
 
 ## Dapps
 - https://dappradar.com/
@@ -101,6 +102,7 @@
 - https://mkr.tools/
 - https://makerscan.io/
 - https://supermax.cool/makerdao
+- https://twitter.com/makerdaibot
 
 ## NFTs
 - https://nonfungible.com/
