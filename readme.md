@@ -4,6 +4,7 @@
 
 
 ## Contents
+- [0x](#0x)
 - [Airswap](#airswap)
 - [Aragon](#aragon)
 - [Augur](#augur)
@@ -27,6 +28,9 @@
 - [Stable coins](#stablecoins)
 - [Uniswap](#uniswap)
 - [Other](#other)
+
+## 0x
+- https://0xtracker.com/
 
 ## AirSwap
 - https://www.curiousgiraffe.io/airswap/
