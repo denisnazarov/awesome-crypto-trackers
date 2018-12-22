@@ -57,6 +57,7 @@
 ## Dapps
 - https://dappradar.com/
 - https://dapp.review/
+- https://dapped.io/
 
 ## Decentralized finance
 - https://mikemcdonald.github.io/eth-defi/
@@ -117,6 +118,9 @@
 - https://uniswap.info/
 
 ## Other
+### Due Diligence
+- https://concourseq.io/
+
 ### Coin correlations
 - https://www.cointracker.io/visualizations/coin_correlations
 
