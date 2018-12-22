@@ -64,6 +64,7 @@
 - https://dex.watch/
 - https://etherscan.io/dextracker
 - https://0xtracker.com/
+- https://dexterminal.com/
 
 ## Dharma
 - https://supermax.cool/dharma
