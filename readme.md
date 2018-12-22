@@ -43,7 +43,7 @@
 - https://blacktemplar.github.io/augur-fee-windows-info/
 - https://reporters.chat/
 - https://www.curiousgiraffe.io/augur/
-- https://veil.market/markets
+- https://veil.co/markets
 
 ## Compound
 - https://app.compound.finance/#Markets
