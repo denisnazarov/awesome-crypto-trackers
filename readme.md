@@ -4,6 +4,7 @@
 
 
 ## Contents
+- [Bitcoin Related](#btc)
 - [0x](#0x)
 - [Airswap](#airswap)
 - [Aragon](#aragon)
@@ -32,6 +33,11 @@
 - [Stable coins](#stablecoins)
 - [Uniswap](#uniswap)
 - [Other](#other)
+
+## BTC
+- [Mempool & Tx fee Stats](https://jochen-hoenicke.de/queue/#0,24h)
+- [Realtime Node Stats](https://statoshi.info/)
+- https://fork.lol/
 
 ## 0x
 - https://0xtracker.com/
