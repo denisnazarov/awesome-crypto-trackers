@@ -9,6 +9,7 @@
 - [Aragon](#aragon)
 - [Augur](#augur)
 - [Compound](#compound)
+- [Cosmos](#cosmos)
 - [Cryptokitties](#cryptokitties)
 - [Dapps](#dapps)
 - [Decentralized Finance](#decentralized-finance)
@@ -53,6 +54,10 @@
 - https://app.compound.finance/#Markets
 - https://supermax.cool/compound
 - https://www.curiousgiraffe.io/compound/
+
+## Cosmos
+- https://hubble.figment.network/chains/genki-4000
+- https://bigdipper.forbole.com/
 
 ## Cryptokitties
 - https://www.curiousgiraffe.io/cryptokitties/
