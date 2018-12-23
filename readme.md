@@ -14,6 +14,7 @@
 - [Decentralized Finance](#decentralized-finance)
 - [Decentralized Exchanges](#decentralized-exchanges)
 - [Dharma](#dharma)
+- [dYdX](#dYdX)
 - [ENS](#ens)
 - [Ethereum](#ethereum)
 - [Ethereum Classic](#ethereum-classic)
@@ -73,6 +74,9 @@
 ## Dharma
 - https://supermax.cool/dharma
 
+## dYdX
+- https://www.expotrading.com/trade
+
 ## ENS
 - https://supermax.cool/namebazaar
 - https://www.curiousgiraffe.io/ens/
@@ -97,6 +101,7 @@
 
 ## Lightning Network
 - https://1ml.com/
+- https://bitcoinvisuals.com/lightning
 
 ## Livepeer
 - https://supermax.cool/livepeer
@@ -112,6 +117,7 @@
 
 ## NFTs
 - https://nonfungible.com/
+- https://nftmarketcap.co/
 
 ## Polkadot
 - https://telemetry.polkadot.io/
@@ -133,6 +139,9 @@
 
 ### 51% attacks
 - https://www.crypto51.app/
+
+### Atomic swap readiness
+- https://swapready.net/
 
 
 ## Contribute
