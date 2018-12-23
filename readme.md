@@ -25,6 +25,7 @@
 - [Loans](#loans)
 - [MakerDAO](#makerdao)
 - [NFTs](#nfts)
+- [Polkadot](#polkadot)
 - [Raiden](#raiden)
 - [Stable coins](#stablecoins)
 - [Uniswap](#uniswap)
@@ -111,6 +112,11 @@
 
 ## NFTs
 - https://nonfungible.com/
+
+## Polkadot
+- https://telemetry.polkadot.io/
+- http://polkadash.io/
+- https://polkascan.io/
 
 ## Raiden
 - https://explorer.raiden.network
