@@ -16,6 +16,7 @@
 - [Dharma](#dharma)
 - [ENS](#ens)
 - [Ethereum](#ethereum)
+- [Ethereum Classic](#ethereum-classic)
 - [Gas](#gas)
 - [Etheroll](#etheroll)
 - [KyberSwap](#kyberswap)
@@ -78,6 +79,9 @@
 - https://ethstats.net/
 - https://amberdata.io/
 - https://id.zeusprotocol.com/
+
+## Ethereum Classic
+- https://dappdirect.net/
 
 ## Gas
 - https://ethgasstation.info/
