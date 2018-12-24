@@ -4,11 +4,11 @@
 
 
 ## Contents
-- [Bitcoin Related](#btc)
 - [0x](#0x)
 - [Airswap](#airswap)
 - [Aragon](#aragon)
 - [Augur](#augur)
+- [Bitcoin](#bitcoin)
 - [Compound](#compound)
 - [Cosmos](#cosmos)
 - [Cryptokitties](#cryptokitties)
@@ -34,11 +34,6 @@
 - [Uniswap](#uniswap)
 - [Other](#other)
 
-## BTC
-- [Mempool & Tx fee Stats](https://jochen-hoenicke.de/queue/#0,24h)
-- [Realtime Node Stats](https://statoshi.info/)
-- https://fork.lol/
-
 ## 0x
 - https://0xtracker.com/
 
@@ -55,6 +50,11 @@
 - https://www.curiousgiraffe.io/augur/
 - https://veil.co/markets
 - https://veil.co/augur-open-interest
+
+## Bitcoin
+- [Mempool & Tx fee Stats](https://jochen-hoenicke.de/queue/#0,24h)
+- [Realtime Node Stats](https://statoshi.info/)
+- https://fork.lol/
 
 ## Compound
 - https://app.compound.finance/#Markets
