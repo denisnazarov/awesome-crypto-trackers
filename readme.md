@@ -58,6 +58,7 @@
 ## Cosmos
 - https://hubble.figment.network/chains/genki-4000
 - https://bigdipper.forbole.com/
+- https://cosmos.p2p.org/
 
 ## Cryptokitties
 - https://www.curiousgiraffe.io/cryptokitties/
