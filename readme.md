@@ -8,6 +8,7 @@
 - [Airswap](#airswap)
 - [Aragon](#aragon)
 - [Augur](#augur)
+- [Bitcoin](#bitcoin)
 - [Compound](#compound)
 - [Cosmos](#cosmos)
 - [Cryptokitties](#cryptokitties)
@@ -49,6 +50,11 @@
 - https://www.curiousgiraffe.io/augur/
 - https://veil.co/markets
 - https://veil.co/augur-open-interest
+
+## Bitcoin
+- [Mempool & Tx fee Stats](https://jochen-hoenicke.de/queue/#0,24h)
+- [Realtime Node Stats](https://statoshi.info/)
+- https://fork.lol/
 
 ## Compound
 - https://app.compound.finance/#Markets
