@@ -150,6 +150,9 @@
 ### Coin correlations
 - https://www.cointracker.io/visualizations/coin_correlations
 
+### Mining profitability
+- https://whattomine.com/
+
 ### 51% attacks
 - https://www.crypto51.app/
 
