@@ -32,6 +32,7 @@
 - [Raiden](#raiden)
 - [Stable coins](#stablecoins)
 - [Uniswap](#uniswap)
+- [xDai](#xdai)
 - [Other](#other)
 
 ## 0x
@@ -145,6 +146,10 @@
 
 ## Uniswap
 - https://uniswap.info/
+
+## xDai
+- https://blockscout.com/poa/dai
+- https://dai-netstat.poa.network/
 
 ## Other
 ### Coin correlations
