@@ -160,6 +160,7 @@
 - https://swapready.net/
 
 ### Price
+- https://coinmarketcap.com/
 - https://messari.io/onchainfx
 
 
