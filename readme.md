@@ -53,6 +53,7 @@
 - https://www.curiousgiraffe.io/augur/
 - https://veil.co/markets
 - https://veil.co/augur-open-interest
+- http://dispute.tools
 
 ## Basic Attention Token
 - https://batgrowth.com/
