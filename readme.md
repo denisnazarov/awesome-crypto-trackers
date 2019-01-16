@@ -73,6 +73,8 @@
 ## Dapps
 - https://dappradar.com/
 - https://dapp.review/
+- https://www.stateofthedapps.com/
+- https://app.co/
 
 ## Decentralized finance
 - https://mikemcdonald.github.io/eth-defi/
