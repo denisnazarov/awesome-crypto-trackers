@@ -100,6 +100,7 @@
 - https://ethstats.io/
 - https://amberdata.io/
 - https://id.zeusprotocol.com/
+- https://www.ethernodes.org/network/1
 
 ## Ethereum Classic
 - https://dappdirect.net/
