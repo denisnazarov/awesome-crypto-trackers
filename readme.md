@@ -134,6 +134,7 @@
 ## NFTs
 - https://nonfungible.com/
 - https://nftmarketcap.co/
+- https://opensea.io/rankings
 
 ## Polkadot
 - https://telemetry.polkadot.io/
