@@ -46,6 +46,7 @@
 ## Augur
 - https://predictions.global
 - https://blacktemplar.github.io/augur-fee-windows-info/
+- http://dispute.tools/#/
 - https://reporters.chat/
 - https://www.curiousgiraffe.io/augur/
 - https://veil.co/markets
