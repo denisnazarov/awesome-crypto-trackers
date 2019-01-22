@@ -49,6 +49,7 @@
 ## Augur
 - https://predictions.global
 - https://blacktemplar.github.io/augur-fee-windows-info/
+- http://dispute.tools/#/
 - https://reporters.chat/
 - https://www.curiousgiraffe.io/augur/
 - https://veil.co/markets
@@ -80,6 +81,8 @@
 ## Dapps
 - https://dappradar.com/
 - https://dapp.review/
+- https://www.stateofthedapps.com/
+- https://app.co/
 
 ## Decentralized finance
 - https://mikemcdonald.github.io/eth-defi/
@@ -105,6 +108,7 @@
 - https://ethstats.io/
 - https://amberdata.io/
 - https://id.zeusprotocol.com/
+- https://www.ethernodes.org/network/1
 
 ## Ethereum Classic
 - https://dappdirect.net/
@@ -142,6 +146,7 @@
 ## NFTs
 - https://nonfungible.com/
 - https://nftmarketcap.co/
+- https://opensea.io/rankings
 
 ## Polkadot
 - https://telemetry.polkadot.io/
@@ -175,6 +180,7 @@
 - https://swapready.net/
 
 ### Price
+- https://coinmarketcap.com/
 - https://messari.io/onchainfx
 
 
