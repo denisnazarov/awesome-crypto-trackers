@@ -130,6 +130,7 @@
 ## Lightning Network
 - https://1ml.com/
 - https://bitcoinvisuals.com/lightning
+- https://explorer.acinq.co/
 
 ## Livepeer
 - https://supermax.cool/livepeer
