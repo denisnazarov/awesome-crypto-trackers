@@ -98,6 +98,7 @@
 
 ## dYdX
 - https://www.expotrading.com/trade
+- https://bloxy.info/list_margin_positions
 
 ## ENS
 - https://supermax.cool/namebazaar
