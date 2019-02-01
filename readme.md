@@ -39,6 +39,7 @@
 
 ## 0x
 - https://0xtracker.com/
+- https://dappboard.com/dapp/0x
 
 ## AirSwap
 - https://www.curiousgiraffe.io/airswap/
@@ -68,6 +69,7 @@
 - https://app.compound.finance/#Markets
 - https://supermax.cool/compound
 - https://www.curiousgiraffe.io/compound/
+- https://dappboard.com/dapp/compound
 
 ## Cosmos
 - https://hubble.figment.network/chains/genki-4000
@@ -149,6 +151,7 @@
 - https://nonfungible.com/
 - https://nftmarketcap.co/
 - https://opensea.io/rankings
+- https://dappboard.com/nfts
 
 ## Polkadot
 - https://telemetry.polkadot.io/
