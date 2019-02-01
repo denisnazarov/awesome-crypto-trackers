@@ -94,6 +94,7 @@
 - https://etherscan.io/dextracker
 - https://0xtracker.com/
 - https://dexterminal.com/
+- https://dexindex.io/
 
 ## Dharma
 - https://supermax.cool/dharma
