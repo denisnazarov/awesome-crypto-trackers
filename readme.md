@@ -50,12 +50,14 @@
 ## Augur
 - https://predictions.global
 - https://blacktemplar.github.io/augur-fee-windows-info/
-- http://dispute.tools/#/
+- https://mikemcdonald.github.io/augur/leaderboard.html
+- http://dispute.tools
 - https://reporters.chat/
 - https://www.curiousgiraffe.io/augur/
 - https://veil.co/markets
 - https://veil.co/augur-open-interest
-- http://dispute.tools
+- https://exploreaugur.com
+- http://crystalball.be/stats/
 
 ## Basic Attention Token
 - https://batgrowth.com/
