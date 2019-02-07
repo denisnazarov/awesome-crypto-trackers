@@ -63,9 +63,14 @@
 - https://batgrowth.com/
 
 ## Bitcoin
+- https://bitcoinvisuals.com
 - [Mempool & Tx fee Stats](https://jochen-hoenicke.de/queue/#0,24h)
 - [Realtime Node Stats](https://statoshi.info/)
+- https://bitnodes.earn.com
 - https://fork.lol/
+- http://sha256.network
+- https://www.buybitcoinworldwide.com/fee-calculator/
+- http://charts.woobull.com
 
 ## Compound
 - https://app.compound.finance/#Markets
@@ -87,6 +92,7 @@
 - https://dapp.review/
 - https://www.stateofthedapps.com/
 - https://app.co/
+- https://dappvolume.com
 
 ## Decentralized finance
 - https://mikemcdonald.github.io/eth-defi/
@@ -169,6 +175,7 @@
 
 ## Uniswap
 - https://uniswap.info/
+- https://mikemcdonald.github.io/uniswap/eth-token-liquidity.html
 
 ## xDai
 - https://blockscout.com/poa/dai
