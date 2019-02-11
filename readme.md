@@ -132,6 +132,7 @@
 ## Grin
 - https://grin.merklepath.com/
 - https://grinscan.net/charts
+- https://grin.blockscan.com
 
 ## Etheroll
 - https://www.curiousgiraffe.io/etheroll/
