@@ -50,20 +50,27 @@
 ## Augur
 - https://predictions.global
 - https://blacktemplar.github.io/augur-fee-windows-info/
-- http://dispute.tools/#/
+- https://mikemcdonald.github.io/augur/leaderboard.html
+- http://dispute.tools
 - https://reporters.chat/
 - https://www.curiousgiraffe.io/augur/
 - https://veil.co/markets
 - https://veil.co/augur-open-interest
-- http://dispute.tools
+- https://exploreaugur.com
+- http://crystalball.be/stats/
 
 ## Basic Attention Token
 - https://batgrowth.com/
 
 ## Bitcoin
+- https://bitcoinvisuals.com
 - [Mempool & Tx fee Stats](https://jochen-hoenicke.de/queue/#0,24h)
 - [Realtime Node Stats](https://statoshi.info/)
+- https://bitnodes.earn.com
 - https://fork.lol/
+- http://sha256.network
+- https://www.buybitcoinworldwide.com/fee-calculator/
+- http://charts.woobull.com
 
 ## Compound
 - https://app.compound.finance/#Markets
@@ -85,6 +92,7 @@
 - https://dapp.review/
 - https://www.stateofthedapps.com/
 - https://app.co/
+- https://dappvolume.com
 
 ## Decentralized finance
 - https://mikemcdonald.github.io/eth-defi/
@@ -124,6 +132,7 @@
 ## Grin
 - https://grin.merklepath.com/
 - https://grinscan.net/charts
+- https://grin.blockscan.com
 
 ## Etheroll
 - https://www.curiousgiraffe.io/etheroll/
@@ -167,6 +176,7 @@
 
 ## Uniswap
 - https://uniswap.info/
+- https://mikemcdonald.github.io/uniswap/eth-token-liquidity.html
 
 ## xDai
 - https://blockscout.com/poa/dai
