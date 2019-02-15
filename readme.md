@@ -79,9 +79,12 @@
 - https://dappboard.com/dapp/compound
 
 ## Cosmos
-- https://hubble.figment.network/chains/genki-4000
+- https://hubble.figment.network/chains/gos6
 - https://bigdipper.forbole.com/
 - https://cosmos.p2p.org/
+- https://stargazer.certus.one/
+- https://bigdipper.forbole.com/
+- https://nylira.net/
 
 ## Cryptokitties
 - https://www.curiousgiraffe.io/cryptokitties/
