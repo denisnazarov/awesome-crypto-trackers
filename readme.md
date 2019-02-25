@@ -154,6 +154,7 @@
 ## MakerDAO
 - https://mkr.tools/
 - https://makerscan.io/
+- https://daistats.com
 - https://supermax.cool/makerdao
 - https://twitter.com/makerdaibot
 
