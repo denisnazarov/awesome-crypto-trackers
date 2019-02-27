@@ -99,6 +99,7 @@
 
 ## Decentralized finance
 - https://mikemcdonald.github.io/eth-defi/
+- https://defipulse.com
 
 ## Decentralized exchanges
 - https://dex.watch/
@@ -157,6 +158,7 @@
 ## MakerDAO
 - https://mkr.tools/
 - https://makerscan.io/
+- https://daistats.com
 - https://supermax.cool/makerdao
 - https://twitter.com/makerdaibot
 
