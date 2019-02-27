@@ -152,6 +152,7 @@
 ## Livepeer
 - https://supermax.cool/livepeer
 - https://scout.cool/livepeer/mainnet
+- https://explorer.livepeer.org/
 
 ## Loans
 - https://loanscan.io/
