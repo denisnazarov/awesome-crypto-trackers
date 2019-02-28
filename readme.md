@@ -158,6 +158,8 @@
 - https://daistats.com
 - https://supermax.cool/makerdao
 - https://twitter.com/makerdaibot
+- https://dai.stablecoin.science
+- https://governance-dai.glitch.me
 
 ## NFTs
 - https://nonfungible.com/
