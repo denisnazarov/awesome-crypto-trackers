@@ -106,6 +106,7 @@
 - https://etherscan.io/dextracker
 - https://0xtracker.com/
 - https://dexterminal.com/
+- https://app.dex.ag
 - https://dexindex.io/
 
 ## Dharma
