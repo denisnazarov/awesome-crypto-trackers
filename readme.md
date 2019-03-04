@@ -46,6 +46,7 @@
 
 ## Aragon
 - https://supermax.cool/aragon
+- https://daolist.io
 
 ## Augur
 - https://predictions.global
