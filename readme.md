@@ -34,6 +34,7 @@
 - [Plasma](#plasma)
 - [Polkadot](#polkadot)
 - [Raiden](#raiden)
+- [Social] (#social)
 - [Stable coins](#stablecoins)
 - [Uniswap](#uniswap)
 - [xDai](#xdai)
@@ -190,6 +191,9 @@
 
 ## Raiden
 - https://explorer.raiden.network
+
+## Social
+- https://fifty.one
 
 ## Stablecoins
 - https://stablecoinindex.com/
