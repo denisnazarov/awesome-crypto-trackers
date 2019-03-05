@@ -30,6 +30,7 @@
 - [Loans](#loans)
 - [MakerDAO](#makerdao)
 - [NFTs](#nfts)
+- [Plasma](#plasma)
 - [Polkadot](#polkadot)
 - [Raiden](#raiden)
 - [Stable coins](#stablecoins)
@@ -173,6 +174,10 @@
 - https://nftmarketcap.co/
 - https://opensea.io/rankings
 - https://dappboard.com/nfts
+
+## Plasma
+- https://explorer.plasma.group
+- https://mainnet.leapdao.org/explorer
 
 ## Polkadot
 - https://telemetry.polkadot.io/
