@@ -21,6 +21,7 @@
 - [ENS](#ens)
 - [Ethereum](#ethereum)
 - [Ethereum Classic](#ethereum-classic)
+- [Exchanges](#exchanges)
 - [Gas](#gas)
 - [Grin](#grin)
 - [Etheroll](#etheroll)
@@ -131,6 +132,9 @@
 
 ## Ethereum Classic
 - https://dappdirect.net/
+
+## Exchanges
+- https://www.blockchaintransparency.org/
 
 ## Gas
 - https://ethgasstation.info/
