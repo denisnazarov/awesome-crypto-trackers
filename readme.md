@@ -76,11 +76,16 @@
 - https://www.buybitcoinworldwide.com/fee-calculator/
 - http://charts.woobull.com
 
+## Bloqboard
+- https://bloqboard.com
+- https://github.com/bloqboard/bloqboard-lending-wallet
+
 ## Compound
 - https://app.compound.finance/#Markets
 - https://supermax.cool/compound
 - https://www.curiousgiraffe.io/compound/
 - https://dappboard.com/dapp/compound
+- https://loanscan.io/compound
 
 ## Cosmos
 - https://hubble.figment.network/chains/gos6
@@ -104,6 +109,7 @@
 ## Decentralized finance
 - https://mikemcdonald.github.io/eth-defi/
 - https://defipulse.com
+- https://bloqboard.com/research
 
 ## Decentralized exchanges
 - https://dex.watch/
@@ -115,6 +121,7 @@
 
 ## Dharma
 - https://supermax.cool/dharma
+- https://loanscan.io/dharma
 
 ## dYdX
 - https://www.expotrading.com/trade
@@ -169,6 +176,7 @@
 - https://mkr.tools/
 - https://makerscan.io/
 - https://daistats.com
+- https://loanscan.io/makerdao
 - https://supermax.cool/makerdao
 - https://twitter.com/makerdaibot
 - https://dai.stablecoin.science
