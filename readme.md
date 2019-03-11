@@ -115,6 +115,7 @@
 
 ## Dharma
 - https://supermax.cool/dharma
+- https://dharmalytics.io/
 
 ## dYdX
 - https://www.expotrading.com/trade
