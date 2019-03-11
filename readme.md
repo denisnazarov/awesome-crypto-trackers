@@ -77,8 +77,7 @@
 - http://charts.woobull.com
 
 ## Bloqboard
-- https://bloqboard.com
-- https://github.com/bloqboard/bloqboard-lending-wallet
+- https://app.bloqboard.com
 
 ## Compound
 - https://app.compound.finance/#Markets
@@ -109,7 +108,6 @@
 ## Decentralized finance
 - https://mikemcdonald.github.io/eth-defi/
 - https://defipulse.com
-- https://bloqboard.com/research
 
 ## Decentralized exchanges
 - https://dex.watch/
