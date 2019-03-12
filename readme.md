@@ -10,6 +10,7 @@
 - [Augur](#augur)
 - [Basic Attention Token](#basic-attention-token)
 - [Bitcoin](#bitcoin)
+- [Bloqboard](#bloqboard)
 - [Compound](#compound)
 - [Cosmos](#cosmos)
 - [Cryptokitties](#cryptokitties)
