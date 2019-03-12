@@ -35,7 +35,7 @@
 - [Plasma](#plasma)
 - [Polkadot](#polkadot)
 - [Raiden](#raiden)
-- [Social] (#social)
+- [Social](#social)
 - [Stable coins](#stablecoins)
 - [Uniswap](#uniswap)
 - [xDai](#xdai)
@@ -120,6 +120,7 @@
 
 ## Dharma
 - https://supermax.cool/dharma
+- https://dharmalytics.io/
 - https://loanscan.io/dharma
 
 ## dYdX
