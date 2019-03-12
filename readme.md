@@ -34,7 +34,7 @@
 - [Plasma](#plasma)
 - [Polkadot](#polkadot)
 - [Raiden](#raiden)
-- [Social] (#social)
+- [Social](#social)
 - [Stable coins](#stablecoins)
 - [Uniswap](#uniswap)
 - [xDai](#xdai)
