@@ -86,7 +86,7 @@
 - https://cosmos.bigdipper.live
 - https://stargazer.certus.one
 - https://hubble.figment.network
-- https://nylira.net
+- https://nylira.net/3d
 - https://www.mintscan.io
 - https://cosmos.p2p.org
 
