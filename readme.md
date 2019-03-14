@@ -10,7 +10,6 @@
 - [Augur](#augur)
 - [Basic Attention Token](#basic-attention-token)
 - [Bitcoin](#bitcoin)
-- [Bloqboard](#bloqboard)
 - [Compound](#compound)
 - [Cosmos](#cosmos)
 - [Cryptokitties](#cryptokitties)
@@ -77,9 +76,6 @@
 - https://www.buybitcoinworldwide.com/fee-calculator/
 - http://charts.woobull.com
 
-## Bloqboard
-- https://app.bloqboard.com
-
 ## Compound
 - https://app.compound.finance/#Markets
 - https://supermax.cool/compound
@@ -88,12 +84,12 @@
 - https://loanscan.io/compound
 
 ## Cosmos
-- https://hubble.figment.network/chains/gos6
-- https://bigdipper.forbole.com/
-- https://cosmos.p2p.org/
-- https://stargazer.certus.one/
-- https://bigdipper.forbole.com/
-- https://nylira.net/
+- https://cosmos.bigdipper.live
+- https://stargazer.certus.one
+- https://hubble.figment.network
+- https://nylira.net/3d
+- https://www.mintscan.io
+- https://cosmos.p2p.org
 
 ## Cryptokitties
 - https://www.curiousgiraffe.io/cryptokitties/
@@ -121,6 +117,7 @@
 ## Dharma
 - https://supermax.cool/dharma
 - https://dharmalytics.io/
+- http://statistics.dharma.io
 - https://loanscan.io/dharma
 
 ## dYdX
@@ -171,6 +168,7 @@
 
 ## Loans
 - https://loanscan.io/
+- https://app.bloqboard.com
 
 ## MakerDAO
 - https://mkr.tools/
