@@ -81,6 +81,7 @@
 - https://supermax.cool/compound
 - https://www.curiousgiraffe.io/compound/
 - https://dappboard.com/dapp/compound
+- https://loanscan.io/compound
 
 ## Cosmos
 - https://cosmos.bigdipper.live
@@ -117,6 +118,7 @@
 - https://supermax.cool/dharma
 - https://dharmalytics.io/
 - http://statistics.dharma.io
+- https://loanscan.io/dharma
 
 ## dYdX
 - https://www.expotrading.com/trade
@@ -166,11 +168,13 @@
 
 ## Loans
 - https://loanscan.io/
+- https://app.bloqboard.com
 
 ## MakerDAO
 - https://mkr.tools/
 - https://makerscan.io/
 - https://daistats.com
+- https://loanscan.io/makerdao
 - https://supermax.cool/makerdao
 - https://twitter.com/makerdaibot
 - https://dai.stablecoin.science
