@@ -48,7 +48,7 @@
 - https://www.curiousgiraffe.io/airswap/
 
 ## Aragon
-- https://supermax.cool/aragon
+- https://www.scout.cool/aragon/mainnet
 - https://daolist.io
 
 ## Augur
