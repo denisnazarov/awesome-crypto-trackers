@@ -89,6 +89,7 @@
 - https://nylira.net
 - https://www.mintscan.io
 - https://cosmos.p2p.org
+- https://bharvest.io/wallet_en
 
 ## Cryptokitties
 - https://www.curiousgiraffe.io/cryptokitties/
