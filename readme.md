@@ -201,6 +201,7 @@
 - https://stablecoinindex.com/
 
 ## Uniswap
+- https://uniswap.rocks
 - https://beta.uniswap.info/
 - https://zumzoom.github.io/analytics/uniswap/
 - https://mikemcdonald.github.io/uniswap/eth-token-liquidity.html
