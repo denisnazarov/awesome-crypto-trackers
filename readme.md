@@ -209,9 +209,9 @@
 
 ## Uniswap
 - https://uniswap.rocks
-- https://beta.uniswap.info/
-- https://zumzoom.github.io/analytics/uniswap/
-- https://mikemcdonald.github.io/uniswap/eth-token-liquidity.html
+- https://beta.uniswap.info
+- https://zumzoom.github.io/analytics/uniswap
+- https://mikemcdonald.github.io/uniswap/eth-token-liquidity
 
 ## xDai
 - https://blockscout.com/poa/dai
