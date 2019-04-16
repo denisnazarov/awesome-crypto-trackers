@@ -105,6 +105,7 @@
 ## Decentralized finance
 - https://mikemcdonald.github.io/eth-defi
 - https://defipulse.com
+- http://dai-in-defi.com/
 
 ## Decentralized exchanges
 - https://dex.watch
