@@ -40,6 +40,7 @@
 - [xDai](#xdai)
 - [Other](#other)
 
+
 ## 0x
 - https://0xtracker.com
 - https://dappboard.com/dapp/0x
@@ -140,6 +141,7 @@
 
 ## Exchanges
 - https://blockchaintransparency.org
+- https://www.tokenanalyst.io
 
 ## Gas
 - https://ethgasstation.info
