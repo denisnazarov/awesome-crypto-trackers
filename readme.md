@@ -40,6 +40,7 @@
 - [xDai](#xdai)
 - [Other](#other)
 
+
 ## 0x
 - https://0xtracker.com
 - https://dappboard.com/dapp/0x
@@ -90,6 +91,7 @@
 - https://nylira.net/3d
 - https://mintscan.io
 - https://cosmos.p2p.org
+- https://bharvest.io/wallet_en
 
 ## Cryptokitties
 - https://curiousgiraffe.io/cryptokitties
@@ -105,6 +107,7 @@
 ## Decentralized finance
 - https://mikemcdonald.github.io/eth-defi
 - https://defipulse.com
+- http://dai-in-defi.com/
 
 ## Decentralized exchanges
 - https://dex.watch
@@ -140,6 +143,7 @@
 
 ## Exchanges
 - https://bti.live/exchanges
+- https://www.tokenanalyst.io
 
 ## Gas
 - https://ethgasstation.info
@@ -206,6 +210,7 @@
 - https://stablecoinindex.com
 
 ## Uniswap
+- https://uniswap.rocks
 - https://beta.uniswap.info
 - https://zumzoom.github.io/analytics/uniswap
 - https://mikemcdonald.github.io/uniswap/eth-token-liquidity
