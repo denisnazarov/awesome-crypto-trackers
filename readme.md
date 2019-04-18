@@ -90,6 +90,7 @@
 - https://nylira.net/3d
 - https://mintscan.io
 - https://cosmos.p2p.org
+- https://bharvest.io/wallet_en
 
 ## Cryptokitties
 - https://curiousgiraffe.io/cryptokitties
@@ -207,6 +208,7 @@
 - https://stablecoinindex.com
 
 ## Uniswap
+- https://uniswap.rocks
 - https://beta.uniswap.info
 - https://zumzoom.github.io/analytics/uniswap
 - https://mikemcdonald.github.io/uniswap/eth-token-liquidity
