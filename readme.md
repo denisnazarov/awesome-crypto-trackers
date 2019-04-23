@@ -144,6 +144,7 @@
 ## Exchanges
 - https://bti.live/exchanges
 - https://www.tokenanalyst.io
+- https://cer.live
 
 ## Gas
 - https://ethgasstation.info
@@ -236,9 +237,13 @@
 ### Price
 - https://coinmarketcap.com
 - https://messari.io/onchainfx
+- https://coin360.com
 
 ### Staking
 - https://stakingrewards.com
+
+### Boards
+- https://boards.messari.io
 
 ## Contribute
 
