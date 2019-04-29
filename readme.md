@@ -229,6 +229,7 @@
 
 ### 51% attacks
 - https://crypto51.app
+- https://howmanyconfs.com
 
 ### Atomic swap readiness
 - https://swapready.net
