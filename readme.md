@@ -54,6 +54,7 @@
 
 ## Augur
 - https://predictions.global
+- https://blacktemplar.github.io/augur-market-odds
 - https://blacktemplar.github.io/augur-fee-windows-info
 - https://mikemcdonald.github.io/augur/leaderboard.html
 - https://dispute.tools
