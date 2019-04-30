@@ -25,7 +25,7 @@
 - [Gas](#gas)
 - [Grin](#grin)
 - [Etheroll](#etheroll)
-- [KyberSwap](#kyberswap)
+- [Kyber](#kyber)
 - [Lightning Network](#lightning-network)
 - [Livepeer](#livepeer)
 - [Loans](#loans)
@@ -160,7 +160,8 @@
 ## Etheroll
 - https://curiousgiraffe.io/etheroll
 
-## KyberSwap
+## Kyber
+- https://tracker.kyber.network/#
 - https://curiousgiraffe.io/kyberswap
 
 ## Lightning Network
