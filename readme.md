@@ -25,7 +25,7 @@
 - [Gas](#gas)
 - [Grin](#grin)
 - [Etheroll](#etheroll)
-- [KyberSwap](#kyberswap)
+- [Kyber](#kyber)
 - [Lightning Network](#lightning-network)
 - [Livepeer](#livepeer)
 - [Loans](#loans)
@@ -91,7 +91,9 @@
 - https://hubble.figment.network
 - https://nylira.net/3d
 - https://mintscan.io
-- https://cosmos.p2p.org
+- https://stake.id/#
+- https://cosmos-overview.genesislab.net
+- https://lunie.io/#
 - https://bharvest.io/wallet_en
 
 ## Cryptokitties
@@ -158,7 +160,8 @@
 ## Etheroll
 - https://curiousgiraffe.io/etheroll
 
-## KyberSwap
+## Kyber
+- https://tracker.kyber.network/#
 - https://curiousgiraffe.io/kyberswap
 
 ## Lightning Network
