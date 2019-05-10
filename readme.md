@@ -36,6 +36,7 @@
 - [Raiden](#raiden)
 - [Social](#social)
 - [Stable coins](#stablecoins)
+- [Tezos](#Tezos)
 - [Uniswap](#uniswap)
 - [xDai](#xdai)
 - [Other](#other)
@@ -213,6 +214,11 @@
 
 ## Stablecoins
 - https://stablecoinindex.com
+
+## Tezos
+- https://www.mytezosbaker.com/
+- https://tzscan.io/
+- https://tezos.id/
 
 ## Uniswap
 - https://uniswap.rocks
