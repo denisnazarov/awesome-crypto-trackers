@@ -33,6 +33,7 @@
 - [Polkadot](#polkadot)
 - [Raiden](#raiden)
 - [Stable coins](#stablecoins)
+- [Stellar](#stellar)
 - [Uniswap](#uniswap)
 - [xDai](#xdai)
 - [Other](#other)
@@ -152,6 +153,10 @@
 
 ## Stablecoins
 - https://stablecoinindex.com/
+
+## Stellar
+- https://stellar.org/
+- https://stellarcommunity.org/
 
 ## Uniswap
 - https://uniswap.info/
