@@ -25,6 +25,7 @@
 - [Gas](#gas)
 - [Grin](#grin)
 - [Etheroll](#etheroll)
+- [HumanityDAO](#humanitydao)
 - [Kyber](#kyber)
 - [Lightning Network](#lightning-network)
 - [Livepeer](#livepeer)
@@ -113,6 +114,7 @@
 - https://defipulse.com
 - http://dai-in-defi.com
 - https://defiscan.io
+- http://defirates.info/
 
 ## Decentralized exchanges
 - https://dex.watch
@@ -158,6 +160,10 @@
 - https://grin.merklepath.com
 - https://grinscan.net/charts
 - https://grin.blockscan.com
+
+## HumanityDAO
+- https://roger-wu.github.io/humanitydao-applicant-status-checker-build/
+- https://insights.eth.events/public/dashboard/3911928b-6b18-4721-b539-7ae13eec0264#theme=night
 
 ## Etheroll
 - https://curiousgiraffe.io/etheroll
