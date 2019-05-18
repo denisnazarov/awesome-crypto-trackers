@@ -82,7 +82,6 @@
 
 ## Compound
 - https://app.compound.finance/#Markets
-- https://supermax.cool/compound
 - https://curiousgiraffe.io/compound
 - https://dappboard.com/dapp/compound
 - https://loanscan.io/compound
@@ -125,7 +124,6 @@
 - https://dexindex.io
 
 ## Dharma
-- https://supermax.cool/dharma
 - https://dharmalytics.io
 - http://statistics.dharma.io
 - https://loanscan.io/dharma
@@ -133,9 +131,12 @@
 ## dYdX
 - https://expotrading.com/trade
 - https://bloxy.info/list_margin_positions
+- https://scout.cool/dydxprotocol/mainnet/
+
+## Set
+- https://scout.cool/setprotocol/mainnet/
 
 ## ENS
-- https://supermax.cool/namebazaar
 - https://curiousgiraffe.io/ens
 
 ## Ethereum
@@ -178,7 +179,6 @@
 - https://explorer.acinq.co
 
 ## Livepeer
-- https://supermax.cool/livepeer
 - https://scout.cool/livepeer/mainnet
 - https://explorer.livepeer.org
 
@@ -191,7 +191,6 @@
 - https://makerscan.io
 - https://daistats.com
 - https://loanscan.io/makerdao
-- https://supermax.cool/makerdao
 - https://twitter.com/makerdaibot
 - https://dai.stablecoin.science
 - https://governance-dai.glitch.me
