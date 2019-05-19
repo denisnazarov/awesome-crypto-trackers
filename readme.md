@@ -188,7 +188,7 @@
 - https://twitter.com/makerdaibot
 - https://dai.stablecoin.science
 - https://governance-dai.glitch.me
-- https://vic007207.github.io/crypto_data
+- http://makerdao.descipher.io
 
 ## NFTs
 - https://nonfungible.com
