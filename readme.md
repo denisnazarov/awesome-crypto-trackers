@@ -17,12 +17,14 @@
 - [Decentralized Finance](#decentralized-finance)
 - [Decentralized Exchanges](#decentralized-exchanges)
 - [Dharma](#dharma)
+- [dxDAO](#dxdao)
 - [dYdX](#dYdX)
 - [ENS](#ens)
 - [Ethereum](#ethereum)
 - [Ethereum Classic](#ethereum-classic)
 - [Exchanges](#exchanges)
 - [Gas](#gas)
+- [Golem](#golem)
 - [Grin](#grin)
 - [Etheroll](#etheroll)
 - [Kyber](#kyber)
@@ -34,6 +36,7 @@
 - [Plasma](#plasma)
 - [Polkadot](#polkadot)
 - [Raiden](#raiden)
+- [Sia](#sia)
 - [Social](#social)
 - [Stable coins](#stablecoins)
 - [Uniswap](#uniswap)
@@ -126,6 +129,9 @@
 - https://dharmalytics.io
 - http://statistics.dharma.io
 - https://loanscan.io/dharma
+
+## dxDAO
+- https://explore.duneanalytics.com/public/dashboards/cE1wo5jA2Dy6whfQnzkfZV1A7MUoyYNvfZtlTXZK
 
 ## dYdX
 - https://expotrading.com/trade
