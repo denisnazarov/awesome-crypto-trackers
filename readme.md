@@ -153,6 +153,9 @@
 - https://ethgasstation.info
 - http://frontrun.me
 
+## Golem
+- https://stats.golem.network/ui
+
 ## Grin
 - https://grin.merklepath.com
 - https://grinscan.net/charts
@@ -206,6 +209,9 @@
 
 ## Raiden
 - https://explorer.raiden.network
+
+## Sia
+- http://siastats.info
 
 ## Social
 - https://fifty.one
