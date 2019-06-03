@@ -7,12 +7,10 @@
 - [0x](#0x)
 - [Airswap](#airswap)
 - [Aragon](#aragon)
-- [Argent](#argent)
 - [Augur](#augur)
 - [Basic Attention Token](#basic-attention-token)
 - [Bitcoin](#bitcoin)
 - [Compound](#compound)
-- [Contract-based accounts](#contract-based-accounts)
 - [Cosmos](#cosmos)
 - [Cryptokitties](#cryptokitties)
 - [Dapps](#dapps)
@@ -25,7 +23,6 @@
 - [Ethereum Classic](#ethereum-classic)
 - [Exchanges](#exchanges)
 - [Gas](#gas)
-- [Gnosis Safe](#gnosis-safe)
 - [Grin](#grin)
 - [Etheroll](#etheroll)
 - [HumanityDAO](#humanitydao)
@@ -56,9 +53,6 @@
 ## Aragon
 - https://scout.cool/aragon/mainnet
 - https://daolist.io
-
-## Argent
-- https://contractbasedaccounts.com
 
 ## Augur
 - https://predictions.global
@@ -92,9 +86,6 @@
 - https://curiousgiraffe.io/compound
 - https://dappboard.com/dapp/compound
 - https://loanscan.io/compound
-
-## Contract-based accounts
-- https://contractbasedaccounts.com
 
 ## Cosmos
 - https://cosmos.bigdipper.live
@@ -164,9 +155,6 @@
 ## Gas
 - https://ethgasstation.info
 - http://frontrun.me
-
-## Gnosis Safe
-- https://contractbasedaccounts.com
 
 ## Grin
 - https://grin.merklepath.com
@@ -269,6 +257,11 @@
 
 ### Staking
 - https://stakingrewards.com
+
+### Contract-based accounts
+- [Gnosis Safe](https://contractbasedaccounts.com)
+- [Argent](https://contractbasedaccounts.com)
+
 
 ## Contribute
 
