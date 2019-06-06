@@ -198,6 +198,7 @@
 - https://dai.stablecoin.science
 - https://governance-dai.glitch.me
 - http://makerdao.descipher.io
+- http://dai.descipher.io
 
 ## NFTs
 - https://nonfungible.com
