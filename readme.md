@@ -22,7 +22,7 @@
 - [Ethereum](#ethereum)
 - [Ethereum Classic](#ethereum-classic)
 - [Exchanges](#exchanges)
-- [FOAM](#FOAM)
+- [FOAM](#foam)
 - [Gas](#gas)
 - [Grin](#grin)
 - [Etheroll](#etheroll)
@@ -154,7 +154,7 @@
 - https://bti.live/exchanges
 - https://www.tokenanalyst.io
 
-## FOAM
+## FOAM
 - https://foam.tools
 
 ## Gas
