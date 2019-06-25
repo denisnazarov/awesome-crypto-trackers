@@ -233,6 +233,7 @@
 - https://zumzoom.github.io/analytics/uniswap
 - https://mikemcdonald.github.io/uniswap/eth-token-liquidity
 - https://uniswap.rocks
+- https://uniswap-roi.herokuapp.com
 
 ## xDai
 - https://blockscout.com/poa/dai
