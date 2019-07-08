@@ -77,6 +77,7 @@
 - [Realtime Node Stats](https://statoshi.info)
 - https://bitnodes.earn.com
 - https://fork.lol
+- https://www.cbeci.org
 - https://sha256.network
 - https://buybitcoinworldwide.com/fee-calculator
 - http://charts.woobull.com
