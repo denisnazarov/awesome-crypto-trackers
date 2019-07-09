@@ -88,6 +88,7 @@
 - https://curiousgiraffe.io/compound
 - https://dappboard.com/dapp/compound
 - https://loanscan.io/compound
+- https://www.comproi.com
 
 ## Cosmos
 - https://cosmos.bigdipper.live
