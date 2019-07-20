@@ -17,15 +17,19 @@
 - [Decentralized Finance](#decentralized-finance)
 - [Decentralized Exchanges](#decentralized-exchanges)
 - [Dharma](#dharma)
+- [dxDAO](#dxdao)
 - [dYdX](#dYdX)
 - [ENS](#ens)
 - [Ethereum](#ethereum)
 - [Ethereum Classic](#ethereum-classic)
 - [Exchanges](#exchanges)
+- [FOAM](#foam)
 - [Gas](#gas)
+- [Golem](#golem)
 - [Grin](#grin)
 - [Etheroll](#etheroll)
-- [KyberSwap](#kyberswap)
+- [HumanityDAO](#humanitydao)
+- [Kyber](#kyber)
 - [Lightning Network](#lightning-network)
 - [Livepeer](#livepeer)
 - [Loans](#loans)
@@ -34,8 +38,10 @@
 - [Plasma](#plasma)
 - [Polkadot](#polkadot)
 - [Raiden](#raiden)
+- [Sia](#sia)
 - [Social](#social)
 - [Stable coins](#stablecoins)
+- [Tezos](#Tezos)
 - [Uniswap](#uniswap)
 - [xDai](#xdai)
 - [Other](#other)
@@ -54,6 +60,7 @@
 
 ## Augur
 - https://predictions.global
+- https://blacktemplar.github.io/augur-market-odds
 - https://blacktemplar.github.io/augur-fee-windows-info
 - https://mikemcdonald.github.io/augur/leaderboard.html
 - https://dispute.tools
@@ -63,6 +70,7 @@
 - https://veil.co/augur-open-interest
 - https://exploreaugur.com
 - http://crystalball.be/stats
+- https://public.tableau.com/profile/alethio.defi#!/vizhome/Augur/AugurPopularTags
 
 ## Basic Attention Token
 - https://batgrowth.com
@@ -73,16 +81,18 @@
 - [Realtime Node Stats](https://statoshi.info)
 - https://bitnodes.earn.com
 - https://fork.lol
+- https://www.cbeci.org
 - https://sha256.network
 - https://buybitcoinworldwide.com/fee-calculator
 - http://charts.woobull.com
 
 ## Compound
 - https://app.compound.finance/#Markets
-- https://supermax.cool/compound
 - https://curiousgiraffe.io/compound
 - https://dappboard.com/dapp/compound
 - https://loanscan.io/compound
+- https://www.comproi.com
+- https://public.tableau.com/profile/alethio.defi#!/vizhome/Compoundv2/Compoundv2-TokenSupply
 
 ## Cosmos
 - https://cosmos.bigdipper.live
@@ -90,7 +100,9 @@
 - https://hubble.figment.network
 - https://nylira.net/3d
 - https://mintscan.io
-- https://cosmos.p2p.org
+- https://stake.id/#
+- https://cosmos-overview.genesislab.net
+- https://lunie.io/#
 - https://bharvest.io/wallet_en
 
 ## Cryptokitties
@@ -107,7 +119,10 @@
 ## Decentralized finance
 - https://mikemcdonald.github.io/eth-defi
 - https://defipulse.com
-- http://dai-in-defi.com/
+- http://dai-in-defi.com
+- https://defiscan.io
+- http://defirates.info/
+- https://public.tableau.com/profile/alethio.defi#!/
 
 ## Decentralized exchanges
 - https://dex.watch
@@ -118,17 +133,26 @@
 - https://dexindex.io
 
 ## Dharma
-- https://supermax.cool/dharma
 - https://dharmalytics.io
 - http://statistics.dharma.io
 - https://loanscan.io/dharma
 
+## dxDAO
+- https://explore.duneanalytics.com/public/dashboards/cE1wo5jA2Dy6whfQnzkfZV1A7MUoyYNvfZtlTXZK
+
+## District0x Meme Factory
+- https://scout.cool/district0x/mainnet/
+
 ## dYdX
 - https://expotrading.com/trade
 - https://bloxy.info/list_margin_positions
+- https://scout.cool/dydxprotocol/mainnet/
+
+## Set
+- https://scout.cool/setprotocol/mainnet/
+- https://public.tableau.com/profile/alethio.defi#!/vizhome/TokenSets/TokenSets
 
 ## ENS
-- https://supermax.cool/namebazaar
 - https://curiousgiraffe.io/ens
 
 ## Ethereum
@@ -146,19 +170,30 @@
 - https://www.tokenanalyst.io
 - https://cer.live
 
+## FOAM
+- https://foam.tools
+
 ## Gas
 - https://ethgasstation.info
 - http://frontrun.me
+
+## Golem
+- https://stats.golem.network/ui
 
 ## Grin
 - https://grin.merklepath.com
 - https://grinscan.net/charts
 - https://grin.blockscan.com
 
+## HumanityDAO
+- https://roger-wu.github.io/humanitydao-applicant-status-checker-build/
+- https://insights.eth.events/public/dashboard/3911928b-6b18-4721-b539-7ae13eec0264#theme=night
+
 ## Etheroll
 - https://curiousgiraffe.io/etheroll
 
-## KyberSwap
+## Kyber
+- https://tracker.kyber.network/#
 - https://curiousgiraffe.io/kyberswap
 
 ## Lightning Network
@@ -167,7 +202,6 @@
 - https://explorer.acinq.co
 
 ## Livepeer
-- https://supermax.cool/livepeer
 - https://scout.cool/livepeer/mainnet
 - https://explorer.livepeer.org
 
@@ -180,11 +214,13 @@
 - https://makerscan.io
 - https://daistats.com
 - https://loanscan.io/makerdao
-- https://supermax.cool/makerdao
 - https://twitter.com/makerdaibot
 - https://dai.stablecoin.science
 - https://governance-dai.glitch.me
-- https://vic007207.github.io/crypto_data
+- http://makerdao.descipher.io
+- http://dai.descipher.io
+- https://makerburn.com
+- https://public.tableau.com/profile/alethio.defi#!/vizhome/Maker/MakerOverview
 
 ## NFTs
 - https://nonfungible.com
@@ -203,6 +239,9 @@
 ## Raiden
 - https://explorer.raiden.network
 
+## Sia
+- http://siastats.info
+
 ## Social
 - https://fifty.one
 - https://hive.one
@@ -210,12 +249,19 @@
 ## Stablecoins
 - https://stablecoinindex.com
 
+## Tezos
+- https://www.mytezosbaker.com/
+- https://tzscan.io/
+- https://tezos.id/
+
 ## Uniswap
 - https://uniswap.rocks
 - https://beta.uniswap.info
 - https://zumzoom.github.io/analytics/uniswap
 - https://mikemcdonald.github.io/uniswap/eth-token-liquidity
 - https://uniswap.rocks
+- https://uniswap-roi.herokuapp.com
+- https://public.tableau.com/profile/alethio.defi#!/vizhome/Uniswap/Story1
 
 ## xDai
 - https://blockscout.com/poa/dai
@@ -230,6 +276,7 @@
 
 ### 51% attacks
 - https://crypto51.app
+- https://howmanyconfs.com
 
 ### Atomic swap readiness
 - https://swapready.net
@@ -244,6 +291,10 @@
 
 ### Boards
 - https://boards.messari.io
+
+### Contract-based accounts
+- [Gnosis Safe](https://contractbasedaccounts.com)
+- [Argent](https://contractbasedaccounts.com)
 
 ## Contribute
 
