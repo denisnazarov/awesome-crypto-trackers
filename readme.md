@@ -66,6 +66,7 @@
 - https://veil.co/augur-open-interest
 - https://exploreaugur.com
 - http://crystalball.be/stats
+- https://public.tableau.com/profile/alethio.defi#!/vizhome/Augur/AugurPopularTags
 
 ## Basic Attention Token
 - https://batgrowth.com
@@ -85,6 +86,7 @@
 - https://curiousgiraffe.io/compound
 - https://dappboard.com/dapp/compound
 - https://loanscan.io/compound
+- https://public.tableau.com/profile/alethio.defi#!/vizhome/Compoundv2/Compoundv2-TokenSupply
 
 ## Cosmos
 - https://cosmos.bigdipper.live
@@ -114,6 +116,7 @@
 - http://dai-in-defi.com
 - https://defiscan.io
 - http://defirates.info/
+- https://public.tableau.com/profile/alethio.defi#!/
 
 ## Decentralized exchanges
 - https://dex.watch
@@ -135,6 +138,7 @@
 
 ## Set
 - https://scout.cool/setprotocol/mainnet/
+- https://public.tableau.com/profile/alethio.defi#!/vizhome/TokenSets/TokenSets
 
 ## ENS
 - https://curiousgiraffe.io/ens
@@ -195,6 +199,7 @@
 - https://dai.stablecoin.science
 - https://governance-dai.glitch.me
 - http://makerdao.descipher.io
+- https://public.tableau.com/profile/alethio.defi#!/vizhome/Maker/MakerOverview
 
 ## NFTs
 - https://nonfungible.com
@@ -231,6 +236,7 @@
 - https://zumzoom.github.io/analytics/uniswap
 - https://mikemcdonald.github.io/uniswap/eth-token-liquidity
 - https://uniswap.rocks
+- https://public.tableau.com/profile/alethio.defi#!/vizhome/Uniswap/Story1
 
 ## xDai
 - https://blockscout.com/poa/dai
