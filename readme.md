@@ -168,6 +168,7 @@
 ## Exchanges
 - https://bti.live/exchanges
 - https://www.tokenanalyst.io
+- https://cer.live
 
 ## FOAM
 - https://foam.tools
@@ -283,14 +284,17 @@
 ### Price
 - https://coinmarketcap.com
 - https://messari.io/onchainfx
+- https://coin360.com
 
 ### Staking
 - https://stakingrewards.com
 
+### Boards
+- https://boards.messari.io
+
 ### Contract-based accounts
 - [Gnosis Safe](https://contractbasedaccounts.com)
 - [Argent](https://contractbasedaccounts.com)
-
 
 ## Contribute
 
