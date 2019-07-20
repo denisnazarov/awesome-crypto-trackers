@@ -17,6 +17,7 @@
 - [Decentralized Finance](#decentralized-finance)
 - [Decentralized Exchanges](#decentralized-exchanges)
 - [Dharma](#dharma)
+- [dxDAO](#dxdao)
 - [dYdX](#dYdX)
 - [ENS](#ens)
 - [Ethereum](#ethereum)
@@ -24,6 +25,7 @@
 - [Exchanges](#exchanges)
 - [FOAM](#foam)
 - [Gas](#gas)
+- [Golem](#golem)
 - [Grin](#grin)
 - [Etheroll](#etheroll)
 - [HumanityDAO](#humanitydao)
@@ -36,6 +38,7 @@
 - [Plasma](#plasma)
 - [Polkadot](#polkadot)
 - [Raiden](#raiden)
+- [Sia](#sia)
 - [Social](#social)
 - [Stable coins](#stablecoins)
 - [Tezos](#Tezos)
@@ -78,6 +81,7 @@
 - [Realtime Node Stats](https://statoshi.info)
 - https://bitnodes.earn.com
 - https://fork.lol
+- https://www.cbeci.org
 - https://sha256.network
 - https://buybitcoinworldwide.com/fee-calculator
 - http://charts.woobull.com
@@ -87,6 +91,7 @@
 - https://curiousgiraffe.io/compound
 - https://dappboard.com/dapp/compound
 - https://loanscan.io/compound
+- https://www.comproi.com
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Compoundv2/Compoundv2-TokenSupply
 
 ## Cosmos
@@ -132,6 +137,9 @@
 - http://statistics.dharma.io
 - https://loanscan.io/dharma
 
+## dxDAO
+- https://explore.duneanalytics.com/public/dashboards/cE1wo5jA2Dy6whfQnzkfZV1A7MUoyYNvfZtlTXZK
+
 ## District0x Meme Factory
 - https://scout.cool/district0x/mainnet/
 
@@ -167,6 +175,9 @@
 ## Gas
 - https://ethgasstation.info
 - http://frontrun.me
+
+## Golem
+- https://stats.golem.network/ui
 
 ## Grin
 - https://grin.merklepath.com
@@ -206,6 +217,8 @@
 - https://dai.stablecoin.science
 - https://governance-dai.glitch.me
 - http://makerdao.descipher.io
+- http://dai.descipher.io
+- https://makerburn.com
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Maker/MakerOverview
 
 ## NFTs
@@ -225,6 +238,9 @@
 ## Raiden
 - https://explorer.raiden.network
 
+## Sia
+- http://siastats.info
+
 ## Social
 - https://fifty.one
 - https://hive.one
@@ -243,6 +259,7 @@
 - https://zumzoom.github.io/analytics/uniswap
 - https://mikemcdonald.github.io/uniswap/eth-token-liquidity
 - https://uniswap.rocks
+- https://uniswap-roi.herokuapp.com
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Uniswap/Story1
 
 ## xDai
