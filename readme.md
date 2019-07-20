@@ -287,6 +287,11 @@
 ### Staking
 - https://stakingrewards.com
 
+### Contract-based accounts
+- [Gnosis Safe](https://contractbasedaccounts.com)
+- [Argent](https://contractbasedaccounts.com)
+
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
