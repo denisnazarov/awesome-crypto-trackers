@@ -176,6 +176,7 @@
 ## Gas
 - https://ethgasstation.info
 - http://frontrun.me
+- https://stat.bloxy.info/superset/dashboard/gas/?standalone=true
 
 ## Golem
 - https://stats.golem.network/ui
@@ -216,6 +217,7 @@
 - https://loanscan.io/makerdao
 - https://twitter.com/makerdaibot
 - https://dai.stablecoin.science
+- https://daipeg.com
 - https://governance-dai.glitch.me
 - http://makerdao.descipher.io
 - http://dai.descipher.io
