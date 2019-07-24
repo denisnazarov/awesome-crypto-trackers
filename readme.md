@@ -56,7 +56,6 @@
 
 ## Aragon
 - https://scout.cool/aragon/mainnet
-- https://daolist.io
 
 ## Augur
 - https://predictions.global
