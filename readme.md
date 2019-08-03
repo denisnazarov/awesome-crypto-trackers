@@ -208,6 +208,7 @@
 ## Loans
 - https://loanscan.io
 - https://app.bloqboard.com
+- http://loans.descipher.io
 
 ## MakerDAO
 - https://mkr.tools
