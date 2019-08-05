@@ -208,6 +208,7 @@
 ## Loans
 - https://loanscan.io
 - https://app.bloqboard.com
+- http://loans.descipher.io
 
 ## MakerDAO
 - https://mkr.tools
@@ -257,10 +258,9 @@
 
 ## Uniswap
 - https://uniswap.rocks
-- https://beta.uniswap.info
+- https://uniswap.info
 - https://zumzoom.github.io/analytics/uniswap
 - https://mikemcdonald.github.io/uniswap/eth-token-liquidity
-- https://uniswap.rocks
 - https://uniswap-roi.herokuapp.com
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Uniswap/Story1
 
