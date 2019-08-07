@@ -17,15 +17,16 @@
 - [Decentralized Finance](#decentralized-finance)
 - [Decentralized Exchanges](#decentralized-exchanges)
 - [Dharma](#dharma)
+- [District0x](#district0x)
 - [DutchX](#dutchx)
 - [dxDAO](#dxdao)
 - [dYdX](#dYdX)
 - [ENS](#ens)
 - [Ethereum](#ethereum)
 - [Ethereum Classic](#ethereum-classic)
+- [Etheroll](#etheroll)
 - [Exchanges](#exchanges)
 - [FOAM](#foam)
-- [Gas](#gas)
 - [Golem](#golem)
 - [Grin](#grin)
 - [Etheroll](#etheroll)
@@ -42,7 +43,7 @@
 - [Set Protocol](#set-protocol)
 - [Sia](#sia)
 - [Social](#social)
-- [Stable coins](#stablecoins)
+- [Stablecoins](#stablecoins)
 - [Synthetix](#synthetix)
 - [Tezos](#Tezos)
 - [Uniswap](#uniswap)
@@ -140,14 +141,14 @@
 - http://statistics.dharma.io
 - https://loanscan.io/dharma
 
+## District0x
+- https://scout.cool/district0x/mainnet
+
 ## DutchX
 - https://explore.duneanalytics.com/public/dashboards/nigajDs8cp1lkmoXYNgdo3jMh2XCzUIiLk0J5Fst
 
 ## dxDAO
 - https://explore.duneanalytics.com/public/dashboards/cE1wo5jA2Dy6whfQnzkfZV1A7MUoyYNvfZtlTXZK
-
-## District0x Meme Factory
-- https://scout.cool/district0x/mainnet
 
 ## dYdX
 - https://expotrading.com/trade
@@ -167,6 +168,9 @@
 ## Ethereum Classic
 - https://dappdirect.net
 
+## Etheroll
+- https://curiousgiraffe.io/etheroll
+
 ## Exchanges
 - https://bti.live/exchanges
 - https://www.tokenanalyst.io
@@ -174,11 +178,6 @@
 
 ## FOAM
 - https://foam.tools
-
-## Gas
-- https://ethgasstation.info
-- http://frontrun.me
-- https://stat.bloxy.info/superset/dashboard/gas/?standalone=true
 
 ## Golem
 - https://stats.golem.network/ui
@@ -191,9 +190,6 @@
 ## HumanityDAO
 - https://roger-wu.github.io/humanitydao-applicant-status-checker-build
 - https://insights.eth.events/public/dashboard/3911928b-6b18-4721-b539-7ae13eec0264#theme=night
-
-## Etheroll
-- https://curiousgiraffe.io/etheroll
 
 ## Kyber
 - https://tracker.kyber.network
@@ -280,18 +276,26 @@
 - https://dai-netstat.poa.network
 
 ## Other
-### Coin correlations
-- https://cointracker.io/visualizations/coin_correlations
-
-### Mining profitability
-- https://whattomine.com
-
 ### 51% attacks
 - https://crypto51.app
 - https://howmanyconfs.com
 
 ### Atomic swap readiness
 - https://swapready.net
+
+### Boards
+- https://boards.messari.io
+
+### Coin correlations
+- https://cointracker.io/visualizations/coin_correlations
+
+### Gas
+- https://ethgasstation.info
+- http://frontrun.me
+- https://stat.bloxy.info/superset/dashboard/gas/?standalone=true
+
+### Mining profitability
+- https://whattomine.com
 
 ### Price
 - https://coinmarketcap.com
@@ -300,13 +304,6 @@
 
 ### Staking
 - https://stakingrewards.com
-
-### Boards
-- https://boards.messari.io
-
-### Contract-based accounts
-- [Gnosis Safe](https://contractbasedaccounts.com)
-- [Argent](https://contractbasedaccounts.com)
 
 ## Contribute
 
