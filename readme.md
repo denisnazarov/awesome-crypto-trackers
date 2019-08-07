@@ -130,6 +130,7 @@
 - https://dexterminal.com
 - https://app.dex.ag
 - https://dexindex.io
+- https://explore.duneanalytics.com/public/dashboards/c87JEtVi2GlyIZHQOR02NsfyJV48eaKEQSiKplJ7
 
 ## Dharma
 - https://dharmalytics.io
