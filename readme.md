@@ -17,6 +17,7 @@
 - [Decentralized Finance](#decentralized-finance)
 - [Decentralized Exchanges](#decentralized-exchanges)
 - [Dharma](#dharma)
+- [DutchX](#dutchx)
 - [dxDAO](#dxdao)
 - [dYdX](#dYdX)
 - [ENS](#ens)
@@ -126,7 +127,6 @@
 ## Decentralized exchanges
 - https://dex.watch
 - https://etherscan.io/dextracker
-- https://0xtracker.com
 - https://dexterminal.com
 - https://app.dex.ag
 - https://dexindex.io
@@ -135,6 +135,9 @@
 - https://dharmalytics.io
 - http://statistics.dharma.io
 - https://loanscan.io/dharma
+
+## DutchX
+- https://explore.duneanalytics.com/public/dashboards/nigajDs8cp1lkmoXYNgdo3jMh2XCzUIiLk0J5Fst
 
 ## dxDAO
 - https://explore.duneanalytics.com/public/dashboards/cE1wo5jA2Dy6whfQnzkfZV1A7MUoyYNvfZtlTXZK
