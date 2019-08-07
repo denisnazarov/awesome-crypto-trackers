@@ -154,10 +154,6 @@
 - https://bloxy.info/list_margin_positions
 - https://scout.cool/dydxprotocol/mainnet
 
-## Set
-- https://scout.cool/setprotocol/mainnet
-- https://public.tableau.com/profile/alethio.defi#!/vizhome/TokenSets/TokenSets
-
 ## ENS
 - https://curiousgiraffe.io/ens
 
@@ -251,6 +247,7 @@
 
 ## Set Protocol
 - https://scout.cool/setprotocol/mainnet
+- https://public.tableau.com/profile/alethio.defi#!/vizhome/TokenSets/TokenSets
 
 ## Sia
 - http://siastats.info
