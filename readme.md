@@ -39,9 +39,11 @@
 - [Plasma](#plasma)
 - [Polkadot](#polkadot)
 - [Raiden](#raiden)
+- [Set Protocol](#set-protocol)
 - [Sia](#sia)
 - [Social](#social)
 - [Stable coins](#stablecoins)
+- [Synthetix](#synthetix)
 - [Tezos](#Tezos)
 - [Uniswap](#uniswap)
 - [xDai](#xdai)
@@ -77,8 +79,8 @@
 
 ## Bitcoin
 - https://bitcoinvisuals.com
-- [Mempool & Tx fee Stats](https://jochen-hoenicke.de/queue/#0,24h)
-- [Realtime Node Stats](https://statoshi.info)
+- https://jochen-hoenicke.de/queue/#0,24h
+- https://statoshi.info
 - https://bitnodes.earn.com
 - https://fork.lol
 - https://www.cbeci.org
@@ -100,9 +102,9 @@
 - https://hubble.figment.network
 - https://nylira.net/3d
 - https://mintscan.io
-- https://stake.id/#
+- https://stake.id
 - https://cosmos-overview.genesislab.net
-- https://lunie.io/#
+- https://lunie.io
 - https://bharvest.io/wallet_en
 
 ## Cryptokitties
@@ -121,8 +123,9 @@
 - https://defipulse.com
 - http://dai-in-defi.com
 - https://defiscan.io
-- http://defirates.info/
-- https://public.tableau.com/profile/alethio.defi#!/
+- http://defirates.info
+- https://public.tableau.com/profile/alethio.defi
+- https://www.defimeter.com
 
 ## Decentralized exchanges
 - https://dex.watch
@@ -144,15 +147,15 @@
 - https://explore.duneanalytics.com/public/dashboards/cE1wo5jA2Dy6whfQnzkfZV1A7MUoyYNvfZtlTXZK
 
 ## District0x Meme Factory
-- https://scout.cool/district0x/mainnet/
+- https://scout.cool/district0x/mainnet
 
 ## dYdX
 - https://expotrading.com/trade
 - https://bloxy.info/list_margin_positions
-- https://scout.cool/dydxprotocol/mainnet/
+- https://scout.cool/dydxprotocol/mainnet
 
 ## Set
-- https://scout.cool/setprotocol/mainnet/
+- https://scout.cool/setprotocol/mainnet
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/TokenSets/TokenSets
 
 ## ENS
@@ -190,14 +193,14 @@
 - https://grin.blockscan.com
 
 ## HumanityDAO
-- https://roger-wu.github.io/humanitydao-applicant-status-checker-build/
+- https://roger-wu.github.io/humanitydao-applicant-status-checker-build
 - https://insights.eth.events/public/dashboard/3911928b-6b18-4721-b539-7ae13eec0264#theme=night
 
 ## Etheroll
 - https://curiousgiraffe.io/etheroll
 
 ## Kyber
-- https://tracker.kyber.network/#
+- https://tracker.kyber.network
 - https://curiousgiraffe.io/kyberswap
 
 ## Lightning Network
@@ -227,6 +230,7 @@
 - http://dai.descipher.io
 - https://makerburn.com
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Maker/MakerOverview
+- https://graphs.santiment.net/makerdao
 
 ## NFTs
 - https://nonfungible.com
@@ -245,6 +249,9 @@
 ## Raiden
 - https://explorer.raiden.network
 
+## Set Protocol
+- https://scout.cool/setprotocol/mainnet
+
 ## Sia
 - http://siastats.info
 
@@ -255,17 +262,20 @@
 ## Stablecoins
 - https://stablecoinindex.com
 
+## Synthetix
+- https://dashboard.synthetix.io
+
 ## Tezos
-- https://www.mytezosbaker.com/
-- https://tzscan.io/
-- https://tezos.id/
+- https://www.mytezosbaker.com
+- https://tzscan.io
+- https://tezos.id
 
 ## Uniswap
 - https://uniswap.rocks
 - https://uniswap.info
 - https://zumzoom.github.io/analytics/uniswap
 - https://mikemcdonald.github.io/uniswap/eth-token-liquidity
-- https://uniswap-roi.herokuapp.com
+- https://www.uniswaproi.com
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Uniswap/Story1
 
 ## xDai
