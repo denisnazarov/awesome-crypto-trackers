@@ -7,6 +7,7 @@
 - [0x](#0x)
 - [Airswap](#airswap)
 - [Aragon](#aragon)
+- [Arweave](#arweave)
 - [Augur](#augur)
 - [Basic Attention Token](#basic-attention-token)
 - [Bitcoin](#bitcoin)
@@ -60,6 +61,9 @@
 
 ## Aragon
 - https://scout.cool/aragon/mainnet
+
+## Arweave
+- https://viewblock.io/arweave
 
 ## Augur
 - https://predictions.global
