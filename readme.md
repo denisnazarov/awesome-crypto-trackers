@@ -198,7 +198,9 @@
 ## Lightning Network
 - https://1ml.com
 - https://bitcoinvisuals.com/lightning
+- https://lightblock.me
 - https://explorer.acinq.co
+- https://p2sh.info/dashboard/db/lightning-network?orgId=1
 
 ## Livepeer
 - https://scout.cool/livepeer/mainnet
