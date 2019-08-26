@@ -59,7 +59,8 @@
 - https://curiousgiraffe.io/airswap
 
 ## Aragon
-- https://scout.cool/aragon/mainnet
+- [Scout](https://scout.cool/aragon/mainnet)
+- [Apiary Explorer](https://apiary.1hive.org)
 
 ## Augur
 - https://predictions.global
