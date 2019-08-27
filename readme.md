@@ -7,6 +7,7 @@
 - [0x](#0x)
 - [Airswap](#airswap)
 - [Aragon](#aragon)
+- [Arweave](#arweave)
 - [Augur](#augur)
 - [Basic Attention Token](#basic-attention-token)
 - [Bitcoin](#bitcoin)
@@ -60,6 +61,9 @@
 
 ## Aragon
 - https://scout.cool/aragon/mainnet
+
+## Arweave
+- https://viewblock.io/arweave
 
 ## Augur
 - https://predictions.global
@@ -289,6 +293,7 @@
 - https://boards.messari.io
 
 ### Coin correlations
+- https://coinmetrics.io/correlation-charts/
 - https://cointracker.io/visualizations/coin_correlations
 
 ### Gas
