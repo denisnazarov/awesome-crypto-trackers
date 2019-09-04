@@ -15,8 +15,8 @@
 - [Cosmos](#cosmos)
 - [Cryptokitties](#cryptokitties)
 - [Dapps](#dapps)
-- [Decentralized Finance](#decentralized-finance)
 - [Decentralized Exchanges](#decentralized-exchanges)
+- [Decentralized Finance](#decentralized-finance)
 - [Dharma](#dharma)
 - [District0x](#district0x)
 - [DutchX](#dutchx)
@@ -60,8 +60,8 @@
 - https://curiousgiraffe.io/airswap
 
 ## Aragon
-- [Scout](https://scout.cool/aragon/mainnet)
-- [Apiary Explorer](https://apiary.1hive.org)
+- https://scout.cool/aragon/mainnet
+- https://apiary.1hive.org
 
 ## Arweave
 - https://viewblock.io/arweave
@@ -73,6 +73,7 @@
 - https://mikemcdonald.github.io/augur/leaderboard.html
 - https://dispute.tools
 - https://reporters.chat
+- https://themajority.report
 - https://curiousgiraffe.io/augur
 - https://veil.co/markets
 - https://veil.co/augur-open-interest
@@ -124,6 +125,14 @@
 - https://app.co
 - https://dappvolume.com
 
+## Decentralized exchanges
+- https://dex.watch
+- https://etherscan.io/dextracker
+- https://dexterminal.com
+- https://app.dex.ag
+- https://dexindex.io
+- https://explore.duneanalytics.com/public/dashboards/c87JEtVi2GlyIZHQOR02NsfyJV48eaKEQSiKplJ7
+
 ## Decentralized finance
 - https://mikemcdonald.github.io/eth-defi
 - https://defipulse.com
@@ -132,14 +141,6 @@
 - http://defirates.info
 - https://public.tableau.com/profile/alethio.defi
 - https://www.defimeter.com
-
-## Decentralized exchanges
-- https://dex.watch
-- https://etherscan.io/dextracker
-- https://dexterminal.com
-- https://app.dex.ag
-- https://dexindex.io
-- https://explore.duneanalytics.com/public/dashboards/c87JEtVi2GlyIZHQOR02NsfyJV48eaKEQSiKplJ7
 
 ## Dharma
 - https://dharmalytics.io
@@ -295,7 +296,7 @@
 
 ### Coin correlations
 - https://www.tokenanalyst.io/compare
-- https://coinmetrics.io/correlation-charts/
+- https://coinmetrics.io/correlation-charts
 - https://cointracker.io/visualizations/coin_correlations
 
 ### Gas
