@@ -95,6 +95,8 @@
 - https://sha256.network
 - https://buybitcoinworldwide.com/fee-calculator
 - http://charts.woobull.com
+- https://www.blockchain.com/en/charts
+- https://bitinfocharts.com
 
 ## Compound
 - https://app.compound.finance/#Markets
