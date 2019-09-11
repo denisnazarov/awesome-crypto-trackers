@@ -114,6 +114,7 @@
 - https://cosmos-overview.genesislab.net
 - https://lunie.io
 - https://bharvest.io/wallet_en
+- https://everstake.one/analytics
 
 ## Cryptokitties
 - https://curiousgiraffe.io/cryptokitties
