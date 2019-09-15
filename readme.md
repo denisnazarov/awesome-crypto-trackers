@@ -22,6 +22,7 @@
 - [DutchX](#dutchx)
 - [dxDAO](#dxdao)
 - [dYdX](#dYdX)
+- [Edgeware](#edgeware)
 - [ENS](#ens)
 - [Ethereum](#ethereum)
 - [Ethereum Classic](#ethereum-classic)
@@ -164,6 +165,9 @@
 - https://expotrading.com/trade
 - https://bloxy.info/list_margin_positions
 - https://scout.cool/dydxprotocol/mainnet
+
+## Edgeware
+- https://telemetry.polkadot.io/#list/Edgeware
 
 ## ENS
 - https://curiousgiraffe.io/ens
