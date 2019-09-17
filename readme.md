@@ -58,6 +58,7 @@
 ## 0x
 - https://0xtracker.com
 - https://dappboard.com/dapp/0x
+- https://amberdata.io/addresses/0xe41d2489571d322189246dafa5ebde1f4699f498/metrics
 
 ## AirSwap
 - https://curiousgiraffe.io/airswap
@@ -83,9 +84,11 @@
 - https://exploreaugur.com
 - http://crystalball.be/stats
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Augur/AugurPopularTags
+- https://amberdata.io/addresses/0x1985365e9f78359a9b6ad760e32412f4a445e862/metrics
 
 ## Basic Attention Token
 - https://batgrowth.com
+- https://amberdata.io/addresses/0x0d8775f648430679a709e98d2b0cb6250d2887ef/metrics
 
 ## Bitcoin
 - https://bitcoinvisuals.com
@@ -123,6 +126,7 @@
 ## Cryptokitties
 - https://curiousgiraffe.io/cryptokitties
 - https://kittysales.herokuapp.com
+- https://amberdata.io/addresses/0x06012c8cf97bead5deae237070f9587f8e7a266d/metrics
 
 ## Dapps
 - https://dappradar.com
@@ -130,6 +134,7 @@
 - https://www.stateofthedapps.com
 - https://app.co
 - https://dappvolume.com
+- https://amberdata.io/dashboards/applications
 
 ## Decentralized exchanges
 - https://dex.watch
@@ -196,6 +201,7 @@
 
 ## Golem
 - https://stats.golem.network/ui
+- https://amberdata.io/addresses/0xa74476443119a942de498590fe1f2454d7d4ac0d/metrics
 
 ## Grin
 - https://grin.merklepath.com
@@ -209,6 +215,7 @@
 ## Kyber
 - https://tracker.kyber.network
 - https://curiousgiraffe.io/kyberswap
+- https://amberdata.io/addresses/0xdd974d5c2e2928dea5f71b9825b8b646686bd200/metrics
 
 ## Lightning Network
 - https://1ml.com
@@ -294,6 +301,7 @@
 - https://mikemcdonald.github.io/uniswap/eth-token-liquidity
 - https://www.uniswaproi.com
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Uniswap/Story1
+- https://docs.amberdata.io/reference#get-market-orders-uniswap
 
 ## xDai
 - https://blockscout.com/poa/dai
@@ -309,6 +317,8 @@
 
 ### Boards
 - https://boards.messari.io
+- https://amberdata.io/dashboards/infrastructure
+- https://amberdata.io/dashboards/security
 
 ### Coin correlations
 - https://www.tokenanalyst.io/compare
@@ -319,6 +329,8 @@
 - https://ethgasstation.info
 - http://frontrun.me
 - https://stat.bloxy.info/superset/dashboard/gas/?standalone=true
+- https://docs.amberdata.io/reference#get-gas-predictions
+- https://docs.amberdata.io/reference#get-gas-percentiles
 
 ### Mining profitability
 - https://whattomine.com
@@ -327,6 +339,7 @@
 - https://coinmarketcap.com
 - https://messari.io/onchainfx
 - https://coin360.com
+- https://amberdata.io/dashboards/market-rankings
 
 ### Staking
 - https://stakingrewards.com
