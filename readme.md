@@ -302,6 +302,7 @@
 - https://www.uniswaproi.com
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Uniswap/Story1
 - https://docs.amberdata.io/reference#get-market-orders-uniswap
+- https://uniswapstats.com
 
 ## xDai
 - https://blockscout.com/poa/dai
