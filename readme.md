@@ -271,6 +271,7 @@
 
 ## Set Protocol
 - https://scout.cool/setprotocol/mainnet
+- https://scout.cool/setprotocol/mainnet/dashboards/5d25f57c5b19c00017eebbe3
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/TokenSets/TokenSets
 
 ## Sia
