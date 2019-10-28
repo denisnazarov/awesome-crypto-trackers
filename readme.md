@@ -14,6 +14,7 @@
 - [Compound](#compound)
 - [Cosmos](#cosmos)
 - [Cryptokitties](#cryptokitties)
+- [DAOs](#daos)
 - [Dapps](#dapps)
 - [Decentralized Exchanges](#decentralized-exchanges)
 - [Decentralized Finance](#decentralized-finance)
@@ -127,6 +128,9 @@
 - https://curiousgiraffe.io/cryptokitties
 - https://kittysales.herokuapp.com
 - https://amberdata.io/addresses/0x06012c8cf97bead5deae237070f9587f8e7a266d/metrics
+
+## DAOs
+- https://daometrics.com
 
 ## Dapps
 - https://dappradar.com
