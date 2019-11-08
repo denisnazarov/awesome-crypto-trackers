@@ -121,6 +121,7 @@
 - https://lunie.io
 - https://bharvest.io/wallet_en
 - https://everstake.one/analytics
+- https://look.ping.pub/#/validators
 
 ## Cryptokitties
 - https://curiousgiraffe.io/cryptokitties
