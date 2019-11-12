@@ -76,7 +76,6 @@
 - https://blacktemplar.github.io/augur-market-odds
 - https://blacktemplar.github.io/augur-fee-windows-info
 - https://mikemcdonald.github.io/augur/leaderboard.html
-- https://dispute.tools
 - https://reporters.chat
 - https://themajority.report
 - https://curiousgiraffe.io/augur
@@ -198,6 +197,7 @@
 - https://bti.live/exchanges
 - https://www.tokenanalyst.io
 - https://cer.live
+- https://skew.com
 
 ## FOAM
 - https://foam.tools
@@ -235,6 +235,7 @@
 - https://loanscan.io
 - https://app.bloqboard.com
 - http://loans.descipher.io
+- https://loanlist.io
 
 ## MakerDAO
 - https://mkr.tools
