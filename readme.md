@@ -74,7 +74,6 @@
 ## Augur
 - https://predictions.global
 - https://blacktemplar.github.io/augur-market-odds
-- https://blacktemplar.github.io/augur-fee-windows-info
 - https://mikemcdonald.github.io/augur/leaderboard.html
 - https://reporters.chat
 - https://themajority.report
@@ -154,7 +153,7 @@
 - http://defirates.info
 - https://public.tableau.com/profile/alethio.defi
 - https://www.defimeter.com
-- https://defi.ai/
+- https://defi.ai
 
 ## Dharma
 - https://dharmalytics.io
