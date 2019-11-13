@@ -154,6 +154,7 @@
 - http://defirates.info
 - https://public.tableau.com/profile/alethio.defi
 - https://www.defimeter.com
+- https://defi.ai/
 
 ## Dharma
 - https://dharmalytics.io
