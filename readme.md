@@ -9,8 +9,10 @@
 - [Aragon](#aragon)
 - [Arweave](#arweave)
 - [Augur](#augur)
+- [Bancor](#bancor)
 - [Basic Attention Token](#basic-attention-token)
 - [Bitcoin](#bitcoin)
+- [bZx](#bzx)
 - [Compound](#compound)
 - [Cosmos](#cosmos)
 - [Cryptokitties](#cryptokitties)
@@ -34,13 +36,16 @@
 - [Grin](#grin)
 - [Etheroll](#etheroll)
 - [HumanityDAO](#humanitydao)
+- [InstaDApp](#instadapp)
 - [Kyber](#kyber)
 - [Lightning Network](#lightning-network)
 - [Livepeer](#livepeer)
 - [Loans](#loans)
 - [MakerDAO](#makerdao)
+- [Melon](#melon)
 - [Nexus Mutual](#nexus-mutual)
 - [NFTs](#nfts)
+- [Nuo Network](#nuo-network)
 - [Plasma](#plasma)
 - [Polkadot](#polkadot)
 - [Raiden](#raiden)
@@ -52,6 +57,7 @@
 - [Terra](#terra)
 - [Tezos](#Tezos)
 - [Uniswap](#uniswap)
+- [WBTC](#wbtc)
 - [xDai](#xdai)
 - [Other](#other)
 
@@ -82,6 +88,10 @@
 - http://crystalball.be/stats
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Augur/AugurPopularTags
 - https://amberdata.io/addresses/0x1985365e9f78359a9b6ad760e32412f4a445e862/metrics
+- https://defipulse.com/augur
+
+## Bancor
+- https://defipulse.com/bancor
 
 ## Basic Attention Token
 - https://batgrowth.com
@@ -100,6 +110,9 @@
 - https://www.blockchain.com/en/charts
 - https://bitinfocharts.com
 
+## bZx
+- https://defipulse.com/bzx
+
 ## Compound
 - https://app.compound.finance/#Markets
 - https://curiousgiraffe.io/compound
@@ -107,6 +120,7 @@
 - https://loanscan.io/compound
 - https://www.comproi.com
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Compoundv2/Compoundv2-TokenSupply
+- https://defipulse.com/compound
 
 ## Cosmos
 - https://cosmos.bigdipper.live
@@ -138,6 +152,7 @@
 - https://amberdata.io/dashboards/applications
 
 ## Decentralized exchanges
+- https://www.coingecko.com/en/exchanges
 - https://dex.watch
 - https://etherscan.io/dextracker
 - https://dexterminal.com
@@ -159,6 +174,7 @@
 - https://dharmalytics.io
 - http://statistics.dharma.io
 - https://loanscan.io/dharma
+- https://defipulse.com/dharma
 
 ## District0x
 - https://scout.cool/district0x/mainnet
@@ -173,6 +189,7 @@
 - https://expotrading.com/trade
 - https://bloxy.info/list_margin_positions
 - https://scout.cool/dydxprotocol/mainnet
+- https://defipulse.com/dydx
 
 ## Edgeware
 - https://telemetry.polkadot.io/#list/Edgeware
@@ -194,10 +211,12 @@
 - https://curiousgiraffe.io/etheroll
 
 ## Exchanges
+- https://www.coingecko.com/en/exchanges
+- https://www.coingecko.com/en/derivatives
+- https://skew.com
 - https://bti.live/exchanges
 - https://www.tokenanalyst.io
 - https://cer.live
-- https://skew.com
 
 ## FOAM
 - https://foam.tools
@@ -215,10 +234,14 @@
 - https://roger-wu.github.io/humanitydao-applicant-status-checker-build
 - https://insights.eth.events/public/dashboard/3911928b-6b18-4721-b539-7ae13eec0264#theme=night
 
+## InstaDApp
+- https://defipulse.com/instadapp
+
 ## Kyber
 - https://tracker.kyber.network
 - https://curiousgiraffe.io/kyberswap
 - https://amberdata.io/addresses/0xdd974d5c2e2928dea5f71b9825b8b646686bd200/metrics
+- https://defipulse.com/kyber
 
 ## Lightning Network
 - https://1ml.com
@@ -226,6 +249,7 @@
 - https://lightblock.me
 - https://explorer.acinq.co
 - https://p2sh.info/dashboard/db/lightning-network?orgId=1
+- https://defipulse.com/lightning-network
 
 ## Livepeer
 - https://scout.cool/livepeer/mainnet
@@ -252,16 +276,24 @@
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Maker/MakerOverview
 - https://graphs.santiment.net/makerdao
 - https://mkrgov.science
+- https://defipulse.com/maker
+
+## Melon
+- https://defipulse.com/melon
 
 ## Nexus Mutual
 - https://nexustracker.io
 - https://app.nexusmutual.io/#/NetworkStatus
+- https://defipulse.com/nexus-mutual
 
 ## NFTs
 - https://nonfungible.com
 - https://nftmarketcap.co
 - https://opensea.io/rankings
 - https://dappboard.com/nfts
+
+## Nuo Network
+- https://defipulse.com/nuo-network
 
 ## Plasma
 - https://explorer.plasma.group
@@ -278,6 +310,7 @@
 - https://scout.cool/setprotocol/mainnet
 - https://scout.cool/setprotocol/mainnet/dashboards/5d25f57c5b19c00017eebbe3
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/TokenSets/TokenSets
+- https://defipulse.com/set-protocol
 
 ## Sia
 - http://siastats.info
@@ -291,6 +324,7 @@
 
 ## Synthetix
 - https://dashboard.synthetix.io
+- https://defipulse.com/synthetix
 
 ## Terra
 - https://station.terra.money
@@ -310,10 +344,15 @@
 - https://docs.amberdata.io/reference#get-market-orders-uniswap
 - https://uniswapstats.com
 - https://pools.fyi/#
+- https://defipulse.com/uniswap
+
+## WBTC
+- https://defipulse.com/wbtc
 
 ## xDai
 - https://blockscout.com/poa/dai
 - https://dai-netstat.poa.network
+- https://defipulse.com/xdai
 
 ## Other
 ### 51% attacks
