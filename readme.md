@@ -324,6 +324,7 @@
 
 ## Synthetix
 - https://dashboard.synthetix.io
+- http://synthetixstats.com
 - https://defipulse.com/synthetix
 
 ## Terra
