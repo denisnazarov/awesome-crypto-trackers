@@ -277,6 +277,7 @@
 - https://graphs.santiment.net/makerdao
 - https://mkrgov.science
 - https://defipulse.com/maker
+- https://sai2dai.xyz
 
 ## Melon
 - https://defipulse.com/melon
