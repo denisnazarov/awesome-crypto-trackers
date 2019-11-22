@@ -20,7 +20,6 @@
 - [Dapps](#dapps)
 - [Decentralized Exchanges](#decentralized-exchanges)
 - [Decentralized Finance](#decentralized-finance)
-- [Dharma](#dharma)
 - [District0x](#district0x)
 - [DutchX](#dutchx)
 - [dxDAO](#dxdao)
@@ -64,7 +63,6 @@
 
 ## 0x
 - https://0xtracker.com
-- https://dappboard.com/dapp/0x
 - https://amberdata.io/addresses/0xe41d2489571d322189246dafa5ebde1f4699f498/metrics
 
 ## AirSwap
@@ -104,9 +102,8 @@
 - https://bitnodes.earn.com
 - https://fork.lol
 - https://www.cbeci.org
-- https://sha256.network
 - https://buybitcoinworldwide.com/fee-calculator
-- http://charts.woobull.com
+- https://charts.woobull.com
 - https://www.blockchain.com/en/charts
 - https://bitinfocharts.com
 
@@ -116,7 +113,6 @@
 ## Compound
 - https://app.compound.finance/#Markets
 - https://curiousgiraffe.io/compound
-- https://dappboard.com/dapp/compound
 - https://loanscan.io/compound
 - https://www.comproi.com
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Compoundv2/Compoundv2-TokenSupply
@@ -130,10 +126,8 @@
 - https://mintscan.io
 - https://stake.id
 - https://cosmos-overview.genesislab.net
-- https://lunie.io
-- https://bharvest.io/wallet_en
 - https://everstake.one/analytics
-- https://look.ping.pub/#/validators
+- https://look.ping.pub/validator?chain=cosmoshub
 
 ## Cryptokitties
 - https://curiousgiraffe.io/cryptokitties
@@ -146,35 +140,25 @@
 ## Dapps
 - https://dappradar.com
 - https://dapp.review
-- https://www.stateofthedapps.com
+- https://stateofthedapps.com
 - https://app.co
-- https://dappvolume.com
 - https://amberdata.io/dashboards/applications
 
 ## Decentralized exchanges
 - https://www.coingecko.com/en/exchanges
 - https://dex.watch
 - https://etherscan.io/dextracker
-- https://dexterminal.com
-- https://app.dex.ag
+- https://dex.ag
 - https://dexindex.io
 - https://explore.duneanalytics.com/public/dashboards/c87JEtVi2GlyIZHQOR02NsfyJV48eaKEQSiKplJ7
 
 ## Decentralized finance
-- https://mikemcdonald.github.io/eth-defi
 - https://defipulse.com
-- http://dai-in-defi.com
+- https://dai-in-defi.com
 - https://defiscan.io
-- http://defirates.info
 - https://public.tableau.com/profile/alethio.defi
 - https://www.defimeter.com
 - https://defi.ai
-
-## Dharma
-- https://dharmalytics.io
-- http://statistics.dharma.io
-- https://loanscan.io/dharma
-- https://defipulse.com/dharma
 
 ## District0x
 - https://scout.cool/district0x/mainnet
@@ -186,7 +170,6 @@
 - https://explore.duneanalytics.com/public/dashboards/cE1wo5jA2Dy6whfQnzkfZV1A7MUoyYNvfZtlTXZK
 
 ## dYdX
-- https://expotrading.com/trade
 - https://bloxy.info/list_margin_positions
 - https://scout.cool/dydxprotocol/mainnet
 - https://defipulse.com/dydx
@@ -200,9 +183,8 @@
 ## Ethereum
 - https://ethstats.net
 - https://ethstats.io
-- https://amberdata.io
-- https://id.zeusprotocol.com
-- https://ethernodes.org/network/1
+- https://amberdata.io/dashboards/infrastructure
+- https://ethernodes.org
 
 ## Ethereum Classic
 - https://dappdirect.net
@@ -213,8 +195,7 @@
 ## Exchanges
 - https://www.coingecko.com/en/exchanges
 - https://www.coingecko.com/en/derivatives
-- https://skew.com
-- https://bti.live/exchanges
+- https://skew.com/dashboard/bitcoin-futures
 - https://www.tokenanalyst.io
 - https://cer.live
 
@@ -226,13 +207,12 @@
 - https://amberdata.io/addresses/0xa74476443119a942de498590fe1f2454d7d4ac0d/metrics
 
 ## Grin
-- https://grin.merklepath.com
 - https://grinscan.net/charts
 - https://grin.blockscan.com
 
 ## HumanityDAO
 - https://roger-wu.github.io/humanitydao-applicant-status-checker-build
-- https://insights.eth.events/public/dashboard/3911928b-6b18-4721-b539-7ae13eec0264#theme=night
+- https://insights.anyblock.tools/public/dashboard/3911928b-6b18-4721-b539-7ae13eec0264#theme=night
 
 ## InstaDApp
 - https://defipulse.com/instadapp
@@ -248,7 +228,7 @@
 - https://bitcoinvisuals.com/lightning
 - https://lightblock.me
 - https://explorer.acinq.co
-- https://p2sh.info/dashboard/db/lightning-network?orgId=1
+- https://txstats.com/dashboard/db/lightning-network?orgId=1
 - https://defipulse.com/lightning-network
 
 ## Livepeer
@@ -257,8 +237,7 @@
 
 ## Loans
 - https://loanscan.io
-- https://app.bloqboard.com
-- http://loans.descipher.io
+- https://loans.descipher.io
 - https://loanlist.io
 
 ## MakerDAO
@@ -267,10 +246,10 @@
 - https://daistats.com
 - https://loanscan.io/makerdao
 - https://twitter.com/makerdaibot
-- https://dai.stablecoin.science
+- https://dai.stablecoin.science/dai.html
 - https://daipeg.com
 - https://governance-dai.glitch.me
-- http://makerdao.descipher.io
+- https://makerdao.descipher.io
 - http://dai.descipher.io
 - https://makerburn.com
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Maker/MakerOverview
@@ -289,15 +268,12 @@
 
 ## NFTs
 - https://nonfungible.com
-- https://nftmarketcap.co
 - https://opensea.io/rankings
-- https://dappboard.com/nfts
 
 ## Nuo Network
 - https://defipulse.com/nuo-network
 
 ## Plasma
-- https://explorer.plasma.group
 - https://mainnet.leapdao.org/explorer
 
 ## Polkadot
@@ -314,7 +290,7 @@
 - https://defipulse.com/set-protocol
 
 ## Sia
-- http://siastats.info
+- https://siastats.info
 
 ## Social
 - https://fifty.one
@@ -333,19 +309,17 @@
 
 ## Tezos
 - https://www.mytezosbaker.com
-- https://tzscan.io
+- https://dunscan.io
 - https://tezos.id
 
 ## Uniswap
-- https://uniswap.rocks
 - https://uniswap.info
 - https://zumzoom.github.io/analytics/uniswap
-- https://mikemcdonald.github.io/uniswap/eth-token-liquidity
 - https://www.uniswaproi.com
-- https://public.tableau.com/profile/alethio.defi#!/vizhome/Uniswap/Story1
+- https://public.tableau.com/profile/alethio.defi#!/vizhome/Uniswap/UniswapOverview
 - https://docs.amberdata.io/reference#get-market-orders-uniswap
 - https://uniswapstats.com
-- https://pools.fyi/#
+- https://pools.fyi
 - https://defipulse.com/uniswap
 
 ## WBTC
@@ -386,7 +360,7 @@
 
 ### Price
 - https://coinmarketcap.com
-- https://messari.io/onchainfx
+- https://messari.io/screener
 - https://coin360.com
 - https://amberdata.io/dashboards/market-rankings
 
