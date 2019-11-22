@@ -257,6 +257,7 @@
 - https://mkrgov.science
 - https://defipulse.com/maker
 - https://sai2dai.xyz
+- https://duneanalytics.com/mcd
 
 ## Melon
 - https://defipulse.com/melon
