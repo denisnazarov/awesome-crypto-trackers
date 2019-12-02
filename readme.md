@@ -258,6 +258,7 @@
 - https://defipulse.com/maker
 - https://sai2dai.xyz
 - https://duneanalytics.com/mcd
+- https://defiexplore.com
 
 ## Melon
 - https://defipulse.com/melon
