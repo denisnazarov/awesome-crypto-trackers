@@ -230,6 +230,7 @@
 - https://explorer.acinq.co
 - https://txstats.com/dashboard/db/lightning-network?orgId=1
 - https://defipulse.com/lightning-network
+- https://www.lapps.co/all-time
 
 ## Livepeer
 - https://scout.cool/livepeer/mainnet
