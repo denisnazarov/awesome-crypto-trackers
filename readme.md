@@ -327,6 +327,7 @@
 
 ## WBTC
 - https://defipulse.com/wbtc
+- https://explore.duneanalytics.com/dashboard/wbtc
 
 ## xDai
 - https://blockscout.com/poa/dai
