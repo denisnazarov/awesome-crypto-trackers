@@ -370,6 +370,7 @@
 
 ### Staking
 - https://stakingrewards.com
+- https://staked.us/yields/
 
 ## Contribute
 
