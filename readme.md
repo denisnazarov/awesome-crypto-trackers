@@ -11,6 +11,7 @@
 - [Augur](#augur)
 - [Bancor](#bancor)
 - [Basic Attention Token](#basic-attention-token)
+- [Binance](#binance)
 - [Bitcoin](#bitcoin)
 - [bZx](#bzx)
 - [Compound](#compound)
@@ -94,6 +95,9 @@
 ## Basic Attention Token
 - https://batgrowth.com
 - https://amberdata.io/addresses/0x0d8775f648430679a709e98d2b0cb6250d2887ef/metrics
+
+## Binance
+- https://explorer.binance.org/
 
 ## Bitcoin
 - https://bitcoinvisuals.com
