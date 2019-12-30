@@ -314,6 +314,7 @@
 - https://www.mytezosbaker.com
 - https://dunscan.io
 - https://tezos.id
+- https://tzstats.com/
 
 ## Uniswap
 - https://uniswap.info
