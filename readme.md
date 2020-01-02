@@ -42,6 +42,7 @@
 - [Loans](#loans)
 - [MakerDAO](#makerdao)
 - [Melon](#melon)
+- [Nervos](#nervos)
 - [Nexus Mutual](#nexus-mutual)
 - [NFTs](#nfts)
 - [Nuo Network](#nuo-network)
@@ -264,6 +265,9 @@
 ## Melon
 - https://defipulse.com/melon
 
+## Nervos
+- https://explorer.nervos.org
+
 ## Nexus Mutual
 - https://nexustracker.io
 - https://app.nexusmutual.io/#/NetworkStatus
@@ -282,6 +286,7 @@
 ## Polkadot
 - https://telemetry.polkadot.io
 - https://polkascan.io
+- https://polkastats.io
 
 ## Raiden
 - https://explorer.raiden.network
