@@ -308,6 +308,7 @@
 
 ## Stablecoins
 - https://stablecoinindex.com
+- https://stablecoinstats.com
 
 ## Synthetix
 - https://dashboard.synthetix.io
@@ -321,7 +322,7 @@
 - https://www.mytezosbaker.com
 - https://dunscan.io
 - https://tezos.id
-- https://tzstats.com/
+- https://tzstats.com
 
 ## Uniswap
 - https://uniswap.info
@@ -378,7 +379,7 @@
 
 ### Staking
 - https://stakingrewards.com
-- https://staked.us/yields/
+- https://staked.us/yields
 
 ## Contribute
 
