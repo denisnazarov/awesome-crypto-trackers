@@ -152,6 +152,7 @@
 - https://dex.ag
 - https://dexindex.io
 - https://explore.duneanalytics.com/public/dashboards/c87JEtVi2GlyIZHQOR02NsfyJV48eaKEQSiKplJ7
+- https://twitter.com/DexWars
 
 ## Decentralized finance
 - https://defipulse.com
@@ -272,6 +273,7 @@
 - https://nexustracker.io
 - https://app.nexusmutual.io/#/NetworkStatus
 - https://defipulse.com/nexus-mutual
+- https://twitter.com/NexusMutualBot
 
 ## NFTs
 - https://nonfungible.com
