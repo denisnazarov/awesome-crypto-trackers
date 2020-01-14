@@ -119,6 +119,7 @@
 - https://www.comproi.com
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Compoundv2/Compoundv2-TokenSupply
 - https://defipulse.com/compound
+- https://chiragkhatri.me/compound-liquidator
 
 ## Cosmos
 - https://cosmos.bigdipper.live
