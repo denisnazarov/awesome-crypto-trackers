@@ -108,6 +108,7 @@
 - https://charts.woobull.com
 - https://www.blockchain.com/en/charts
 - https://bitinfocharts.com
+- https://oxt.me/charts
 
 ## bZx
 - https://defipulse.com/bzx
