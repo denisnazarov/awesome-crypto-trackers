@@ -264,6 +264,7 @@
 - https://sai2dai.xyz
 - https://duneanalytics.com/mcd
 - https://defiexplore.com
+- https://www.daiembassy.online/
 
 ## Melon
 - https://defipulse.com/melon
