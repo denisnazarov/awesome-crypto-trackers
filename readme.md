@@ -132,6 +132,7 @@
 - https://cosmos-overview.genesislab.net
 - https://everstake.one/analytics
 - https://look.ping.pub/validator?chain=cosmoshub
+- https://www.cosmosoutpost.io/cosmos/network?lang=en
 
 ## Cryptokitties
 - https://curiousgiraffe.io/cryptokitties
@@ -265,7 +266,7 @@
 - https://sai2dai.xyz
 - https://duneanalytics.com/mcd
 - https://defiexplore.com
-- https://www.daiembassy.online/
+- https://www.daiembassy.online
 
 ## Melon
 - https://defipulse.com/melon
