@@ -260,6 +260,7 @@
 - https://sai2dai.xyz
 - https://duneanalytics.com/mcd
 - https://defiexplore.com
+- https://explore.duneanalytics.com/dashboard/maker-dao---mcd
 
 ## Melon
 - https://defipulse.com/melon
