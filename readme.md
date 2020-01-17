@@ -338,6 +338,7 @@
 - https://uniswapstats.com
 - https://pools.fyi
 - https://defipulse.com/uniswap
+- https://explore.duneanalytics.com/dashboard/uniswap-usd-collected-fees-
 
 ## WBTC
 - https://defipulse.com/wbtc
