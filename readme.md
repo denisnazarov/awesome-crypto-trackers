@@ -151,6 +151,7 @@
 - https://dex.ag
 - https://dexindex.io
 - https://explore.duneanalytics.com/public/dashboards/c87JEtVi2GlyIZHQOR02NsfyJV48eaKEQSiKplJ7
+- https://bloxy.info/list_dexes
 
 ## Decentralized finance
 - https://defipulse.com
