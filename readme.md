@@ -283,6 +283,7 @@
 ## NFTs
 - https://nonfungible.com
 - https://opensea.io/rankings
+- https://bloxy.info/list_tokens/ERC721
 
 ## Nuo Network
 - https://defipulse.com/nuo-network
