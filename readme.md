@@ -191,6 +191,7 @@
 - https://ethstats.io
 - https://amberdata.io/dashboards/infrastructure
 - https://ethernodes.org
+- https://etherscan.io/charts
 
 ## Ethereum Classic
 - https://dappdirect.net
