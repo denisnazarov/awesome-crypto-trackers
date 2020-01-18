@@ -148,6 +148,7 @@
 - https://stateofthedapps.com
 - https://app.co
 - https://amberdata.io/dashboards/applications
+- https://bloxy.info/list_dapps
 
 ## Decentralized exchanges
 - https://www.coingecko.com/en/exchanges
