@@ -42,6 +42,7 @@
 - [Loans](#loans)
 - [MakerDAO](#makerdao)
 - [Melon](#melon)
+- [Nervos](#nervos)
 - [Nexus Mutual](#nexus-mutual)
 - [NFTs](#nfts)
 - [Nuo Network](#nuo-network)
@@ -93,6 +94,7 @@
 
 ## Basic Attention Token
 - https://batgrowth.com
+- https://www.bat.watch
 - https://amberdata.io/addresses/0x0d8775f648430679a709e98d2b0cb6250d2887ef/metrics
 
 ## Bitcoin
@@ -106,6 +108,7 @@
 - https://charts.woobull.com
 - https://www.blockchain.com/en/charts
 - https://bitinfocharts.com
+- https://oxt.me/charts
 
 ## bZx
 - https://defipulse.com/bzx
@@ -117,6 +120,7 @@
 - https://www.comproi.com
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Compoundv2/Compoundv2-TokenSupply
 - https://defipulse.com/compound
+- https://chiragkhatri.me/compound-liquidator
 
 ## Cosmos
 - https://cosmos.bigdipper.live
@@ -128,6 +132,7 @@
 - https://cosmos-overview.genesislab.net
 - https://everstake.one/analytics
 - https://look.ping.pub/validator?chain=cosmoshub
+- https://www.cosmosoutpost.io/cosmos/network?lang=en
 
 ## Cryptokitties
 - https://curiousgiraffe.io/cryptokitties
@@ -143,6 +148,7 @@
 - https://stateofthedapps.com
 - https://app.co
 - https://amberdata.io/dashboards/applications
+- https://bloxy.info/list_dapps
 
 ## Decentralized exchanges
 - https://www.coingecko.com/en/exchanges
@@ -152,6 +158,8 @@
 - https://dexindex.io
 - https://explore.duneanalytics.com/public/dashboards/c87JEtVi2GlyIZHQOR02NsfyJV48eaKEQSiKplJ7
 - https://bloxy.info/list_dexes
+- https://twitter.com/DexWars
+- https://graphs.santiment.net/dex_trades
 
 ## Decentralized finance
 - https://defipulse.com
@@ -186,6 +194,7 @@
 - https://ethstats.io
 - https://amberdata.io/dashboards/infrastructure
 - https://ethernodes.org
+- https://explore.duneanalytics.com/dashboard/contracts-deployed-on-ethereum-per-month
 
 ## Ethereum Classic
 - https://dappdirect.net
@@ -262,14 +271,19 @@
 - https://duneanalytics.com/mcd
 - https://defiexplore.com
 - https://explore.duneanalytics.com/dashboard/maker-dao---mcd
+- https://www.daiembassy.online
 
 ## Melon
 - https://defipulse.com/melon
+
+## Nervos
+- https://explorer.nervos.org
 
 ## Nexus Mutual
 - https://nexustracker.io
 - https://app.nexusmutual.io/#/NetworkStatus
 - https://defipulse.com/nexus-mutual
+- https://twitter.com/NexusMutualBot
 
 ## NFTs
 - https://nonfungible.com
@@ -285,6 +299,7 @@
 ## Polkadot
 - https://telemetry.polkadot.io
 - https://polkascan.io
+- https://polkastats.io
 
 ## Raiden
 - https://explorer.raiden.network
@@ -304,11 +319,13 @@
 
 ## Stablecoins
 - https://stablecoinindex.com
+- https://stablecoinstats.com
 
 ## Synthetix
 - https://dashboard.synthetix.io
 - http://synthetixstats.com
 - https://defipulse.com/synthetix
+- https://scout.cool/synthetix/mainnet
 
 ## Terra
 - https://station.terra.money
@@ -317,6 +334,7 @@
 - https://www.mytezosbaker.com
 - https://dunscan.io
 - https://tezos.id
+- https://tzstats.com
 
 ## Uniswap
 - https://uniswap.info
@@ -327,6 +345,7 @@
 - https://uniswapstats.com
 - https://pools.fyi
 - https://defipulse.com/uniswap
+- https://explore.duneanalytics.com/dashboard/uniswap-usd-collected-fees-
 
 ## WBTC
 - https://defipulse.com/wbtc
@@ -374,6 +393,7 @@
 
 ### Staking
 - https://stakingrewards.com
+- https://staked.us/yields
 
 ## Contribute
 
