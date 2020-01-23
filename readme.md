@@ -157,6 +157,7 @@
 - https://dex.ag
 - https://dexindex.io
 - https://explore.duneanalytics.com/public/dashboards/c87JEtVi2GlyIZHQOR02NsfyJV48eaKEQSiKplJ7
+- https://bloxy.info/list_dexes
 - https://twitter.com/DexWars
 - https://graphs.santiment.net/dex_trades
 
@@ -269,6 +270,7 @@
 - https://sai2dai.xyz
 - https://duneanalytics.com/mcd
 - https://defiexplore.com
+- https://explore.duneanalytics.com/dashboard/maker-dao---mcd
 - https://www.daiembassy.online
 
 ## Melon
@@ -387,6 +389,7 @@
 - https://messari.io/screener
 - https://coin360.com
 - https://amberdata.io/dashboards/market-rankings
+- https://www.coingecko.com/
 
 ### Staking
 - https://stakingrewards.com
