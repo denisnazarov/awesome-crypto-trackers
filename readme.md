@@ -194,6 +194,7 @@
 - https://ethstats.io
 - https://amberdata.io/dashboards/infrastructure
 - https://ethernodes.org
+- https://etherscan.io/charts
 - https://explore.duneanalytics.com/dashboard/contracts-deployed-on-ethereum-per-month
 
 ## Ethereum Classic
