@@ -157,6 +157,7 @@
 - https://dexindex.io
 - https://explore.duneanalytics.com/public/dashboards/c87JEtVi2GlyIZHQOR02NsfyJV48eaKEQSiKplJ7
 - https://twitter.com/DexWars
+- https://graphs.santiment.net/dex_trades
 
 ## Decentralized finance
 - https://defipulse.com
