@@ -148,6 +148,7 @@
 - https://stateofthedapps.com
 - https://app.co
 - https://amberdata.io/dashboards/applications
+- https://bloxy.info/list_dapps
 
 ## Decentralized exchanges
 - https://www.coingecko.com/en/exchanges
@@ -156,7 +157,9 @@
 - https://dex.ag
 - https://dexindex.io
 - https://explore.duneanalytics.com/public/dashboards/c87JEtVi2GlyIZHQOR02NsfyJV48eaKEQSiKplJ7
+- https://bloxy.info/list_dexes
 - https://twitter.com/DexWars
+- https://graphs.santiment.net/dex_trades
 
 ## Decentralized finance
 - https://defipulse.com
@@ -192,6 +195,7 @@
 - https://amberdata.io/dashboards/infrastructure
 - https://ethernodes.org
 - https://etherscan.io/charts
+- https://explore.duneanalytics.com/dashboard/contracts-deployed-on-ethereum-per-month
 
 ## Ethereum Classic
 - https://dappdirect.net
@@ -267,6 +271,7 @@
 - https://sai2dai.xyz
 - https://duneanalytics.com/mcd
 - https://defiexplore.com
+- https://explore.duneanalytics.com/dashboard/maker-dao---mcd
 - https://www.daiembassy.online
 
 ## Melon
@@ -284,6 +289,7 @@
 ## NFTs
 - https://nonfungible.com
 - https://opensea.io/rankings
+- https://bloxy.info/list_tokens/ERC721
 
 ## Nuo Network
 - https://defipulse.com/nuo-network
@@ -320,6 +326,7 @@
 - https://dashboard.synthetix.io
 - http://synthetixstats.com
 - https://defipulse.com/synthetix
+- https://scout.cool/synthetix/mainnet
 
 ## Terra
 - https://station.terra.money
@@ -339,6 +346,7 @@
 - https://uniswapstats.com
 - https://pools.fyi
 - https://defipulse.com/uniswap
+- https://explore.duneanalytics.com/dashboard/uniswap-usd-collected-fees-
 
 ## WBTC
 - https://defipulse.com/wbtc
@@ -382,6 +390,7 @@
 - https://messari.io/screener
 - https://coin360.com
 - https://amberdata.io/dashboards/market-rankings
+- https://www.coingecko.com/
 
 ### Staking
 - https://stakingrewards.com
