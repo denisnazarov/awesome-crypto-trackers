@@ -320,6 +320,7 @@
 - https://dashboard.synthetix.io
 - http://synthetixstats.com
 - https://defipulse.com/synthetix
+- https://scout.cool/synthetix/mainnet
 
 ## Terra
 - https://station.terra.money
