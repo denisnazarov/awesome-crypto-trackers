@@ -5,6 +5,7 @@
 
 ## Contents
 - [0x](#0x)
+- [Aave](#aave)
 - [Airswap](#airswap)
 - [Aragon](#aragon)
 - [Arweave](#arweave)
@@ -65,6 +66,9 @@
 ## 0x
 - https://0xtracker.com
 - https://amberdata.io/addresses/0xe41d2489571d322189246dafa5ebde1f4699f498/metrics
+
+## Aave
+- https://aavewatch.now.sh
 
 ## AirSwap
 - https://curiousgiraffe.io/airswap
@@ -390,7 +394,7 @@
 - https://messari.io/screener
 - https://coin360.com
 - https://amberdata.io/dashboards/market-rankings
-- https://www.coingecko.com/
+- https://www.coingecko.com
 
 ### Staking
 - https://stakingrewards.com
