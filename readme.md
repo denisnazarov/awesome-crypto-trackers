@@ -164,6 +164,7 @@
 - https://bloxy.info/list_dexes
 - https://twitter.com/DexWars
 - https://graphs.santiment.net/dex_trades
+- https://app.santiment.net/assets/list?name=decentralized%20exchanges
 
 ## Decentralized finance
 - https://defipulse.com
