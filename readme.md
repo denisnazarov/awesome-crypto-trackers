@@ -325,6 +325,7 @@
 ## Stablecoins
 - https://stablecoinindex.com
 - https://stablecoinstats.com
+- https://app.santiment.net/assets/list?name=stablecoins
 
 ## Synthetix
 - https://dashboard.synthetix.io
