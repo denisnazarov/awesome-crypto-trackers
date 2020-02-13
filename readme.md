@@ -165,6 +165,7 @@
 - https://bloxy.info/list_dexes
 - https://twitter.com/DexWars
 - https://graphs.santiment.net/dex_trades
+- https://app.santiment.net/assets/list?name=decentralized%20exchanges
 
 ## Decentralized finance
 - https://defipulse.com
@@ -201,6 +202,7 @@
 - https://ethernodes.org
 - https://etherscan.io/charts
 - https://explore.duneanalytics.com/dashboard/contracts-deployed-on-ethereum-per-month
+- https://app.santiment.net/assets/erc20
 
 ## Ethereum Classic
 - https://dappdirect.net
@@ -329,6 +331,7 @@
 ## Stablecoins
 - https://stablecoinindex.com
 - https://stablecoinstats.com
+- https://app.santiment.net/assets/list?name=stablecoins
 
 ## Synthetix
 - https://dashboard.synthetix.io
