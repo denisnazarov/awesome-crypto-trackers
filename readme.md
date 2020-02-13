@@ -35,6 +35,7 @@
 - [Golem](#golem)
 - [Grin](#grin)
 - [Etheroll](#etheroll)
+- [Handshake](#handshake)
 - [HumanityDAO](#humanitydao)
 - [InstaDApp](#instadapp)
 - [Kyber](#kyber)
@@ -224,6 +225,9 @@
 ## Grin
 - https://grinscan.net/charts
 - https://grin.blockscan.com
+
+## Handshake
+- https://6block.com/en
 
 ## HumanityDAO
 - https://roger-wu.github.io/humanitydao-applicant-status-checker-build
