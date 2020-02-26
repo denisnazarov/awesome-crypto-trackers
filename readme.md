@@ -312,6 +312,7 @@
 - https://telemetry.polkadot.io
 - https://polkascan.io
 - https://polkastats.io
+- https://subscan.io
 
 ## Raiden
 - https://explorer.raiden.network
