@@ -27,6 +27,7 @@
 - [dYdX](#dYdX)
 - [Edgeware](#edgeware)
 - [ENS](#ens)
+- [Erasure](#erasure)
 - [Ethereum](#ethereum)
 - [Ethereum Classic](#ethereum-classic)
 - [Etheroll](#etheroll)
@@ -194,6 +195,9 @@
 
 ## ENS
 - https://curiousgiraffe.io/ens
+
+## Erasure
+- https://defipulse.com/erasure
 
 ## Ethereum
 - https://ethstats.net
