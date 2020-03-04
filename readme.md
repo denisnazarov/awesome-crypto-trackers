@@ -49,9 +49,11 @@
 - [Nexus Mutual](#nexus-mutual)
 - [NFTs](#nfts)
 - [Nuo Network](#nuo-network)
+- [Opyn](#opyn)
 - [Plasma](#plasma)
 - [Polkadot](#polkadot)
 - [Raiden](#raiden)
+- [RAY](#ray)
 - [Set Protocol](#set-protocol)
 - [Sia](#sia)
 - [Social](#social)
@@ -309,6 +311,9 @@
 - https://nuoscan.io
 - https://defipulse.com/nuo-network
 
+## Opyn
+- https://explore.duneanalytics.com/public/dashboards/2ECW95TjxJmaGDfETnUvpzZekN6JIfjXgQlQIeqz
+
 ## Plasma
 - https://mainnet.leapdao.org/explorer
 
@@ -320,6 +325,9 @@
 
 ## Raiden
 - https://explorer.raiden.network
+
+## RAY
+- https://defipulse.com/robo-advisor-for-yield
 
 ## Set Protocol
 - https://scout.cool/setprotocol/mainnet
