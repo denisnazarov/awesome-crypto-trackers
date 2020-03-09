@@ -5,6 +5,7 @@
 
 ## Contents
 - [0x](#0x)
+- [1inch](#1inch)
 - [Aave](#aave)
 - [Airswap](#airswap)
 - [Aragon](#aragon)
@@ -70,6 +71,9 @@
 ## 0x
 - https://0xtracker.com
 - https://amberdata.io/addresses/0xe41d2489571d322189246dafa5ebde1f4699f498/metrics
+
+## 1inch
+- https://explore.duneanalytics.com/public/dashboards/Onip3ZzVsz3yqCOuLm9arPg4AmZa9QXgXuIdtLbR
 
 ## Aave
 - https://aavewatch.now.sh
