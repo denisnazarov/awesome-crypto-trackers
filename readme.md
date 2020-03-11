@@ -198,6 +198,7 @@
 ## dYdX
 - https://bloxy.info/list_margin_positions
 - https://scout.cool/dydxprotocol/mainnet
+- https://explore.duneanalytics.com/public/dashboards/AU7ZSx67NOEwqELtIDyzpPlpAGNJJnW0hmeuwwO9
 - https://defipulse.com/dydx
 
 ## Edgeware
