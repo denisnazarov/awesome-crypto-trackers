@@ -282,6 +282,7 @@
 - https://mkr.tools
 - https://makerscan.io
 - https://daistats.com
+- https://daiauctions.com
 - https://loanscan.io/makerdao
 - https://twitter.com/makerdaibot
 - https://dai.stablecoin.science/dai.html
