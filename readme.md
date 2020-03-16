@@ -289,6 +289,7 @@
 - https://daipeg.com
 - https://governance-dai.glitch.me
 - https://makerdao.descipher.io
+- http://makervaults.descipher.io
 - http://dai.descipher.io
 - https://makerburn.com
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Maker/MakerOverview
