@@ -64,6 +64,7 @@
 - [Terra](#terra)
 - [Tezos](#Tezos)
 - [Uniswap](#uniswap)
+- [Wallets](#wallets)
 - [WBTC](#wbtc)
 - [xDai](#xdai)
 - [Other](#other)
@@ -384,6 +385,14 @@
 - https://pools.fyi
 - https://defipulse.com/uniswap
 - https://explore.duneanalytics.com/dashboard/uniswap-usd-collected-fees-
+
+## Wallets
+- https://explore.duneanalytics.com/dashboard/gnosis-multisig_1
+- https://explore.duneanalytics.com/dashboard/gnosis-safe_2
+- https://explore.duneanalytics.com/dashboard/argent
+- https://explore.duneanalytics.com/dashboard/dapper-wallet
+- https://explore.duneanalytics.com/dashboard/authereum
+- https://explore.duneanalytics.com/dashboard/monolith
 
 ## WBTC
 - https://defipulse.com/wbtc
