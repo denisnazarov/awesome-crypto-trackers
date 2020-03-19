@@ -51,6 +51,7 @@
 - [Nexus Mutual](#nexus-mutual)
 - [NFTs](#nfts)
 - [Nuo Network](#nuo-network)
+- [OpenSea](#opensea)
 - [Opyn](#opyn)
 - [Plasma](#plasma)
 - [Polkadot](#polkadot)
@@ -323,6 +324,9 @@
 ## Nuo Network
 - https://nuoscan.io
 - https://defipulse.com/nuo-network
+
+## OpenSea
+- https://explore.duneanalytics.com/queries/1102#1876
 
 ## Opyn
 - https://explore.duneanalytics.com/public/dashboards/2ECW95TjxJmaGDfETnUvpzZekN6JIfjXgQlQIeqz
