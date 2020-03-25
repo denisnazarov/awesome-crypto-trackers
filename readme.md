@@ -51,6 +51,7 @@
 - [Nexus Mutual](#nexus-mutual)
 - [NFTs](#nfts)
 - [Nuo Network](#nuo-network)
+- [Oasis](#oasis)
 - [OpenSea](#opensea)
 - [Opyn](#opyn)
 - [Plasma](#plasma)
@@ -325,6 +326,9 @@
 ## Nuo Network
 - https://nuoscan.io
 - https://defipulse.com/nuo-network
+
+## Oasis
+- https://www.oasisscan.com/
 
 ## OpenSea
 - https://explore.duneanalytics.com/queries/1102#1876
