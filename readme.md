@@ -280,6 +280,7 @@
 - https://loanscan.io
 - https://loans.descipher.io
 - https://loanlist.io
+- https://www.coingecko.com/earn/livepeer
 
 ## MakerDAO
 - https://mkr.tools
