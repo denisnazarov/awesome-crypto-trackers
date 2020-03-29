@@ -328,13 +328,14 @@
 - https://defipulse.com/nuo-network
 
 ## Oasis
-- https://www.oasisscan.com/
+- https://www.oasisscan.com
 
 ## OpenSea
 - https://explore.duneanalytics.com/queries/1102#1876
 
 ## Opyn
 - https://explore.duneanalytics.com/public/dashboards/2ECW95TjxJmaGDfETnUvpzZekN6JIfjXgQlQIeqz
+- https://antoncoding.github.io/opyn-liquidator
 
 ## Plasma
 - https://mainnet.leapdao.org/explorer
