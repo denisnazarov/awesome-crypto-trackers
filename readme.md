@@ -354,6 +354,7 @@
 
 ## RAY
 - https://defipulse.com/robo-advisor-for-yield
+- https://staking.staked.us/ray 
 
 ## Set Protocol
 - https://scout.cool/setprotocol/mainnet
