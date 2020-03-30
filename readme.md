@@ -125,6 +125,13 @@
 - https://www.blockchain.com/en/charts
 - https://bitinfocharts.com
 - https://oxt.me/charts
+- https://dashboard.bitcoinops.org/d/TDhboADmk/bitcoin-optech-dashboards?orgId=1
+- https://bitaps.com/
+- https://oxt.me/charts
+- https://mempool.space/graphs
+- http://bitcoin.zorinaq.com/price/
+- http://bitcoin.sipa.be/
+- https://www.cbeci.org/
 
 ## bZx
 - https://defipulse.com/bzx
