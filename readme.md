@@ -149,6 +149,7 @@
 - https://everstake.one/analytics
 - https://look.ping.pub/validator?chain=cosmoshub
 - https://www.cosmosoutpost.io/cosmos/network?lang=en
+- https://www.coingecko.com/en/earn/cosmos
 
 ## Cryptokitties
 - https://curiousgiraffe.io/cryptokitties
