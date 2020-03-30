@@ -305,6 +305,7 @@
 - https://defiexplore.com
 - https://explore.duneanalytics.com/dashboard/maker-dao---mcd
 - https://www.daiembassy.online
+- https://www.coingecko.com/en/earn/dai
 
 ## Melon
 - https://defipulse.com/melon
