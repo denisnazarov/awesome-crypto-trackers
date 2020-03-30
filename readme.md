@@ -275,6 +275,7 @@
 ## Livepeer
 - https://scout.cool/livepeer/mainnet
 - https://explorer.livepeer.org
+- https://www.coingecko.com/earn/livepeer
 
 ## Loans
 - https://loanscan.io
