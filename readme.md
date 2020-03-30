@@ -347,6 +347,7 @@
 - https://polkascan.io
 - https://polkastats.io
 - https://subscan.io
+- https://polkadot.js.org/apps/#/explorer
 
 ## Raiden
 - https://explorer.raiden.network
