@@ -385,6 +385,7 @@
 - https://dunscan.io
 - https://tezos.id
 - https://tzstats.com
+- https://www.coingecko.com/en/earn/tezos
 
 ## Uniswap
 - https://uniswap.info
