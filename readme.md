@@ -126,12 +126,10 @@
 - https://bitinfocharts.com
 - https://oxt.me/charts
 - https://dashboard.bitcoinops.org/d/TDhboADmk/bitcoin-optech-dashboards?orgId=1
-- https://bitaps.com/
-- https://oxt.me/charts
+- https://bitaps.com
 - https://mempool.space/graphs
-- http://bitcoin.zorinaq.com/price/
-- http://bitcoin.sipa.be/
-- https://www.cbeci.org/
+- http://bitcoin.zorinaq.com/price
+- http://bitcoin.sipa.be
 
 ## bZx
 - https://defipulse.com/bzx
@@ -153,7 +151,6 @@
 - https://nylira.net/3d
 - https://mintscan.io
 - https://stake.id
-- https://cosmos-overview.genesislab.net
 - https://everstake.one/analytics
 - https://look.ping.pub/validator?chain=cosmoshub
 - https://www.cosmosoutpost.io/cosmos/network?lang=en
