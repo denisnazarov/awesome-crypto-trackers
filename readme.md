@@ -215,6 +215,7 @@
 
 ## ENS
 - https://curiousgiraffe.io/ens
+- https://explore.duneanalytics.com/dashboard/all-things-ens
 
 ## Erasure
 - https://defipulse.com/erasure
