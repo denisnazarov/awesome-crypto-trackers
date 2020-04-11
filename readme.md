@@ -11,6 +11,7 @@
 - [Aragon](#aragon)
 - [Arweave](#arweave)
 - [Augur](#augur)
+- [Axie Infinity](#axieinfinity)
 - [Bancor](#bancor)
 - [Basic Attention Token](#basic-attention-token)
 - [Bitcoin](#bitcoin)
@@ -104,6 +105,10 @@
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Augur/AugurPopularTags
 - https://amberdata.io/addresses/0x1985365e9f78359a9b6ad760e32412f4a445e862/metrics
 - https://defipulse.com/augur
+
+## Axie Infinity
+- https://marketplace.axieinfinity.com/dashboard
+- https://nonfungible.com/market/history/axieinfinity
 
 ## Bancor
 - https://defipulse.com/bancor
