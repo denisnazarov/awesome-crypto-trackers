@@ -130,6 +130,7 @@
 - https://mempool.space/graphs
 - http://bitcoin.zorinaq.com/price
 - http://bitcoin.sipa.be
+- https://bitcoin.clarkmoody.com/dashboard/
 
 ## bZx
 - https://defipulse.com/bzx
