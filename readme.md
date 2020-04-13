@@ -321,7 +321,6 @@
 - https://sai2dai.xyz
 - https://duneanalytics.com/mcd
 - https://defiexplore.com
-- https://explore.duneanalytics.com/dashboard/maker-dao---mcd
 - https://www.daiembassy.online
 - https://www.coingecko.com/en/earn/dai
 - https://graphs.santiment.net/makerdao-pro#event_stats
