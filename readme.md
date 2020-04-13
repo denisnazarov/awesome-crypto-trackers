@@ -241,6 +241,7 @@
 - https://skew.com/dashboard/bitcoin-futures
 - https://www.tokenanalyst.io
 - https://cer.live
+- https://www.bitcointradevolume.com/
 
 ## FOAM
 - https://foam.tools
