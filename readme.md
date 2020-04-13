@@ -172,6 +172,7 @@
 - https://app.co
 - https://amberdata.io/dashboards/applications
 - https://bloxy.info/list_dapps
+- https://www.dapp.com/ranking
 
 ## Decentralized exchanges
 - https://www.coingecko.com/en/exchanges
