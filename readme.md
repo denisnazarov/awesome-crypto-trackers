@@ -461,6 +461,7 @@
 - https://coin360.com
 - https://amberdata.io/dashboards/market-rankings
 - https://www.coingecko.com
+- https://www.tokenterminal.xyz/
 
 ### Staking
 - https://stakingrewards.com
