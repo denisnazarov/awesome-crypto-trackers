@@ -170,6 +170,7 @@
 ## DAOs
 - http://deepdao.world/#/app/dashboard
 - https://daometrics.com
+- https://apiary.1hive.org/orgs
 
 ## Dapps
 - https://dappradar.com
