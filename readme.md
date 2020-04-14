@@ -192,13 +192,14 @@
 - https://graphs.santiment.net/dex_trades
 - https://app.santiment.net/assets/list?name=decentralized%20exchanges
 
-## Decentralized finance
+## Decentralized Finance (DeFi)
 - https://defipulse.com
 - https://dai-in-defi.com
 - https://defiscan.io
 - https://public.tableau.com/profile/alethio.defi
 - https://www.defimeter.com
 - https://defi.ai
+- https://defimarketcap.io/
 
 ## dForce
 - https://defipulse.com/dforce
