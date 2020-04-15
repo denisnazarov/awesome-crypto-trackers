@@ -396,6 +396,7 @@
 - https://stablecoinindex.com
 - https://stablecoinstats.com
 - https://app.santiment.net/assets/list?name=stablecoins
+- https://coincodex.com/stablecoins/
 
 ## Synthetix
 - https://dashboard.synthetix.io
