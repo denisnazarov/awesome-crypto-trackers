@@ -68,6 +68,7 @@
 - [Terra](#terra)
 - [Tezos](#Tezos)
 - [Uniswap](#uniswap)
+- [Urbit](#urbit)
 - [Wallets](#wallets)
 - [WBTC](#wbtc)
 - [xDai](#xdai)
@@ -422,6 +423,10 @@
 - https://pools.fyi
 - https://defipulse.com/uniswap
 - https://explore.duneanalytics.com/dashboard/uniswap-usd-collected-fees-
+
+## Urbit
+- https://opensea.io/assets/urbit-id
+- https://urbit.live/stats
 
 ## Wallets
 - https://explore.duneanalytics.com/dashboard/gnosis-multisig_1
