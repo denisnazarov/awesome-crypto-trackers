@@ -36,6 +36,7 @@
 - [Etheroll](#etheroll)
 - [Exchanges](#exchanges)
 - [FOAM](#foam)
+- [Gnosis](#gnosis)
 - [Golem](#golem)
 - [Grin](#grin)
 - [Etheroll](#etheroll)
@@ -254,6 +255,9 @@
 
 ## FOAM
 - https://foam.tools
+
+## Gnosis
+- https://explore.duneanalytics.com/dashboard/gnosis-dex-protocol
 
 ## Golem
 - https://stats.golem.network/ui
