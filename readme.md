@@ -137,7 +137,7 @@
 - https://mempool.space/graphs
 - http://bitcoin.zorinaq.com/price
 - http://bitcoin.sipa.be
-- https://bitcoin.clarkmoody.com/dashboard/
+- https://bitcoin.clarkmoody.com/dashboard
 
 ## bZx
 - https://defipulse.com/bzx
@@ -194,14 +194,14 @@
 - https://graphs.santiment.net/dex_trades
 - https://app.santiment.net/assets/list?name=decentralized%20exchanges
 
-## Decentralized Finance (DeFi)
+## Decentralized Finance
 - https://defipulse.com
 - https://dai-in-defi.com
 - https://defiscan.io
 - https://public.tableau.com/profile/alethio.defi
 - https://www.defimeter.com
 - https://defi.ai
-- https://defimarketcap.io/
+- https://defimarketcap.io
 
 ## dForce
 - https://defipulse.com/dforce
@@ -239,7 +239,7 @@
 - https://etherscan.io/charts
 - https://explore.duneanalytics.com/dashboard/contracts-deployed-on-ethereum-per-month
 - https://app.santiment.net/assets/erc20
-- https://ethdashboard.com/
+- https://ethdashboard.com
 
 ## Ethereum Classic
 - https://dappdirect.net
@@ -253,7 +253,7 @@
 - https://skew.com/dashboard/bitcoin-futures
 - https://www.tokenanalyst.io
 - https://cer.live
-- https://www.bitcointradevolume.com/
+- https://www.bitcointradevolume.com
 
 ## FOAM
 - https://foam.tools
@@ -479,7 +479,7 @@
 - https://coin360.com
 - https://amberdata.io/dashboards/market-rankings
 - https://www.coingecko.com
-- https://www.tokenterminal.xyz/
+- https://www.tokenterminal.xyz
 
 ### Staking
 - https://stakingrewards.com
