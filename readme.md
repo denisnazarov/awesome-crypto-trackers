@@ -285,6 +285,7 @@
 - https://curiousgiraffe.io/kyberswap
 - https://amberdata.io/addresses/0xdd974d5c2e2928dea5f71b9825b8b646686bd200/metrics
 - https://defipulse.com/kyber
+- https://twitter.com/KyberTracker
 
 ## Lightning Network
 - https://1ml.com
