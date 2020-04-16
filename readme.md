@@ -18,6 +18,7 @@
 - [bZx](#bzx)
 - [Compound](#compound)
 - [Cosmos](#cosmos)
+- [Crypto Art](#crypto-art)
 - [Cryptokitties](#cryptokitties)
 - [DAOs](#daos)
 - [Dapps](#dapps)
@@ -163,6 +164,11 @@
 - https://look.ping.pub/validator?chain=cosmoshub
 - https://www.cosmosoutpost.io/cosmos/network?lang=en
 - https://www.coingecko.com/en/earn/cosmos
+
+## Crypto Art
+- https://superrare.co/market
+- https://superrare.co/crypto-artists
+- https://superrare.co/top-crypto-art-collectors
 
 ## Cryptokitties
 - https://curiousgiraffe.io/cryptokitties
