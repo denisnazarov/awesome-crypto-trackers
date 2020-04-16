@@ -240,6 +240,7 @@
 - https://explore.duneanalytics.com/dashboard/contracts-deployed-on-ethereum-per-month
 - https://app.santiment.net/assets/erc20
 - https://ethdashboard.com
+- https://gitcoin.co/gas/history
 
 ## Ethereum Classic
 - https://dappdirect.net
