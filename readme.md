@@ -306,6 +306,7 @@
 - https://loans.descipher.io
 - https://loanlist.io
 - https://debank.com/insight/debt
+- https://defiprime.com/defi-rates
 
 ## MakerDAO
 - https://mkr.tools
@@ -399,6 +400,7 @@
 - https://stablecoinstats.com
 - https://app.santiment.net/assets/list?name=stablecoins
 - https://debank.com/insight/stable
+- https://defistats.io/#/stablecoins/
 
 ## Synthetix
 - https://dashboard.synthetix.io
