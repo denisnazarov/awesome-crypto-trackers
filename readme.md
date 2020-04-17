@@ -489,6 +489,7 @@
 - https://stat.bloxy.info/superset/dashboard/gas/?standalone=true
 - https://docs.amberdata.io/reference#get-gas-predictions
 - https://docs.amberdata.io/reference#get-gas-percentiles
+- https://stat.bloxy.info/superset/dashboard/gas
 
 ### Mining profitability
 - https://whattomine.com
