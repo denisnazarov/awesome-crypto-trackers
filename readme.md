@@ -452,6 +452,7 @@
 - https://explore.duneanalytics.com/dashboard/dapper-wallet
 - https://explore.duneanalytics.com/dashboard/authereum_1
 - https://explore.duneanalytics.com/dashboard/monolith
+- https://explore.duneanalytics.com/dashboard/wallets
 
 ## WBTC
 - https://defipulse.com/wbtc
