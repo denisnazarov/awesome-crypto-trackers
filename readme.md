@@ -170,6 +170,7 @@
 - https://superrare.co/market
 - https://superrare.co/crypto-artists
 - https://superrare.co/top-crypto-art-collectors
+- https://knownorigin.io/activity
 
 ## Cryptokitties
 - https://curiousgiraffe.io/cryptokitties
