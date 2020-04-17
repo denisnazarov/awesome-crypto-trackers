@@ -237,6 +237,7 @@
 - https://explore.duneanalytics.com/dashboard/all-things-ens
 
 ## Erasure
+- https://explore.duneanalytics.com/dashboard/erasure_2
 - https://defipulse.com/erasure
 
 ## Ethereum
