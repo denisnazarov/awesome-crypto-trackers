@@ -304,6 +304,7 @@
 - https://loanscan.io
 - https://loans.descipher.io
 - https://loanlist.io
+- https://defiprime.com/defi-rates
 
 ## MakerDAO
 - https://mkr.tools
