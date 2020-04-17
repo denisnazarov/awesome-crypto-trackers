@@ -18,6 +18,7 @@
 - [bZx](#bzx)
 - [Compound](#compound)
 - [Cosmos](#cosmos)
+- [Crypto Art](#crypto-art)
 - [Cryptokitties](#cryptokitties)
 - [DAOs](#daos)
 - [Dapps](#dapps)
@@ -78,6 +79,7 @@
 ## 0x
 - https://0xtracker.com
 - https://amberdata.io/addresses/0xe41d2489571d322189246dafa5ebde1f4699f498/metrics
+- https://twitter.com/0xtracker
 
 ## 1inch
 - https://explore.duneanalytics.com/public/dashboards/Onip3ZzVsz3yqCOuLm9arPg4AmZa9QXgXuIdtLbR
@@ -164,6 +166,11 @@
 - https://www.cosmosoutpost.io/cosmos/network?lang=en
 - https://www.coingecko.com/en/earn/cosmos
 
+## Crypto Art
+- https://superrare.co/market
+- https://superrare.co/crypto-artists
+- https://superrare.co/top-crypto-art-collectors
+
 ## Cryptokitties
 - https://curiousgiraffe.io/cryptokitties
 - https://kittysales.herokuapp.com
@@ -193,6 +200,7 @@
 - https://twitter.com/DexWars
 - https://graphs.santiment.net/dex_trades
 - https://app.santiment.net/assets/list?name=decentralized%20exchanges
+- https://debank.com/insight/dex
 
 ## Decentralized Finance
 - https://defipulse.com
@@ -241,6 +249,7 @@
 - https://app.santiment.net/assets/erc20
 - https://ethdashboard.com
 - https://gitcoin.co/gas/history
+- https://www.blockchain.com/explorer?currency=ETH
 
 ## Ethereum Classic
 - https://dappdirect.net
@@ -286,6 +295,7 @@
 - https://curiousgiraffe.io/kyberswap
 - https://amberdata.io/addresses/0xdd974d5c2e2928dea5f71b9825b8b646686bd200/metrics
 - https://defipulse.com/kyber
+- https://twitter.com/KyberTracker
 
 ## Lightning Network
 - https://1ml.com
@@ -305,6 +315,8 @@
 - https://loanscan.io
 - https://loans.descipher.io
 - https://loanlist.io
+- https://debank.com/insight/debt
+- https://defiprime.com/defi-rates
 
 ## MakerDAO
 - https://mkr.tools
@@ -397,6 +409,9 @@
 - https://stablecoinindex.com
 - https://stablecoinstats.com
 - https://app.santiment.net/assets/list?name=stablecoins
+- https://coincodex.com/stablecoins/
+- https://debank.com/insight/stable
+- https://defistats.io/#/stablecoins/
 
 ## Synthetix
 - https://dashboard.synthetix.io
