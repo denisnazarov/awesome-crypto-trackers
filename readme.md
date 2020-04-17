@@ -153,6 +153,7 @@
 - https://defipulse.com/compound
 - https://chiragkhatri.me/compound-liquidator
 - https://mattsolomon.dev/compound-rates
+- https://compound.finance/governance/leaderboard
 
 ## Cosmos
 - https://cosmos.bigdipper.live
