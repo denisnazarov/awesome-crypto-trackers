@@ -170,6 +170,7 @@
 - https://superrare.co/market
 - https://superrare.co/crypto-artists
 - https://superrare.co/top-crypto-art-collectors
+- https://knownorigin.io/activity
 
 ## Cryptokitties
 - https://curiousgiraffe.io/cryptokitties
@@ -248,7 +249,7 @@
 - https://explore.duneanalytics.com/dashboard/contracts-deployed-on-ethereum-per-month
 - https://app.santiment.net/assets/erc20
 - https://ethdashboard.com
-- http://www.ethviewer.live
+- http://www.ethviewer.live/
 - https://gitcoin.co/gas/history
 - https://www.blockchain.com/explorer?currency=ETH
 
@@ -410,9 +411,9 @@
 - https://stablecoinindex.com
 - https://stablecoinstats.com
 - https://app.santiment.net/assets/list?name=stablecoins
-- https://coincodex.com/stablecoins
+- https://coincodex.com/stablecoins/
 - https://debank.com/insight/stable
-- https://defistats.io/#/stablecoins
+- https://defistats.io/#/stablecoins/
 
 ## Synthetix
 - https://dashboard.synthetix.io
@@ -450,7 +451,7 @@
 - https://explore.duneanalytics.com/dashboard/gnosis-safe_2
 - https://explore.duneanalytics.com/dashboard/argent
 - https://explore.duneanalytics.com/dashboard/dapper-wallet
-- https://explore.duneanalytics.com/dashboard/authereum_1
+- https://explore.duneanalytics.com/dashboard/authereum
 - https://explore.duneanalytics.com/dashboard/monolith
 
 ## WBTC
