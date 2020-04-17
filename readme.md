@@ -193,6 +193,7 @@
 - https://twitter.com/DexWars
 - https://graphs.santiment.net/dex_trades
 - https://app.santiment.net/assets/list?name=decentralized%20exchanges
+- https://debank.com/insight/dex
 
 ## Decentralized Finance
 - https://defipulse.com
@@ -304,6 +305,7 @@
 - https://loanscan.io
 - https://loans.descipher.io
 - https://loanlist.io
+- https://debank.com/insight/debt
 - https://defiprime.com/defi-rates
 
 ## MakerDAO
@@ -397,6 +399,7 @@
 - https://stablecoinindex.com
 - https://stablecoinstats.com
 - https://app.santiment.net/assets/list?name=stablecoins
+- https://debank.com/insight/stable
 - https://defistats.io/#/stablecoins/
 
 ## Synthetix
