@@ -230,6 +230,7 @@
 - https://scout.cool/dydxprotocol/mainnet
 - https://explore.duneanalytics.com/public/dashboards/AU7ZSx67NOEwqELtIDyzpPlpAGNJJnW0hmeuwwO9
 - https://defipulse.com/dydx
+- https://www.tokenterminal.xyz/protocol/dYdX
 
 ## Edgeware
 - https://telemetry.polkadot.io/#list/Edgeware
@@ -241,6 +242,7 @@
 ## Erasure
 - https://explore.duneanalytics.com/dashboard/erasure_2
 - https://defipulse.com/erasure
+- https://www.tokenterminal.xyz/protocol/Erasure
 
 ## Ethereum
 - https://ethstats.net
@@ -300,6 +302,7 @@
 - https://amberdata.io/addresses/0xdd974d5c2e2928dea5f71b9825b8b646686bd200/metrics
 - https://defipulse.com/kyber
 - https://twitter.com/KyberTracker
+- https://www.tokenterminal.xyz/protocol/Kyber%20Network
 
 ## Lightning Network
 - https://1ml.com
@@ -347,6 +350,7 @@
 - https://www.daiembassy.online
 - https://www.coingecko.com/en/earn/dai
 - https://graphs.santiment.net/makerdao-pro#event_stats
+- https://www.tokenterminal.xyz/protocol/MakerDAO
 
 ## Melon
 - https://defipulse.com/melon
@@ -422,9 +426,11 @@
 - http://synthetixstats.com
 - https://defipulse.com/synthetix
 - https://scout.cool/synthetix/mainnet
+- https://www.tokenterminal.xyz/protocol/Synthetix
 
 ## Terra
 - https://station.terra.money
+- https://www.tokenterminal.xyz/protocol/Terra
 
 ## Tezos
 - https://www.mytezosbaker.com
@@ -443,6 +449,7 @@
 - https://pools.fyi
 - https://defipulse.com/uniswap
 - https://explore.duneanalytics.com/dashboard/uniswap-usd-collected-fees-
+- https://www.tokenterminal.xyz/protocol/Uniswap
 
 ## Urbit
 - https://opensea.io/assets/urbit-id
