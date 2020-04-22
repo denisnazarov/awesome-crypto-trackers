@@ -213,7 +213,6 @@
 - https://dai-in-defi.com
 - https://defiscan.io
 - https://public.tableau.com/profile/alethio.defi
-- https://www.defimeter.com
 - https://defi.ai
 - https://defimarketcap.io
 
