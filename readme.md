@@ -86,6 +86,7 @@
 
 ## Aave
 - https://aavewatch.now.sh
+- https://defimarketcap.io/protocol/aave
 
 ## AirSwap
 - https://curiousgiraffe.io/airswap
@@ -116,6 +117,7 @@
 
 ## Bancor
 - https://defipulse.com/bancor
+- https://defimarketcap.io/protocol/bancor
 
 ## Basic Attention Token
 - https://batgrowth.com
@@ -143,6 +145,7 @@
 
 ## bZx
 - https://defipulse.com/bzx
+- https://defimarketcap.io/protocol/fulcrum
 
 ## Compound
 - https://app.compound.finance/#Markets
@@ -154,6 +157,7 @@
 - https://chiragkhatri.me/compound-liquidator
 - https://mattsolomon.dev/compound-rates
 - https://compound.finance/governance/leaderboard
+- https://defimarketcap.io/protocol/compound
 
 ## Cosmos
 - https://cosmos.bigdipper.live
@@ -405,6 +409,7 @@
 - https://scout.cool/setprotocol/mainnet/dashboards/5d25f57c5b19c00017eebbe3
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/TokenSets/TokenSets
 - https://defipulse.com/set-protocol
+- https://defimarketcap.io/protocol/tokenset
 
 ## Sia
 - https://siastats.info
@@ -420,6 +425,7 @@
 - https://coincodex.com/stablecoins
 - https://debank.com/insight/stable
 - https://defistats.io/#/stablecoins
+- https://defimarketcap.io/protocol/stablecoin
 
 ## Synthetix
 - https://dashboard.synthetix.io
@@ -450,6 +456,7 @@
 - https://defipulse.com/uniswap
 - https://explore.duneanalytics.com/dashboard/uniswap-usd-collected-fees-
 - https://www.tokenterminal.xyz/protocol/Uniswap
+- https://defimarketcap.io/protocol/uniswap
 
 ## Urbit
 - https://opensea.io/assets/urbit-id
