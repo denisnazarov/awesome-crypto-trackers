@@ -291,6 +291,7 @@
 ## Handshake
 - https://6block.com/en
 - https://hsd.tools/leaderboard
+- https://hnscan.com
 
 ## HumanityDAO
 - https://roger-wu.github.io/humanitydao-applicant-status-checker-build
