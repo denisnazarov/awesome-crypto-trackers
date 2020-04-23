@@ -292,6 +292,7 @@
 - https://6block.com/en
 - https://hsd.tools/leaderboard
 - https://hnscan.com
+- https://hnspool.com/statistics
 
 ## HumanityDAO
 - https://roger-wu.github.io/humanitydao-applicant-status-checker-build
