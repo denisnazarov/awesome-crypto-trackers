@@ -48,6 +48,7 @@
 - [Lightning Network](#lightning-network)
 - [Livepeer](#livepeer)
 - [Loans](#loans)
+- [Loopring](#loopring)
 - [MakerDAO](#makerdao)
 - [Melon](#melon)
 - [Nervos](#nervos)
@@ -329,6 +330,9 @@
 - https://loanlist.io
 - https://debank.com/insight/debt
 - https://defiprime.com/defi-rates
+
+## Loopring
+- https://defipulse.com/loopring
 
 ## MakerDAO
 - https://mkr.tools
