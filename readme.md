@@ -360,6 +360,9 @@
 - https://www.coingecko.com/en/earn/dai
 - https://graphs.santiment.net/makerdao-pro#event_stats
 - https://www.tokenterminal.xyz/protocol/MakerDAO
+- https://catflip.co/changelog
+- https://dsr.fyi/
+- https://vote.makerdao.com/polling
 
 ## Melon
 - https://defipulse.com/melon
