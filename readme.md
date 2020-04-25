@@ -247,6 +247,7 @@
 - https://explore.duneanalytics.com/dashboard/erasure_2
 - https://defipulse.com/erasure
 - https://www.tokenterminal.xyz/protocol/Erasure
+- https://twitter.com/ErasureStaked
 
 ## Ethereum
 - https://ethstats.net
