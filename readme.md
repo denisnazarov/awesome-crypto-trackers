@@ -454,6 +454,7 @@
 - https://tezos.id
 - https://tzstats.com
 - https://www.coingecko.com/en/earn/tezos
+- https://twitter.com/tezosagorabot
 
 ## Uniswap
 - https://uniswap.info
