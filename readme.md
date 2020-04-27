@@ -391,6 +391,7 @@
 ## Opyn
 - https://explore.duneanalytics.com/public/dashboards/2ECW95TjxJmaGDfETnUvpzZekN6JIfjXgQlQIeqz
 - https://antoncoding.github.io/opyn-liquidator
+- https://defipulse.com/opyn
 
 ## Plasma
 - https://mainnet.leapdao.org/explorer
