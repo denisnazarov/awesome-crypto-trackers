@@ -16,6 +16,7 @@
 - [Basic Attention Token](#basic-attention-token)
 - [Bitcoin](#bitcoin)
 - [bZx](#bzx)
+- [Celo](#celo)
 - [Compound](#compound)
 - [Cosmos](#cosmos)
 - [Crypto Art](#crypto-art)
@@ -148,6 +149,11 @@
 ## bZx
 - https://defipulse.com/bzx
 - https://defimarketcap.io/protocol/fulcrum
+
+## Celo
+- https://www.thecelo.com/
+- https://celo.org/validators/explore
+- https://explorer.celo.org/
 
 ## Compound
 - https://app.compound.finance/#Markets
