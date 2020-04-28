@@ -115,6 +115,7 @@
 ## Axie Infinity
 - https://marketplace.axieinfinity.com/dashboard
 - https://nonfungible.com/market/history/axieinfinity
+- https://bonifaty.github.io/axie-bounty/
 
 ## Bancor
 - https://defipulse.com/bancor
