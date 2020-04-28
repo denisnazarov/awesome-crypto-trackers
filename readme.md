@@ -30,6 +30,7 @@
 - [dxDAO](#dxdao)
 - [dYdX](#dYdX)
 - [Edgeware](#edgeware)
+- [Enigma](#enigma)
 - [ENS](#ens)
 - [Erasure](#erasure)
 - [Ethereum](#ethereum)
@@ -239,6 +240,10 @@
 
 ## Edgeware
 - https://telemetry.polkadot.io/#list/Edgeware
+
+## Enigma
+- https://secretscan.io
+- https://explorer.cashmaney.com
 
 ## ENS
 - https://curiousgiraffe.io/ens
