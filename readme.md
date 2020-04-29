@@ -155,6 +155,7 @@
 - https://www.thecelo.com/
 - https://celo.org/validators/explore
 - https://explorer.celo.org/
+- https://celoist.com/ecosystem/
 
 ## Compound
 - https://app.compound.finance/#Markets
