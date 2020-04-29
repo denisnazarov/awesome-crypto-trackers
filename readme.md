@@ -117,7 +117,7 @@
 ## Axie Infinity
 - https://marketplace.axieinfinity.com/dashboard
 - https://nonfungible.com/market/history/axieinfinity
-- https://bonifaty.github.io/axie-bounty/
+- https://bonifaty.github.io/axie-bounty
 
 ## Bancor
 - https://defipulse.com/bancor
@@ -152,10 +152,10 @@
 - https://defimarketcap.io/protocol/fulcrum
 
 ## Celo
-- https://www.thecelo.com/
+- https://www.thecelo.com
 - https://celo.org/validators/explore
-- https://explorer.celo.org/
-- https://celoist.com/ecosystem/
+- https://explorer.celo.org
+- https://celoist.com/ecosystem
 
 ## Compound
 - https://app.compound.finance/#Markets
@@ -205,7 +205,7 @@
 - https://bloxy.info/list_dapps
 - https://www.dapp.com/ranking
 
-## Decentralized exchanges
+## Decentralized Exchanges
 - https://www.coingecko.com/en/exchanges
 - https://dex.watch
 - https://etherscan.io/dextracker
@@ -375,7 +375,7 @@
 - https://graphs.santiment.net/makerdao-pro#event_stats
 - https://www.tokenterminal.xyz/protocol/MakerDAO
 - https://catflip.co/changelog
-- https://dsr.fyi/
+- https://dsr.fyi
 - https://vote.makerdao.com/polling
 
 ## Melon
@@ -534,6 +534,9 @@
 ### Mining profitability
 - https://whattomine.com
 
+### Oracles
+- https://oracles.club
+
 ### Price
 - https://coinmarketcap.com
 - https://messari.io/screener
@@ -545,9 +548,6 @@
 ### Staking
 - https://stakingrewards.com
 - https://staked.us/yields
-
-### Oracles
-- https://oracles.club/
 
 ## Contribute
 
