@@ -546,6 +546,9 @@
 - https://stakingrewards.com
 - https://staked.us/yields
 
+### Oracles
+- https://oracles.club/
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
