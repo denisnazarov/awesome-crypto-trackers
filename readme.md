@@ -21,6 +21,7 @@
 - [Cosmos](#cosmos)
 - [Crypto Art](#crypto-art)
 - [Cryptokitties](#cryptokitties)
+- [Curve](#curve)
 - [DAOs](#daos)
 - [Dapps](#dapps)
 - [Decentralized Exchanges](#decentralized-exchanges)
@@ -191,6 +192,9 @@
 - https://curiousgiraffe.io/cryptokitties
 - https://kittysales.herokuapp.com
 - https://amberdata.io/addresses/0x06012c8cf97bead5deae237070f9587f8e7a266d/metrics
+
+## Curve
+- https://explore.duneanalytics.com/public/dashboards/BYi7GoQIQvMEQTLtI3WSJWneqKu6NBKdknA5S6im
 
 ## DAOs
 - http://deepdao.world/#/app/dashboard
