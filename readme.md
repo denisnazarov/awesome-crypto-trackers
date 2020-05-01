@@ -114,6 +114,7 @@
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Augur/AugurPopularTags
 - https://amberdata.io/addresses/0x1985365e9f78359a9b6ad760e32412f4a445e862/metrics
 - https://defipulse.com/augur
+- https://tokenterminal.xyz/protocol/Augur
 
 ## Axie Infinity
 - https://marketplace.axieinfinity.com/dashboard
@@ -181,6 +182,7 @@
 - https://look.ping.pub/validator?chain=cosmoshub
 - https://www.cosmosoutpost.io/cosmos/network?lang=en
 - https://www.coingecko.com/en/earn/cosmos
+- https://tokenterminal.xyz/protocol/Cosmos
 
 ## Crypto Art
 - https://superrare.co/market
@@ -341,6 +343,7 @@
 - https://scout.cool/livepeer/mainnet
 - https://explorer.livepeer.org
 - https://www.coingecko.com/earn/livepeer
+- https://tokenterminal.xyz/protocol/Livepeer
 
 ## Loans
 - https://loanscan.io
@@ -438,6 +441,7 @@
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/TokenSets/TokenSets
 - https://defipulse.com/set-protocol
 - https://defimarketcap.io/protocol/tokenset
+- https://tokenterminal.xyz/protocol/Set
 
 ## Sia
 - https://siastats.info
@@ -473,6 +477,7 @@
 - https://tzstats.com
 - https://www.coingecko.com/en/earn/tezos
 - https://twitter.com/tezosagorabot
+- https://tokenterminal.xyz/protocol/Tezos
 
 ## Uniswap
 - https://uniswap.info
