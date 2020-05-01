@@ -123,6 +123,7 @@
 ## Bancor
 - https://defipulse.com/bancor
 - https://defimarketcap.io/protocol/bancor
+- https://zumzoom.github.io/analytics/bancor/roi/
 
 ## Basic Attention Token
 - https://batgrowth.com
