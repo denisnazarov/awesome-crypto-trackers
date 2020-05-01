@@ -91,6 +91,7 @@
 ## Aave
 - https://aavewatch.now.sh
 - https://defimarketcap.io/protocol/aave
+- https://explore.duneanalytics.com/dashboard/aave_1
 
 ## AirSwap
 - https://curiousgiraffe.io/airswap
