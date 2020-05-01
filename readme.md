@@ -126,7 +126,7 @@
 ## Bancor
 - https://defipulse.com/bancor
 - https://defimarketcap.io/protocol/bancor
-- https://zumzoom.github.io/analytics/bancor/roi/
+- https://zumzoom.github.io/analytics/bancor/roi
 
 ## Basic Attention Token
 - https://batgrowth.com
@@ -234,6 +234,7 @@
 - https://public.tableau.com/profile/alethio.defi
 - https://defi.ai
 - https://defimarketcap.io
+- https://explore.duneanalytics.com/public/dashboards/TKSX93XXjf8S9iEHsdccZMPMYrywV3rhPYVv5KBP
 
 ## dForce
 - https://defipulse.com/dforce
@@ -389,6 +390,7 @@
 - https://vote.makerdao.com/polling
 
 ## Melon
+- https://monitoring.melon.network
 - https://defipulse.com/melon
 
 ## Nervos
