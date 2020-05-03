@@ -62,6 +62,7 @@
 - [OpenSea](#opensea)
 - [Opyn](#opyn)
 - [Plasma](#plasma)
+- [Pool Together](#pool-together)
 - [Polkadot](#polkadot)
 - [Raiden](#raiden)
 - [RAY](#ray)
@@ -92,6 +93,7 @@
 - https://aavewatch.now.sh
 - https://defimarketcap.io/protocol/aave
 - https://explore.duneanalytics.com/dashboard/aave_1
+- https://dappradar.com/app/1823/aave
 
 ## AirSwap
 - https://curiousgiraffe.io/airswap
@@ -335,6 +337,7 @@
 - https://defipulse.com/kyber
 - https://twitter.com/KyberTracker
 - https://www.tokenterminal.xyz/protocol/Kyber%20Network
+- https://dappradar.com/app/266/kyber
 
 ## Lightning Network
 - https://1ml.com
@@ -391,6 +394,7 @@
 - https://dsr.fyi
 - https://vote.makerdao.com/polling
 - https://etherscan.io/loantracker#makerloan
+- https://dappradar.com/app/791/makerdao
 
 ## Melon
 - https://monitoring.melon.network
@@ -419,6 +423,7 @@
 
 ## OpenSea
 - https://explore.duneanalytics.com/queries/1102#1876
+- https://dappradar.com/app/15/opensea
 
 ## Opyn
 - https://explore.duneanalytics.com/public/dashboards/2ECW95TjxJmaGDfETnUvpzZekN6JIfjXgQlQIeqz
@@ -427,6 +432,11 @@
 
 ## Plasma
 - https://mainnet.leapdao.org/explorer
+
+## Pool Together
+- https://www.pooltogether.com/#stats
+- https://www.tokenterminal.xyz/protocol/Pool%20Together
+- https://defimarketcap.io/protocol/pool-together
 
 ## Polkadot
 - https://telemetry.polkadot.io
@@ -499,6 +509,7 @@
 - https://explore.duneanalytics.com/dashboard/uniswap-usd-collected-fees-
 - https://www.tokenterminal.xyz/protocol/Uniswap
 - https://defimarketcap.io/protocol/uniswap
+- https://dappradar.com/app/1602/uniswap
 
 ## Urbit
 - https://opensea.io/assets/urbit-id
