@@ -173,6 +173,7 @@
 - https://mattsolomon.dev/compound-rates
 - https://compound.finance/governance/leaderboard
 - https://defimarketcap.io/protocol/compound
+- https://etherscan.io/loantracker#compoundloan
 
 ## Cosmos
 - https://cosmos.bigdipper.live
@@ -235,6 +236,7 @@
 - https://defi.ai
 - https://defimarketcap.io
 - https://explore.duneanalytics.com/public/dashboards/TKSX93XXjf8S9iEHsdccZMPMYrywV3rhPYVv5KBP
+- https://etherscan.io/defi-leaderboard
 
 ## dForce
 - https://defipulse.com/dforce
@@ -388,6 +390,7 @@
 - https://catflip.co/changelog
 - https://dsr.fyi
 - https://vote.makerdao.com/polling
+- https://etherscan.io/loantracker#makerloan
 
 ## Melon
 - https://monitoring.melon.network
