@@ -62,8 +62,8 @@
 - [OpenSea](#opensea)
 - [Opyn](#opyn)
 - [Plasma](#plasma)
-- [Pool Together](#pool-together)
 - [Polkadot](#polkadot)
+- [PoolTogether](#pooltogether)
 - [Raiden](#raiden)
 - [RAY](#ray)
 - [Set Protocol](#set-protocol)
@@ -433,17 +433,17 @@
 ## Plasma
 - https://mainnet.leapdao.org/explorer
 
-## Pool Together
-- https://www.pooltogether.com/#stats
-- https://www.tokenterminal.xyz/protocol/Pool%20Together
-- https://defimarketcap.io/protocol/pool-together
-
 ## Polkadot
 - https://telemetry.polkadot.io
 - https://polkascan.io
 - https://polkastats.io
 - https://subscan.io
 - https://polkadot.js.org/apps/#/explorer
+
+## PoolTogether
+- https://www.pooltogether.com/#stats
+- https://www.tokenterminal.xyz/protocol/Pool%20Together
+- https://defimarketcap.io/protocol/pool-together
 
 ## Raiden
 - https://explorer.raiden.network
