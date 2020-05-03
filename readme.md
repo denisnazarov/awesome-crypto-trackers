@@ -92,6 +92,7 @@
 - https://aavewatch.now.sh
 - https://defimarketcap.io/protocol/aave
 - https://explore.duneanalytics.com/dashboard/aave_1
+- https://dappradar.com/app/1823/aave
 
 ## AirSwap
 - https://curiousgiraffe.io/airswap
@@ -333,6 +334,7 @@
 - https://defipulse.com/kyber
 - https://twitter.com/KyberTracker
 - https://www.tokenterminal.xyz/protocol/Kyber%20Network
+- https://dappradar.com/app/266/kyber
 
 ## Lightning Network
 - https://1ml.com
@@ -388,6 +390,7 @@
 - https://catflip.co/changelog
 - https://dsr.fyi
 - https://vote.makerdao.com/polling
+- https://dappradar.com/app/791/makerdao
 
 ## Melon
 - https://monitoring.melon.network
@@ -416,6 +419,7 @@
 
 ## OpenSea
 - https://explore.duneanalytics.com/queries/1102#1876
+- https://dappradar.com/app/15/opensea
 
 ## Opyn
 - https://explore.duneanalytics.com/public/dashboards/2ECW95TjxJmaGDfETnUvpzZekN6JIfjXgQlQIeqz
@@ -496,6 +500,7 @@
 - https://explore.duneanalytics.com/dashboard/uniswap-usd-collected-fees-
 - https://www.tokenterminal.xyz/protocol/Uniswap
 - https://defimarketcap.io/protocol/uniswap
+- https://dappradar.com/app/1602/uniswap
 
 ## Urbit
 - https://opensea.io/assets/urbit-id
