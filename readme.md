@@ -12,6 +12,7 @@
 - [Arweave](#arweave)
 - [Augur](#augur)
 - [Axie Infinity](#axie-infinity)
+- [Balancer](#balancer)
 - [Bancor](#bancor)
 - [Basic Attention Token](#basic-attention-token)
 - [Bitcoin](#bitcoin)
@@ -92,6 +93,8 @@
 
 ## Aave
 - https://aavewatch.now.sh
+- https://aave-futuristic-dashboard.now.sh
+- https://burn.aave.com
 - https://defimarketcap.io/protocol/aave
 - https://explore.duneanalytics.com/dashboard/aave_1
 - https://dappradar.com/app/1823/aave
@@ -125,6 +128,9 @@
 - https://nonfungible.com/market/history/axieinfinity
 - https://bonifaty.github.io/axie-bounty
 - https://linktr.ee/AxieInfinity
+
+## Balancer
+- https://pools.balancer.exchange/#/list
 
 ## Bancor
 - https://defipulse.com/bancor
