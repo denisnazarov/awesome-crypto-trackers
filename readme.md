@@ -467,6 +467,7 @@
 - https://defipulse.com/set-protocol
 - https://defimarketcap.io/protocol/tokenset
 - https://tokenterminal.xyz/protocol/Set
+- https://tokenviz.io/
 
 ## Sia
 - https://siastats.info
