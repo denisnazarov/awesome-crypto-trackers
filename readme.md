@@ -345,6 +345,7 @@
 - https://twitter.com/KyberTracker
 - https://www.tokenterminal.xyz/protocol/Kyber%20Network
 - https://dappradar.com/app/266/kyber
+- https://twitter.com/KyberStatsBot
 
 ## Lightning Network
 - https://1ml.com
