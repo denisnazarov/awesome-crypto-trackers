@@ -296,6 +296,7 @@
 - http://www.ethviewer.live
 - https://gitcoin.co/gas/history
 - https://www.blockchain.com/explorer?currency=ETH
+- https://bitinfocharts.com/ethereum/
 
 ## Ethereum Classic
 - https://dappdirect.net
