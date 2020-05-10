@@ -196,6 +196,7 @@
 - https://www.cosmosoutpost.io/cosmos/network?lang=en
 - https://www.coingecko.com/en/earn/cosmos
 - https://tokenterminal.xyz/protocol/Cosmos
+- https://mapofzones.com/?period=24
 
 ## Crypto Art
 - https://superrare.co/market
