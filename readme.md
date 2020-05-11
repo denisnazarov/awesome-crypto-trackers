@@ -128,6 +128,9 @@
 - https://nonfungible.com/market/history/axieinfinity
 - https://bonifaty.github.io/axie-bounty
 - https://linktr.ee/AxieInfinity
+- https://dappradar.com/app/282/axie-infinity
+- https://www.stateofthedapps.com/dapps/axie-infinity
+- https://www.dapp.com/dapp/Axie-Infinity
 
 ## Balancer
 - https://pools.balancer.exchange/#/list
