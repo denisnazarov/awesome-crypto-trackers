@@ -237,6 +237,7 @@
 - https://graphs.santiment.net/dex_trades
 - https://app.santiment.net/assets/list?name=decentralized%20exchanges
 - https://debank.com/insight/dex
+- https://www.coingecko.com/en/exchanges/decentralized
 
 ## Decentralized Finance
 - https://defipulse.com
