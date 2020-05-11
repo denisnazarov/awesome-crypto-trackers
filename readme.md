@@ -382,7 +382,6 @@
 - http://flops.live
 - https://loanscan.io/makerdao
 - https://twitter.com/makerdaibot
-- https://dai.stablecoin.science/dai.html
 - https://daipeg.com
 - https://governance-dai.glitch.me
 - https://makerdao.descipher.io
