@@ -96,7 +96,7 @@
 - https://aave-futuristic-dashboard.now.sh
 - https://burn.aave.com
 - https://defimarketcap.io/protocol/aave
-- https://explore.duneanalytics.com/dashboard/aave_1
+- https://explore.duneanalytics.com/public/dashboards/mBzmfbzHTX8JhMqO17vKBmH2lgsaG6oow29BEz0g
 - https://dappradar.com/app/1823/aave
 
 ## AirSwap
@@ -281,10 +281,10 @@
 
 ## ENS
 - https://curiousgiraffe.io/ens
-- https://explore.duneanalytics.com/dashboard/all-things-ens
+- https://explore.duneanalytics.com/public/dashboards/lkZ7FZSPzv2EU4ZG9JTdzdDJrauZPbFDttOkm3Ii
 
 ## Erasure
-- https://explore.duneanalytics.com/dashboard/erasure_2
+- https://explore.duneanalytics.com/public/dashboards/toQVKrADFVYz3ME3158Suqx9eKswZfP4BluKqLCA
 - https://defipulse.com/erasure
 - https://www.tokenterminal.xyz/protocol/Erasure
 - https://twitter.com/ErasureStaked
@@ -295,7 +295,7 @@
 - https://amberdata.io/dashboards/infrastructure
 - https://ethernodes.org
 - https://etherscan.io/charts
-- https://explore.duneanalytics.com/dashboard/contracts-deployed-on-ethereum-per-month
+- https://explore.duneanalytics.com/public/dashboards/gdhWYJDBqsl5Wj2Fkh5RM04WIadzGMZdbtPTvu2c
 - https://app.santiment.net/assets/erc20
 - https://ethdashboard.com
 - http://www.ethviewer.live
@@ -321,7 +321,7 @@
 - https://foam.tools
 
 ## Gnosis
-- https://explore.duneanalytics.com/dashboard/gnosis-dex-protocol
+- https://explore.duneanalytics.com/public/dashboards/F4McuFqmKt8Qe7CdEI4mKWPNOngdCcmlqqUniBuw
 
 ## Golem
 - https://stats.golem.network/ui
@@ -521,7 +521,7 @@
 - https://uniswapstats.com
 - https://pools.fyi
 - https://defipulse.com/uniswap
-- https://explore.duneanalytics.com/dashboard/uniswap-usd-collected-fees-
+- https://explore.duneanalytics.com/public/dashboards/x9W2mq5aUEMVd5CKQOpHdtnD1Lvib99ygXlkccux
 - https://www.tokenterminal.xyz/protocol/Uniswap
 - https://defimarketcap.io/protocol/uniswap
 - https://dappradar.com/app/1602/uniswap
@@ -531,17 +531,17 @@
 - https://urbit.live/stats
 
 ## Wallets
-- https://explore.duneanalytics.com/dashboard/gnosis-multisig_1
-- https://explore.duneanalytics.com/dashboard/gnosis-safe_2
-- https://explore.duneanalytics.com/dashboard/argent
-- https://explore.duneanalytics.com/dashboard/dapper-wallet
-- https://explore.duneanalytics.com/dashboard/authereum_1
-- https://explore.duneanalytics.com/dashboard/monolith
-- https://explore.duneanalytics.com/dashboard/wallets
+- https://explore.duneanalytics.com/public/dashboards/VQ7MCoyaPwFn8uYHQNtJSrUywz4V0VhNz7PRMNQj
+- https://explore.duneanalytics.com/public/dashboards/zpMsClr5AaTXPCZGy76Gmv9nuqtYwyKApRSiHoH8 (Gnosis Multisig)
+- https://explore.duneanalytics.com/public/dashboards/dFQIIvx6kq3uDqFpVk4QjeWhhQIkkcjDY02z5edC (Gnosis Safe)
+- https://explore.duneanalytics.com/public/dashboards/agX5L4vjO0t3HXafPDfAK7DDnIXEvsmIVLCroIIp (Argent)
+- https://explore.duneanalytics.com/public/dashboards/LmyMDEMtoHZcIySHQ9ttHqsvp8FznarNipN0EZC6 (Dapper)
+- https://explore.duneanalytics.com/public/dashboards/QCUzfmpOYuLri6Em6fy1BD733GCNsfzEArlMBcR7 (Authereum)
+- https://explore.duneanalytics.com/public/dashboards/UBhrrwjzepYE95v2JLLADYm2hW2JRh1IsYH8SZjt (Monolith)
 
 ## WBTC
 - https://defipulse.com/wbtc
-- https://explore.duneanalytics.com/dashboard/wbtc
+- https://explore.duneanalytics.com/public/dashboards/7ZehezrHNzd1R17SVeNqdbsCb4AZ1TmSHoBb0yEj
 
 ## xDai
 - https://blockscout.com/poa/dai
