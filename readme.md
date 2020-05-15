@@ -201,6 +201,7 @@
 - https://www.coingecko.com/en/earn/cosmos
 - https://tokenterminal.xyz/protocol/Cosmos
 - https://mapofzones.com/?period=24
+- https://ibc-goz.irisplorer.io/#
 
 ## Crypto Art
 - https://superrare.co/market
