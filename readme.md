@@ -164,6 +164,7 @@
 - http://bitcoin.zorinaq.com/price
 - http://bitcoin.sipa.be
 - https://bitcoin.clarkmoody.com/dashboard
+- https://btconethereum.com
 
 ## bZx
 - https://defipulse.com/bzx
