@@ -428,6 +428,7 @@
 - https://nonfungible.com
 - https://opensea.io/rankings
 - https://bloxy.info/list_tokens/ERC721
+- https://nftalert.com/
 
 ## Nuo Network
 - https://nuoscan.io
