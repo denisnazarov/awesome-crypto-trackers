@@ -499,6 +499,10 @@
 - https://defipulse.com/synthetix
 - https://scout.cool/synthetix/mainnet
 - https://www.tokenterminal.xyz/protocol/Synthetix
+- https://defimarketcap.io/protocol/synthetix
+- https://dappradar.com/app/1810/synthetix
+- https://twitter.com/snxwhalewatch
+- https://www.stateofthedapps.com/dapps/synthetix
 
 ## Terra
 - https://station.terra.money
