@@ -459,6 +459,7 @@
 - https://www.pooltogether.com/#stats
 - https://www.tokenterminal.xyz/protocol/Pool%20Together
 - https://defimarketcap.io/protocol/pool-together
+- https://twitter.com/PoolTogetherBot
 
 ## Raiden
 - https://explorer.raiden.network
