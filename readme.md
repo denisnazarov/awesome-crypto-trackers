@@ -87,6 +87,9 @@
 - https://amberdata.io/addresses/0xe41d2489571d322189246dafa5ebde1f4699f498/metrics
 - https://twitter.com/0xtracker
 - https://yield.fi/app/0x
+- https://0x.org/zrx/vote
+- https://www.tokenterminal.xyz/protocol/0x
+- https://www.stateofthedapps.com/dapps/0x
 
 ## 1inch
 - https://explore.duneanalytics.com/public/dashboards/Onip3ZzVsz3yqCOuLm9arPg4AmZa9QXgXuIdtLbR
