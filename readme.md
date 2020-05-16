@@ -98,6 +98,7 @@
 - https://defimarketcap.io/protocol/aave
 - https://explore.duneanalytics.com/public/dashboards/mBzmfbzHTX8JhMqO17vKBmH2lgsaG6oow29BEz0g
 - https://dappradar.com/app/1823/aave
+- https://explore.duneanalytics.com/public/dashboards/duig0czbmnFZzaZOAmeTmC9qlv3bPVCOb5osqMVM
 
 ## AirSwap
 - https://curiousgiraffe.io/airswap
