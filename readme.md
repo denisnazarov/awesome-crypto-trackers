@@ -500,6 +500,7 @@
 - https://debank.com/insight/stable
 - https://defistats.io/#/stablecoins
 - https://defimarketcap.io/protocol/stablecoin
+- https://usdonethereum.com
 
 ## Synthetix
 - https://dashboard.synthetix.io
