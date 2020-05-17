@@ -307,7 +307,7 @@
 - http://www.ethviewer.live
 - https://gitcoin.co/gas/history
 - https://www.blockchain.com/explorer?currency=ETH
-- https://bitinfocharts.com/ethereum/
+- https://bitinfocharts.com/ethereum
 
 ## Ethereum Classic
 - https://dappdirect.net
@@ -433,7 +433,7 @@
 - https://nonfungible.com
 - https://opensea.io/rankings
 - https://bloxy.info/list_tokens/ERC721
-- https://nftalert.com/
+- https://nftalert.com
 
 ## Nuo Network
 - https://nuoscan.io
@@ -482,7 +482,7 @@
 - https://defipulse.com/set-protocol
 - https://defimarketcap.io/protocol/tokenset
 - https://tokenterminal.xyz/protocol/Set
-- https://tokenviz.io/
+- https://tokenviz.io
 
 ## Sia
 - https://siastats.info
@@ -494,6 +494,7 @@
 ## Stablecoins
 - https://stablecoinindex.com
 - https://stablecoinstats.com
+- https://usdonethereum.com
 - https://app.santiment.net/assets/list?name=stablecoins
 - https://coincodex.com/stablecoins
 - https://debank.com/insight/stable
