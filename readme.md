@@ -180,6 +180,7 @@
 - https://celo.org/validators/explore
 - https://explorer.celo.org
 - https://celoist.com/ecosystem
+- http://celolisten.kobi.one
 
 ## Compound
 - https://app.compound.finance/#Markets
