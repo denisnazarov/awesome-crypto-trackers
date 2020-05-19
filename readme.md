@@ -67,6 +67,7 @@
 - [PoolTogether](#pooltogether)
 - [Raiden](#raiden)
 - [RAY](#ray)
+- [Reddit](#reddit)
 - [Set Protocol](#set-protocol)
 - [Sia](#sia)
 - [Social](#social)
@@ -474,6 +475,9 @@
 - https://defipulse.com/robo-advisor-for-yield
 - https://staking.staked.us/ray 
 - https://twitter.com/RoboForYield
+
+## Reddit
+- https://reddit.dappradar.com
 
 ## Set Protocol
 - https://scout.cool/setprotocol/mainnet
