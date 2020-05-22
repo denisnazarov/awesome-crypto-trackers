@@ -91,6 +91,7 @@
 - https://0x.org/zrx/vote
 - https://www.tokenterminal.xyz/protocol/0x
 - https://www.stateofthedapps.com/dapps/0x
+- https://explore.duneanalytics.com/public/dashboards/ySmrGvq4TquPPU0PULaCUpX4hxSDZS0zAsxtqi8g
 
 ## 1inch
 - https://explore.duneanalytics.com/public/dashboards/Onip3ZzVsz3yqCOuLm9arPg4AmZa9QXgXuIdtLbR
