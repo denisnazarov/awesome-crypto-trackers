@@ -386,6 +386,7 @@
 - https://defiprime.com/defi-rates
 
 ## Loopring
+- https://explore.duneanalytics.com/public/dashboards/Ul8ApgbYzAaZt8N9pQzdbZYzvV0Xk2KcycNh92an
 - https://defipulse.com/loopring
 
 ## MakerDAO
