@@ -511,6 +511,7 @@
 - https://debank.com/insight/stable
 - https://defistats.io/#/stablecoins
 - https://defimarketcap.io/protocol/stablecoin
+- https://explore.duneanalytics.com/public/dashboards/SjyF797e4xaJHBkCNDxR2CfIa8jgAaK68pNUa4Ra
 
 ## Synthetix
 - https://dashboard.synthetix.io
