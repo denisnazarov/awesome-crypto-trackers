@@ -141,6 +141,8 @@
 
 ## Balancer
 - https://pools.balancer.exchange/#/list
+- https://explore.duneanalytics.com/dashboard/balancer
+- https://defimarketcap.io/protocol/balancer
 
 ## Bancor
 - https://defipulse.com/bancor
