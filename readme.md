@@ -530,6 +530,7 @@
 ## Terra
 - https://station.terra.money
 - https://www.tokenterminal.xyz/protocol/Terra
+- https://www.chaiscan.com
 
 ## Tezos
 - https://www.mytezosbaker.com
