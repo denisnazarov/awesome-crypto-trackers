@@ -553,6 +553,7 @@
 - https://www.tokenterminal.xyz/protocol/Uniswap
 - https://defimarketcap.io/protocol/uniswap
 - https://dappradar.com/app/1602/uniswap
+- https://uniswap.vision/
 
 ## Urbit
 - https://opensea.io/assets/urbit-id
