@@ -454,7 +454,7 @@
 - https://www.oasisscan.com
 
 ## OpenSea
-- https://explore.duneanalytics.com/queries/1102#1876
+- https://explore.duneanalytics.com/public/dashboards/oYE5ns4pgCusLOdKJW4UVNJrXNOXhbblF99QlF2i
 - https://dappradar.com/app/15/opensea
 
 ## Opyn
