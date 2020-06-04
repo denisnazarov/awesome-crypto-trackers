@@ -369,6 +369,7 @@
 - https://www.tokenterminal.xyz/protocol/Kyber%20Network
 - https://dappradar.com/app/266/kyber
 - https://twitter.com/KyberStatsBot
+- https://explore.duneanalytics.com/dashboard/kyber-network_2
 
 ## Lightning Network
 - https://1ml.com
