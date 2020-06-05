@@ -93,6 +93,8 @@
 - https://www.tokenterminal.xyz/protocol/0x
 - https://www.stateofthedapps.com/dapps/0x
 - https://explore.duneanalytics.com/public/dashboards/ySmrGvq4TquPPU0PULaCUpX4hxSDZS0zAsxtqi8g
+- https://explore.duneanalytics.com/public/dashboards/9y1F6dsA78cc0vFvp7LGCYzP25cl0aucx2mr7lMq
+- https://explore.duneanalytics.com/public/dashboards/WN6ISc5Hd217ighCIPGp9eKtgdCyt9MyJH90eqEE
 
 ## 1inch
 - https://explore.duneanalytics.com/public/dashboards/Onip3ZzVsz3yqCOuLm9arPg4AmZa9QXgXuIdtLbR
@@ -369,7 +371,7 @@
 - https://www.tokenterminal.xyz/protocol/Kyber%20Network
 - https://dappradar.com/app/266/kyber
 - https://twitter.com/KyberStatsBot
-- https://explore.duneanalytics.com/dashboard/kyber-network_2
+- https://explore.duneanalytics.com/public/dashboards/VodQUyw1pEvWeW5t92B8JHTjNEBjAAreTP0xSf9p
 
 ## Lightning Network
 - https://1ml.com
@@ -555,7 +557,7 @@
 - https://www.tokenterminal.xyz/protocol/Uniswap
 - https://defimarketcap.io/protocol/uniswap
 - https://dappradar.com/app/1602/uniswap
-- https://uniswap.vision/
+- https://uniswap.vision
 
 ## Urbit
 - https://opensea.io/assets/urbit-id
