@@ -606,7 +606,7 @@
 - https://docs.amberdata.io/reference#get-gas-predictions
 - https://docs.amberdata.io/reference#get-gas-percentiles
 - https://stat.bloxy.info/superset/dashboard/gas
-- https://explore.duneanalytics.com/dashboard/gas-prices
+- https://explore.duneanalytics.com/public/dashboards/A0rx3KNPv1evzjyFhUTIEMuL6xcJFjVfkj97jUym
 
 ### Mining profitability
 - https://whattomine.com
