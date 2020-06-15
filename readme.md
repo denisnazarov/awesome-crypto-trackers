@@ -320,6 +320,7 @@
 - https://gitcoin.co/gas/history
 - https://www.blockchain.com/explorer?currency=ETH
 - https://bitinfocharts.com/ethereum
+- https://eth.zengo.link/queue/#0,2h
 
 ## Ethereum Classic
 - https://dappdirect.net
