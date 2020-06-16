@@ -205,6 +205,7 @@
 - https://defimarketcap.io/protocol/compound
 - https://etherscan.io/loantracker#compoundloan
 - https://duneanalytics.com/comp
+- http://www.predictions.exchange/compound/None
 
 ## Cosmos
 - https://cosmos.bigdipper.live
