@@ -258,7 +258,7 @@
 - https://twitter.com/DexWars
 - https://graphs.santiment.net/dex_trades
 - https://app.santiment.net/assets/list?name=decentralized%20exchanges
-- https://debank.com/insight/dex
+- https://debank.com/ranking/dex
 - https://www.coingecko.com/en/exchanges/decentralized
 
 ## Decentralized Finance
@@ -270,6 +270,7 @@
 - https://defimarketcap.io
 - https://explore.duneanalytics.com/public/dashboards/TKSX93XXjf8S9iEHsdccZMPMYrywV3rhPYVv5KBP
 - https://etherscan.io/defi-leaderboard
+- https://debank.com/ranking/lending
 
 ## dForce
 - https://defipulse.com/dforce
