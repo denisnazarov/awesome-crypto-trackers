@@ -177,6 +177,7 @@
 - http://bitcoin.sipa.be
 - https://bitcoin.clarkmoody.com/dashboard
 - https://btconethereum.com
+- https://explore.duneanalytics.com/public/dashboards/Uo0VR7wC4szJaBxGSjLOraGQSdJQjoXAQzp7BgzE
 
 ## bloXroute
 - https://www.bdn-explorer.com
