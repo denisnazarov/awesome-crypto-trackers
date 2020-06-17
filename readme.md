@@ -76,6 +76,7 @@
 - [Synthetix](#synthetix)
 - [Terra](#terra)
 - [Tezos](#Tezos)
+- [Tornado Cash](#tornado-cash)
 - [Uniswap](#uniswap)
 - [Urbit](#urbit)
 - [Wallets](#wallets)
@@ -548,6 +549,9 @@
 - https://www.coingecko.com/en/earn/tezos
 - https://twitter.com/tezosagorabot
 - https://tokenterminal.xyz/protocol/Tezos
+
+## Tornado Cash
+- https://explore.duneanalytics.com/public/dashboards/CekuHpdwcYfjKyKQ9TCGPPDfZWofgbNpE3Y4xeoC
 
 ## Uniswap
 - https://uniswap.info
