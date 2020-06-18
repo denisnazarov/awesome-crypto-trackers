@@ -622,6 +622,7 @@
 
 ### Oracles
 - https://oracles.club
+- https://github.com/linda-xie/defi-oracles
 
 ### Price
 - https://coinmarketcap.com
