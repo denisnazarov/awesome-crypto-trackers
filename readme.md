@@ -632,6 +632,9 @@
 - https://www.coingecko.com
 - https://www.tokenterminal.xyz
 
+### Security Audits
+- https://consensys.github.io/blockchainSecurityDB
+
 ### Staking
 - https://stakingrewards.com
 - https://staked.us/yields
