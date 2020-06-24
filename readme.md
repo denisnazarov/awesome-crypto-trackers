@@ -144,6 +144,7 @@
 
 ## Balancer
 - https://pools.balancer.exchange/#/list
+- http://www.predictions.exchange/balancer/None
 - https://explore.duneanalytics.com/public/dashboards/c4jSa2JB7EUd75oX3mDaZEw4bu3K09nSjFu1zJ1D
 - https://defimarketcap.io/protocol/balancer
 
