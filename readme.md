@@ -16,6 +16,7 @@
 - [Bancor](#bancor)
 - [Basic Attention Token](#basic-attention-token)
 - [Bitcoin](#bitcoin)
+- [Bitcoin on Ethereum](#bitcoin-on-ethereum)
 - [bloXroute](#bloxroute)
 - [bZx](#bzx)
 - [Celo](#celo)
@@ -80,7 +81,6 @@
 - [Uniswap](#uniswap)
 - [Urbit](#urbit)
 - [Wallets](#wallets)
-- [WBTC](#wbtc)
 - [xDai](#xdai)
 - [Other](#other)
 
@@ -178,8 +178,13 @@
 - http://bitcoin.zorinaq.com/price
 - http://bitcoin.sipa.be
 - https://bitcoin.clarkmoody.com/dashboard
+
+## Bitcoin on Ethereum
 - https://btconethereum.com
+- http://www.predictions.exchange/ethbtc
 - https://explore.duneanalytics.com/public/dashboards/Uo0VR7wC4szJaBxGSjLOraGQSdJQjoXAQzp7BgzE
+- https://defipulse.com/wbtc
+- https://explore.duneanalytics.com/public/dashboards/7ZehezrHNzd1R17SVeNqdbsCb4AZ1TmSHoBb0yEj
 
 ## bloXroute
 - https://www.bdn-explorer.com
@@ -581,10 +586,6 @@
 - https://explore.duneanalytics.com/public/dashboards/LmyMDEMtoHZcIySHQ9ttHqsvp8FznarNipN0EZC6 (Dapper)
 - https://explore.duneanalytics.com/public/dashboards/QCUzfmpOYuLri6Em6fy1BD733GCNsfzEArlMBcR7 (Authereum)
 - https://explore.duneanalytics.com/public/dashboards/UBhrrwjzepYE95v2JLLADYm2hW2JRh1IsYH8SZjt (Monolith)
-
-## WBTC
-- https://defipulse.com/wbtc
-- https://explore.duneanalytics.com/public/dashboards/7ZehezrHNzd1R17SVeNqdbsCb4AZ1TmSHoBb0yEj
 
 ## xDai
 - https://blockscout.com/poa/dai
