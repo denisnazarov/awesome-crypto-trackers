@@ -221,6 +221,7 @@
 - https://hubble.figment.network
 - https://nylira.net/3d
 - https://mintscan.io
+- https://cosmos.aneka.io
 - https://stake.id
 - https://everstake.one/analytics
 - https://look.ping.pub/validator?chain=cosmoshub
