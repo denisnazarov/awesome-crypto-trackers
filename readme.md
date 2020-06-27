@@ -262,7 +262,6 @@
 - https://www.coingecko.com/en/exchanges
 - https://dex.watch
 - https://etherscan.io/dextracker
-- https://dex.ag
 - https://dexindex.io
 - https://explore.duneanalytics.com/public/dashboards/c87JEtVi2GlyIZHQOR02NsfyJV48eaKEQSiKplJ7
 - https://bloxy.info/list_dexes
@@ -271,6 +270,7 @@
 - https://app.santiment.net/assets/list?name=decentralized%20exchanges
 - https://debank.com/ranking/dex
 - https://www.coingecko.com/en/exchanges/decentralized
+- http://www.predictions.exchange/dex
 
 ## Decentralized Finance
 - https://defipulse.com
@@ -442,6 +442,7 @@
 - https://vote.makerdao.com/polling
 - https://etherscan.io/loantracker#makerloan
 - https://dappradar.com/app/791/makerdao
+- http://www.predictions.exchange/makerdao_vaults
 
 ## Melon
 - https://monitoring.melon.network
@@ -531,6 +532,7 @@
 - https://defistats.io/#/stablecoins
 - https://defimarketcap.io/protocol/stablecoin
 - https://explore.duneanalytics.com/public/dashboards/SjyF797e4xaJHBkCNDxR2CfIa8jgAaK68pNUa4Ra
+- http://www.predictions.exchange/stablecoin
 
 ## Synthetix
 - https://dashboard.synthetix.io
@@ -574,6 +576,7 @@
 - https://defimarketcap.io/protocol/uniswap
 - https://dappradar.com/app/1602/uniswap
 - https://uniswap.vision
+- http://www.predictions.exchange/uniswap_markets
 
 ## Urbit
 - https://opensea.io/assets/urbit-id
