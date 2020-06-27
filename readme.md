@@ -417,6 +417,7 @@
 - https://makerscan.io
 - https://daistats.com
 - https://daiauctions.com
+- https://maker-auctions.io/#
 - http://flops.live
 - https://loanscan.io/makerdao
 - https://twitter.com/makerdaibot
