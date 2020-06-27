@@ -544,6 +544,7 @@
 - https://dappradar.com/app/1810/synthetix
 - https://twitter.com/snxwhalewatch
 - https://www.stateofthedapps.com/dapps/synthetix
+- https://snx.tools/home
 
 ## Terra
 - https://station.terra.money
