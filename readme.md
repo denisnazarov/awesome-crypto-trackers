@@ -199,6 +199,7 @@
 - https://explorer.celo.org
 - https://celoist.com/ecosystem
 - http://celolisten.kobi.one
+- http://celoreserve.org/
 
 ## Compound
 - https://app.compound.finance/#Markets
