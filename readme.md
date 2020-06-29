@@ -214,6 +214,13 @@
 - https://etherscan.io/loantracker#compoundloan
 - https://duneanalytics.com/comp
 - http://www.predictions.exchange/compound/None
+- https://www.coingecko.com/en/coins/compound
+- https://www.coingecko.com/en/coins/compound-ether
+- https://www.coingecko.com/en/coins/compound-usdt
+- https://www.coingecko.com/en/coins/compound-usd-coin
+- https://www.coingecko.com/en/coins/compound-dai
+- https://www.coingecko.com/en/coins/compound-basic-attention-token
+- https://www.coingecko.com/en/coins/compound-0x
 
 ## Cosmos
 - https://cosmos.bigdipper.live
@@ -534,6 +541,7 @@
 - https://defimarketcap.io/protocol/stablecoin
 - https://explore.duneanalytics.com/public/dashboards/SjyF797e4xaJHBkCNDxR2CfIa8jgAaK68pNUa4Ra
 - http://www.predictions.exchange/stablecoin
+- https://skew.com/dashboard/stable-coins
 
 ## Synthetix
 - https://dashboard.synthetix.io
@@ -546,6 +554,13 @@
 - https://twitter.com/snxwhalewatch
 - https://www.stateofthedapps.com/dapps/synthetix
 - https://snx.tools/home
+- https://www.coingecko.com/en/exchanges/synthetix-exchange
+- https://www.coingecko.com/en/coins/synthetix-network-token
+- https://www.coingecko.com/en/coins/susd
+- https://www.coingecko.com/en/coins/seth
+- https://www.coingecko.com/en/coins/sbtc
+- https://www.coingecko.com/en/coins/ieth
+- https://www.coingecko.com/en/coins/sxau
 
 ## Terra
 - https://station.terra.money
