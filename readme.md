@@ -91,6 +91,7 @@
 - https://twitter.com/0xtracker
 - https://yield.fi/app/0x
 - https://0x.org/zrx/vote
+- https://0x.org/zrx/staking
 - https://www.tokenterminal.xyz/protocol/0x
 - https://www.stateofthedapps.com/dapps/0x
 - https://explore.duneanalytics.com/public/dashboards/ySmrGvq4TquPPU0PULaCUpX4hxSDZS0zAsxtqi8g
