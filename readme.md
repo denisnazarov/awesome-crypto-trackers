@@ -109,6 +109,8 @@
 - https://explore.duneanalytics.com/public/dashboards/mBzmfbzHTX8JhMqO17vKBmH2lgsaG6oow29BEz0g
 - https://dappradar.com/app/1823/aave
 - https://explore.duneanalytics.com/public/dashboards/duig0czbmnFZzaZOAmeTmC9qlv3bPVCOb5osqMVM
+- https://www.tokenterminal.xyz/protocol/Aave
+- https://www.stateofthedapps.com/dapps/aave-protocol
 
 ## AirSwap
 - https://curiousgiraffe.io/airswap
