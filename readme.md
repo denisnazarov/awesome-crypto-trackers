@@ -91,6 +91,7 @@
 - https://twitter.com/0xtracker
 - https://yield.fi/app/0x
 - https://0x.org/zrx/vote
+- https://0x.org/zrx/staking
 - https://www.tokenterminal.xyz/protocol/0x
 - https://www.stateofthedapps.com/dapps/0x
 - https://explore.duneanalytics.com/public/dashboards/ySmrGvq4TquPPU0PULaCUpX4hxSDZS0zAsxtqi8g
@@ -108,6 +109,8 @@
 - https://explore.duneanalytics.com/public/dashboards/mBzmfbzHTX8JhMqO17vKBmH2lgsaG6oow29BEz0g
 - https://dappradar.com/app/1823/aave
 - https://explore.duneanalytics.com/public/dashboards/duig0czbmnFZzaZOAmeTmC9qlv3bPVCOb5osqMVM
+- https://www.tokenterminal.xyz/protocol/Aave
+- https://www.stateofthedapps.com/dapps/aave-protocol
 
 ## AirSwap
 - https://curiousgiraffe.io/airswap
@@ -148,6 +151,7 @@
 - https://explore.duneanalytics.com/public/dashboards/c4jSa2JB7EUd75oX3mDaZEw4bu3K09nSjFu1zJ1D
 - https://defimarketcap.io/protocol/balancer
 - https://bal-reports.herokuapp.com/#
+- https://defipulse.com/balancer
 
 ## Bancor
 - https://defipulse.com/bancor
@@ -200,6 +204,7 @@
 - https://explorer.celo.org
 - https://celoist.com/ecosystem
 - http://celolisten.kobi.one
+- http://celoreserve.org/
 
 ## Compound
 - https://app.compound.finance/#Markets
@@ -215,6 +220,13 @@
 - https://etherscan.io/loantracker#compoundloan
 - https://duneanalytics.com/comp
 - http://www.predictions.exchange/compound/None
+- https://www.coingecko.com/en/coins/compound
+- https://www.coingecko.com/en/coins/compound-ether
+- https://www.coingecko.com/en/coins/compound-usdt
+- https://www.coingecko.com/en/coins/compound-usd-coin
+- https://www.coingecko.com/en/coins/compound-dai
+- https://www.coingecko.com/en/coins/compound-basic-attention-token
+- https://www.coingecko.com/en/coins/compound-0x
 
 ## Cosmos
 - https://cosmos.bigdipper.live
@@ -535,6 +547,7 @@
 - https://defimarketcap.io/protocol/stablecoin
 - https://explore.duneanalytics.com/public/dashboards/SjyF797e4xaJHBkCNDxR2CfIa8jgAaK68pNUa4Ra
 - http://www.predictions.exchange/stablecoin
+- https://skew.com/dashboard/stable-coins
 
 ## Synthetix
 - https://dashboard.synthetix.io
@@ -547,6 +560,13 @@
 - https://twitter.com/snxwhalewatch
 - https://www.stateofthedapps.com/dapps/synthetix
 - https://snx.tools/home
+- https://www.coingecko.com/en/exchanges/synthetix-exchange
+- https://www.coingecko.com/en/coins/synthetix-network-token
+- https://www.coingecko.com/en/coins/susd
+- https://www.coingecko.com/en/coins/seth
+- https://www.coingecko.com/en/coins/sbtc
+- https://www.coingecko.com/en/coins/ieth
+- https://www.coingecko.com/en/coins/sxau
 
 ## Terra
 - https://station.terra.money
