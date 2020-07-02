@@ -216,6 +216,7 @@
 - https://chiragkhatri.me/compound-liquidator
 - https://mattsolomon.dev/compound-rates
 - https://compound.finance/governance/leaderboard
+- https://compound.finance/governance/comp
 - https://defimarketcap.io/protocol/compound
 - https://etherscan.io/loantracker#compoundloan
 - https://duneanalytics.com/comp
