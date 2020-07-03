@@ -189,6 +189,7 @@
 - http://www.predictions.exchange/ethbtc
 - https://explore.duneanalytics.com/public/dashboards/Uo0VR7wC4szJaBxGSjLOraGQSdJQjoXAQzp7BgzE
 - https://defipulse.com/wbtc
+- https://defipulse.com/renvm
 - https://explore.duneanalytics.com/public/dashboards/7ZehezrHNzd1R17SVeNqdbsCb4AZ1TmSHoBb0yEj
 
 ## bloXroute
