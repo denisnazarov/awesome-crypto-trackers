@@ -29,6 +29,7 @@
 - [Dapps](#dapps)
 - [Decentralized Exchanges](#decentralized-exchanges)
 - [Decentralized Finance](#decentralized-finance)
+- [DeversiFi](#deversifi)
 - [dForce](#dforce)
 - [District0x](#district0x)
 - [DutchX](#dutchx)
@@ -297,6 +298,9 @@
 - https://explore.duneanalytics.com/public/dashboards/TKSX93XXjf8S9iEHsdccZMPMYrywV3rhPYVv5KBP
 - https://etherscan.io/defi-leaderboard
 - https://debank.com/ranking/lending
+
+## DeversiFi
+- https://defipulse.com/deversifi
 
 ## dForce
 - https://defipulse.com/dforce
