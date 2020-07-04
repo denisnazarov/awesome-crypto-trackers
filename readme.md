@@ -223,6 +223,7 @@
 - https://etherscan.io/loantracker#compoundloan
 - https://duneanalytics.com/comp
 - http://www.predictions.exchange/compound/None
+- https://stat.farm
 - https://www.coingecko.com/en/coins/compound
 - https://www.coingecko.com/en/coins/compound-ether
 - https://www.coingecko.com/en/coins/compound-usdt
