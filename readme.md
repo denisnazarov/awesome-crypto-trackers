@@ -152,6 +152,9 @@
 - http://www.predictions.exchange/balancer/None
 - https://explore.duneanalytics.com/public/dashboards/c4jSa2JB7EUd75oX3mDaZEw4bu3K09nSjFu1zJ1D
 - https://defimarketcap.io/protocol/balancer
+- https://defimarketcap.io/token/0xba100000625a3754423978a60c9317c58a424e3d
+- https://www.coingecko.com/en/exchanges/balancer
+- https://www.coingecko.com/en/coins/balancer
 - https://bal-reports.herokuapp.com/#
 - https://defipulse.com/balancer
 
