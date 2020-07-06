@@ -43,6 +43,7 @@
 - [Ethereum Classic](#ethereum-classic)
 - [Etheroll](#etheroll)
 - [Exchanges](#exchanges)
+- [Flexa](#flexa)
 - [FOAM](#foam)
 - [Gnosis](#gnosis)
 - [Golem](#golem)
@@ -367,6 +368,9 @@
 - https://www.tokenanalyst.io
 - https://cer.live
 - https://www.bitcointradevolume.com
+
+## Flexa
+- https://defipulse.com/flexa
 
 ## FOAM
 - https://foam.tools
