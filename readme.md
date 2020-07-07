@@ -58,6 +58,7 @@
 - [Loans](#loans)
 - [Loopring](#loopring)
 - [MakerDAO](#makerdao)
+- [MCDEX](#mcdex)
 - [Melon](#melon)
 - [Nervos](#nervos)
 - [Nexus Mutual](#nexus-mutual)
@@ -471,6 +472,9 @@
 - https://etherscan.io/loantracker#makerloan
 - https://dappradar.com/app/791/makerdao
 - http://www.predictions.exchange/makerdao_vaults
+
+## MCDEX
+- https://defipulse.com/mcdex
 
 ## Melon
 - https://monitoring.melon.network
