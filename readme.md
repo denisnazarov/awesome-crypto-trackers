@@ -197,6 +197,7 @@
 - https://defipulse.com/wbtc
 - https://defipulse.com/renvm
 - https://explore.duneanalytics.com/public/dashboards/7ZehezrHNzd1R17SVeNqdbsCb4AZ1TmSHoBb0yEj
+- https://explore.duneanalytics.com/public/dashboards/XZOShf6UfbaRUx0dmjYXOBtQdiaKAaQJuDAq0EkF
 
 ## bloXroute
 - https://www.bdn-explorer.com
