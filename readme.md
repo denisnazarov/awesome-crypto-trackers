@@ -336,7 +336,7 @@
 
 ## ENS
 - https://curiousgiraffe.io/ens
-- https://explore.duneanalytics.com/public/dashboards/lkZ7FZSPzv2EU4ZG9JTdzdDJrauZPbFDttOkm3Ii
+- https://explore.duneanalytics.com/public/dashboards/TBGfAahABfhX20G53mmaNOJ9cnFx8NRDgvlsXUNc
 
 ## Erasure
 - https://explore.duneanalytics.com/public/dashboards/toQVKrADFVYz3ME3158Suqx9eKswZfP4BluKqLCA
