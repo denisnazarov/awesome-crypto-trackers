@@ -267,6 +267,7 @@
 
 ## Curve
 - https://explore.duneanalytics.com/public/dashboards/BYi7GoQIQvMEQTLtI3WSJWneqKu6NBKdknA5S6im
+- https://defipulse.com/curve-finance
 
 ## DAOs
 - http://deepdao.world/#/app/dashboard
