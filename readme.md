@@ -83,6 +83,7 @@
 - [Tornado Cash](#tornado-cash)
 - [Uniswap](#uniswap)
 - [Urbit](#urbit)
+- [Vite](#vite)
 - [Wallets](#wallets)
 - [xDai](#xdai)
 - [Other](#other)
@@ -624,6 +625,11 @@
 ## Urbit
 - https://opensea.io/assets/urbit-id
 - https://urbit.live/stats
+
+## Vite
+- https://explorer.vite.net
+- https://vitescan.io
+- https://vitex.net
 
 ## Wallets
 - https://explore.duneanalytics.com/public/dashboards/VQ7MCoyaPwFn8uYHQNtJSrUywz4V0VhNz7PRMNQj
