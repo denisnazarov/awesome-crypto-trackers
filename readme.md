@@ -20,6 +20,7 @@
 - [bloXroute](#bloxroute)
 - [bZx](#bzx)
 - [Celo](#celo)
+- [Chia](#chia)
 - [Compound](#compound)
 - [Cosmos](#cosmos)
 - [Crypto Art](#crypto-art)
@@ -213,6 +214,9 @@
 - https://celoist.com/ecosystem
 - http://celolisten.kobi.one
 - http://celoreserve.org/
+
+## Chia
+- https://www.chiaexplorer.com/
 
 ## Compound
 - https://app.compound.finance/#Markets
