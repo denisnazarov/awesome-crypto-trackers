@@ -22,6 +22,7 @@
 - [Celo](#celo)
 - [Chia](#chia)
 - [Compound](#compound)
+- [Compound (Governance)](#compound-governance)
 - [Cosmos](#cosmos)
 - [Crypto Art](#crypto-art)
 - [Cryptokitties](#cryptokitties)
@@ -227,8 +228,6 @@
 - https://defipulse.com/compound
 - https://chiragkhatri.me/compound-liquidator
 - https://mattsolomon.dev/compound-rates
-- https://compound.finance/governance/leaderboard
-- https://compound.finance/governance/comp
 - https://defimarketcap.io/protocol/compound
 - https://etherscan.io/loantracker#compoundloan
 - https://duneanalytics.com/comp
@@ -241,6 +240,11 @@
 - https://www.coingecko.com/en/coins/compound-dai
 - https://www.coingecko.com/en/coins/compound-basic-attention-token
 - https://www.coingecko.com/en/coins/compound-0x
+
+## Compound (Governance)
+- https://compound.finance/governance/comp
+- https://compound.finance/governance/leaderboard
+- https://divided.house/#/Compound
 
 ## Cosmos
 - https://cosmos.bigdipper.live
