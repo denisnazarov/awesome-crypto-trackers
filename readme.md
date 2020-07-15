@@ -241,6 +241,7 @@
 - https://www.coingecko.com/en/coins/compound-dai
 - https://www.coingecko.com/en/coins/compound-basic-attention-token
 - https://www.coingecko.com/en/coins/compound-0x
+- https://divided.house/#/Compound
 
 ## Cosmos
 - https://cosmos.bigdipper.live
