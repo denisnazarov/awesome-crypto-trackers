@@ -61,6 +61,7 @@
 - [MakerDAO](#makerdao)
 - [MCDEX](#mcdex)
 - [Melon](#melon)
+- [mStable](#mstable)
 - [Nervos](#nervos)
 - [Nexus Mutual](#nexus-mutual)
 - [NFTs](#nfts)
@@ -486,6 +487,10 @@
 ## Melon
 - https://monitoring.melon.network
 - https://defipulse.com/melon
+
+## mStable
+- https://app.mstable.org/analytics
+- https://defipulse.com/mstable
 
 ## Nervos
 - https://explorer.nervos.org
