@@ -156,8 +156,6 @@
 - https://explore.duneanalytics.com/public/dashboards/c4jSa2JB7EUd75oX3mDaZEw4bu3K09nSjFu1zJ1D
 - https://defimarketcap.io/protocol/balancer
 - https://defimarketcap.io/token/0xba100000625a3754423978a60c9317c58a424e3d
-- https://www.coingecko.com/en/exchanges/balancer
-- https://www.coingecko.com/en/coins/balancer
 - https://bal-reports.herokuapp.com/#
 - https://defipulse.com/balancer
 
@@ -235,13 +233,6 @@
 - https://duneanalytics.com/comp
 - http://www.predictions.exchange/compound/None
 - https://stat.farm
-- https://www.coingecko.com/en/coins/compound
-- https://www.coingecko.com/en/coins/compound-ether
-- https://www.coingecko.com/en/coins/compound-usdt
-- https://www.coingecko.com/en/coins/compound-usd-coin
-- https://www.coingecko.com/en/coins/compound-dai
-- https://www.coingecko.com/en/coins/compound-basic-attention-token
-- https://www.coingecko.com/en/coins/compound-0x
 - https://divided.house/#/Compound
 
 ## Cosmos
@@ -255,7 +246,6 @@
 - https://everstake.one/analytics
 - https://look.ping.pub/validator?chain=cosmoshub
 - https://www.cosmosoutpost.io/cosmos/network?lang=en
-- https://www.coingecko.com/en/earn/cosmos
 - https://tokenterminal.xyz/protocol/Cosmos
 - https://mapofzones.com/?period=24
 - https://ibc-goz.irisplorer.io/#
@@ -289,7 +279,6 @@
 - https://www.dapp.com/ranking
 
 ## Decentralized Exchanges
-- https://www.coingecko.com/en/exchanges
 - https://dex.watch
 - https://etherscan.io/dextracker
 - https://dexindex.io
@@ -299,7 +288,6 @@
 - https://graphs.santiment.net/dex_trades
 - https://app.santiment.net/assets/list?name=decentralized%20exchanges
 - https://debank.com/ranking/dex
-- https://www.coingecko.com/en/exchanges/decentralized
 - http://www.predictions.exchange/dex
 
 ## Decentralized Finance
@@ -374,8 +362,6 @@
 - https://curiousgiraffe.io/etheroll
 
 ## Exchanges
-- https://www.coingecko.com/en/exchanges
-- https://www.coingecko.com/en/derivatives
 - https://skew.com/dashboard/bitcoin-futures
 - https://www.tokenanalyst.io
 - https://cer.live
@@ -434,7 +420,6 @@
 ## Livepeer
 - https://scout.cool/livepeer/mainnet
 - https://explorer.livepeer.org
-- https://www.coingecko.com/earn/livepeer
 - https://tokenterminal.xyz/protocol/Livepeer
 
 ## Loans
@@ -471,7 +456,6 @@
 - https://duneanalytics.com/mcd
 - https://defiexplore.com
 - https://www.daiembassy.online
-- https://www.coingecko.com/en/earn/dai
 - https://graphs.santiment.net/makerdao-pro#event_stats
 - https://www.tokenterminal.xyz/protocol/MakerDAO
 - https://catflip.co/changelog
@@ -590,13 +574,6 @@
 - https://twitter.com/snxwhalewatch
 - https://www.stateofthedapps.com/dapps/synthetix
 - https://snx.tools/home
-- https://www.coingecko.com/en/exchanges/synthetix-exchange
-- https://www.coingecko.com/en/coins/synthetix-network-token
-- https://www.coingecko.com/en/coins/susd
-- https://www.coingecko.com/en/coins/seth
-- https://www.coingecko.com/en/coins/sbtc
-- https://www.coingecko.com/en/coins/ieth
-- https://www.coingecko.com/en/coins/sxau
 
 ## Terra
 - https://station.terra.money
@@ -608,7 +585,6 @@
 - https://dunscan.io
 - https://tezos.id
 - https://tzstats.com
-- https://www.coingecko.com/en/earn/tezos
 - https://twitter.com/tezosagorabot
 - https://tokenterminal.xyz/protocol/Tezos
 
