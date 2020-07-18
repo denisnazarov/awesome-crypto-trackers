@@ -484,6 +484,7 @@
 - https://app.nexusmutual.io/#/NetworkStatus
 - https://defipulse.com/nexus-mutual
 - https://twitter.com/NexusMutualBot
+- https://explore.duneanalytics.com/public/dashboards/E3lweP3e68IrtJcLYVU0NUmRbcZOtgLTfh4swgUO
 
 ## NFTs
 - https://nonfungible.com
