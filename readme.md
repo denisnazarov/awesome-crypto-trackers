@@ -87,6 +87,7 @@
 - [Urbit](#urbit)
 - [Wallets](#wallets)
 - [xDai](#xdai)
+- [yearn](#yearn)
 - [Other](#other)
 
 
@@ -576,6 +577,7 @@
 - https://twitter.com/snxwhalewatch
 - https://www.stateofthedapps.com/dapps/synthetix
 - https://snx.tools/home
+- https://yieldfarming.info
 
 ## Terra
 - https://station.terra.money
@@ -626,6 +628,9 @@
 - https://blockscout.com/poa/dai
 - https://dai-netstat.poa.network
 - https://defipulse.com/xdai
+
+## yearn
+- https://yieldfarming.info
 
 ## Other
 ### 51% attacks
