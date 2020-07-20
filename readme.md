@@ -652,6 +652,7 @@
 
 ### Gas
 - https://ethgasstation.info
+- https://fees.wtf
 - http://frontrun.me
 - https://stat.bloxy.info/superset/dashboard/gas/?standalone=true
 - https://docs.amberdata.io/reference#get-gas-predictions
