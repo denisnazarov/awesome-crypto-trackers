@@ -69,6 +69,7 @@
 - [Oasis](#oasis)
 - [OpenSea](#opensea)
 - [Opyn](#opyn)
+- [PieDAO](#piedao)
 - [Plasma](#plasma)
 - [Polkadot](#polkadot)
 - [PoolTogether](#pooltogether)
@@ -509,6 +510,9 @@
 - https://explore.duneanalytics.com/public/dashboards/2ECW95TjxJmaGDfETnUvpzZekN6JIfjXgQlQIeqz
 - https://antoncoding.github.io/opyn-liquidator
 - https://defipulse.com/opyn
+
+## PieDAO
+- https://defipulse.com/piedao
 
 ## Plasma
 - https://mainnet.leapdao.org/explorer
