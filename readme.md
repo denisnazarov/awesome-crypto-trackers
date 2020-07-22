@@ -53,6 +53,7 @@
 - [Handshake](#handshake)
 - [HumanityDAO](#humanitydao)
 - [InstaDApp](#instadapp)
+- [Kleros](#kleros)
 - [Kyber](#kyber)
 - [Lightning Network](#lightning-network)
 - [Livepeer](#livepeer)
@@ -398,6 +399,9 @@
 
 ## InstaDApp
 - https://defipulse.com/instadapp
+
+## Kleros
+- http://kleroscan.com
 
 ## Kyber
 - https://tracker.kyber.network
