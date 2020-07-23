@@ -70,6 +70,7 @@
 - [Oasis](#oasis)
 - [OpenSea](#opensea)
 - [Opyn](#opyn)
+- [Paraswap](#paraswap)
 - [PieDAO](#piedao)
 - [Plasma](#plasma)
 - [Polkadot](#polkadot)
@@ -104,7 +105,7 @@
 - https://www.stateofthedapps.com/dapps/0x
 - https://explore.duneanalytics.com/public/dashboards/ySmrGvq4TquPPU0PULaCUpX4hxSDZS0zAsxtqi8g
 - https://explore.duneanalytics.com/public/dashboards/9y1F6dsA78cc0vFvp7LGCYzP25cl0aucx2mr7lMq
-- https://explore.duneanalytics.com/public/dashboards/WN6ISc5Hd217ighCIPGp9eKtgdCyt9MyJH90eqEE
+- https://explore.duneanalytics.com/public/dashboards/gQbJobcen4TOCHQRSvj9t9sw0QTbcKOKgPcc31AX
 
 ## 1inch
 - https://explore.duneanalytics.com/public/dashboards/Onip3ZzVsz3yqCOuLm9arPg4AmZa9QXgXuIdtLbR
@@ -237,6 +238,7 @@
 - http://www.predictions.exchange/compound/None
 - https://stat.farm
 - https://divided.house/#/Compound
+- https://explore.duneanalytics.com/public/dashboards/KJ2qH2bmCa1DrDpU0totia4bRqFuOXK5tpa0hTo8
 
 ## Cosmos
 - https://cosmos.bigdipper.live
@@ -349,7 +351,7 @@
 - https://amberdata.io/dashboards/infrastructure
 - https://ethernodes.org
 - https://etherscan.io/charts
-- https://explore.duneanalytics.com/public/dashboards/gdhWYJDBqsl5Wj2Fkh5RM04WIadzGMZdbtPTvu2c
+- https://explore.duneanalytics.com/public/dashboards/siiXPAPV1ulHbf0AXzbESCJdc8ty7qTk3QslmOCZ
 - https://app.santiment.net/assets/erc20
 - https://ethdashboard.com
 - http://www.ethviewer.live
@@ -470,6 +472,7 @@
 - https://etherscan.io/loantracker#makerloan
 - https://dappradar.com/app/791/makerdao
 - http://www.predictions.exchange/makerdao_vaults
+- https://explore.duneanalytics.com/public/dashboards/JmV73OaU9gC1Nt5isHerBmi9A1ALTYpHQjQiz3q1
 
 ## MCDEX
 - https://defipulse.com/mcdex
@@ -514,6 +517,9 @@
 - https://explore.duneanalytics.com/public/dashboards/2ECW95TjxJmaGDfETnUvpzZekN6JIfjXgQlQIeqz
 - https://antoncoding.github.io/opyn-liquidator
 - https://defipulse.com/opyn
+
+## Paraswap
+- https://explore.duneanalytics.com/public/dashboards/IGdWLtbrMdKLNJWLQu8d3vfFDHay86XhVlR6ddZX
 
 ## PieDAO
 - https://defipulse.com/piedao
