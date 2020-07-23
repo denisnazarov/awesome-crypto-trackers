@@ -639,6 +639,7 @@
 
 ## yearn
 - https://yieldfarming.info
+- https://explore.duneanalytics.com/public/dashboards/cXCzl3KxsGeF9HoQQnZyNYWKGB63gXMqlow0hRrK
 
 ## Other
 ### 51% attacks
