@@ -645,6 +645,7 @@
 
 ## yearn
 - https://yieldfarming.info
+- https://defipulse.com/yearn.finance
 - https://explore.duneanalytics.com/public/dashboards/cXCzl3KxsGeF9HoQQnZyNYWKGB63gXMqlow0hRrK
 
 ## Other
