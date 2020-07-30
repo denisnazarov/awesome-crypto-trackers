@@ -86,6 +86,7 @@
 - [Terra](#terra)
 - [Tezos](#Tezos)
 - [Tornado Cash](#tornado-cash)
+- [UMA](#uma)
 - [Uniswap](#uniswap)
 - [Urbit](#urbit)
 - [Wallets](#wallets)
@@ -157,6 +158,7 @@
 ## Balancer
 - https://pools.balancer.exchange/#/list
 - http://www.predictions.exchange/balancer/None
+- http://pools.vision
 - https://explore.duneanalytics.com/public/dashboards/c4jSa2JB7EUd75oX3mDaZEw4bu3K09nSjFu1zJ1D
 - https://defimarketcap.io/protocol/balancer
 - https://defimarketcap.io/token/0xba100000625a3754423978a60c9317c58a424e3d
@@ -484,6 +486,7 @@
 ## mStable
 - https://app.mstable.org/analytics
 - https://defipulse.com/mstable
+- https://yieldfarming.info
 
 ## Nervos
 - https://explorer.nervos.org
@@ -608,6 +611,9 @@
 
 ## Tornado Cash
 - https://explore.duneanalytics.com/public/dashboards/CekuHpdwcYfjKyKQ9TCGPPDfZWofgbNpE3Y4xeoC
+
+## UMA
+- https://yieldfarming.info
 
 ## Uniswap
 - https://uniswap.info
