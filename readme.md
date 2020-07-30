@@ -262,6 +262,7 @@
 - https://superrare.co/crypto-artists
 - https://superrare.co/top-crypto-art-collectors
 - https://knownorigin.io/activity
+- https://explore.duneanalytics.com/public/dashboards/FkjSRuNp0XPTkdRojBi4JnL3XE1IxSskESRCzU09
 
 ## Cryptokitties
 - https://curiousgiraffe.io/cryptokitties
