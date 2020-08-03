@@ -362,6 +362,7 @@
 - https://www.blockchain.com/explorer?currency=ETH
 - https://bitinfocharts.com/ethereum
 - https://eth.zengo.link/queue/#0,2h
+- https://txstreet.com/v/eth-btc
 
 ## Ethereum Classic
 - https://dappdirect.net
