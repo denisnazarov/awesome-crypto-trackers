@@ -46,6 +46,7 @@
 - [Exchanges](#exchanges)
 - [Flexa](#flexa)
 - [FOAM](#foam)
+- [Foundation](#foundation)
 - [Gnosis](#gnosis)
 - [Golem](#golem)
 - [Grin](#grin)
@@ -381,6 +382,9 @@
 
 ## FOAM
 - https://foam.tools
+
+## Foundation
+- https://fnd.info
 
 ## Gnosis
 - https://explore.duneanalytics.com/public/dashboards/F4McuFqmKt8Qe7CdEI4mKWPNOngdCcmlqqUniBuw
