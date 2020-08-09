@@ -657,6 +657,7 @@
 
 ## yearn
 - https://yieldfarming.info
+- https://stats.finance/yearn
 - https://feel-the-yearn.vercel.app
 - https://defipulse.com/yearn.finance
 - https://explore.duneanalytics.com/public/dashboards/cXCzl3KxsGeF9HoQQnZyNYWKGB63gXMqlow0hRrK
