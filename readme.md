@@ -92,6 +92,7 @@
 - [Urbit](#urbit)
 - [Wallets](#wallets)
 - [xDai](#xdai)
+- [YAM](#yam)
 - [yearn](#yearn)
 - [Other](#other)
 
@@ -654,6 +655,12 @@
 - https://blockscout.com/poa/dai
 - https://dai-netstat.poa.network
 - https://defipulse.com/xdai
+
+## YAM
+- https://yam.zippo.io
+- https://yam.tools
+- https://yieldfarming.info/yam/comp
+- https://explore.duneanalytics.com/queries/7788/source#15516
 
 ## yearn
 - https://yieldfarming.info
