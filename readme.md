@@ -690,6 +690,7 @@
 
 ### Gas
 - https://ethgasstation.info
+- https://www.gasnow.org
 - https://fees.wtf
 - http://frontrun.me
 - https://stat.bloxy.info/superset/dashboard/gas/?standalone=true
