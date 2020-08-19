@@ -389,6 +389,7 @@
 
 ## Gnosis
 - https://explore.duneanalytics.com/public/dashboards/F4McuFqmKt8Qe7CdEI4mKWPNOngdCcmlqqUniBuw
+- https://defipulse.com/gnosis
 
 ## Golem
 - https://stats.golem.network/ui
