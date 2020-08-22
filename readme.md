@@ -32,7 +32,6 @@
 - [Decentralized Finance](#decentralized-finance)
 - [DeversiFi](#deversifi)
 - [dForce](#dforce)
-- [District0x](#district0x)
 - [DutchX](#dutchx)
 - [dxDAO](#dxdao)
 - [dYdX](#dYdX)
@@ -42,7 +41,6 @@
 - [Erasure](#erasure)
 - [Ethereum](#ethereum)
 - [Ethereum Classic](#ethereum-classic)
-- [Etheroll](#etheroll)
 - [Exchanges](#exchanges)
 - [Flexa](#flexa)
 - [FOAM](#foam)
@@ -50,9 +48,7 @@
 - [Gnosis](#gnosis)
 - [Golem](#golem)
 - [Grin](#grin)
-- [Etheroll](#etheroll)
 - [Handshake](#handshake)
-- [HumanityDAO](#humanitydao)
 - [InstaDApp](#instadapp)
 - [Kleros](#kleros)
 - [Kyber](#kyber)
@@ -72,7 +68,6 @@
 - [OpenSea](#opensea)
 - [Opyn](#opyn)
 - [Paraswap](#paraswap)
-- [PieDAO](#piedao)
 - [Plasma](#plasma)
 - [Polkadot](#polkadot)
 - [PoolTogether](#pooltogether)
@@ -317,9 +312,6 @@
 ## dForce
 - https://defipulse.com/dforce
 
-## District0x
-- https://scout.cool/district0x/mainnet
-
 ## DutchX
 - https://explore.duneanalytics.com/public/dashboards/nigajDs8cp1lkmoXYNgdo3jMh2XCzUIiLk0J5Fst
 
@@ -369,9 +361,6 @@
 ## Ethereum Classic
 - https://dappdirect.net
 
-## Etheroll
-- https://curiousgiraffe.io/etheroll
-
 ## Exchanges
 - https://skew.com/dashboard/bitcoin-futures
 - https://www.tokenanalyst.io
@@ -404,10 +393,6 @@
 - https://hsd.tools/leaderboard
 - https://hnscan.com
 - https://hnspool.com/statistics
-
-## HumanityDAO
-- https://roger-wu.github.io/humanitydao-applicant-status-checker-build
-- https://insights.anyblock.tools/public/dashboard/3911928b-6b18-4721-b539-7ae13eec0264#theme=night
 
 ## InstaDApp
 - https://defipulse.com/instadapp
@@ -531,9 +516,6 @@
 
 ## Paraswap
 - https://explore.duneanalytics.com/public/dashboards/IGdWLtbrMdKLNJWLQu8d3vfFDHay86XhVlR6ddZX
-
-## PieDAO
-- https://defipulse.com/piedao
 
 ## Plasma
 - https://mainnet.leapdao.org/explorer
@@ -675,9 +657,6 @@
 ### 51% attacks
 - https://crypto51.app
 - https://howmanyconfs.com
-
-### Atomic swap readiness
-- https://swapready.net
 
 ### Boards
 - https://boards.messari.io
