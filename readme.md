@@ -696,6 +696,7 @@
 
 ### Security Audits
 - https://consensys.github.io/blockchainSecurityDB
+- http://defisafety.com
 
 ### Staking
 - https://stakingrewards.com
