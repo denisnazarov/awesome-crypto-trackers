@@ -651,6 +651,7 @@
 - https://feel-the-yearn.vercel.app
 - https://defipulse.com/yearn.finance
 - https://explore.duneanalytics.com/public/dashboards/87SLdvAidyKHeUCy0DZX1FcdcUoB0VwHONcnGb7N
+- https://py-earn.herokuapp.com/
 
 ## Other
 ### 51% attacks
