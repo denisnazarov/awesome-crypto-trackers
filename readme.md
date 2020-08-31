@@ -670,8 +670,10 @@
 ### Gas
 - https://ethgasstation.info
 - https://www.gasnow.org
+- https://etherscan.io/gastracker
 - https://fees.wtf
 - http://frontrun.me
+- https://ethgas.watch
 - https://stat.bloxy.info/superset/dashboard/gas/?standalone=true
 - https://docs.amberdata.io/reference#get-gas-predictions
 - https://docs.amberdata.io/reference#get-gas-percentiles
