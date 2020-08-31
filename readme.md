@@ -78,6 +78,7 @@
 - [Sia](#sia)
 - [Social](#social)
 - [Stablecoins](#stablecoins)
+- [Sushiswap](#sushiswap)
 - [Synthetix](#synthetix)
 - [Terra](#terra)
 - [Tezos](#Tezos)
@@ -572,6 +573,9 @@
 - https://explore.duneanalytics.com/public/dashboards/SjyF797e4xaJHBkCNDxR2CfIa8jgAaK68pNUa4Ra
 - http://www.predictions.exchange/stablecoin
 - https://skew.com/dashboard/stable-coins
+
+## Sushiswap
+- https://sushi.zippo.io
 
 ## Synthetix
 - https://dashboard.synthetix.io
