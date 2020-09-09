@@ -216,10 +216,10 @@
 - https://explorer.celo.org
 - https://celoist.com/ecosystem
 - http://celolisten.kobi.one
-- http://celoreserve.org/
+- http://celoreserve.org
 
 ## Chia
-- https://www.chiaexplorer.com/
+- https://www.chiaexplorer.com
 
 ## Compound
 - https://app.compound.finance/#Markets
@@ -576,6 +576,7 @@
 
 ## Sushiswap
 - https://sushi.zippo.io
+- https://sushiswap.vision/home
 
 ## Synthetix
 - https://dashboard.synthetix.io
