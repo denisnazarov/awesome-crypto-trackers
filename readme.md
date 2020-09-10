@@ -680,6 +680,7 @@
 - https://fees.wtf
 - http://frontrun.me
 - https://ethgas.watch
+- https://cancel-ethereum-transactions.web.app
 - https://stat.bloxy.info/superset/dashboard/gas/?standalone=true
 - https://docs.amberdata.io/reference#get-gas-predictions
 - https://docs.amberdata.io/reference#get-gas-percentiles
