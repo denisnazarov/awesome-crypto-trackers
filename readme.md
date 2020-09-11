@@ -23,6 +23,7 @@
 - [Chia](#chia)
 - [Compound](#compound)
 - [Cosmos](#cosmos)
+- [Cream](#cream)
 - [Crypto Art](#crypto-art)
 - [Cryptokitties](#cryptokitties)
 - [Curve](#curve)
@@ -254,6 +255,9 @@
 - https://tokenterminal.xyz/protocol/Cosmos
 - https://mapofzones.com/?period=24
 - https://ibc-goz.irisplorer.io/#
+
+## Cream
+- https://defipulse.com/c.r.e.a.m.-finance
 
 ## Crypto Art
 - https://superrare.co/market
@@ -656,7 +660,7 @@
 - https://feel-the-yearn.vercel.app
 - https://defipulse.com/yearn.finance
 - https://explore.duneanalytics.com/public/dashboards/87SLdvAidyKHeUCy0DZX1FcdcUoB0VwHONcnGb7N
-- https://py-earn.herokuapp.com/
+- https://py-earn.herokuapp.com
 
 ## Other
 ### 51% attacks
