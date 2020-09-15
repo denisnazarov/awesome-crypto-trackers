@@ -581,6 +581,7 @@
 ## Sushiswap
 - https://sushi.zippo.io
 - https://sushiswap.vision/home
+- https://defipulse.com/sushiswap
 
 ## Synthetix
 - https://dashboard.synthetix.io
