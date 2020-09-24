@@ -658,10 +658,12 @@
 ## yearn
 - https://yieldfarming.info
 - https://stats.finance/yearn
-- https://feel-the-yearn.vercel.app
+- https://feel-the-yearn.app/vaults
 - https://defipulse.com/yearn.finance
 - https://explore.duneanalytics.com/public/dashboards/87SLdvAidyKHeUCy0DZX1FcdcUoB0VwHONcnGb7N
+- https://explore.duneanalytics.com/public/dashboards/Lqnxzm7fa8NVhKC4kc37DDFPZgqXryaIjyLRYAYp
 - https://py-earn.herokuapp.com
+- https://yfi.blockpour.com/summary
 
 ## Other
 ### 51% attacks
