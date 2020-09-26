@@ -299,6 +299,7 @@
 - https://app.santiment.net/assets/list?name=decentralized%20exchanges
 - https://debank.com/ranking/dex
 - http://www.predictions.exchange/dex
+- https://liquidity.vision
 
 ## Decentralized Finance
 - https://defipulse.com
