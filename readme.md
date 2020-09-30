@@ -132,6 +132,7 @@
 - https://viewblock.io/arweave
 
 ## Augur
+- https://predictionexplorer.com
 - https://predictions.global
 - https://blacktemplar.github.io/augur-market-odds
 - https://mikemcdonald.github.io/augur/leaderboard.html
