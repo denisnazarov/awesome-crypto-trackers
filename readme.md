@@ -101,7 +101,6 @@
 - https://yield.fi/app/0x
 - https://0x.org/zrx/vote
 - https://0x.org/zrx/staking
-- https://www.tokenterminal.xyz/protocol/0x
 - https://www.stateofthedapps.com/dapps/0x
 - https://explore.duneanalytics.com/public/dashboards/ySmrGvq4TquPPU0PULaCUpX4hxSDZS0zAsxtqi8g
 - https://explore.duneanalytics.com/public/dashboards/9y1F6dsA78cc0vFvp7LGCYzP25cl0aucx2mr7lMq
@@ -118,7 +117,6 @@
 - https://explore.duneanalytics.com/public/dashboards/mBzmfbzHTX8JhMqO17vKBmH2lgsaG6oow29BEz0g
 - https://dappradar.com/app/1823/aave
 - https://explore.duneanalytics.com/public/dashboards/duig0czbmnFZzaZOAmeTmC9qlv3bPVCOb5osqMVM
-- https://www.tokenterminal.xyz/protocol/Aave
 - https://www.stateofthedapps.com/dapps/aave-protocol
 
 ## AirSwap
@@ -144,7 +142,6 @@
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Augur/AugurPopularTags
 - https://amberdata.io/addresses/0x1985365e9f78359a9b6ad760e32412f4a445e862/metrics
 - https://defipulse.com/augur
-- https://tokenterminal.xyz/protocol/Augur
 
 ## Axie Infinity
 - https://marketplace.axieinfinity.com/dashboard
@@ -250,12 +247,8 @@
 - https://mintscan.io
 - https://cosmos.aneka.io
 - https://stake.id
-- https://everstake.one/analytics
 - https://look.ping.pub/validator?chain=cosmoshub
 - https://www.cosmosoutpost.io/cosmos/network?lang=en
-- https://tokenterminal.xyz/protocol/Cosmos
-- https://mapofzones.com/?period=24
-- https://ibc-goz.irisplorer.io/#
 
 ## Cream
 - https://defipulse.com/c.r.e.a.m.-finance
@@ -330,7 +323,6 @@
 - https://scout.cool/dydxprotocol/mainnet
 - https://explore.duneanalytics.com/public/dashboards/AU7ZSx67NOEwqELtIDyzpPlpAGNJJnW0hmeuwwO9
 - https://defipulse.com/dydx
-- https://www.tokenterminal.xyz/protocol/dYdX
 
 ## Edgeware
 - https://telemetry.polkadot.io/#list/Edgeware
@@ -346,7 +338,6 @@
 ## Erasure
 - https://explore.duneanalytics.com/public/dashboards/toQVKrADFVYz3ME3158Suqx9eKswZfP4BluKqLCA
 - https://defipulse.com/erasure
-- https://www.tokenterminal.xyz/protocol/Erasure
 - https://twitter.com/ErasureStaked
 
 ## Ethereum
@@ -413,7 +404,6 @@
 - https://amberdata.io/addresses/0xdd974d5c2e2928dea5f71b9825b8b646686bd200/metrics
 - https://defipulse.com/kyber
 - https://twitter.com/KyberTracker
-- https://www.tokenterminal.xyz/protocol/Kyber%20Network
 - https://dappradar.com/app/266/kyber
 - https://twitter.com/KyberStatsBot
 - https://explore.duneanalytics.com/public/dashboards/VodQUyw1pEvWeW5t92B8JHTjNEBjAAreTP0xSf9p
@@ -430,7 +420,6 @@
 ## Livepeer
 - https://scout.cool/livepeer/mainnet
 - https://explorer.livepeer.org
-- https://tokenterminal.xyz/protocol/Livepeer
 
 ## Loans
 - https://loanscan.io
@@ -467,7 +456,6 @@
 - https://defiexplore.com
 - https://www.daiembassy.online
 - https://graphs.santiment.net/makerdao-pro#event_stats
-- https://www.tokenterminal.xyz/protocol/MakerDAO
 - https://catflip.co/changelog
 - https://dsr.fyi
 - https://vote.makerdao.com/polling
@@ -536,7 +524,6 @@
 
 ## PoolTogether
 - https://www.pooltogether.com/#stats
-- https://www.tokenterminal.xyz/protocol/Pool%20Together
 - https://defimarketcap.io/protocol/pool-together
 - https://twitter.com/PoolTogetherBot
 
@@ -557,7 +544,6 @@
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/TokenSets/TokenSets
 - https://defipulse.com/set-protocol
 - https://defimarketcap.io/protocol/tokenset
-- https://tokenterminal.xyz/protocol/Set
 - https://tokenviz.io
 
 ## Sia
@@ -590,7 +576,6 @@
 - http://synthetixstats.com
 - https://defipulse.com/synthetix
 - https://scout.cool/synthetix/mainnet
-- https://www.tokenterminal.xyz/protocol/Synthetix
 - https://defimarketcap.io/protocol/synthetix
 - https://dappradar.com/app/1810/synthetix
 - https://twitter.com/snxwhalewatch
@@ -600,7 +585,6 @@
 
 ## Terra
 - https://station.terra.money
-- https://www.tokenterminal.xyz/protocol/Terra
 - https://www.chaiscan.com
 
 ## Tezos
@@ -609,7 +593,6 @@
 - https://tezos.id
 - https://tzstats.com
 - https://twitter.com/tezosagorabot
-- https://tokenterminal.xyz/protocol/Tezos
 
 ## Tornado Cash
 - https://explore.duneanalytics.com/public/dashboards/CekuHpdwcYfjKyKQ9TCGPPDfZWofgbNpE3Y4xeoC
@@ -627,7 +610,6 @@
 - https://pools.fyi
 - https://defipulse.com/uniswap
 - https://explore.duneanalytics.com/public/dashboards/x9W2mq5aUEMVd5CKQOpHdtnD1Lvib99ygXlkccux
-- https://www.tokenterminal.xyz/protocol/Uniswap
 - https://defimarketcap.io/protocol/uniswap
 - https://dappradar.com/app/1602/uniswap
 - https://uniswap.vision
@@ -710,7 +692,6 @@
 - https://coin360.com
 - https://amberdata.io/dashboards/market-rankings
 - https://www.coingecko.com
-- https://www.tokenterminal.xyz
 
 ### Security Audits
 - https://consensys.github.io/blockchainSecurityDB
