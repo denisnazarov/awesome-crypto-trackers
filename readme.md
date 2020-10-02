@@ -240,11 +240,12 @@
 - https://explore.duneanalytics.com/public/dashboards/KJ2qH2bmCa1DrDpU0totia4bRqFuOXK5tpa0hTo8
 
 ## Cosmos
+- https://mintscan.io
+- https://cosmoscan.net
 - https://cosmos.bigdipper.live
 - https://stargazer.certus.one
 - https://hubble.figment.network
 - https://nylira.net/3d
-- https://mintscan.io
 - https://cosmos.aneka.io
 - https://stake.id
 - https://look.ping.pub/validator?chain=cosmoshub
