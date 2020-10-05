@@ -356,6 +356,7 @@
 - https://bitinfocharts.com/ethereum
 - https://eth.zengo.link/queue/#0,2h
 - https://txstreet.com/v/eth-btc
+- https://explorer.bitquery.io/ethereum/calls
 
 ## Ethereum Classic
 - https://dappdirect.net
