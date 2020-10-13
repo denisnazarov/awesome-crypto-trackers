@@ -601,7 +601,7 @@
 - https://twitter.com/tezosagorabot
 
 ## Tornado Cash
-- https://explore.duneanalytics.com/public/dashboards/CekuHpdwcYfjKyKQ9TCGPPDfZWofgbNpE3Y4xeoC
+- https://explore.duneanalytics.com/public/dashboards/UEU02CHiGtNw9crfeD6OJ7bKPnvFtNjOgZ7Vc6uj
 
 ## UMA
 - https://yieldfarming.info
