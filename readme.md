@@ -51,6 +51,7 @@
 - [Golem](#golem)
 - [Grin](#grin)
 - [Handshake](#handshake)
+- [Harvest Finance](#harvest-finance)
 - [InstaDApp](#instadapp)
 - [Kleros](#kleros)
 - [Kyber](#kyber)
@@ -397,6 +398,9 @@
 - https://hsd.tools/leaderboard
 - https://hnscan.com
 - https://hnspool.com/statistics
+
+## Harvest Finance
+- https://defipulse.com/harvest-finance
 
 ## InstaDApp
 - https://defipulse.com/instadapp
