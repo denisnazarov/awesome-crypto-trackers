@@ -121,6 +121,7 @@
 - https://dappradar.com/app/1823/aave
 - https://explore.duneanalytics.com/public/dashboards/duig0czbmnFZzaZOAmeTmC9qlv3bPVCOb5osqMVM
 - https://www.stateofthedapps.com/dapps/aave-protocol
+- https://www.theblockcrypto.com/data/open-finance/cryptocurrency-lending
 
 ## AirSwap
 - https://curiousgiraffe.io/airswap
@@ -195,6 +196,7 @@
 - http://bitcoin.zorinaq.com/price
 - http://bitcoin.sipa.be
 - https://bitcoin.clarkmoody.com/dashboard
+- https://www.theblockcrypto.com/data/on-chain-metrics/bitcoin
 
 ## Bitcoin on Ethereum
 - https://btconethereum.com
@@ -204,6 +206,7 @@
 - https://defipulse.com/renvm
 - https://explore.duneanalytics.com/public/dashboards/7ZehezrHNzd1R17SVeNqdbsCb4AZ1TmSHoBb0yEj
 - https://explore.duneanalytics.com/public/dashboards/XZOShf6UfbaRUx0dmjYXOBtQdiaKAaQJuDAq0EkF
+- https://www.theblockcrypto.com/data/open-finance/asset-management
 
 ## bloXroute
 - https://www.bdn-explorer.com
@@ -238,6 +241,7 @@
 - https://stat.farm
 - https://divided.house/#/Compound
 - https://explore.duneanalytics.com/public/dashboards/KJ2qH2bmCa1DrDpU0totia4bRqFuOXK5tpa0hTo8
+- https://www.theblockcrypto.com/data/open-finance/cryptocurrency-lending
 
 ## Cosmos
 - https://mintscan.io
@@ -295,6 +299,7 @@
 - https://debank.com/ranking/dex
 - http://www.predictions.exchange/dex
 - https://liquidity.vision
+- https://www.theblockcrypto.com/data/open-finance/dex-non-custodial
 
 ## Decentralized Finance
 - https://defipulse.com
@@ -360,6 +365,7 @@
 - https://eth.zengo.link/queue/#0,2h
 - https://txstreet.com/v/eth-btc
 - https://explorer.bitquery.io/ethereum/calls
+- https://www.theblockcrypto.com/data/on-chain-metrics/ethereum
 
 ## Ethereum Classic
 - https://dappdirect.net
@@ -474,6 +480,7 @@
 - https://dappradar.com/app/791/makerdao
 - http://www.predictions.exchange/makerdao_vaults
 - https://explore.duneanalytics.com/public/dashboards/JmV73OaU9gC1Nt5isHerBmi9A1ALTYpHQjQiz3q1
+- https://www.theblockcrypto.com/data/open-finance/stablecoins
 
 ## MCDEX
 - https://defipulse.com/mcdex
