@@ -44,6 +44,7 @@
 - [Ethereum](#ethereum)
 - [Ethereum Classic](#ethereum-classic)
 - [Exchanges](#exchanges)
+- [Filecoin](#filecoin)
 - [Flexa](#flexa)
 - [FOAM](#foam)
 - [Foundation](#foundation)
@@ -371,6 +372,9 @@
 - https://www.tokenanalyst.io
 - https://cer.live
 - https://www.bitcointradevolume.com
+
+## Filecoin
+- https://filstats.com
 
 ## Flexa
 - https://defipulse.com/flexa
