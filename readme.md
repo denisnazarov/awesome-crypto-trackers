@@ -53,6 +53,7 @@
 - [Grin](#grin)
 - [Handshake](#handshake)
 - [Harvest Finance](#harvest-finance)
+- [Helium](#helium)
 - [InstaDApp](#instadapp)
 - [Kleros](#kleros)
 - [Kyber](#kyber)
@@ -408,6 +409,12 @@
 
 ## Harvest Finance
 - https://defipulse.com/harvest-finance
+
+## Helium
+- https://dashboard.helium.com/
+- https://explorer.helium.com/
+- https://helium.plus/
+- https://www.sitebot.com/helium/summary
 
 ## InstaDApp
 - https://defipulse.com/instadapp
