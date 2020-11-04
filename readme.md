@@ -367,6 +367,7 @@
 - https://txstreet.com/v/eth-btc
 - https://explorer.bitquery.io/ethereum/calls
 - https://www.theblockcrypto.com/data/on-chain-metrics/ethereum
+- https://www.duneanalytics.com/hagaetc/eth2-0-deposits
 
 ## Ethereum Classic
 - https://dappdirect.net
