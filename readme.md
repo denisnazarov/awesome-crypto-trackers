@@ -309,6 +309,7 @@
 - https://public.tableau.com/profile/alethio.defi
 - https://defi.ai
 - https://defimarketcap.io
+- https://defillama.com/home
 - https://explore.duneanalytics.com/public/dashboards/TKSX93XXjf8S9iEHsdccZMPMYrywV3rhPYVv5KBP
 - https://etherscan.io/defi-leaderboard
 - https://debank.com/ranking/lending
@@ -510,7 +511,6 @@
 - https://defipulse.com/nexus-mutual
 - https://twitter.com/NexusMutualBot
 - https://explore.duneanalytics.com/public/dashboards/E3lweP3e68IrtJcLYVU0NUmRbcZOtgLTfh4swgUO
-- https://nxm.surge.sh
 
 ## NFTs
 - https://nonfungible.com
