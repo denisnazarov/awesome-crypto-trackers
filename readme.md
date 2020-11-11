@@ -53,6 +53,7 @@
 - [Grin](#grin)
 - [Handshake](#handshake)
 - [Harvest Finance](#harvest-finance)
+- [Hegic](#hegic)
 - [Helium](#helium)
 - [InstaDApp](#instadapp)
 - [Kleros](#kleros)
@@ -229,7 +230,7 @@
 
 ## Compound
 - https://app.compound.finance/#Markets
-- https://www.curiousgiraffe.io/compoundv2/
+- https://www.curiousgiraffe.io/compoundv2
 - https://loanscan.io/compound
 - https://defipulse.com/compound
 - https://chiragkhatri.me/compound-liquidator
@@ -412,10 +413,14 @@
 ## Harvest Finance
 - https://defipulse.com/harvest-finance
 
+## Hegic
+- https://www.hegic.co/analytics
+- https://defipulse.com/hegic
+
 ## Helium
-- https://dashboard.helium.com/
-- https://explorer.helium.com/
-- https://helium.plus/
+- https://dashboard.helium.com
+- https://explorer.helium.com
+- https://helium.plus
 - https://www.sitebot.com/helium/summary
 
 ## InstaDApp
