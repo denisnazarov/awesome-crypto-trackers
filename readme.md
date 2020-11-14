@@ -314,6 +314,7 @@
 - https://explore.duneanalytics.com/public/dashboards/TKSX93XXjf8S9iEHsdccZMPMYrywV3rhPYVv5KBP
 - https://etherscan.io/defi-leaderboard
 - https://debank.com/ranking/lending
+- https://defi.ethereumwisdom.com
 
 ## DeversiFi
 - https://defipulse.com/deversifi
