@@ -699,6 +699,7 @@
 ### Gas
 - https://ethgasstation.info
 - https://www.gasnow.org
+- https://www.etherchain.org/api/gasPriceOracle
 - https://ethgas.app
 - https://etherscan.io/gastracker
 - https://fees.wtf
