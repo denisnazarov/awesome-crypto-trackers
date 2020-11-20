@@ -7,7 +7,6 @@
 - [0x](#0x)
 - [1inch](#1inch)
 - [Aave](#aave)
-- [Airswap](#airswap)
 - [Aragon](#aragon)
 - [Arweave](#arweave)
 - [Augur](#augur)
@@ -23,12 +22,12 @@
 - [Chia](#chia)
 - [Compound](#compound)
 - [Cosmos](#cosmos)
-- [Cream](#cream)
+- [CREAM](#cream)
 - [Crypto Art](#crypto-art)
 - [Cryptokitties](#cryptokitties)
 - [Curve](#curve)
 - [DAOs](#daos)
-- [Dapps](#dapps)
+- [dApps](#dapps)
 - [Decentralized Exchanges](#decentralized-exchanges)
 - [Decentralized Finance](#decentralized-finance)
 - [DeversiFi](#deversifi)
@@ -36,7 +35,6 @@
 - [DODO](#dodo)
 - [dYdX](#dYdX)
 - [Edgeware](#edgeware)
-- [Enigma](#enigma)
 - [ENS](#ens)
 - [Erasure](#erasure)
 - [Ethereum](#ethereum)
@@ -47,7 +45,6 @@
 - [FOAM](#foam)
 - [Foundation](#foundation)
 - [Gnosis](#gnosis)
-- [Golem](#golem)
 - [Grin](#grin)
 - [Handshake](#handshake)
 - [Harvest Finance](#harvest-finance)
@@ -67,7 +64,6 @@
 - [Nervos](#nervos)
 - [Nexus Mutual](#nexus-mutual)
 - [NFTs](#nfts)
-- [Nuo Network](#nuo-network)
 - [Oasis](#oasis)
 - [OpenSea](#opensea)
 - [Opyn](#opyn)
@@ -75,7 +71,6 @@
 - [Plasma](#plasma)
 - [Polkadot](#polkadot)
 - [PoolTogether](#pooltogether)
-- [Raiden](#raiden)
 - [RAY](#ray)
 - [Reddit](#reddit)
 - [Set Protocol](#set-protocol)
@@ -92,14 +87,12 @@
 - [Urbit](#urbit)
 - [Wallets](#wallets)
 - [xDai](#xdai)
-- [YAM](#yam)
 - [yearn](#yearn)
 - [Other](#other)
 
 
 ## 0x
 - https://0xtracker.com
-- https://amberdata.io/addresses/0xe41d2489571d322189246dafa5ebde1f4699f498/metrics
 - https://twitter.com/0xtracker
 - https://yield.fi/app/0x
 - https://0x.org/zrx/vote
@@ -122,9 +115,6 @@
 - https://www.stateofthedapps.com/dapps/aave-protocol
 - https://www.theblockcrypto.com/data/open-finance/cryptocurrency-lending
 
-## AirSwap
-- https://curiousgiraffe.io/airswap
-
 ## Aragon
 - https://scout.cool/aragon/mainnet
 - https://apiary.1hive.org
@@ -139,11 +129,9 @@
 - https://mikemcdonald.github.io/augur/leaderboard.html
 - https://reporters.chat
 - https://themajority.report
-- https://curiousgiraffe.io/augur
 - https://exploreaugur.com
 - http://crystalball.be/stats
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Augur/AugurPopularTags
-- https://amberdata.io/addresses/0x1985365e9f78359a9b6ad760e32412f4a445e862/metrics
 - https://defipulse.com/augur
 
 ## Axie Infinity
@@ -175,7 +163,6 @@
 - https://batgrowth.com
 - https://www.bat.watch
 - https://brave.com/transparency
-- https://amberdata.io/addresses/0x0d8775f648430679a709e98d2b0cb6250d2887ef/metrics
 
 ## Bitcoin
 - https://bitcoinvisuals.com
@@ -227,7 +214,6 @@
 
 ## Compound
 - https://app.compound.finance/#Markets
-- https://www.curiousgiraffe.io/compoundv2
 - https://loanscan.io/compound
 - https://defipulse.com/compound
 - https://chiragkhatri.me/compound-liquidator
@@ -265,9 +251,7 @@
 - https://duneanalytics.com/rchen8/superrare_4
 
 ## Cryptokitties
-- https://curiousgiraffe.io/cryptokitties
 - https://kittysales.herokuapp.com
-- https://amberdata.io/addresses/0x06012c8cf97bead5deae237070f9587f8e7a266d/metrics
 
 ## Curve
 - https://duneanalytics.com/pengiundev/curve-fi-users
@@ -282,7 +266,6 @@
 - https://dapp.review
 - https://stateofthedapps.com
 - https://app.co
-- https://amberdata.io/dashboards/applications
 - https://bloxy.info/list_dapps
 - https://www.dapp.com/ranking
 
@@ -331,12 +314,7 @@
 ## Edgeware
 - https://telemetry.polkadot.io/#list/Edgeware
 
-## Enigma
-- https://secretscan.io
-- https://explorer.cashmaney.com
-
 ## ENS
-- https://curiousgiraffe.io/ens
 - https://duneanalytics.com/makoto/ens
 
 ## Erasure
@@ -347,7 +325,6 @@
 ## Ethereum
 - https://ethstats.net
 - https://ethstats.io
-- https://amberdata.io/dashboards/infrastructure
 - https://ethernodes.org
 - https://etherscan.io/charts
 - https://duneanalytics.com/kroeger0x/ethereum-metrics_1
@@ -388,10 +365,6 @@
 - https://duneanalytics.com/c3rnst/gnosis-dex-protocol
 - https://defipulse.com/gnosis
 
-## Golem
-- https://stats.golem.network/ui
-- https://amberdata.io/addresses/0xa74476443119a942de498590fe1f2454d7d4ac0d/metrics
-
 ## Grin
 - https://grinscan.net/charts
 - https://grin.blockscan.com
@@ -423,8 +396,6 @@
 
 ## Kyber
 - https://tracker.kyber.network
-- https://curiousgiraffe.io/kyberswap
-- https://amberdata.io/addresses/0xdd974d5c2e2928dea5f71b9825b8b646686bd200/metrics
 - https://defipulse.com/kyber
 - https://twitter.com/KyberTracker
 - https://dappradar.com/app/266/kyber
@@ -515,10 +486,6 @@
 - https://bloxy.info/list_tokens/ERC721
 - https://nftalert.com
 
-## Nuo Network
-- https://nuoscan.io
-- https://defipulse.com/nuo-network
-
 ## Oasis
 - https://www.oasisscan.com
 
@@ -549,9 +516,6 @@
 - https://www.pooltogether.com/#stats
 - https://defimarketcap.io/protocol/pool-together
 - https://twitter.com/PoolTogetherBot
-
-## Raiden
-- https://explorer.raiden.network
 
 ## RAY
 - https://defipulse.com/robo-advisor-for-yield
@@ -628,7 +592,6 @@
 - https://zumzoom.github.io/analytics/uniswap
 - https://www.uniswaproi.com
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Uniswap/UniswapOverview
-- https://docs.amberdata.io/reference#get-market-orders-uniswap
 - https://uniswapstats.com
 - https://pools.fyi
 - https://defipulse.com/uniswap
@@ -656,12 +619,6 @@
 - https://dai-netstat.poa.network
 - https://defipulse.com/xdai
 
-## YAM
-- https://yam.zippo.io
-- https://yam.tools
-- https://yieldfarming.info/yam/comp
-- https://explore.duneanalytics.com/queries/7788/source#15516
-
 ## yearn
 - https://yieldfarming.info
 - https://stats.finance/yearn
@@ -679,8 +636,6 @@
 
 ### Boards
 - https://boards.messari.io
-- https://amberdata.io/dashboards/infrastructure
-- https://amberdata.io/dashboards/security
 
 ### Coin correlations
 - https://www.tokenanalyst.io/compare
@@ -699,8 +654,6 @@
 - https://duneanalytics.com/kroeger0x/gas-prices
 - https://cancel-ethereum-transactions.web.app
 - https://stat.bloxy.info/superset/dashboard/gas/?standalone=true
-- https://docs.amberdata.io/reference#get-gas-predictions
-- https://docs.amberdata.io/reference#get-gas-percentiles
 - https://stat.bloxy.info/superset/dashboard/gas
 
 ### Mining profitability
@@ -714,7 +667,6 @@
 - https://coinmarketcap.com
 - https://messari.io/screener
 - https://coin360.com
-- https://amberdata.io/dashboards/market-rankings
 - https://www.coingecko.com
 
 ### Security Audits
