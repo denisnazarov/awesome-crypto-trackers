@@ -711,6 +711,7 @@
 - https://docs.amberdata.io/reference#get-gas-percentiles
 - https://stat.bloxy.info/superset/dashboard/gas
 - https://explore.duneanalytics.com/public/dashboards/A0rx3KNPv1evzjyFhUTIEMuL6xcJFjVfkj97jUym
+- https://github.com/unspentio/ethereum-gas-prices-browser-extension
 
 ### Mining profitability
 - https://whattomine.com
