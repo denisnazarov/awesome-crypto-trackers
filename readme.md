@@ -19,6 +19,7 @@
 - [bloXroute](#bloxroute)
 - [bZx](#bzx)
 - [Celo](#celo)
+- [Chainlink](#chainlink)
 - [Chia](#chia)
 - [Compound](#compound)
 - [Cosmos](#cosmos)
@@ -208,6 +209,9 @@
 - https://celoist.com/ecosystem
 - http://celolisten.kobi.one
 - http://celoreserve.org
+
+## Chainlink
+- https://feeds.chain.link
 
 ## Chia
 - https://www.chiaexplorer.com
