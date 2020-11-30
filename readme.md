@@ -545,6 +545,7 @@
 - https://hive.one
 
 ## Stablecoins
+- https://duneanalytics.com/hagaetc/stablecoins
 - https://stablecoinindex.com
 - https://stablecoinstats.com
 - https://usdonethereum.com
