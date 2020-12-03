@@ -52,6 +52,7 @@
 - [Hegic](#hegic)
 - [Helium](#helium)
 - [InstaDApp](#instadapp)
+- [KeeperDAO](#keeperdao)
 - [Kleros](#kleros)
 - [Kyber](#kyber)
 - [Lightning Network](#lightning-network)
@@ -394,6 +395,9 @@
 
 ## InstaDApp
 - https://defipulse.com/instadapp
+
+## KeeperDAO
+- https://duneanalytics.com/eliasimos/keeper-dao-eliasimos-
 
 ## Kleros
 - http://kleroscan.com
