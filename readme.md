@@ -381,6 +381,7 @@
 - https://hnspool.com/statistics
 
 ## Harvest Finance
+- https://farmdashboard.xyz
 - https://defipulse.com/harvest-finance
 
 ## Hegic
