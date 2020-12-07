@@ -387,6 +387,8 @@
 ## Hegic
 - https://www.hegic.co/analytics
 - https://defipulse.com/hegic
+- https://defillama.com/protocol/hegic
+- https://explore.duneanalytics.com/dashboard/hegic-test
 
 ## Helium
 - https://dashboard.helium.com
