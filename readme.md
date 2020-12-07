@@ -249,6 +249,7 @@
 - https://defipulse.com/c.r.e.a.m.-finance
 
 ## Crypto Art
+- https://cryptoart.io
 - https://superrare.co/market
 - https://superrare.co/crypto-artists
 - https://superrare.co/top-crypto-art-collectors
@@ -388,7 +389,7 @@
 - https://www.hegic.co/analytics
 - https://defipulse.com/hegic
 - https://defillama.com/protocol/hegic
-- https://explore.duneanalytics.com/dashboard/hegic-test
+- https://duneanalytics.com/slash125/hegic-v2
 
 ## Helium
 - https://dashboard.helium.com
@@ -667,7 +668,6 @@
 - https://cancel-ethereum-transactions.web.app
 - https://stat.bloxy.info/superset/dashboard/gas/?standalone=true
 - https://stat.bloxy.info/superset/dashboard/gas
-- https://explore.duneanalytics.com/public/dashboards/A0rx3KNPv1evzjyFhUTIEMuL6xcJFjVfkj97jUym
 - https://github.com/unspentio/ethereum-gas-prices-browser-extension
 
 ### Mining profitability
