@@ -36,6 +36,7 @@
 - [DODO](#dodo)
 - [dYdX](#dYdX)
 - [Edgeware](#edgeware)
+- [Empty Set Dollar)(#empty-set-dollar)
 - [ENS](#ens)
 - [Erasure](#erasure)
 - [Ethereum](#ethereum)
@@ -319,6 +320,10 @@
 
 ## Edgeware
 - https://telemetry.polkadot.io/#list/Edgeware
+
+## Empty Set Dollar
+- https://esd.tools/
+- https://www.duneanalytics.com/itzler/empty-set-dollar
 
 ## ENS
 - https://duneanalytics.com/makoto/ens
