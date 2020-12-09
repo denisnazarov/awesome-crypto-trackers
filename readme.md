@@ -250,10 +250,10 @@
 
 ## Crypto Art
 - https://cryptoart.io
+- https://nftartpulse.com
 - https://superrare.co/market
 - https://superrare.co/crypto-artists
 - https://superrare.co/top-crypto-art-collectors
-- https://knownorigin.io/activity
 - https://duneanalytics.com/rchen8/superrare_4
 
 ## Cryptokitties
