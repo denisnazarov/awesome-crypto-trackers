@@ -88,6 +88,7 @@
 - [UMA](#uma)
 - [Uniswap](#uniswap)
 - [Urbit](#urbit)
+- [Vite](#vite)
 - [Wallets](#wallets)
 - [xDai](#xdai)
 - [yearn](#yearn)
@@ -621,6 +622,11 @@
 ## Urbit
 - https://opensea.io/assets/urbit-id
 - https://urbit.live/stats
+
+## Vite
+- https://explorer.vite.net
+- https://vitescan.io
+- https://vitex.net
 
 ## Wallets
 - https://duneanalytics.com/kingjacob/wallets
