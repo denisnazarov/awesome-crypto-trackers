@@ -73,6 +73,7 @@
 - [Paraswap](#paraswap)
 - [Plasma](#plasma)
 - [Polkadot](#polkadot)
+- [Polymarket](#polymarket)
 - [PoolTogether](#pooltogether)
 - [RAY](#ray)
 - [Reddit](#reddit)
@@ -164,7 +165,7 @@
 
 ## Basic Attention Token
 - https://batgrowth.com
-- https://www.bat.watch
+- https://bravebat.info
 - https://brave.com/transparency
 
 ## Bitcoin
@@ -527,6 +528,9 @@
 - https://polkastats.io
 - https://subscan.io
 - https://polkadot.js.org/apps/#/explorer
+
+## Polymarket
+- http://polymarketwhales.info
 
 ## PoolTogether
 - https://www.pooltogether.com/#stats
