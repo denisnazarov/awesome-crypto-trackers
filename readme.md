@@ -67,6 +67,7 @@
 - [Nervos](#nervos)
 - [Nexus Mutual](#nexus-mutual)
 - [NFTs](#nfts)
+- [Notional](#notional)
 - [Oasis](#oasis)
 - [OpenSea](#opensea)
 - [Opyn](#opyn)
@@ -252,7 +253,7 @@
 
 ## Crypto Art
 - https://cryptoart.io
-- https://nftartpulse.com
+- https://cryptoartpulse.com
 - https://superrare.co/market
 - https://superrare.co/crypto-artists
 - https://superrare.co/top-crypto-art-collectors
@@ -392,7 +393,6 @@
 - https://defipulse.com/harvest-finance
 
 ## Hegic
-- https://www.hegic.co/analytics
 - https://defipulse.com/hegic
 - https://defillama.com/protocol/hegic
 - https://duneanalytics.com/slash125/hegic-v2
@@ -502,6 +502,11 @@
 - https://opensea.io/rankings
 - https://bloxy.info/list_tokens/ERC721
 - https://nftalert.com
+
+## Notional
+- https://duneanalytics.com/notional/notional-market-summary-by-currency
+- https://duneanalytics.com/rchen8/notional
+- https://defipulse.com/notional
 
 ## Oasis
 - https://www.oasisscan.com
