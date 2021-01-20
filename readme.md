@@ -51,7 +51,7 @@
 - [Handshake](#handshake)
 - [Harvest Finance](#harvest-finance)
 - [Hegic](#hegic)
-- [Helium](#helium
+- [Helium](#helium)
 - [Indexed Finance](#indexed-finance)
 - [InstaDApp](#instadapp)
 - [KeeperDAO](#keeperdao)
