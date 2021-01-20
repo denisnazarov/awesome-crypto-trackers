@@ -51,7 +51,8 @@
 - [Handshake](#handshake)
 - [Harvest Finance](#harvest-finance)
 - [Hegic](#hegic)
-- [Helium](#helium)
+- [Helium](#helium
+- [Indexed Finance](#indexed-finance)
 - [InstaDApp](#instadapp)
 - [KeeperDAO](#keeperdao)
 - [Kleros](#kleros)
@@ -402,6 +403,9 @@
 - https://explorer.helium.com
 - https://helium.plus
 - https://www.sitebot.com/helium/summary
+
+## Indexed Finance
+- http://ndx.bonedaddy.io
 
 ## InstaDApp
 - https://defipulse.com/instadapp
