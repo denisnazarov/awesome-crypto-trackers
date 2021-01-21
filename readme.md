@@ -254,7 +254,7 @@
 
 ## Crypto Art
 - https://cryptoart.io
-- https://nftartpulse.com
+- https://cryptoartpulse.com
 - https://superrare.co/market
 - https://superrare.co/crypto-artists
 - https://superrare.co/top-crypto-art-collectors
@@ -510,6 +510,7 @@
 ## Notional
 - https://duneanalytics.com/notional/notional-market-summary-by-currency
 - https://duneanalytics.com/rchen8/notional
+- https://defipulse.com/notional
 
 ## Oasis
 - https://www.oasisscan.com
