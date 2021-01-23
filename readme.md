@@ -111,6 +111,7 @@
 - https://duneanalytics.com/k06a/1inch-exchange
 
 ## Aave
+- https://aavescan.com
 - https://aavewatch.now.sh
 - https://aave-futuristic-dashboard.now.sh
 - https://burn.aave.com
