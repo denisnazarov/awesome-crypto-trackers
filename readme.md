@@ -90,6 +90,7 @@
 - [UMA](#uma)
 - [Uniswap](#uniswap)
 - [Urbit](#urbit)
+- [volmex.finance](#volmex.finance)
 - [Wallets](#wallets)
 - [xDai](#xdai)
 - [yearn](#yearn)
@@ -631,6 +632,9 @@
 ## Urbit
 - https://opensea.io/assets/urbit-id
 - https://urbit.live/stats
+
+## volmex.finance
+- https://volmex.finance/indices/eth
 
 ## Wallets
 - https://duneanalytics.com/kingjacob/wallets
