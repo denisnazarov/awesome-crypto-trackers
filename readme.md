@@ -87,10 +87,9 @@
 - [Terra](#terra)
 - [Tezos](#Tezos)
 - [Tornado Cash](#tornado-cash)
-- [UMA](#uma)
 - [Uniswap](#uniswap)
 - [Urbit](#urbit)
-- [volmex.finance](#volmex.finance)
+- [volmex.finance](#volmex-finance)
 - [Wallets](#wallets)
 - [xDai](#xdai)
 - [yearn](#yearn)
@@ -489,7 +488,6 @@
 ## mStable
 - https://app.mstable.org/analytics
 - https://defipulse.com/mstable
-- https://yieldfarming.info
 
 ## Nervos
 - https://explorer.nervos.org
@@ -596,7 +594,6 @@
 - https://twitter.com/snxwhalewatch
 - https://www.stateofthedapps.com/dapps/synthetix
 - https://snx.tools/home
-- https://yieldfarming.info
 
 ## Terra
 - https://station.terra.money
@@ -611,9 +608,6 @@
 
 ## Tornado Cash
 - https://duneanalytics.com/poma/tornado-cash_1
-
-## UMA
-- https://yieldfarming.info
 
 ## Uniswap
 - https://uniswap.info
@@ -633,7 +627,7 @@
 - https://opensea.io/assets/urbit-id
 - https://urbit.live/stats
 
-## volmex.finance
+## Volmex Finance
 - https://volmex.finance/indices/eth
 
 ## Wallets
@@ -651,14 +645,11 @@
 - https://defipulse.com/xdai
 
 ## yearn
-- https://yieldfarming.info
-- https://stats.finance/yearn
 - https://feel-the-yearn.app/vaults
+- https://stats.finance/yearn
 - https://defipulse.com/yearn.finance
 - https://duneanalytics.com/milkyklim/t_1
 - https://duneanalytics.com/milkyklim/yearn-governance-yfi-
-- https://py-earn.herokuapp.com
-- https://yfi.blockpour.com/summary
 
 ## Other
 ### 51% attacks
