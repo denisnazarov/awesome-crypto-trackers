@@ -72,6 +72,7 @@
 - [OpenSea](#opensea)
 - [Opyn](#opyn)
 - [Paraswap](#paraswap)
+- [Perpetual Protocol](#perpetual-protocol)
 - [Plasma](#plasma)
 - [Polkadot](#polkadot)
 - [Polymarket](#polymarket)
@@ -523,6 +524,9 @@
 
 ## Paraswap
 - https://duneanalytics.com/mounir/paraswap
+
+## Perpetual Protocol
+- https://duneanalytics.com/yenwen/perpetual-protocol_2
 
 ## Plasma
 - https://mainnet.leapdao.org/explorer
