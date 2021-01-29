@@ -74,6 +74,7 @@
 - [Paraswap](#paraswap)
 - [Perpetual Protocol](#perpetual-protocol)
 - [Plasma](#plasma)
+- [Pocket Network](#pocket-network)
 - [Polkadot](#polkadot)
 - [Polymarket](#polymarket)
 - [PoolTogether](#pooltogether)
@@ -530,6 +531,9 @@
 
 ## Plasma
 - https://mainnet.leapdao.org/explorer
+
+## Pocket Network
+- https://c0d3r.org/NetworkCharts
 
 ## Polkadot
 - https://telemetry.polkadot.io
