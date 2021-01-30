@@ -244,6 +244,7 @@
 - https://cosmos.bigdipper.live
 - https://stargazer.certus.one
 - https://hubble.figment.network
+- https://cosmos-cap.com
 - https://nylira.net/3d
 - https://cosmos.aneka.io
 - https://stake.id
@@ -449,34 +450,24 @@
 
 ## MakerDAO
 - https://mkr.tools
+- https://defiexplore.com
 - https://daistats.com
-- https://daiauctions.com
-- https://maker-auctions.io/#
-- http://flops.live
-- https://loanscan.io/makerdao
+- https://dai.stablecoin.science
+- https://duneanalytics.com/mcd
 - https://twitter.com/makerdaibot
+- https://daiauctions.com
 - https://daipeg.com
 - https://governance-dai.glitch.me
-- https://makerdao.descipher.io
 - http://makervaults.descipher.io
 - http://dai.descipher.io
 - https://makerburn.com
-- https://public.tableau.com/profile/alethio.defi#!/vizhome/Maker/MakerOverview
 - https://graphs.santiment.net/makerdao
 - https://mkrgov.science
 - https://defipulse.com/maker
-- https://sai2dai.xyz
-- https://duneanalytics.com/mcd
-- https://defiexplore.com
 - https://www.daiembassy.online
-- https://graphs.santiment.net/makerdao-pro#event_stats
 - https://catflip.co/changelog
-- https://dsr.fyi
-- https://vote.makerdao.com/polling
-- https://etherscan.io/loantracker#makerloan
-- https://dappradar.com/app/791/makerdao
+- https://dappradar.com/ethereum/defi/makerdao
 - http://www.predictions.exchange/makerdao_vaults
-- https://duneanalytics.com/hagaetc/maker-dao---mcd
 - https://www.theblockcrypto.com/data/open-finance/stablecoins
 
 ## MCDEX
