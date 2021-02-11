@@ -493,8 +493,7 @@
 ## NFTs
 - https://nonfungible.com
 - https://opensea.io/rankings
-- https://bloxy.info/list_tokens/ERC721
-- https://nftalert.com
+- https://cryptoslam.io
 
 ## Notional
 - https://duneanalytics.com/notional/notional-market-summary-by-currency
