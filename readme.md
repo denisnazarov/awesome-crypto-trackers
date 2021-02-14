@@ -652,6 +652,7 @@
 - https://defipulse.com/yearn.finance
 - https://duneanalytics.com/milkyklim/t_1
 - https://duneanalytics.com/milkyklim/yearn-governance-yfi-
+- https://yearn.rocks/
 
 ## Other
 ### 51% attacks
@@ -701,6 +702,8 @@
 ### Staking
 - https://stakingrewards.com
 - https://staked.us/yields
+- https://defiscan.io/
+- https://yieldfarming.info/
 
 ## Contribute
 
