@@ -83,6 +83,7 @@
 - [Set Protocol](#set-protocol)
 - [Sia](#sia)
 - [Social](#social)
+- [Sorare](#sorare)
 - [Stablecoins](#stablecoins)
 - [Sushiswap](#sushiswap)
 - [Synthetix](#synthetix)
@@ -562,6 +563,9 @@
 ## Social
 - https://fifty.one
 - https://hive.one
+
+## Sorare
+- https://www.soraredata.com
 
 ## Stablecoins
 - https://duneanalytics.com/hagaetc/stablecoins
