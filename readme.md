@@ -682,6 +682,9 @@
 - https://stat.bloxy.info/superset/dashboard/gas
 - https://github.com/unspentio/ethereum-gas-prices-browser-extension
 
+### Miner Extractable Value (MEV)
+- https://explore.flashbots.net/
+
 ### Mining profitability
 - https://whattomine.com
 
