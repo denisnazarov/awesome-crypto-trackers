@@ -159,7 +159,6 @@
 - https://info.pangolin.exchange/
 - https://www.avax-projects.com/
 - https://www.avalanchelounge.com/
-- https://info.yetiswap.xyz
 
 ## Axie Infinity
 
