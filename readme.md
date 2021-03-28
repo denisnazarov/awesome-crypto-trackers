@@ -686,6 +686,7 @@
 - https://duneanalytics.com/milkyklim/t_1
 - https://duneanalytics.com/milkyklim/yearn-governance-yfi-
 - https://yearn.rocks
+- https://yearn.science/
 
 ## Other
 ### 51% attacks
