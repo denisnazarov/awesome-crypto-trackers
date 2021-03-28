@@ -10,6 +10,7 @@
 - [Aragon](#aragon)
 - [Arweave](#arweave)
 - [Augur](#augur)
+- [Avalanche](#avalanche)
 - [Axie Infinity](#axie-infinity)
 - [Balancer](#balancer)
 - [Bancor](#bancor)
@@ -52,6 +53,7 @@
 - [Harvest Finance](#harvest-finance)
 - [Hegic](#hegic)
 - [Helium](#helium)
+- [Index Coop](#index-coop)
 - [Indexed Finance](#indexed-finance)
 - [InstaDApp](#instadapp)
 - [KeeperDAO](#keeperdao)
@@ -73,7 +75,9 @@
 - [OpenSea](#opensea)
 - [Opyn](#opyn)
 - [Paraswap](#paraswap)
+- [Perpetual Protocol](#perpetual-protocol)
 - [Plasma](#plasma)
+- [Pocket Network](#pocket-network)
 - [Polkadot](#polkadot)
 - [Polymarket](#polymarket)
 - [PoolTogether](#pooltogether)
@@ -82,15 +86,18 @@
 - [Set Protocol](#set-protocol)
 - [Sia](#sia)
 - [Social](#social)
+- [Solana](#solana)
+- [Sorare](#sorare)
 - [Stablecoins](#stablecoins)
 - [Sushiswap](#sushiswap)
 - [Synthetix](#synthetix)
 - [Terra](#terra)
-- [Tezos](#Tezos)
+- [Tezos](#tezos)
+- [Topshots](#topshots)
 - [Tornado Cash](#tornado-cash)
-- [UMA](#uma)
 - [Uniswap](#uniswap)
 - [Urbit](#urbit)
+- [volmex.finance](#volmex-finance)
 - [Wallets](#wallets)
 - [xDai](#xdai)
 - [yearn](#yearn)
@@ -112,6 +119,7 @@
 - https://duneanalytics.com/k06a/1inch-exchange
 
 ## Aave
+- https://aavescan.com
 - https://aavewatch.now.sh
 - https://aave-futuristic-dashboard.now.sh
 - https://burn.aave.com
@@ -139,6 +147,16 @@
 - http://crystalball.be/stats
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Augur/AugurPopularTags
 - https://defipulse.com/augur
+
+## Avalanche
+- https://explorer.avax.network
+- https://avascan.info
+- https://avax.dev
+- https://burnedavax.com
+- https://avaxmap.com
+- https://info.pangolin.exchange
+- https://www.avax-projects.com
+- https://www.avalanchelounge.com
 
 ## Axie Infinity
 - https://marketplace.axieinfinity.com/dashboard
@@ -243,6 +261,7 @@
 - https://cosmos.bigdipper.live
 - https://stargazer.certus.one
 - https://hubble.figment.network
+- https://cosmos-cap.com
 - https://nylira.net/3d
 - https://cosmos.aneka.io
 - https://stake.id
@@ -404,6 +423,10 @@
 - https://helium.plus
 - https://www.sitebot.com/helium/summary
 
+## Index Coop
+- https://duneanalytics.com/rlg195/index-coop-community
+- https://duneanalytics.com/jdcook/Index-Coop
+
 ## Indexed Finance
 - http://ndx.bonedaddy.io
 
@@ -451,34 +474,25 @@
 
 ## MakerDAO
 - https://mkr.tools
+- https://defiexplore.com
 - https://daistats.com
-- https://daiauctions.com
-- https://maker-auctions.io/#
-- http://flops.live
-- https://loanscan.io/makerdao
+- https://dai.stablecoin.science
+- https://duneanalytics.com/mcd
 - https://twitter.com/makerdaibot
+- https://daiauctions.com
 - https://daipeg.com
 - https://governance-dai.glitch.me
-- https://makerdao.descipher.io
+- https://beta.mcdgov.info
 - http://makervaults.descipher.io
 - http://dai.descipher.io
 - https://makerburn.com
-- https://public.tableau.com/profile/alethio.defi#!/vizhome/Maker/MakerOverview
 - https://graphs.santiment.net/makerdao
 - https://mkrgov.science
 - https://defipulse.com/maker
-- https://sai2dai.xyz
-- https://duneanalytics.com/mcd
-- https://defiexplore.com
 - https://www.daiembassy.online
-- https://graphs.santiment.net/makerdao-pro#event_stats
 - https://catflip.co/changelog
-- https://dsr.fyi
-- https://vote.makerdao.com/polling
-- https://etherscan.io/loantracker#makerloan
-- https://dappradar.com/app/791/makerdao
+- https://dappradar.com/ethereum/defi/makerdao
 - http://www.predictions.exchange/makerdao_vaults
-- https://duneanalytics.com/hagaetc/maker-dao---mcd
 - https://www.theblockcrypto.com/data/open-finance/stablecoins
 
 ## MCDEX
@@ -491,7 +505,6 @@
 ## mStable
 - https://app.mstable.org/analytics
 - https://defipulse.com/mstable
-- https://yieldfarming.info
 
 ## Nervos
 - https://explorer.nervos.org
@@ -504,8 +517,7 @@
 ## NFTs
 - https://nonfungible.com
 - https://opensea.io/rankings
-- https://bloxy.info/list_tokens/ERC721
-- https://nftalert.com
+- https://cryptoslam.io
 
 ## Notional
 - https://duneanalytics.com/notional/notional-market-summary-by-currency
@@ -528,8 +540,14 @@
 ## Paraswap
 - https://duneanalytics.com/mounir/paraswap
 
+## Perpetual Protocol
+- https://duneanalytics.com/yenwen/perpetual-protocol_2
+
 ## Plasma
 - https://mainnet.leapdao.org/explorer
+
+## Pocket Network
+- https://c0d3r.org/NetworkCharts
 
 ## Polkadot
 - https://telemetry.polkadot.io
@@ -569,6 +587,13 @@
 - https://fifty.one
 - https://hive.one
 
+## Solana
+- https://solanabeach.io/
+- https://explorer.solana.com/
+
+## Sorare
+- https://www.soraredata.com
+
 ## Stablecoins
 - https://duneanalytics.com/hagaetc/stablecoins
 - https://stablecoinindex.com
@@ -598,7 +623,6 @@
 - https://twitter.com/snxwhalewatch
 - https://www.stateofthedapps.com/dapps/synthetix
 - https://snx.tools/home
-- https://yieldfarming.info
 
 ## Terra
 - https://station.terra.money
@@ -611,11 +635,17 @@
 - https://tzstats.com
 - https://twitter.com/tezosagorabot
 
+## Topshots
+- https://cryptoslam.io/nba-top-shot
+- https://momentranks.com
+- https://intangible.market
+- https://evaluate.market
+- https://www.optiballer.com
+- https://www.collectrlabs.com
+- https://topshotexplorer.com
+
 ## Tornado Cash
 - https://duneanalytics.com/poma/tornado-cash_1
-
-## UMA
-- https://yieldfarming.info
 
 ## Uniswap
 - https://uniswap.info
@@ -635,6 +665,9 @@
 - https://opensea.io/assets/urbit-id
 - https://urbit.live/stats
 
+## Volmex Finance
+- https://volmex.finance/indices/eth
+
 ## Wallets
 - https://duneanalytics.com/kingjacob/wallets
 - https://duneanalytics.com/tschubotz/gnosis-multisig_1
@@ -650,14 +683,14 @@
 - https://defipulse.com/xdai
 
 ## yearn
-- https://yieldfarming.info
-- https://stats.finance/yearn
+- https://yearn.vision
 - https://feel-the-yearn.app/vaults
+- https://stats.finance/yearn
 - https://defipulse.com/yearn.finance
 - https://duneanalytics.com/milkyklim/t_1
 - https://duneanalytics.com/milkyklim/yearn-governance-yfi-
-- https://py-earn.herokuapp.com
-- https://yfi.blockpour.com/summary
+- https://yearn.rocks
+- https://yearn.science/
 
 ## Other
 ### 51% attacks
@@ -687,6 +720,9 @@
 - https://stat.bloxy.info/superset/dashboard/gas
 - https://github.com/unspentio/ethereum-gas-prices-browser-extension
 
+### Miner Extractable Value (MEV)
+- https://explore.flashbots.net
+
 ### Mining profitability
 - https://whattomine.com
 
@@ -707,6 +743,8 @@
 ### Staking
 - https://stakingrewards.com
 - https://staked.us/yields
+- https://defiscan.io
+- https://yieldfarming.info
 
 ## Contribute
 
