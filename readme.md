@@ -54,6 +54,7 @@
 - [Hegic](#hegic)
 - [Helium](#helium)
 - [Index Coop](#index-coop)
+- [Indexed Finance](#indexed-finance)
 - [InstaDApp](#instadapp)
 - [KeeperDAO](#keeperdao)
 - [Kleros](#kleros)
@@ -425,6 +426,9 @@
 ## Index Coop
 - https://duneanalytics.com/rlg195/index-coop-community
 - https://duneanalytics.com/jdcook/Index-Coop
+
+## Indexed Finance
+- http://ndx.bonedaddy.io
 
 ## InstaDApp
 - https://defipulse.com/instadapp
