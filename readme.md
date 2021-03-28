@@ -10,6 +10,7 @@
 - [Aragon](#aragon)
 - [Arweave](#arweave)
 - [Augur](#augur)
+- [Avalanche](#avalanche)
 - [Axie Infinity](#axie-infinity)
 - [Balancer](#balancer)
 - [Bancor](#bancor)
@@ -144,6 +145,16 @@
 - http://crystalball.be/stats
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Augur/AugurPopularTags
 - https://defipulse.com/augur
+
+## Avalanche
+- https://explorer.avax.network
+- https://avascan.info
+- https://avax.dev
+- https://burnedavax.com
+- https://avaxmap.com
+- https://info.pangolin.exchange
+- https://www.avax-projects.com
+- https://www.avalanchelounge.com
 
 ## Axie Infinity
 - https://marketplace.axieinfinity.com/dashboard
