@@ -52,6 +52,7 @@
 - [Harvest Finance](#harvest-finance)
 - [Hegic](#hegic)
 - [Helium](#helium)
+- [Index Coop](#index-coop)
 - [InstaDApp](#instadapp)
 - [KeeperDAO](#keeperdao)
 - [Kleros](#kleros)
@@ -408,6 +409,10 @@
 - https://explorer.helium.com
 - https://helium.plus
 - https://www.sitebot.com/helium/summary
+
+## Index Coop
+- https://duneanalytics.com/rlg195/index-coop-community
+- https://duneanalytics.com/jdcook/Index-Coop
 
 ## InstaDApp
 - https://defipulse.com/instadapp
