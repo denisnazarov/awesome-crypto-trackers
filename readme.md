@@ -85,6 +85,7 @@
 - [Set Protocol](#set-protocol)
 - [Sia](#sia)
 - [Social](#social)
+- [Solana](#solana)
 - [Sorare](#sorare)
 - [Stablecoins](#stablecoins)
 - [Sushiswap](#sushiswap)
@@ -581,6 +582,10 @@
 ## Social
 - https://fifty.one
 - https://hive.one
+
+## Solana
+- https://solanabeach.io/
+- https://explorer.solana.com/
 
 ## Sorare
 - https://www.soraredata.com
