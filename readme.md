@@ -59,6 +59,7 @@
 - [KeeperDAO](#keeperdao)
 - [Kleros](#kleros)
 - [Kyber](#kyber)
+- [Layer 2](#layer-2)
 - [Lightning Network](#lightning-network)
 - [Livepeer](#livepeer)
 - [Loans](#loans)
@@ -447,6 +448,9 @@
 - https://twitter.com/KyberStatsBot
 - https://duneanalytics.com/ha.hoang/kyber-network_2
 
+## Layer 2
+- https://www.l2beat.com
+
 ## Lightning Network
 - https://1ml.com
 - https://bitcoinvisuals.com/lightning
@@ -588,8 +592,8 @@
 - https://hive.one
 
 ## Solana
-- https://solanabeach.io/
-- https://explorer.solana.com/
+- https://solanabeach.io
+- https://explorer.solana.com
 
 ## Sorare
 - https://www.soraredata.com
@@ -690,7 +694,7 @@
 - https://duneanalytics.com/milkyklim/t_1
 - https://duneanalytics.com/milkyklim/yearn-governance-yfi-
 - https://yearn.rocks
-- https://yearn.science/
+- https://yearn.science
 
 ## Other
 ### 51% attacks
