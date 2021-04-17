@@ -61,6 +61,7 @@
 - [Kyber](#kyber)
 - [Layer 2](#layer-2)
 - [Lightning Network](#lightning-network)
+- [Liquity](#liquity)
 - [Livepeer](#livepeer)
 - [Loans](#loans)
 - [Loopring](#loopring)
@@ -94,6 +95,7 @@
 - [Synthetix](#synthetix)
 - [Terra](#terra)
 - [Tezos](#tezos)
+- [Thorchain](#thorchain)
 - [Topshots](#topshots)
 - [Tornado Cash](#tornado-cash)
 - [Uniswap](#uniswap)
@@ -460,6 +462,9 @@
 - https://defipulse.com/lightning-network
 - https://www.lapps.co/all-time
 
+## Liquity
+- https://duneanalytics.com/dani/Liquity
+
 ## Livepeer
 - https://scout.cool/livepeer/mainnet
 - https://explorer.livepeer.org
@@ -638,6 +643,9 @@
 - https://tezos.id
 - https://tzstats.com
 - https://twitter.com/tezosagorabot
+
+## Thorchain
+- https://thorchain.delphidigital.io/thorchain/chaosnet
 
 ## Topshots
 - https://cryptoslam.io/nba-top-shot
