@@ -433,6 +433,7 @@
 
 ## Layer 2
 - https://www.l2beat.com
+- https://www.awesomepolygon.com
 
 ## Lightning Network
 - https://1ml.com
