@@ -24,7 +24,6 @@
 - [Chia](#chia)
 - [Compound](#compound)
 - [Cosmos](#cosmos)
-- [CREAM](#cream)
 - [Crypto Art](#crypto-art)
 - [Cryptokitties](#cryptokitties)
 - [Curve](#curve)
@@ -32,9 +31,6 @@
 - [dApps](#dapps)
 - [Decentralized Exchanges](#decentralized-exchanges)
 - [Decentralized Finance](#decentralized-finance)
-- [DeversiFi](#deversifi)
-- [dForce](#dforce)
-- [DODO](#dodo)
 - [dYdX](#dYdX)
 - [Edgeware](#edgeware)
 - [Empty Set Dollar](#empty-set-dollar)
@@ -44,7 +40,7 @@
 - [Ethereum Classic](#ethereum-classic)
 - [Exchanges](#exchanges)
 - [Filecoin](#filecoin)
-- [Flexa](#flexa)
+- [Flashbots](#flashbots)
 - [FOAM](#foam)
 - [Foundation](#foundation)
 - [Gnosis](#gnosis)
@@ -55,7 +51,6 @@
 - [Helium](#helium)
 - [Index Coop](#index-coop)
 - [Indexed Finance](#indexed-finance)
-- [InstaDApp](#instadapp)
 - [KeeperDAO](#keeperdao)
 - [Kleros](#kleros)
 - [Kyber](#kyber)
@@ -271,9 +266,6 @@
 - https://look.ping.pub/validator?chain=cosmoshub
 - https://www.cosmosoutpost.io/cosmos/network?lang=en
 
-## Cream
-- https://defipulse.com/c.r.e.a.m.-finance
-
 ## Crypto Art
 - https://cryptoart.io
 - https://cryptoartpulse.com
@@ -328,15 +320,6 @@
 - https://debank.com/ranking/lending
 - https://defi.ethereumwisdom.com
 
-## DeversiFi
-- https://defipulse.com/deversifi
-
-## dForce
-- https://defipulse.com/dforce
-
-## DODO
-- https://defipulse.com/dodo
-
 ## dYdX
 - https://bloxy.info/list_margin_positions
 - https://scout.cool/dydxprotocol/mainnet
@@ -388,8 +371,9 @@
 ## Filecoin
 - https://filstats.com
 
-## Flexa
-- https://defipulse.com/flexa
+## Flashbots
+- https://explore.flashbots.net
+- https://flashbots-explorer.netlify.app
 
 ## FOAM
 - https://foam.tools
@@ -432,9 +416,6 @@
 
 ## Indexed Finance
 - http://ndx.bonedaddy.io
-
-## InstaDApp
-- https://defipulse.com/instadapp
 
 ## KeeperDAO
 - https://duneanalytics.com/eliasimos/keeper-dao-eliasimos-
@@ -503,9 +484,6 @@
 - https://dappradar.com/ethereum/defi/makerdao
 - http://www.predictions.exchange/makerdao_vaults
 - https://www.theblockcrypto.com/data/open-finance/stablecoins
-
-## MCDEX
-- https://defipulse.com/mcdex
 
 ## Melon
 - https://monitoring.melon.network
@@ -731,9 +709,6 @@
 - https://stat.bloxy.info/superset/dashboard/gas/?standalone=true
 - https://stat.bloxy.info/superset/dashboard/gas
 - https://github.com/unspentio/ethereum-gas-prices-browser-extension
-
-### Miner Extractable Value (MEV)
-- https://explore.flashbots.net
 
 ### Mining profitability
 - https://whattomine.com
