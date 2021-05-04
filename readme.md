@@ -62,6 +62,7 @@
 - [Loopring](#loopring)
 - [MakerDAO](#makerdao)
 - [MCDEX](#mcdex)
+- [Meebits](#meebits)
 - [Melon](#melon)
 - [mStable](#mstable)
 - [Nervos](#nervos)
@@ -486,6 +487,10 @@
 - http://www.predictions.exchange/makerdao_vaults
 - https://www.theblockcrypto.com/data/open-finance/stablecoins
 
+## Meebits
+- https://duneanalytics.com/rchen8/Meebits
+- https://nftexp.io/explore/meebits
+
 ## Melon
 - https://monitoring.melon.network
 - https://defipulse.com/melon
@@ -642,6 +647,7 @@
 - https://uniswap.info
 - https://zumzoom.github.io/analytics/uniswap
 - https://www.uniswaproi.com
+- https://defi-lab.xyz
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Uniswap/UniswapOverview
 - https://uniswapstats.com
 - https://pools.fyi
