@@ -630,6 +630,7 @@
 - https://twitter.com/tezosagorabot
 
 ## Thorchain
+- https://thorchain.net
 - https://thorchain.delphidigital.io/thorchain/chaosnet
 
 ## Topshots
