@@ -374,6 +374,7 @@
 
 ## Flashbots
 - https://explore.flashbots.net
+- https://dashboard.flashbots.net
 - https://flashbots-explorer.netlify.app
 
 ## FOAM
