@@ -283,6 +283,7 @@
 - https://defipulse.com/curve-finance
 
 ## DAOs
+- https://open-orgs.info
 - http://deepdao.world/#/app/dashboard
 - https://daometrics.com
 
