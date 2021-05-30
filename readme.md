@@ -528,8 +528,6 @@
 - https://dappradar.com/app/15/opensea
 
 ## Opyn
-- https://explore.duneanalytics.com/queries/3540#6842
-- https://duneanalytics.com/tomhschmidt/opyn_1
 - https://antoncoding.github.io/opyn-liquidator
 - https://defipulse.com/opyn
 
