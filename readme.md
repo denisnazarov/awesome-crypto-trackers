@@ -115,6 +115,7 @@
 - https://duneanalytics.com/0x/matcha
 
 ## 1inch
+- https://1inchstats.xyz
 - https://duneanalytics.com/k06a/1inch-exchange
 
 ## Aave
@@ -652,6 +653,7 @@
 - https://zumzoom.github.io/analytics/uniswap
 - https://www.uniswaproi.com
 - https://defi-lab.xyz
+- https://uniswapv3.flipsidecrypto.com
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Uniswap/UniswapOverview
 - https://uniswapstats.com
 - https://pools.fyi
