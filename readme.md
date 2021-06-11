@@ -722,6 +722,7 @@
 - https://stat.bloxy.info/superset/dashboard/gas/?standalone=true
 - https://stat.bloxy.info/superset/dashboard/gas
 - https://github.com/unspentio/ethereum-gas-prices-browser-extension
+- https://bscfee.wtf
 
 ### Mining profitability
 - https://whattomine.com
