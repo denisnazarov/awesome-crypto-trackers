@@ -49,6 +49,7 @@
 - [Harvest Finance](#harvest-finance)
 - [Hegic](#hegic)
 - [Helium](#helium)
+- [hic et nunc](#hic-et-nunc)
 - [Index Coop](#index-coop)
 - [Indexed Finance](#indexed-finance)
 - [KeeperDAO](#keeperdao)
@@ -414,6 +415,9 @@
 - https://helium.plus
 - https://www.sitebot.com/helium/summary
 
+## hic et nunc
+- https://hicdex.com
+
 ## Index Coop
 - https://duneanalytics.com/rlg195/index-coop-community
 - https://duneanalytics.com/jdcook/Index-Coop
@@ -700,6 +704,10 @@
 
 ### Boards
 - https://boards.messari.io
+
+### Bridges
+- https://bi.etherscan.io/public/dashboards/Z6PuB2HTLK4tGOCtrYvP65seYXGWfLea76mknRu6
+- https://bi.etherscan.io/public/dashboards/w7IWNXcz63CQSZ34OyZhjARdCyYWYGV7EYw3PmK2
 
 ### Coin correlations
 - https://www.tokenanalyst.io/compare
