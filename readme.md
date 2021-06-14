@@ -78,6 +78,7 @@
 - [Plasma](#plasma)
 - [Pocket Network](#pocket-network)
 - [Polkadot](#polkadot)
+- [Polygon](#polygon)
 - [Polymarket](#polymarket)
 - [PoolTogether](#pooltogether)
 - [RAY](#ray)
@@ -441,7 +442,6 @@
 
 ## Layer 2
 - https://www.l2beat.com
-- https://www.awesomepolygon.com
 
 ## Lightning Network
 - https://1ml.com
@@ -555,6 +555,10 @@
 - https://subscan.io
 - https://polkadot.js.org/apps/#/explorer
 
+## Polygon
+- https://polygonscan.com
+- https://www.awesomepolygon.com
+
 ## Polymarket
 - http://polymarketwhales.info
 
@@ -628,6 +632,8 @@
 - https://www.chaiscan.com
 
 ## Tezos
+- https://tzkt.io
+- http://tezblock.io
 - https://www.mytezosbaker.com
 - https://dunscan.io
 - https://tezos.id
