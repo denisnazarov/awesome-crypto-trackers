@@ -2,6 +2,7 @@
 
 > A curated list of crypto project trackers and analytics dashboards.
 
+**Update: [Dune Analytics](https://duneanalytics.com/browse/dashboards) dashboards will no longer be added to this list. Please search Dune for the latest dashboards.**
 
 ## Contents
 - [0x](#0x)
@@ -26,7 +27,6 @@
 - [Cosmos](#cosmos)
 - [Crypto Art](#crypto-art)
 - [Cryptokitties](#cryptokitties)
-- [Curve](#curve)
 - [DAOs](#daos)
 - [dApps](#dapps)
 - [Decentralized Exchanges](#decentralized-exchanges)
@@ -34,7 +34,6 @@
 - [dYdX](#dYdX)
 - [Edgeware](#edgeware)
 - [Empty Set Dollar](#empty-set-dollar)
-- [ENS](#ens)
 - [Erasure](#erasure)
 - [Ethereum](#ethereum)
 - [Ethereum Classic](#ethereum-classic)
@@ -43,24 +42,19 @@
 - [Flashbots](#flashbots)
 - [FOAM](#foam)
 - [Foundation](#foundation)
-- [Gnosis](#gnosis)
 - [Grin](#grin)
 - [Handshake](#handshake)
 - [Harvest Finance](#harvest-finance)
 - [Hegic](#hegic)
 - [Helium](#helium)
 - [hic et nunc](#hic-et-nunc)
-- [Index Coop](#index-coop)
 - [Indexed Finance](#indexed-finance)
-- [KeeperDAO](#keeperdao)
 - [Kleros](#kleros)
 - [Kyber](#kyber)
 - [Layer 2](#layer-2)
 - [Lightning Network](#lightning-network)
-- [Liquity](#liquity)
 - [Livepeer](#livepeer)
 - [Loans](#loans)
-- [Loopring](#loopring)
 - [MakerDAO](#makerdao)
 - [MCDEX](#mcdex)
 - [Meebits](#meebits)
@@ -69,12 +63,9 @@
 - [Nervos](#nervos)
 - [Nexus Mutual](#nexus-mutual)
 - [NFTs](#nfts)
-- [Notional](#notional)
 - [Oasis](#oasis)
 - [OpenSea](#opensea)
 - [Opyn](#opyn)
-- [Paraswap](#paraswap)
-- [Perpetual Protocol](#perpetual-protocol)
 - [Plasma](#plasma)
 - [Pocket Network](#pocket-network)
 - [Polkadot](#polkadot)
@@ -95,13 +86,11 @@
 - [Tezos](#tezos)
 - [Thorchain](#thorchain)
 - [Topshots](#topshots)
-- [Tornado Cash](#tornado-cash)
 - [Uniswap](#uniswap)
 - [Urbit](#urbit)
 - [volmex.finance](#volmex-finance)
-- [Wallets](#wallets)
 - [xDai](#xdai)
-- [yearn](#yearn)
+- [Yearn](#yearn)
 - [Other](#other)
 
 
@@ -112,13 +101,9 @@
 - https://0x.org/zrx/vote
 - https://0x.org/zrx/staking
 - https://www.stateofthedapps.com/dapps/0x
-- https://duneanalytics.com/0x/0x-staking-stats
-- https://duneanalytics.com/0x/0x-trading-activity
-- https://duneanalytics.com/0x/matcha
 
 ## 1inch
 - https://1inchstats.xyz
-- https://duneanalytics.com/k06a/1inch-exchange
 
 ## Aave
 - https://aavescan.com
@@ -126,7 +111,6 @@
 - https://aave-futuristic-dashboard.now.sh
 - https://burn.aave.com
 - https://defimarketcap.io/protocol/aave
-- https://duneanalytics.com/MatteoLeibowitz/aave_1
 - https://dappradar.com/app/1823/aave
 - https://www.stateofthedapps.com/dapps/aave-protocol
 - https://www.theblockcrypto.com/data/open-finance/cryptocurrency-lending
@@ -148,7 +132,6 @@
 - https://exploreaugur.com
 - http://crystalball.be/stats
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Augur/AugurPopularTags
-- https://defipulse.com/augur
 
 ## Avalanche
 - https://explorer.avax.network
@@ -173,16 +156,12 @@
 - https://pools.balancer.exchange/#/list
 - http://www.predictions.exchange/balancer/None
 - http://pools.vision
-- https://duneanalytics.com/MatteoLeibowitz/balancer
 - https://defimarketcap.io/protocol/balancer
 - https://defimarketcap.io/token/0xba100000625a3754423978a60c9317c58a424e3d
 - https://bal-reports.herokuapp.com/#
-- https://defipulse.com/balancer
 
 ## Bancor
-- https://defipulse.com/bancor
 - https://defimarketcap.io/protocol/bancor
-- https://duneanalytics.com/bancor
 - https://zumzoom.github.io/analytics/bancor/roi
 
 ## Basic Attention Token
@@ -213,18 +192,12 @@
 ## Bitcoin on Ethereum
 - https://btconethereum.com
 - http://www.predictions.exchange/ethbtc
-- https://duneanalytics.com/eliasimos/btc-on-ethereum_1
-- https://defipulse.com/wbtc
-- https://defipulse.com/renvm
-- https://duneanalytics.com/MatteoLeibowitz/wbtc
-- https://duneanalytics.com/itzler/tbtc
 - https://www.theblockcrypto.com/data/open-finance/asset-management
 
 ## bloXroute
 - https://www.bdn-explorer.com
 
 ## bZx
-- https://defipulse.com/bzx
 - https://defimarketcap.io/protocol/fulcrum
 
 ## Celo
@@ -244,17 +217,14 @@
 ## Compound
 - https://app.compound.finance/#Markets
 - https://loanscan.io/compound
-- https://defipulse.com/compound
 - https://chiragkhatri.me/compound-liquidator
 - https://mattsolomon.dev/compound-rates
 - https://compound.finance/governance/leaderboard
 - https://compound.finance/governance/comp
 - https://defimarketcap.io/protocol/compound
-- https://duneanalytics.com/comp
 - http://www.predictions.exchange/compound/None
 - https://stat.farm
 - https://divided.house/#/Compound
-- https://duneanalytics.com/cjliu49/comp-analytics
 - https://www.theblockcrypto.com/data/open-finance/cryptocurrency-lending
 
 ## Cosmos
@@ -276,14 +246,9 @@
 - https://superrare.co/market
 - https://superrare.co/crypto-artists
 - https://superrare.co/top-crypto-art-collectors
-- https://duneanalytics.com/rchen8/superrare_4
 
 ## Cryptokitties
 - https://kittysales.herokuapp.com
-
-## Curve
-- https://duneanalytics.com/pengiundev/curve-fi-users
-- https://defipulse.com/curve-finance
 
 ## DAOs
 - https://open-orgs.info
@@ -299,7 +264,6 @@
 - https://www.dapp.com/ranking
 
 ## Decentralized Exchanges
-- https://duneanalytics.com/hagaetc/dex-metrics
 - https://dex.watch
 - https://etherscan.io/dextracker
 - https://dexindex.io
@@ -314,7 +278,6 @@
 
 ## Decentralized Finance
 - https://defipulse.com
-- https://duneanalytics.com/rchen8/defi-users-over-time
 - https://dai-in-defi.com
 - https://defiscan.io
 - https://public.tableau.com/profile/alethio.defi
@@ -328,22 +291,14 @@
 ## dYdX
 - https://bloxy.info/list_margin_positions
 - https://scout.cool/dydxprotocol/mainnet
-- https://duneanalytics.com/tomhschmidt/dydx_4
-- https://defipulse.com/dydx
 
 ## Edgeware
 - https://telemetry.polkadot.io/#list/Edgeware
 
 ## Empty Set Dollar
 - https://esd.tools
-- https://www.duneanalytics.com/itzler/empty-set-dollar
-
-## ENS
-- https://duneanalytics.com/makoto/ens
 
 ## Erasure
-- https://duneanalytics.com/rchen8/erasure_2
-- https://defipulse.com/erasure
 - https://twitter.com/ErasureStaked
 
 ## Ethereum
@@ -351,7 +306,6 @@
 - https://ethstats.io
 - https://ethernodes.org
 - https://etherscan.io/charts
-- https://duneanalytics.com/kroeger0x/ethereum-metrics_1
 - https://app.santiment.net/assets/erc20
 - https://ethdashboard.com
 - http://www.ethviewer.live
@@ -362,7 +316,6 @@
 - https://txstreet.com/v/eth-btc
 - https://explorer.bitquery.io/ethereum/calls
 - https://www.theblockcrypto.com/data/on-chain-metrics/ethereum
-- https://www.duneanalytics.com/hagaetc/eth2-0-deposits
 
 ## Ethereum Classic
 - https://dappdirect.net
@@ -387,10 +340,6 @@
 ## Foundation
 - https://fnd.info
 
-## Gnosis
-- https://duneanalytics.com/c3rnst/gnosis-dex-protocol
-- https://defipulse.com/gnosis
-
 ## Grin
 - https://grinscan.net/charts
 - https://grin.blockscan.com
@@ -403,12 +352,9 @@
 
 ## Harvest Finance
 - https://farmdashboard.xyz
-- https://defipulse.com/harvest-finance
 
 ## Hegic
-- https://defipulse.com/hegic
 - https://defillama.com/protocol/hegic
-- https://duneanalytics.com/slash125/hegic-v2
 
 ## Helium
 - https://dashboard.helium.com
@@ -419,26 +365,17 @@
 ## hic et nunc
 - https://hicdex.com
 
-## Index Coop
-- https://duneanalytics.com/rlg195/index-coop-community
-- https://duneanalytics.com/jdcook/Index-Coop
-
 ## Indexed Finance
 - http://ndx.bonedaddy.io
-
-## KeeperDAO
-- https://duneanalytics.com/eliasimos/keeper-dao-eliasimos-
 
 ## Kleros
 - http://kleroscan.com
 
 ## Kyber
 - https://tracker.kyber.network
-- https://defipulse.com/kyber
 - https://twitter.com/KyberTracker
 - https://dappradar.com/app/266/kyber
 - https://twitter.com/KyberStatsBot
-- https://duneanalytics.com/ha.hoang/kyber-network_2
 
 ## Layer 2
 - https://www.l2beat.com
@@ -449,34 +386,24 @@
 - https://lightblock.me
 - https://explorer.acinq.co
 - https://txstats.com/dashboard/db/lightning-network?orgId=1
-- https://defipulse.com/lightning-network
 - https://www.lapps.co/all-time
-
-## Liquity
-- https://duneanalytics.com/dani/Liquity
 
 ## Livepeer
 - https://scout.cool/livepeer/mainnet
 - https://explorer.livepeer.org
 
 ## Loans
-- https://duneanalytics.com/hagaetc/lending
 - https://loanscan.io
 - https://loans.descipher.io
 - https://loanlist.io
 - https://debank.com/insight/debt
 - https://defiprime.com/defi-rates
 
-## Loopring
-- https://duneanalytics.com/Brecht/loopring
-- https://defipulse.com/loopring
-
 ## MakerDAO
 - https://mkr.tools
 - https://defiexplore.com
 - https://daistats.com
 - https://dai.stablecoin.science
-- https://duneanalytics.com/mcd
 - https://twitter.com/makerdaibot
 - https://daiauctions.com
 - https://daipeg.com
@@ -487,7 +414,6 @@
 - https://makerburn.com
 - https://graphs.santiment.net/makerdao
 - https://mkrgov.science
-- https://defipulse.com/maker
 - https://www.daiembassy.online
 - https://catflip.co/changelog
 - https://dappradar.com/ethereum/defi/makerdao
@@ -495,23 +421,19 @@
 - https://www.theblockcrypto.com/data/open-finance/stablecoins
 
 ## Meebits
-- https://duneanalytics.com/rchen8/Meebits
 - https://nftexp.io/explore/meebits
 
 ## Melon
 - https://monitoring.melon.network
-- https://defipulse.com/melon
 
 ## mStable
 - https://app.mstable.org/analytics
-- https://defipulse.com/mstable
 
 ## Nervos
 - https://explorer.nervos.org
 
 ## Nexus Mutual
 - https://nexustracker.io
-- https://defipulse.com/nexus-mutual
 - https://twitter.com/NexusMutualBot
 
 ## NFTs
@@ -520,27 +442,14 @@
 - https://cryptoslam.io
 - https://checkmynft.com
 
-## Notional
-- https://duneanalytics.com/notional/notional-market-summary-by-currency
-- https://duneanalytics.com/rchen8/notional
-- https://defipulse.com/notional
-
 ## Oasis
 - https://www.oasisscan.com
 
 ## OpenSea
-- https://duneanalytics.com/rchen8/opensea
 - https://dappradar.com/app/15/opensea
 
 ## Opyn
 - https://antoncoding.github.io/opyn-liquidator
-- https://defipulse.com/opyn
-
-## Paraswap
-- https://duneanalytics.com/mounir/paraswap
-
-## Perpetual Protocol
-- https://duneanalytics.com/yenwen/perpetual-protocol_2
 
 ## Plasma
 - https://mainnet.leapdao.org/explorer
@@ -568,7 +477,6 @@
 - https://twitter.com/PoolTogetherBot
 
 ## RAY
-- https://defipulse.com/robo-advisor-for-yield
 - https://staking.staked.us/ray 
 - https://twitter.com/RoboForYield
 
@@ -579,7 +487,6 @@
 - https://scout.cool/setprotocol/mainnet
 - https://scout.cool/setprotocol/mainnet/dashboards/5d25f57c5b19c00017eebbe3
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/TokenSets/TokenSets
-- https://defipulse.com/set-protocol
 - https://defimarketcap.io/protocol/tokenset
 - https://tokenviz.io
 
@@ -598,7 +505,6 @@
 - https://www.soraredata.com
 
 ## Stablecoins
-- https://duneanalytics.com/hagaetc/stablecoins
 - https://stablecoinindex.com
 - https://stablecoinstats.com
 - https://usdonethereum.com
@@ -607,19 +513,16 @@
 - https://debank.com/insight/stable
 - https://defistats.io/#/stablecoins
 - https://defimarketcap.io/protocol/stablecoin
-- https://duneanalytics.com/johaya/stablecoin-users-trend
 - http://www.predictions.exchange/stablecoin
 - https://skew.com/dashboard/stable-coins
 
 ## Sushiswap
 - https://sushi.zippo.io
 - https://sushiswap.vision/home
-- https://defipulse.com/sushiswap
 
 ## Synthetix
 - https://dashboard.synthetix.io
 - http://synthetixstats.com
-- https://defipulse.com/synthetix
 - https://scout.cool/synthetix/mainnet
 - https://defimarketcap.io/protocol/synthetix
 - https://dappradar.com/app/1810/synthetix
@@ -653,9 +556,6 @@
 - https://www.collectrlabs.com
 - https://topshotexplorer.com
 
-## Tornado Cash
-- https://duneanalytics.com/poma/tornado-cash_1
-
 ## Uniswap
 - https://uniswap.info
 - https://zumzoom.github.io/analytics/uniswap
@@ -665,8 +565,6 @@
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Uniswap/UniswapOverview
 - https://uniswapstats.com
 - https://pools.fyi
-- https://defipulse.com/uniswap
-- https://duneanalytics.com/Ekaunty/uniswap-usd-collected-fees-
 - https://defimarketcap.io/protocol/uniswap
 - https://dappradar.com/app/1602/uniswap
 - https://uniswap.vision
@@ -679,27 +577,14 @@
 ## Volmex Finance
 - https://volmex.finance/indices/eth
 
-## Wallets
-- https://duneanalytics.com/kingjacob/wallets
-- https://duneanalytics.com/tschubotz/gnosis-multisig_1
-- https://duneanalytics.com/tschubotz/gnosis-safe_2
-- https://duneanalytics.com/tschubotz/argent
-- https://duneanalytics.com/tschubotz/dapper-wallet
-- https://duneanalytics.com/rchen8/authereum_1
-- https://duneanalytics.com/tschubotz/monolith
-
 ## xDai
 - https://blockscout.com/poa/dai
 - https://dai-netstat.poa.network
-- https://defipulse.com/xdai
 
-## yearn
+## Yearn
 - https://yearn.vision
 - https://feel-the-yearn.app/vaults
 - https://stats.finance/yearn
-- https://defipulse.com/yearn.finance
-- https://duneanalytics.com/milkyklim/t_1
-- https://duneanalytics.com/milkyklim/yearn-governance-yfi-
 - https://yearn.rocks
 - https://yearn.science
 
@@ -729,7 +614,6 @@
 - https://fees.wtf
 - http://frontrun.me
 - https://ethgas.watch
-- https://duneanalytics.com/kroeger0x/gas-prices
 - https://cancel-ethereum-transactions.web.app
 - https://stat.bloxy.info/superset/dashboard/gas/?standalone=true
 - https://stat.bloxy.info/superset/dashboard/gas
