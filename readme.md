@@ -582,11 +582,8 @@
 - https://dai-netstat.poa.network
 
 ## Yearn
-- https://yearn.vision
-- https://feel-the-yearn.app/vaults
-- https://stats.finance/yearn
-- https://yearn.rocks
 - https://yearn.science
+- https://feel-the-yearn.app/vaults
 
 ## Other
 ### 51% attacks
