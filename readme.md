@@ -243,9 +243,7 @@
 ## Crypto Art
 - https://cryptoart.io
 - https://cryptoartpulse.com
-- https://superrare.co/market
-- https://superrare.co/crypto-artists
-- https://superrare.co/top-crypto-art-collectors
+- https://artcentral.io
 
 ## Cryptokitties
 - https://kittysales.herokuapp.com
