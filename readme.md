@@ -32,7 +32,6 @@
 - [Decentralized Exchanges](#decentralized-exchanges)
 - [Decentralized Finance](#decentralized-finance)
 - [dYdX](#dYdX)
-- [Edgeware](#edgeware)
 - [Empty Set Dollar](#empty-set-dollar)
 - [Erasure](#erasure)
 - [Ethereum](#ethereum)
@@ -290,9 +289,6 @@
 - https://bloxy.info/list_margin_positions
 - https://scout.cool/dydxprotocol/mainnet
 
-## Edgeware
-- https://telemetry.polkadot.io/#list/Edgeware
-
 ## Empty Set Dollar
 - https://esd.tools
 
@@ -456,10 +452,11 @@
 - https://c0d3r.org/NetworkCharts
 
 ## Polkadot
+- https://subscan.io
+- https://www.subvis.io
 - https://telemetry.polkadot.io
 - https://polkascan.io
 - https://polkastats.io
-- https://subscan.io
 - https://polkadot.js.org/apps/#/explorer
 
 ## Polygon
