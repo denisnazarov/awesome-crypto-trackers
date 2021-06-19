@@ -326,7 +326,7 @@
 ## Flashbots
 - https://explore.flashbots.net
 - https://dashboard.flashbots.net
-- https://flashbots-explorer.netlify.app
+- https://flashbots-explorer.marto.lol
 
 ## FOAM
 - https://foam.tools
@@ -612,6 +612,9 @@
 - https://github.com/unspentio/ethereum-gas-prices-browser-extension
 - https://bscfee.wtf
 
+### Miner extractable value
+- https://sandwiched.wtf
+
 ### Mining profitability
 - https://whattomine.com
 
@@ -625,7 +628,7 @@
 - https://coin360.com
 - https://www.coingecko.com
 
-### Security Audits
+### Security audits
 - https://consensys.github.io/blockchainSecurityDB
 - http://defisafety.com
 
