@@ -33,7 +33,6 @@
 - [Decentralized Finance](#decentralized-finance)
 - [dYdX](#dYdX)
 - [Empty Set Dollar](#empty-set-dollar)
-- [Erasure](#erasure)
 - [Ethereum](#ethereum)
 - [Ethereum Classic](#ethereum-classic)
 - [Exchanges](#exchanges)
@@ -95,7 +94,6 @@
 
 ## 0x
 - https://0xtracker.com
-- https://twitter.com/0xtracker
 - https://yield.fi/app/0x
 - https://0x.org/zrx/vote
 - https://0x.org/zrx/staking
@@ -243,6 +241,7 @@
 - https://cryptoart.io
 - https://cryptoartpulse.com
 - https://artcentral.io
+- https://twitter.com/SuperRareBot
 
 ## Cryptokitties
 - https://kittysales.herokuapp.com
@@ -265,7 +264,6 @@
 - https://etherscan.io/dextracker
 - https://dexindex.io
 - https://bloxy.info/list_dexes
-- https://twitter.com/DexWars
 - https://graphs.santiment.net/dex_trades
 - https://app.santiment.net/assets/list?name=decentralized%20exchanges
 - https://debank.com/ranking/dex
@@ -291,9 +289,6 @@
 
 ## Empty Set Dollar
 - https://esd.tools
-
-## Erasure
-- https://twitter.com/ErasureStaked
 
 ## Ethereum
 - https://ethstats.net
@@ -358,6 +353,8 @@
 
 ## hic et nunc
 - https://hicdex.com
+- https://nftbiker.xyz
+- https://glry.xyz
 
 ## Indexed Finance
 - http://ndx.bonedaddy.io
@@ -367,9 +364,7 @@
 
 ## Kyber
 - https://tracker.kyber.network
-- https://twitter.com/KyberTracker
 - https://dappradar.com/app/266/kyber
-- https://twitter.com/KyberStatsBot
 
 ## Layer 2
 - https://www.l2beat.com
@@ -398,7 +393,6 @@
 - https://defiexplore.com
 - https://daistats.com
 - https://dai.stablecoin.science
-- https://twitter.com/makerdaibot
 - https://daiauctions.com
 - https://daipeg.com
 - https://governance-dai.glitch.me
@@ -469,11 +463,9 @@
 ## PoolTogether
 - https://www.pooltogether.com/#stats
 - https://defimarketcap.io/protocol/pool-together
-- https://twitter.com/PoolTogetherBot
 
 ## RAY
 - https://staking.staked.us/ray 
-- https://twitter.com/RoboForYield
 
 ## Reddit
 - https://reddit.dappradar.com
@@ -521,7 +513,6 @@
 - https://scout.cool/synthetix/mainnet
 - https://defimarketcap.io/protocol/synthetix
 - https://dappradar.com/app/1810/synthetix
-- https://twitter.com/snxwhalewatch
 - https://www.stateofthedapps.com/dapps/synthetix
 - https://snx.tools/home
 
@@ -536,7 +527,6 @@
 - https://dunscan.io
 - https://tezos.id
 - https://tzstats.com
-- https://twitter.com/tezosagorabot
 
 ## Thorchain
 - https://thorchain.net
