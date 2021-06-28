@@ -355,6 +355,9 @@
 - https://hicdex.com
 - https://nftbiker.xyz
 - https://glry.xyz
+- https://commodum.xyz
+- https://www.objkt.bid
+- https://www.hictory.xyz
 
 ## Indexed Finance
 - http://ndx.bonedaddy.io
