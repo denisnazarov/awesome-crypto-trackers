@@ -113,7 +113,6 @@
 - https://www.theblockcrypto.com/data/open-finance/cryptocurrency-lending
 
 ## Aragon
-- https://scout.cool/aragon/mainnet
 - https://apiary.1hive.org
 
 ## Arweave
@@ -256,14 +255,12 @@
 - https://dapp.review
 - https://stateofthedapps.com
 - https://app.co
-- https://bloxy.info/list_dapps
 - https://www.dapp.com/ranking
 
 ## Decentralized Exchanges
 - https://dex.watch
 - https://etherscan.io/dextracker
 - https://dexindex.io
-- https://bloxy.info/list_dexes
 - https://graphs.santiment.net/dex_trades
 - https://app.santiment.net/assets/list?name=decentralized%20exchanges
 - https://debank.com/ranking/dex
@@ -284,8 +281,7 @@
 - https://defi.ethereumwisdom.com
 
 ## dYdX
-- https://bloxy.info/list_margin_positions
-- https://scout.cool/dydxprotocol/mainnet
+- https://metabase.dydx.exchange/public/dashboard/5fa0ea31-27f7-4cd2-8bb0-bc24473ccaa3
 
 ## Empty Set Dollar
 - https://esd.tools
@@ -381,7 +377,6 @@
 - https://www.lapps.co/all-time
 
 ## Livepeer
-- https://scout.cool/livepeer/mainnet
 - https://explorer.livepeer.org
 
 ## Loans
@@ -474,8 +469,6 @@
 - https://reddit.dappradar.com
 
 ## Set Protocol
-- https://scout.cool/setprotocol/mainnet
-- https://scout.cool/setprotocol/mainnet/dashboards/5d25f57c5b19c00017eebbe3
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/TokenSets/TokenSets
 - https://defimarketcap.io/protocol/tokenset
 - https://tokenviz.io
@@ -513,7 +506,6 @@
 ## Synthetix
 - https://dashboard.synthetix.io
 - http://synthetixstats.com
-- https://scout.cool/synthetix/mainnet
 - https://defimarketcap.io/protocol/synthetix
 - https://dappradar.com/app/1810/synthetix
 - https://www.stateofthedapps.com/dapps/synthetix
@@ -600,8 +592,6 @@
 - http://frontrun.me
 - https://ethgas.watch
 - https://cancel-ethereum-transactions.web.app
-- https://stat.bloxy.info/superset/dashboard/gas/?standalone=true
-- https://stat.bloxy.info/superset/dashboard/gas
 - https://github.com/unspentio/ethereum-gas-prices-browser-extension
 - https://bscfee.wtf
 
