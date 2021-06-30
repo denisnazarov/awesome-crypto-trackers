@@ -222,6 +222,7 @@
 - https://stat.farm
 - https://divided.house/#/Compound
 - https://www.theblockcrypto.com/data/open-finance/cryptocurrency-lending
+- https://papercliplabs.github.io/compound-info/
 
 ## Cosmos
 - https://mintscan.io
