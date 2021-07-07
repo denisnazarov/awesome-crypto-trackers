@@ -64,6 +64,7 @@
 - [Oasis](#oasis)
 - [OpenSea](#opensea)
 - [Opyn](#opyn)
+- [Osmosis](#osmosis)
 - [Plasma](#plasma)
 - [Pocket Network](#pocket-network)
 - [Polkadot](#polkadot)
@@ -437,6 +438,9 @@
 
 ## Opyn
 - https://antoncoding.github.io/opyn-liquidator
+
+## Osmosis
+- https://osmosis.imperator.co
 
 ## Plasma
 - https://mainnet.leapdao.org/explorer
