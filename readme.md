@@ -46,6 +46,7 @@
 - [Hegic](#hegic)
 - [Helium](#helium)
 - [hic et nunc](#hic-et-nunc)
+- [Hop](#hop)
 - [Indexed Finance](#indexed-finance)
 - [Kleros](#kleros)
 - [Kyber](#kyber)
@@ -356,6 +357,10 @@
 - https://commodum.xyz
 - https://www.objkt.bid
 - https://www.hictory.xyz
+
+## Hop
+- https://app.hop.exchange/stats?token=USDC
+- https://explorer.hop.exchange/mainnet
 
 ## Indexed Finance
 - http://ndx.bonedaddy.io
