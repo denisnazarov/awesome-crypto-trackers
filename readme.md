@@ -56,7 +56,6 @@
 - [Loans](#loans)
 - [MakerDAO](#makerdao)
 - [MCDEX](#mcdex)
-- [Meebits](#meebits)
 - [Melon](#melon)
 - [mStable](#mstable)
 - [Nervos](#nervos)
@@ -413,9 +412,6 @@
 - http://www.predictions.exchange/makerdao_vaults
 - https://www.theblockcrypto.com/data/open-finance/stablecoins
 
-## Meebits
-- https://nftexp.io/explore/meebits
-
 ## Melon
 - https://monitoring.melon.network
 
@@ -433,6 +429,8 @@
 - https://nonfungible.com
 - https://opensea.io/rankings
 - https://cryptoslam.io
+- https://rarity.tools
+- https://nftexp.io
 - https://checkmynft.com
 
 ## Oasis
