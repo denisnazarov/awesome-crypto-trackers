@@ -128,7 +128,6 @@
 - https://themajority.report
 - https://exploreaugur.com
 - http://crystalball.be/stats
-- https://public.tableau.com/profile/alethio.defi#!/vizhome/Augur/AugurPopularTags
 
 ## Avalanche
 - https://explorer.avax.network
@@ -272,9 +271,9 @@
 
 ## Decentralized Finance
 - https://defipulse.com
+- https://revert.finance
 - https://dai-in-defi.com
 - https://defiscan.io
-- https://public.tableau.com/profile/alethio.defi
 - https://defi.ai
 - https://defimarketcap.io
 - https://defillama.com/home
@@ -477,7 +476,6 @@
 - https://reddit.dappradar.com
 
 ## Set Protocol
-- https://public.tableau.com/profile/alethio.defi#!/vizhome/TokenSets/TokenSets
 - https://defimarketcap.io/protocol/tokenset
 - https://tokenviz.io
 
@@ -550,7 +548,6 @@
 - https://www.uniswaproi.com
 - https://defi-lab.xyz
 - https://uniswapv3.flipsidecrypto.com
-- https://public.tableau.com/profile/alethio.defi#!/vizhome/Uniswap/UniswapOverview
 - https://uniswapstats.com
 - https://pools.fyi
 - https://defimarketcap.io/protocol/uniswap
