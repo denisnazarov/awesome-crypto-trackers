@@ -302,6 +302,9 @@
 - https://txstreet.com/v/eth-btc
 - https://explorer.bitquery.io/ethereum/calls
 - https://www.theblockcrypto.com/data/on-chain-metrics/ethereum
+- https://etherchain.org/burn
+- https://ultrasound.money
+- https://ethburned.info
 
 ## Ethereum Classic
 - https://dappdirect.net
