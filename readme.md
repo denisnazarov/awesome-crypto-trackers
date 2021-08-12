@@ -433,6 +433,9 @@
 - https://cryptoslam.io
 - https://rarity.tools
 - https://nftexp.io
+- https://wgmi.io
+- https://nftpricefloor.com
+- https://degendata.io
 - https://checkmynft.com
 
 ## Oasis
