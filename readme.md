@@ -435,6 +435,7 @@
 - https://nftexp.io
 - https://wgmi.io
 - https://nftpricefloor.com
+- https://icy.tools
 - https://degendata.io
 - https://checkmynft.com
 
