@@ -84,7 +84,7 @@
 - [Terra](#terra)
 - [Tezos](#tezos)
 - [Thorchain](#thorchain)
-- [Topshots](#topshots)
+- [Topshot](#topshot)
 - [Uniswap](#uniswap)
 - [Urbit](#urbit)
 - [volmex.finance](#volmex-finance)
@@ -540,7 +540,7 @@
 - https://thorchain.net
 - https://thorchain.delphidigital.io/thorchain/chaosnet
 
-## Topshots
+## Topshot
 - https://cryptoslam.io/nba-top-shot
 - https://momentranks.com
 - https://intangible.market
@@ -551,16 +551,13 @@
 
 ## Uniswap
 - https://uniswap.info
-- https://zumzoom.github.io/analytics/uniswap
-- https://www.uniswaproi.com
+- https://www.liquidityfolio.com/
 - https://defi-lab.xyz
 - https://uniswapv3.flipsidecrypto.com
 - https://uniswapstats.com
 - https://pools.fyi
-- https://defimarketcap.io/protocol/uniswap
 - https://dappradar.com/app/1602/uniswap
 - https://uniswap.vision
-- http://www.predictions.exchange/uniswap_markets
 
 ## Urbit
 - https://opensea.io/assets/urbit-id
