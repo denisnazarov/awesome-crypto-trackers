@@ -375,6 +375,7 @@
 
 ## Layer 2
 - https://www.l2beat.com
+- https://l2fees.info
 
 ## Lightning Network
 - https://1ml.com
