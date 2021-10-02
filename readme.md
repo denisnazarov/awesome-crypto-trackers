@@ -595,7 +595,7 @@
 
 ### Gas
 - https://ethgasstation.info
-- https://www.gasnow.org
+- https://gas.blocknative.com/
 - https://www.etherchain.org/api/gasPriceOracle
 - https://ethgas.app
 - https://etherscan.io/gastracker
