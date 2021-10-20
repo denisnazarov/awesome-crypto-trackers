@@ -24,6 +24,7 @@
 - [Chainlink](#chainlink)
 - [Chia](#chia)
 - [Compound](#compound)
+- [Connext](#connext)
 - [Cosmos](#cosmos)
 - [Crypto Art](#crypto-art)
 - [Cryptokitties](#cryptokitties)
@@ -224,6 +225,9 @@
 - https://www.theblockcrypto.com/data/open-finance/cryptocurrency-lending
 - https://papercliplabs.github.io/compound-info/
 
+## Connext
+- https://connextscan.io
+
 ## Cosmos
 - https://mintscan.io
 - https://cosmoscan.net
@@ -239,6 +243,7 @@
 
 ## Crypto Art
 - https://cryptoart.io
+- https://masterpiece.so
 - https://cryptoartpulse.com
 - https://artcentral.io
 - https://twitter.com/SuperRareBot
@@ -360,7 +365,6 @@
 - https://www.hictory.xyz
 
 ## Hop
-- https://app.hop.exchange/stats?token=USDC
 - https://explorer.hop.exchange/mainnet
 
 ## Indexed Finance
@@ -437,6 +441,7 @@
 - https://wgmi.io
 - https://nftpricefloor.com
 - https://icy.tools
+- https://art.eyesfi.com/dashboard
 - https://degendata.io
 - https://checkmynft.com
 
