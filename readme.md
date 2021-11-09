@@ -470,6 +470,7 @@
 - https://polkascan.io
 - https://polkastats.io
 - https://polkadot.js.org/apps/#/explorer
+- https://dotmarketcap.com
 
 ## Polygon
 - https://polygonscan.com
