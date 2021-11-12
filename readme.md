@@ -455,7 +455,7 @@
 - https://antoncoding.github.io/opyn-liquidator
 
 ## Osmosis
-- https://osmosis.imperator.co
+- https://info.osmosis.zone
 
 ## Plasma
 - https://mainnet.leapdao.org/explorer
@@ -545,6 +545,7 @@
 
 ## Thorchain
 - https://thorchain.net
+- https://app.thorswap.finance
 - https://thorchain.delphidigital.io/thorchain/chaosnet
 
 ## Topshot
