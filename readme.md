@@ -601,6 +601,7 @@
 - https://cointracker.io/visualizations/coin_correlations
 
 ### Gas
+- https://www.gasprice.io
 - https://ethgasstation.info
 - https://gas.blocknative.com/
 - https://www.etherchain.org/api/gasPriceOracle
@@ -611,7 +612,12 @@
 - https://ethgas.watch
 - https://cancel-ethereum-transactions.web.app
 - https://github.com/unspentio/ethereum-gas-prices-browser-extension
+- https://9000.hal.xyz/recipes/base-fee
 - https://bscfee.wtf
+
+### Impermanent loss
+- https://il.wtf
+- https://www.coingecko.com/en/yield-farming
 
 ### Miner extractable value
 - https://sandwiched.wtf
