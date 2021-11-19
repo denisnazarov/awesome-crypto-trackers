@@ -62,6 +62,7 @@
 - [Nervos](#nervos)
 - [Nexus Mutual](#nexus-mutual)
 - [NFTs](#nfts)
+- [Notional](#notional)
 - [Oasis](#oasis)
 - [OpenSea](#opensea)
 - [Opyn](#opyn)
@@ -444,6 +445,9 @@
 - https://art.eyesfi.com/dashboard
 - https://degendata.io
 - https://checkmynft.com
+
+## Notional
+- https://info.notional.finance
 
 ## Oasis
 - https://www.oasisscan.com
