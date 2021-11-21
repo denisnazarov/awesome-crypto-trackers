@@ -89,6 +89,7 @@
 - [Topshot](#topshot)
 - [Uniswap](#uniswap)
 - [Urbit](#urbit)
+- [Visor](#visor)
 - [volmex.finance](#volmex-finance)
 - [xDai](#xdai)
 - [Yearn](#yearn)
@@ -574,6 +575,9 @@
 ## Urbit
 - https://opensea.io/assets/urbit-id
 - https://urbit.live/stats
+
+## Visor
+- https://visor.guru
 
 ## Volmex Finance
 - https://volmex.finance/indices/eth
