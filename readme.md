@@ -225,7 +225,7 @@
 - https://stat.farm
 - https://divided.house/#/Compound
 - https://www.theblockcrypto.com/data/open-finance/cryptocurrency-lending
-- https://papercliplabs.github.io/compound-info/
+- https://papercliplabs.github.io/compound-info
 
 ## Connext
 - https://connextscan.io
@@ -312,6 +312,7 @@
 - https://etherchain.org/burn
 - https://ultrasound.money
 - https://ethburned.info
+- https://www.4byte.directory
 
 ## Ethereum Classic
 - https://dappdirect.net
@@ -564,7 +565,7 @@
 
 ## Uniswap
 - https://uniswap.info
-- https://www.liquidityfolio.com/
+- https://www.liquidityfolio.com
 - https://defi-lab.xyz
 - https://uniswapv3.flipsidecrypto.com
 - https://uniswapstats.com
@@ -611,7 +612,7 @@
 ### Gas
 - https://www.gasprice.io
 - https://ethgasstation.info
-- https://gas.blocknative.com/
+- https://gas.blocknative.com
 - https://www.etherchain.org/api/gasPriceOracle
 - https://ethgas.app
 - https://etherscan.io/gastracker
