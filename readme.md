@@ -81,7 +81,8 @@
 - [Solana](#solana)
 - [Sorare](#sorare)
 - [Stablecoins](#stablecoins)
-- [Sushiswap](#sushiswap)
+- [Starkware](#starkware)
+- [Sushi](#sushi)
 - [Synthetix](#synthetix)
 - [Terra](#terra)
 - [Tezos](#tezos)
@@ -525,7 +526,10 @@
 - http://www.predictions.exchange/stablecoin
 - https://skew.com/dashboard/stable-coins
 
-## Sushiswap
+## Starkware
+- https://voyager.online
+
+## Sushi
 - https://sushi.zippo.io
 - https://sushiswap.vision/home
 
