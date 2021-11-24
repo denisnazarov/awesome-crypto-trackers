@@ -9,6 +9,7 @@
 - [1inch](#1inch)
 - [Aave](#aave)
 - [Aragon](#aragon)
+- [Arbitrum](#arbitrum)
 - [Arweave](#arweave)
 - [Augur](#augur)
 - [Avalanche](#avalanche)
@@ -65,6 +66,7 @@
 - [Notional](#notional)
 - [Oasis](#oasis)
 - [OpenSea](#opensea)
+- [Optimism](#optimism)
 - [Opyn](#opyn)
 - [Osmosis](#osmosis)
 - [Plasma](#plasma)
@@ -120,6 +122,9 @@
 ## Aragon
 - https://apiary.1hive.org
 
+## Arbitrum
+- https://arbiscan.io
+
 ## Arweave
 - https://viewblock.io/arweave
 
@@ -134,6 +139,7 @@
 - http://crystalball.be/stats
 
 ## Avalanche
+- https://snowtrace.io
 - https://explorer.avax.network
 - https://avascan.info
 - https://avax.dev
@@ -457,6 +463,9 @@
 
 ## OpenSea
 - https://dappradar.com/app/15/opensea
+
+## Optimism
+- https://optimistic.etherscan.io
 
 ## Opyn
 - https://antoncoding.github.io/opyn-liquidator
