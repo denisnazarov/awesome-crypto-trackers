@@ -630,12 +630,12 @@
 - https://ethgas.app
 - https://etherscan.io/gastracker
 - https://fees.wtf
+- https://www.ethburned.wtf
 - http://frontrun.me
 - https://ethgas.watch
 - https://cancel-ethereum-transactions.web.app
 - https://github.com/unspentio/ethereum-gas-prices-browser-extension
 - https://9000.hal.xyz/recipes/base-fee
-- https://bscfee.wtf
 
 ### Impermanent loss
 - https://il.wtf
