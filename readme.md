@@ -375,6 +375,7 @@
 - https://www.hictory.xyz
 
 ## Hop
+- https://volume.hop.exchange
 - https://explorer.hop.exchange/mainnet
 
 ## Indexed Finance
