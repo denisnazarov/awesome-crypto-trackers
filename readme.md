@@ -455,6 +455,7 @@
 - https://art.eyesfi.com/dashboard
 - https://degendata.io
 - https://checkmynft.com
+- https://www.worthinnft.com
 
 ## Notional
 - https://info.notional.finance
