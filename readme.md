@@ -451,6 +451,7 @@
 - https://nftexp.io
 - https://wgmi.io
 - https://nftpricefloor.com
+- https://nftcharts.io
 - https://icy.tools
 - https://art.eyesfi.com/dashboard
 - https://degendata.io
