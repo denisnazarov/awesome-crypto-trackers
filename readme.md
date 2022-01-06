@@ -127,6 +127,7 @@
 
 ## Arweave
 - https://viewblock.io/arweave
+- https://arweavefees.com
 
 ## Augur
 - https://predictionexplorer.com
