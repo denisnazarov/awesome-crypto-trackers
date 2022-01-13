@@ -342,6 +342,7 @@
 - https://explore.flashbots.net
 - https://dashboard.flashbots.net
 - https://flashbots-explorer.marto.lol
+- https://eigenphi.io
 
 ## FOAM
 - https://foam.tools
