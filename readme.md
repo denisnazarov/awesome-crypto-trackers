@@ -528,6 +528,7 @@
 ## Solana
 - https://solanabeach.io
 - https://explorer.solana.com
+- https://www.solanalysis.com
 
 ## Sorare
 - https://www.soraredata.com
