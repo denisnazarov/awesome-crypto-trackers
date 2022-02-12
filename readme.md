@@ -452,8 +452,8 @@
 
 ## NFTs
 - https://nonfungible.com
-- https://opensea.io/rankings
 - https://cryptoslam.io
+- https://nftgo.io
 - https://rarity.tools
 - https://nftexp.io
 - https://wgmi.io
@@ -462,6 +462,7 @@
 - https://icy.tools
 - https://art.eyesfi.com/dashboard
 - https://degendata.io
+- https://looksmutable.com
 - https://checkmynft.com
 - https://www.worthinnft.com
 
