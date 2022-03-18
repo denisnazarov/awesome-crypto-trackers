@@ -592,6 +592,7 @@
 - https://uniswap.info
 - https://www.liquidityfolio.com
 - https://defi-lab.xyz
+- https://uniswapv3.thechun.dev
 - https://uniswapv3.flipsidecrypto.com
 - https://uniswapstats.com
 - https://pools.fyi
