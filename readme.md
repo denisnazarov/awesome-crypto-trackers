@@ -326,6 +326,7 @@
 - https://ultrasound.money
 - https://ethburned.info
 - https://www.4byte.directory
+- https://clientdiversity.org
 
 ## Ethereum Classic
 - https://dappdirect.net
@@ -412,13 +413,9 @@
 
 ## Loans
 - https://loanscan.io
-- https://loans.descipher.io
-- https://loanlist.io
-- https://debank.com/insight/debt
 - https://defiprime.com/defi-rates
 
 ## MakerDAO
-- https://mkr.tools
 - https://defiexplore.com
 - https://daistats.com
 - https://dai.stablecoin.science
@@ -426,16 +423,9 @@
 - https://daipeg.com
 - https://governance-dai.glitch.me
 - https://beta.mcdgov.info
-- http://makervaults.descipher.io
 - http://dai.descipher.io
 - https://makerburn.com
-- https://graphs.santiment.net/makerdao
 - https://mkrgov.science
-- https://www.daiembassy.online
-- https://catflip.co/changelog
-- https://dappradar.com/ethereum/defi/makerdao
-- http://www.predictions.exchange/makerdao_vaults
-- https://www.theblockcrypto.com/data/open-finance/stablecoins
 
 ## Melon
 - https://monitoring.melon.network
