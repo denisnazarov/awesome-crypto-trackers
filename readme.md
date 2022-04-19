@@ -455,6 +455,7 @@
 - https://looksmutable.com
 - https://checkmynft.com
 - https://www.worthinnft.com
+- https://jpeg.cash
 
 ## Notional
 - https://info.notional.finance
@@ -526,6 +527,7 @@
 - https://www.soraredata.com
 
 ## Stablecoins
+- https://usdc.cool
 - https://stablecoinindex.com
 - https://stablecoinstats.com
 - https://usdonethereum.com
