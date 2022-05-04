@@ -35,7 +35,7 @@
 - [Decentralized Exchanges](#decentralized-exchanges)
 - [Decentralized Finance](#decentralized-finance)
 - [dYdX](#dYdX)
-- [Empty Set Dollar](#empty-set-dollar)
+- [ENS](#ens)
 - [Ethereum](#ethereum)
 - [Ethereum Classic](#ethereum-classic)
 - [Exchanges](#exchanges)
@@ -304,8 +304,8 @@
 ## dYdX
 - https://metabase.dydx.exchange/public/dashboard/5fa0ea31-27f7-4cd2-8bb0-bc24473ccaa3
 
-## Empty Set Dollar
-- https://esd.tools
+## ENS
+- https://www.digitclub.xyz
 
 ## Ethereum
 - https://ethstats.net
