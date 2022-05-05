@@ -607,6 +607,7 @@
 
 ## Yearn
 - https://yearn.science
+- https://yearn.watch
 - https://feel-the-yearn.app/vaults
 - https://yearn-finance.vercel.app/system
 
