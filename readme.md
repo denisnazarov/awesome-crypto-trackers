@@ -326,6 +326,7 @@
 - https://ultrasound.money
 - https://ethburned.info
 - https://www.4byte.directory
+- https://sig.eth.samczsun.com
 - https://clientdiversity.org
 
 ## Ethereum Classic
@@ -556,6 +557,7 @@
 
 ## Terra
 - https://station.terra.money
+- https://terrasco.pe
 - https://www.chaiscan.com
 
 ## Tezos
