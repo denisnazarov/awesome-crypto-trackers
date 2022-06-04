@@ -539,6 +539,7 @@
 - https://defimarketcap.io/protocol/stablecoin
 - http://www.predictions.exchange/stablecoin
 - https://skew.com/dashboard/stable-coins
+- https://stablecoins.wtf
 
 ## Starkware
 - https://voyager.online
