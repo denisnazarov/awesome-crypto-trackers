@@ -414,6 +414,7 @@
 
 ## Loans
 - https://loanscan.io
+- https://liquidated.live
 - https://defiprime.com/defi-rates
 
 ## MakerDAO
