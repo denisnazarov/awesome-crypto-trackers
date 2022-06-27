@@ -570,7 +570,7 @@
 - https://tzstats.com
 
 ## Thorchain
-- https://thorchain.net
+- https://thorchain.net/dashboard
 - https://app.thorswap.finance
 - https://thorchain.delphidigital.io/thorchain/chaosnet
 
