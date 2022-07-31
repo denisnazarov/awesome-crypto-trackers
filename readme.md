@@ -655,6 +655,7 @@
 ### Miner extractable value
 - https://sandwiched.wtf
 - https://www.zeromev.org
+- https://eigenphi.io
 
 ### Mining profitability
 - https://whattomine.com
