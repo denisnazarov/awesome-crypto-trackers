@@ -39,6 +39,7 @@
 - [Ethereum](#ethereum)
 - [Ethereum Classic](#ethereum-classic)
 - [Exchanges](#exchanges)
+- [Farcaster](#farcaster)
 - [Filecoin](#filecoin)
 - [Flashbots](#flashbots)
 - [FOAM](#foam)
@@ -337,6 +338,9 @@
 - https://www.tokenanalyst.io
 - https://cer.live
 - https://www.bitcointradevolume.com
+
+## Farcaster
+- https://www.farcaster.network
 
 ## Filecoin
 - https://filstats.com
