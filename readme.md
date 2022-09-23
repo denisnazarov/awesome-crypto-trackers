@@ -246,6 +246,7 @@
 
 ## Cosmos
 - https://mintscan.io
+- https://mapofzones.com
 - https://cosmoscan.net
 - https://cosmos.bigdipper.live
 - https://stargazer.certus.one
