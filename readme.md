@@ -677,7 +677,11 @@
 - https://coin360.com
 - https://www.coingecko.com
 
-### Security audits
+### Security
+- https://www.rekt.news/leaderboard
+- https://hacked.slowmist.io
+
+### Audits
 - https://consensys.github.io/blockchainSecurityDB
 - http://defisafety.com
 
