@@ -42,8 +42,10 @@
 - [Farcaster](#farcaster)
 - [Filecoin](#filecoin)
 - [Flashbots](#flashbots)
+- [Flashloans](#flashloans)
 - [FOAM](#foam)
 - [Foundation](#foundation)
+- [GMX](#gmx)
 - [Grin](#grin)
 - [Handshake](#handshake)
 - [Harvest Finance](#harvest-finance)
@@ -86,6 +88,7 @@
 - [Sorare](#sorare)
 - [Stablecoins](#stablecoins)
 - [Starkware](#starkware)
+- [Sudoswap](#sudoswap)
 - [Sushi](#sushi)
 - [Synthetix](#synthetix)
 - [Terra](#terra)
@@ -353,11 +356,17 @@
 - https://flashbots-explorer.marto.lol
 - https://eigenphi.io
 
+## Flashloans
+- https://tools.blocksec.com/flashloan/eth
+
 ## FOAM
 - https://foam.tools
 
 ## Foundation
 - https://fnd.info
+
+## GMX 
+- https://stats.gmx.io/
 
 ## Grin
 - https://grinscan.net/charts
@@ -551,6 +560,9 @@
 ## Starkware
 - https://voyager.online
 
+## Sudoswap
+- https://jam516-sudovision-by-pool-owner-6cpc4b.streamlitapp.com/
+
 ## Sushi
 - https://sushi.zippo.io
 - https://sushiswap.vision/home
@@ -692,6 +704,9 @@
 - https://staked.us/yields
 - https://defiscan.io
 - https://yieldfarming.info
+
+### Validator Ratings 
+- https://www.rated.network/
 
 ## Contribute
 
