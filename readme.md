@@ -661,6 +661,7 @@
 ### Miner extractable value
 - https://www.mevboost.org
 - https://www.mevwatch.info
+- https://www.inclusion.watch
 - https://sandwiched.wtf
 - https://www.zeromev.org
 - https://eigenphi.io
