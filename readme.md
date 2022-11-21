@@ -223,6 +223,8 @@
 
 ## Chainlink
 - https://feeds.chain.link
+- https://www.chainlinkecosystem.com/ecosystem
+- https://data.chain.link/
 
 ## Chia
 - https://www.chiaexplorer.com
