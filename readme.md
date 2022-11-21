@@ -532,6 +532,7 @@
 - https://solanabeach.io
 - https://explorer.solana.com
 - https://www.solanalysis.com
+- https://solanacompass.com/tokenomics#staked
 
 ## Sorare
 - https://www.soraredata.com
