@@ -227,7 +227,7 @@
 ## Chainlink
 - https://feeds.chain.link
 - https://www.chainlinkecosystem.com/ecosystem
-- https://data.chain.link/
+- https://data.chain.link
 
 ## Chia
 - https://www.chiaexplorer.com
@@ -368,7 +368,7 @@
 - https://fnd.info
 
 ## GMX 
-- https://stats.gmx.io/
+- https://stats.gmx.io
 
 ## Grin
 - https://grinscan.net/charts
@@ -564,7 +564,7 @@
 - https://voyager.online
 
 ## Sudoswap
-- https://jam516-sudovision-by-pool-owner-6cpc4b.streamlitapp.com/
+- https://jam516-sudovision-by-pool-owner-6cpc4b.streamlitapp.com
 
 ## Sushi
 - https://sushi.zippo.io
@@ -675,6 +675,7 @@
 
 ### Miner extractable value
 - https://www.mevboost.org
+- https://mevboost.pics
 - https://www.mevwatch.info
 - https://www.inclusion.watch
 - https://sandwiched.wtf
@@ -710,7 +711,7 @@
 - https://yieldfarming.info
 
 ### Validator Ratings 
-- https://www.rated.network/
+- https://www.rated.network
 
 ## Contribute
 
