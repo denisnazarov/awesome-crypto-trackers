@@ -90,6 +90,7 @@
 - [Starkware](#starkware)
 - [Sudoswap](#sudoswap)
 - [Sushi](#sushi)
+- [Synapse](#synapse)
 - [Synthetix](#synthetix)
 - [Terra](#terra)
 - [Tezos](#tezos)
@@ -569,6 +570,9 @@
 ## Sushi
 - https://sushi.zippo.io
 - https://sushiswap.vision/home
+
+## Synapse
+- https://explorer.synapseprotocol.com
 
 ## Synthetix
 - https://dashboard.synthetix.io
