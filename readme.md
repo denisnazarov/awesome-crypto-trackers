@@ -278,6 +278,7 @@
 - https://open-orgs.info
 - http://deepdao.world/#/app/dashboard
 - https://daometrics.com
+- https://www.karmahq.xyz/dao/delegators
 
 ## Dapps
 - https://dappradar.com
