@@ -337,6 +337,7 @@
 - https://www.4byte.directory
 - https://sig.eth.samczsun.com
 - https://clientdiversity.org
+- https://www.validatorqueue.com
 
 ## Ethereum Classic
 - https://dappdirect.net
