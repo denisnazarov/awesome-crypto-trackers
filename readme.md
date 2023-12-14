@@ -497,6 +497,8 @@
 
 ## Osmosis
 - https://info.osmosis.zone
+- https://pinewolytics.de/osmosis/protorev
+- https://www.datalenses.zone/chain/osmosis/overview
 
 ## Plasma
 - https://mainnet.leapdao.org/explorer
