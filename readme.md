@@ -352,8 +352,11 @@
 - https://www.farcaster.network
 
 ## Filecoin
-- https://filstats.com
+- https://file.app
+- https://storage.filecoin.io
 - https://dashboard.starboard.ventures/dashboard
+- https://www.filutils.com
+- https://filfox.info
 
 ## Flashbots
 - https://explore.flashbots.net
