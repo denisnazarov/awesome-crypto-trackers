@@ -297,6 +297,7 @@
 - http://www.predictions.exchange/dex
 - https://liquidity.vision
 - https://www.theblockcrypto.com/data/open-finance/dex-non-custodial
+- https://orderflow.art
 
 ## Decentralized Finance
 - https://defipulse.com
