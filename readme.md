@@ -714,6 +714,9 @@
 - https://coin360.com
 - https://www.coingecko.com
 
+### Rollups
+- https://welovetheblobs.xyz
+
 ### Security
 - https://www.rekt.news/leaderboard
 - https://hacked.slowmist.io
