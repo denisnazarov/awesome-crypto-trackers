@@ -684,6 +684,7 @@
 - https://cancel-ethereum-transactions.web.app
 - https://github.com/unspentio/ethereum-gas-prices-browser-extension
 - https://9000.hal.xyz/recipes/base-fee
+- https://www.gasfees.io
 
 ### Impermanent loss
 - https://il.wtf
