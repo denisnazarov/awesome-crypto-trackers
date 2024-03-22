@@ -406,6 +406,7 @@
 - https://commodum.xyz
 - https://www.objkt.bid
 - https://www.hictory.xyz
+- https://www.nftpulse.org
 
 ## Hop
 - https://volume.hop.exchange
