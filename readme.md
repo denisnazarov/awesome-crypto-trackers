@@ -718,6 +718,7 @@
 
 ### Rollups
 - https://welovetheblobs.xyz
+- https://rollup.wtf
 
 ### Security
 - https://www.rekt.news/leaderboard
