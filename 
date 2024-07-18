@@ -1,0 +1,4623 @@
+[33mcommit 4d0e8391421ddb68107aaabafefdf0a1785a77ec[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: volantxs <volantxs@gmail.com>
+Date:   Thu May 30 19:05:06 2024 +0530
+
+    Revert "Added two security tools in readme.md file"
+    
+    This reverts commit 1548042153971a55786ecad0a019eb053005a3d5.
+    
+    didn't branch off before pushing to the origin
+
+[33mcommit 1548042153971a55786ecad0a019eb053005a3d5[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: volantxs <volantxs@gmail.com>
+Date:   Thu May 30 18:55:07 2024 +0530
+
+    Added two security tools in readme.md file
+
+[33mcommit a26d9200494bc0df20d14507732dd9fd49d84f40[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Mar 22 08:14:13 2024 -0700
+
+    Add NFT pulse
+
+[33mcommit 84a00c02bc20156677795812803a8996edaae1f7[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Mar 14 12:46:38 2024 -0500
+
+    Add gasfees.io
+
+[33mcommit fd23eaadadb8f6bf3d5efa066f9d482627b313b5[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Mar 6 08:53:47 2024 -0800
+
+    Add EIP-4844 estimator
+
+[33mcommit 6f53b6c3cfc41e1da753ed71cb83e53fc2eda190[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Feb 2 20:32:32 2024 -0600
+
+    Add orderflow.art
+
+[33mcommit fb15ecdd240d7a8a09dcc08dc3372165f52f680a[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Jan 5 21:47:44 2024 -0600
+
+    Add Filecoin dashboard
+
+[33mcommit 1f621dc15a2b947687787cb98c8d9f469ce6f2fc[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Dec 14 08:43:38 2023 -0600
+
+    Add Osmosis trackers
+
+[33mcommit dc605142ff5b47af477ef4c538afd99a86ed89b0[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Oct 31 20:38:18 2023 -0400
+
+    Add mempool.pics
+
+[33mcommit 7c66d57e650945f6d3c941e91940e24acf095833[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sat Oct 7 09:27:59 2023 -0500
+
+    Add ERC-4337 dashboard
+
+[33mcommit 07057aed1e666f61f451b50d49862e7fe60f0054[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue May 30 19:00:44 2023 -0500
+
+    Add validator queue
+
+[33mcommit 993a025e7d9107f6377416408f6ab689dd443891[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Apr 21 21:22:53 2023 -0500
+
+    Add DAO delegators dashboard
+
+[33mcommit f735ad79c2bf459028d0d2e88f1745fa725cbbc7[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Mar 6 16:22:19 2023 -0500
+
+    Add insurance dashboard
+
+[33mcommit 96d6e89db59b0238649c71aab72f254a1bc66a93[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Feb 23 08:12:52 2023 -0600
+
+    Add Synapse explorer
+
+[33mcommit d7ca78ac17766c039c5f9671fb3f2688b39d2ae9[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Feb 17 22:52:16 2023 -0600
+
+    Add MEV tracker
+
+[33mcommit e1c5407703b670de2cdb9f1410bd0e91227c4589[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Dec 15 21:26:16 2022 -0600
+
+    Add MEV dashboard
+
+[33mcommit dcbbc092ec70aa3071713fb5bad37b50e2daddf7[m
+Merge: d1951ff d0fdcfc
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Dec 15 21:24:12 2022 -0600
+
+    Merge pull request #195 from Khawoat6/master
+    
+    adding resource for chainlink project
+
+[33mcommit d1951ff17367d907a66208df7682f57d6522d944[m
+Merge: ecd09bb 8eb90e1
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Dec 15 21:23:53 2022 -0600
+
+    Merge pull request #194 from graceldanco/master
+    
+    Added trackers for Sudoswap, GMX,  Rated.network, & Flashloans
+
+[33mcommit d0fdcfcc921af299cfbca89e13eb16367afa3ef1[m
+Author: Oat Phattaraphon <Phattaraphon.chomchaiyaphoom@gmail.com>
+Date:   Mon Nov 21 17:11:34 2022 +0700
+
+    adding for solana project
+
+[33mcommit 70f176d996cef547ef95adcf4fa67750a4b6a580[m
+Author: Oat Phattaraphon <Phattaraphon.chomchaiyaphoom@gmail.com>
+Date:   Mon Nov 21 15:27:33 2022 +0700
+
+    adding resource for chainlink project
+
+[33mcommit ecd09bb64e708161cca40c99ba1708a631a77370[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Nov 3 10:27:33 2022 -0500
+
+    Add inclusion.watch
+
+[33mcommit 8eb90e14e70299279182c3795619f12a149bdd60[m
+Author: grace <31083632+graceldanco@users.noreply.github.com>
+Date:   Tue Oct 18 17:38:15 2022 -0400
+
+    added sudoswap, gmx,  rated.network, & flashloans tracker
+
+[33mcommit c57aa31e0915746cd0713613972be0a4338939d0[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sat Oct 15 11:32:53 2022 -0500
+
+    Add MEV watch
+
+[33mcommit 3b64cf27cb54c0451396334e935c113ef13b316b[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Sep 30 21:44:14 2022 -0500
+
+    Add MEV dashboard
+
+[33mcommit f7d53c5986c340563a37eca1bf933f4718b08b5c[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sun Sep 25 16:13:17 2022 -0500
+
+    Add security hacks
+
+[33mcommit 2333b5fcb54e67947b4c593d4b640dde581924d7[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Sep 23 10:22:08 2022 -0500
+
+    Add Cosmos tracker
+
+[33mcommit 40f5279ad789546a3e895ae076e07d61635749db[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sun Sep 18 08:28:53 2022 -0500
+
+    Add MEV boost dashboard
+
+[33mcommit ec5b46e8daaca1f0300e6cc3842e9b1af22371e7[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Sep 1 10:04:00 2022 -0700
+
+    Add Farcaster dashboard
+
+[33mcommit a3329e06a4a4ac63d5054b0721c38bfd0eb07dcd[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Aug 4 11:46:07 2022 -0500
+
+    Add Filecoin dashboard
+
+[33mcommit 5ad2eb2cf993801f060485bee78ac0ab19d70c69[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sun Jul 31 10:18:24 2022 -0500
+
+    Add MEV tracker
+
+[33mcommit ada46336cfe276da6498e1dcf8e6f2df0555c3d4[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Jun 29 12:15:24 2022 -0500
+
+    Add MEV dashboard
+
+[33mcommit f8d85da3182d0d2fea248e6cadcf5bb397cd2f0a[m
+Merge: 1f51704 5133fc2
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Jun 27 08:50:56 2022 -0500
+
+    Merge pull request #192 from wottpal/add-stablecoins-wtf
+    
+    readme: add stablecoins.wtf dashboard
+
+[33mcommit 1f51704cd9591c647473af649f94bdccd9136f48[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Jun 27 08:50:32 2022 -0500
+
+    Add Thorchain tracker
+
+[33mcommit 06cac7e0f6e576c6cf558c462965a2b549ca8a90[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Jun 17 15:53:41 2022 -0500
+
+    Add liquidation tracker
+
+[33mcommit 5133fc20f87ab00108c10346e8a284b3a4c64b6e[m
+Author: Dennis Zoma <3930150+wottpal@users.noreply.github.com>
+Date:   Sat Jun 4 17:22:15 2022 +0200
+
+    readme: add stablecoins.wtf dashboard
+
+[33mcommit 86c195a2a4893546cd0e05ea4aa89a1d3395e4ed[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sun May 8 17:45:45 2022 -0500
+
+    Add trackers
+
+[33mcommit c81378a00565735f38b1d2ac7d551b29ed7d126e[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu May 5 11:44:00 2022 -0500
+
+    Add Uniswap IV calculator
+
+[33mcommit 5366d67ae4622fef44d5425d1779d9776b21eedd[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed May 4 20:35:35 2022 -0500
+
+    Add Yearn tracker
+
+[33mcommit a5fec294d963f0e4ab0f5e2930a6f466d4d80438[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed May 4 12:04:17 2022 -0500
+
+    Add ENS tracker
+
+[33mcommit 787de96b404a599f29b0568cd25798eac67ede04[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Apr 19 09:42:30 2022 -0500
+
+    Add USDC tracker
+
+[33mcommit 9a36e838baa1812fdc33ad2e265d11106a4c1043[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Apr 18 21:06:24 2022 -0500
+
+    Delete broken links
+
+[33mcommit 0ee34d4dd71cd53f3baa673ffd9188187c0e4972[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Mar 18 08:34:31 2022 -0500
+
+    Add Uniswap tracker
+
+[33mcommit b2aba14ba2eba940f16f63901713fe5a5e44e637[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sat Feb 12 11:58:29 2022 -0600
+
+    Add NFTGo
+
+[33mcommit 6a22389ae95189a40d9ebcb393a48563251388b0[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Jan 27 17:40:42 2022 -0600
+
+    Add Anchor tracker
+
+[33mcommit b074804014e516811d9afc5f6a96d4d1a282b78f[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Jan 18 10:56:36 2022 -0600
+
+    Add Solana NFT tracker
+
+[33mcommit fcfa65492ab7408eed03964f6f8fb0e0c306d7b6[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Jan 13 09:11:44 2022 -0600
+
+    Add Flashbots tracker
+
+[33mcommit b5b2b822f226d9ad39d834f877f457dbb00a6ea0[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sat Jan 8 10:24:02 2022 -0600
+
+    Add Anchor yield reserve tracker
+
+[33mcommit e39e2e99538abf0d5c33e5463213c30f4c7d923f[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Jan 6 09:00:00 2022 -0600
+
+    Add Arweave tracker
+
+[33mcommit 0f7de0a4648daf102c507dde58a94ca74fcc29d4[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sat Dec 18 15:05:01 2021 -0600
+
+    Add NFT tracker
+
+[33mcommit 66916744b28fdad93619e1611cb27a1161a0eb2c[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Dec 14 10:39:51 2021 -0600
+
+    Add NFT tracker
+
+[33mcommit e2c2b586cfec7018a5279be3e541273760b158b8[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Dec 2 09:49:56 2021 -0500
+
+    Add Hop tracker
+
+[33mcommit 65e3b4252ecc75eaf68cb2d2a29f9a01c7f42af6[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Nov 29 20:23:34 2021 -0600
+
+    Add gas trackers
+
+[33mcommit c81054427a27fc1420e7ef55d6d68a0167ea8f54[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Nov 24 08:15:14 2021 -0600
+
+    Add new block explorers
+
+[33mcommit 9dea585e544da83c4002e874e02f3910341aa6f0[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Nov 23 18:34:17 2021 -0600
+
+    Add Starkware tracker
+
+[33mcommit a29940db87a928b955291353a607b118ba1b1104[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Nov 23 11:58:04 2021 -0600
+
+    Add Ethereum function signatures database
+
+[33mcommit 2a974fa6f5d806d792d020d84073f495608f6bf2[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sun Nov 21 15:58:26 2021 -0600
+
+    Add Visor tracker
+
+[33mcommit 76cf050c6ffe6844c2042f4da29a0d864f8fff8a[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Nov 19 08:12:08 2021 -0600
+
+    Add Notional tracker
+
+[33mcommit 84a212a41ed3c0d82e00425261297f8df9c7e469[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Nov 17 09:02:32 2021 -0600
+
+    Add new trackers
+
+[33mcommit 23b4f87364b3b37ab3a81c0eaeb623b70755905f[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Nov 11 18:18:55 2021 -0600
+
+    Add new trackers
+
+[33mcommit 47733cfba7d414455a1cc87d078a74570ef1fed8[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Nov 9 12:57:06 2021 -0600
+
+    Add Polkadot tracker
+
+[33mcommit 7701f84f30d61fc2e3c4f238120e0cf77223f466[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Oct 20 08:58:28 2021 -0500
+
+    Update Hop and Connext trackers
+
+[33mcommit 0e610224cf0b6761ffbd587e8c1682a4961e1544[m
+Merge: 9a0294a 32f4920
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Oct 13 20:24:52 2021 -0500
+
+    Merge pull request #191 from aseoconnor/master
+    
+    Update readme.md
+
+[33mcommit 32f49204d52113a68f985c8d3a3a0f62a2426d6d[m
+Author: Sean O'Connor <aseoconnor@gmail.com>
+Date:   Fri Oct 1 19:20:07 2021 -0600
+
+    Update readme.md
+
+[33mcommit 9a0294a83aa9fc0f84f0d5a267cc08ac6124b0be[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Sep 6 16:06:23 2021 -0700
+
+    Add L2 fees
+
+[33mcommit dea1cf6a1c7d58d9be58005b4ab7bfe3e8e422cc[m
+Merge: 5167098 b6dd3b6
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Sep 1 18:55:28 2021 -0500
+
+    Merge pull request #190 from emlazzarin/patch-28
+    
+    remove expired Uniswap dashboards + typos
+
+[33mcommit b6dd3b65f8f72e0e51919f614041acd944884aa8[m
+Author: emlazzarin <1141361+emlazzarin@users.noreply.github.com>
+Date:   Mon Aug 30 00:12:10 2021 -0400
+
+    remove expired Uniswap dashboards + typos
+
+[33mcommit 51670987d15d570ab97f41468b56b1ba53117852[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Aug 24 22:14:16 2021 -0700
+
+    Add NFT tracker
+
+[33mcommit e0d2a74f30e145085aaaeaf4aa3eaff899fba1d7[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Aug 12 10:08:54 2021 -0700
+
+    Add NFT trackers
+
+[33mcommit f6015376db51671b82e69ebe2adf41ff77d045f1[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Aug 5 13:49:27 2021 -0500
+
+    Add EIP-1559 trackers
+
+[33mcommit 228fdf7816ee5eb72bce0902d9994f4182da40f5[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Jul 27 08:35:48 2021 -0500
+
+    Add revert.finance
+
+[33mcommit a072a09c7f293c5b1a3664adccfcd9a0c17093b2[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sun Jul 25 08:54:10 2021 -0500
+
+    Add NFT trackers
+
+[33mcommit 06169d5009234f1d5c5af8bf95770c413a97059c[m
+Merge: eb89fe8 90929f0
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Jul 22 08:58:13 2021 -0500
+
+    Merge pull request #189 from emlazzarin/patch-27
+    
+    add Yearn asset exposure dash
+
+[33mcommit 90929f0757e7af21b9d2f22abaa48a0fde9cbd09[m
+Author: emlazzarin <1141361+emlazzarin@users.noreply.github.com>
+Date:   Fri Jul 16 14:59:04 2021 -0400
+
+    add Yearn asset exposure dash
+
+[33mcommit eb89fe88a5fd1cd4f5891de5ab925755781e94d9[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Jul 13 16:28:51 2021 -0500
+
+    Add Hop trackers
+
+[33mcommit f8f0736ecbb21c7d1ea6fa6c44012b71fb68639c[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Jul 6 22:01:02 2021 -0500
+
+    Add Osmosis tracker
+
+[33mcommit dbfe7f5640833c8b13a93a574d6447f34de90280[m
+Merge: 0a93326 3b8811e
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Jul 6 21:58:10 2021 -0500
+
+    Merge pull request #188 from emlazzarin/patch-26
+    
+    Paperclip Labs for Compound
+
+[33mcommit 3b8811e4f23026ef60ec3177da7c51187c7bc245[m
+Author: emlazzarin <1141361+emlazzarin@users.noreply.github.com>
+Date:   Wed Jun 30 16:53:28 2021 -0700
+
+    Paperclip Labs for Compound
+    
+    Add the Paperclip Labs Compound historical interest rate tracker.
+
+[33mcommit 0a9332627300eed8591c33e042302f03795370e7[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Jun 29 10:50:49 2021 -0500
+
+    Add dYdX L2 tracker and remove outdated trackers
+
+[33mcommit 391fce133e7f4c398ff8240c2a2b41e618d06f5d[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Jun 28 10:24:53 2021 -0500
+
+    Add HEN trackers
+
+[33mcommit 40dc27bae0e558d935d7d18b416f8001de5465ef[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Jun 24 10:06:49 2021 -0500
+
+    Add HEN trackers and remove Twitter bots
+
+[33mcommit b769706b4377a18baca7729daa9a733829424fd8[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sat Jun 19 10:04:57 2021 -0500
+
+    Update MEV trackers
+
+[33mcommit 8df58941179593373de978ab32ced1196940ee4a[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Jun 17 09:39:11 2021 -0500
+
+    Update Polkadot/Kusama trackers
+
+[33mcommit 9d35dfb87188f5d502c91396abc344f2734ed19a[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Jun 16 20:10:43 2021 -0500
+
+    Update cryptoart trackers
+
+[33mcommit a8e812dc8f7614cec3f6a9bd737bca8f3ad3822f[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Jun 16 16:06:49 2021 -0500
+
+    Remove outdated Yearn trackers
+
+[33mcommit f37b318dc2f580adec3af02089d9220553cf0200[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Jun 15 17:23:39 2021 -0500
+
+    Remove Dune dashboards and DeFi Pulse pages
+
+[33mcommit 16d100908216f20f31da7f7bc180aae04f4c1ef6[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Jun 14 12:39:32 2021 -0500
+
+    Add Polygon and Tezos trackers
+
+[33mcommit 6aa086c87036d863a3fc8455bde2784e2e828306[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Jun 14 08:57:57 2021 -0500
+
+    Add HEN and bridges trackers
+
+[33mcommit bc0ecf03932b65d8e8378f85983471a5c42898f2[m
+Merge: 53af241 9f47376
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Jun 11 18:27:42 2021 -0500
+
+    Merge pull request #187 from emlazzarin/patch-25
+    
+    Removing old Opyn Dune dashboards
+
+[33mcommit 53af24198eab9951f2213d0c21997b2026c65086[m
+Merge: 3b461a6 3f1f2dc
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Jun 11 18:27:25 2021 -0500
+
+    Merge pull request #186 from puf17640/patch-1
+    
+    added bscfee.wtf to gas section
+
+[33mcommit 3b461a6d84dee9a19d457071e22f0f078d1ddc0c[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Jun 2 16:41:38 2021 -0500
+
+    Add new trackers
+
+[33mcommit 9f47376aa583f88b129b9bba9b2da5325f4304b6[m
+Author: emlazzarin <1141361+emlazzarin@users.noreply.github.com>
+Date:   Sat May 29 17:41:34 2021 -0700
+
+    Removing old Opyn Dune dashboards
+    
+    both are deprecated and no longer accurate
+
+[33mcommit 3f1f2dcb4b05ca5b985885dd006eb09d84ed3867[m
+Author: Julian Pufler <julian@pufler.dev>
+Date:   Tue May 18 09:53:14 2021 +0200
+
+    added bscfee.wtf to gas section
+
+[33mcommit b979abe2d55b31da69edf550ac77fe95f5c8d8a9[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sat May 15 16:36:22 2021 -0500
+
+    Add DAO treasuries
+
+[33mcommit 689cfdea3b774e35a8752eea542d4ebff7a5f7f1[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu May 13 10:58:34 2021 -0500
+
+    Add Flashbots dashboard
+
+[33mcommit 2062d96edf94dd838a7499f6cbf71345cd504286[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri May 7 12:04:41 2021 -0500
+
+    Add Thorchain tracker
+
+[33mcommit acd50a7939fbcf02f97550cc3226fbff00ee38f1[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed May 5 12:15:13 2021 -0500
+
+    Add Check My NFT
+
+[33mcommit 78a6c7bfe1be42d171a702b0a5cb48ea952aa99e[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue May 4 08:44:29 2021 -0500
+
+    Add Meebits trackers
+
+[33mcommit f14f080bb03d8143b59662b81ba952fb2295748b[m
+Merge: 36f4f28 4ee5d69
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon May 3 16:05:15 2021 -0500
+
+    Merge pull request #185 from emlazzarin/patch-24
+    
+    add awesomepolygon
+
+[33mcommit 36f4f2898ab0ab0eae35352cee61f29ef194ecd6[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon May 3 16:05:03 2021 -0500
+
+    Add Flashbots trackers
+
+[33mcommit 4ee5d69bd46b9c689e31d9591fcbcb08c8347d0f[m
+Author: emlazzarin <1141361+emlazzarin@users.noreply.github.com>
+Date:   Wed Apr 21 01:09:13 2021 -0700
+
+    add awesomepolygon
+
+[33mcommit 221a71c70e976d7382707afd1ae1cbdc920f8f1e[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sat Apr 17 10:59:50 2021 -0500
+
+    Add new dashboards
+
+[33mcommit 9a1b1c2fe4a3bf6517224deb4d1bc3ef1ff79fcf[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sun Apr 11 20:52:23 2021 -0500
+
+    Add Layer 2 tracker
+
+[33mcommit 5d0dfd39a0b96c3a6443ba54e44b4579934f1aaf[m
+Merge: e215aea 13a6999
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sun Mar 28 15:52:09 2021 -0500
+
+    Merge pull request #177 from bonedaddy/master
+    
+    Add Indexed Finance Dashboard
+
+[33mcommit 13a6999de6d6ad495a59ceace980e77dd2fef60f[m
+Merge: 9891598 e215aea
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sun Mar 28 15:52:03 2021 -0500
+
+    Merge branch 'master' into master
+
+[33mcommit e215aea3530159ec0b46a255a203809f5f2ea11a[m
+Merge: 2f2e8f5 a17cd2a
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sun Mar 28 15:50:06 2021 -0500
+
+    Merge pull request #184 from emlazzarin/patch-23
+    
+    add yearn.science
+
+[33mcommit 2f2e8f5539a131d59fb9342a3ba0fd4a4bb1abb5[m
+Merge: 900b5a3 1051967
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sun Mar 28 15:48:49 2021 -0500
+
+    Merge pull request #183 from emlazzarin/patch-22
+    
+    add Solana and two sources
+
+[33mcommit 900b5a34d5ebc1e57e69a82259f3f9da1bb31ab6[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sun Mar 28 15:47:32 2021 -0500
+
+    Add Avalanche trackers
+
+[33mcommit 4d0915ba57750913ba68e1bc7e1f57af0b2d933e[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sun Mar 28 15:46:14 2021 -0500
+
+    Add Index Coop Dune dashboards
+
+[33mcommit a17cd2a00d828604dc9338422b3a5ae2176264c6[m
+Author: emlazzarin <1141361+emlazzarin@users.noreply.github.com>
+Date:   Sat Mar 27 17:13:31 2021 -0700
+
+    add yearn.science
+
+[33mcommit 1051967f07457b0752ee40bd2fa08bc7fdf9e32b[m
+Author: emlazzarin <1141361+emlazzarin@users.noreply.github.com>
+Date:   Fri Mar 26 14:58:32 2021 -0700
+
+    add Solana and two sources
+
+[33mcommit 2629474c02d7b1018dbebac716aa98e1fe6f18ac[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Mar 2 13:49:40 2021 -0600
+
+    Add NBA Topshots trackers
+
+[33mcommit 549e18d4cf26c6540317320aeed7156ab11abb9a[m
+Merge: b089163 d079c07
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Feb 22 22:15:02 2021 -0600
+
+    Merge pull request #181 from emlazzarin/patch-21
+    
+    add Flashbots MEV Explorer
+
+[33mcommit d079c070e3c2aa6523854ef959389c5dd6b8274e[m
+Author: emlazzarin <1141361+emlazzarin@users.noreply.github.com>
+Date:   Mon Feb 22 15:28:54 2021 -0800
+
+    add Flashbots MEV Explorer
+    
+    Added it to a new section in Other. Let me know if you think this makes sense.
+
+[33mcommit b089163d915d9e1a496e4b0f86f3019b34551aa2[m
+Merge: 03d79bc 9ecb41a
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sat Feb 20 11:28:16 2021 -0600
+
+    Merge pull request #180 from jw122/master
+    
+    Add yearn experimental vaults, defi scan, yieldfarming.info
+
+[33mcommit 9ecb41a23b1ab6c9022cfb8075d618c59861da7b[m
+Author: jw122 <thejuliawu@gmail.com>
+Date:   Sat Feb 13 16:35:47 2021 -0800
+
+    Add yearn experimental vaults, defi scan, yieldfarming.info
+
+[33mcommit 03d79bc1538afd41e93de56b9f05e2a6035bb5a9[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sat Feb 13 18:19:18 2021 -0600
+
+    Add Sorare
+
+[33mcommit cb95a1ce8ae670faf3a8f68aeb4fc6bba2338bd9[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Feb 11 17:53:04 2021 -0600
+
+    Add CryptoSlam
+
+[33mcommit 128a67ceac54767f6ed0dfcec713165922bd3b65[m
+Merge: 4c6ea25 633c319
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Jan 29 21:26:25 2021 -0600
+
+    Merge branch 'master' of github.com:denisnazarov/awesome-crypto-trackers
+
+[33mcommit 4c6ea257d9bf4263757b12f977b67c53536202b7[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Jan 29 21:26:21 2021 -0600
+
+    Remove broken MakerDAO trackers
+
+[33mcommit 633c319daf9d148447eabf222304f99281dd9d38[m
+Merge: e31f22a c97d3eb
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Jan 29 15:53:09 2021 -0600
+
+    Merge pull request #179 from emlazzarin/patch-20
+    
+    add Pocket Network
+
+[33mcommit e31f22a81b3442bc882aade9cf2f9139694504aa[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Jan 29 08:42:03 2021 -0600
+
+    Add Perpetual Protocol
+
+[33mcommit c97d3ebf1db8736e12f5629bcb20b0792319f6c9[m
+Author: emlazzarin <1141361+emlazzarin@users.noreply.github.com>
+Date:   Wed Jan 27 15:42:30 2021 -0800
+
+    add Pocket Network
+
+[33mcommit b4c41405dedb1526d97ada5d9a10e630aa2629af[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Jan 26 10:23:07 2021 -0600
+
+    Remove outdated trackers
+
+[33mcommit 1cfc1f132c12fd82e7a5bbb06407ad75bd0194b9[m
+Merge: 3c692fb d4a95d0
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sat Jan 23 12:01:29 2021 -0600
+
+    Merge pull request #178 from volmex-finance/patch-2
+    
+    Add volmex.finance
+
+[33mcommit d4a95d08ef8ffa8dea0cb41a7e48e3c9f4b01389[m
+Author: volmex-finance <66759243+volmex-finance@users.noreply.github.com>
+Date:   Sat Jan 23 12:53:34 2021 -0500
+
+    Add volmex.finance
+
+[33mcommit 3c692fbb068950160f08821a941812bf2f2c174c[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sat Jan 23 09:59:31 2021 -0600
+
+    Add Aavescan
+
+[33mcommit 98915984944b2ff8dcdd5ff9ed68118b8c0465d2[m
+Merge: 99e4e45 ac1bc1c
+Author: bonedaddy <17089485+bonedaddy@users.noreply.github.com>
+Date:   Thu Jan 21 12:38:20 2021 -0800
+
+    Merge branch 'master' into master
+
+[33mcommit ac1bc1c132eff96ca906d951f2a771b739b626ac[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sun Jan 17 07:54:24 2021 -0600
+
+    Add Notional dashboards
+
+[33mcommit 99e4e45cead69a908bba34641f13b9f1e238272a[m
+Author: bonedaddy <17089485+bonedaddy@users.noreply.github.com>
+Date:   Wed Jan 20 23:59:58 2021 +0000
+
+    fix typo
+
+[33mcommit 27bdf9f8aceb83b0f82850d6e3c6141a2bb948f0[m
+Author: bonedaddy <17089485+bonedaddy@users.noreply.github.com>
+Date:   Wed Jan 20 23:59:30 2021 +0000
+
+    add indexed finance dashboard
+
+[33mcommit bf55ad6c5c039c65b8c7692d6b9131995592c1bb[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sun Jan 17 07:54:24 2021 -0600
+
+    Add Notional dashboards
+
+[33mcommit 166f91b20c8110c21e0d2e2156e9df185b95bc88[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sat Jan 2 18:35:59 2021 -0600
+
+    Add Polymarket whales
+
+[33mcommit 79b60644ee65059f9de4e9b3b60bf281d3e8ef0a[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sat Dec 12 17:18:15 2020 -0600
+
+    Add Empty Set Dollar
+
+[33mcommit 5bfbb338aa60907bb828d819b6deb32b21b6cb88[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Dec 8 22:32:12 2020 -0600
+
+    Add NFT Art Pulse
+
+[33mcommit 696a9f34d3732a421e14c486fe2ee86806f316a6[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Dec 7 14:16:34 2020 -0600
+
+    Add crypto art
+
+[33mcommit 2f0d41e0c6cab38f59de2f805ccc5b88da2e130f[m
+Merge: a2b289f 781f68e
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Dec 7 14:14:30 2020 -0600
+
+    Merge pull request #173 from pioul/patch-1
+    
+    Add Ethereum Gas Prices browser extension
+
+[33mcommit 781f68effb90d08ade40811059df8d9edb0a925b[m
+Merge: 543c85c a2b289f
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Dec 7 14:14:22 2020 -0600
+
+    Merge branch 'master' into patch-1
+
+[33mcommit a2b289f2be6d3204714f0d0ea4428b1edbcbbe2d[m
+Merge: e19b11b 07bdafd
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Dec 7 14:13:41 2020 -0600
+
+    Merge pull request #172 from emlazzarin/patch-18
+    
+    add Hegic links
+
+[33mcommit e19b11bc302372504c6ef0d3aea19c25f2669ba4[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sat Dec 5 13:17:51 2020 -0600
+
+    Add Harvest Finance tracker
+
+[33mcommit 79121c36f871f377ecdab0d51e3505531e0adc2a[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Dec 3 10:08:48 2020 -0600
+
+    Add KeeperDAO tracker
+
+[33mcommit f5c96e5f7223cabe755242b30c4350cb1859ab5e[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Nov 30 09:47:57 2020 -0600
+
+    Add stablecoin Dune dashboard
+
+[33mcommit 46b17045c536488df104e59bca30982b9bdec7f4[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Nov 26 11:43:14 2020 -0600
+
+    Add Chainlink oracles
+
+[33mcommit 5696235805e175851a24b3752c572afe99df61ff[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Nov 20 10:37:08 2020 -0600
+
+    Remove outdated trackers
+
+[33mcommit 6a0163e3a6f1a16bfb2eb6fb025cc4055d0ef481[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Nov 20 10:26:09 2020 -0600
+
+    Change Dune URLs
+
+[33mcommit 543c85c580914f1d58ec253b0335b7273329d517[m
+Author: Philippe Masset <pioul@users.noreply.github.com>
+Date:   Fri Nov 20 10:04:00 2020 +0100
+
+    Add Ethereum Gas Prices browser extension
+    
+    Add this great little browser extension that makes use of multiple of the already listed gas trackers' APIs to display current gas prices right in the browser
+
+[33mcommit 07bdafd75d952a3c541b2fed7116f4f8f00ed25f[m
+Author: emlazzarin <1141361+emlazzarin@users.noreply.github.com>
+Date:   Sun Nov 15 20:25:10 2020 -0800
+
+    add Hegic links
+    
+    a Dune dashboard and DeFi Llama
+
+[33mcommit 736b477f17ce698d12a7d4d6f038d6c9af4d6fac[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sun Nov 15 08:45:09 2020 -0600
+
+    Add Etherchain gas oracle
+
+[33mcommit 4f8991d2d2bf1f4b84e34b4dd842214e7515b3aa[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sat Nov 14 14:27:02 2020 -0600
+
+    Add DeFi farming tracker
+
+[33mcommit 331e70043c6542cc946365bce2d5a1e84a830268[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Nov 11 14:28:16 2020 -0600
+
+    Add Hegic
+
+[33mcommit a540a47b6e41b1e338d4c67c3a3fcd328768e3ca[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Nov 9 15:44:28 2020 -0600
+
+    Add DeFi tracker
+
+[33mcommit c330d7ac17a24d08917ab8f756ab264fd3947fdd[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Nov 4 10:49:37 2020 -0600
+
+    Add Eth2 deposit contract stats
+
+[33mcommit 1e16b3d58b13c80b74bebcaaf17afe1f633cf5b1[m
+Merge: ca3b6b3 b5aceef
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Oct 22 16:25:10 2020 -0500
+
+    Merge pull request #171 from emlazzarin/patch-17
+    
+    adding Helium and some trackers
+
+[33mcommit b5aceefdb214f607bb70fcbfd86d4d3c7ef43d51[m
+Author: emlazzarin <1141361+emlazzarin@users.noreply.github.com>
+Date:   Wed Oct 21 11:12:58 2020 -0700
+
+    adding Helium and some trackers
+
+[33mcommit ca3b6b33e1d6fa7cc8ba3a624e83c9db3a3183cc[m
+Merge: 485c303 2d9fa49
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Oct 16 17:10:57 2020 -0500
+
+    Merge pull request #170 from emlazzarin/patch-16
+    
+    add The Block's crypto dashboard
+
+[33mcommit 485c303446999f4a5141540db8d5975a32a9880d[m
+Merge: e93e449 feced40
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Oct 16 17:10:42 2020 -0500
+
+    Merge pull request #169 from emlazzarin/patch-15
+    
+    removed dead and update Compound links
+
+[33mcommit e93e4497fc53ffac47bfeb12ac4d1b7140e4ce14[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Oct 16 17:10:23 2020 -0500
+
+    Add Filecoin
+
+[33mcommit 2d9fa4908b54d0554ecb42c8997c79529b188835[m
+Author: emlazzarin <1141361+emlazzarin@users.noreply.github.com>
+Date:   Thu Oct 15 08:45:04 2020 -0700
+
+    add The Block's crypto dashboard
+    
+    added to a variety of locations where relevant
+
+[33mcommit feced404ac2920548579651d2e3bf5990f74188a[m
+Author: emlazzarin <1141361+emlazzarin@users.noreply.github.com>
+Date:   Wed Oct 14 12:14:52 2020 -0700
+
+    removed dead and update Compound links
+
+[33mcommit 89a73dcf0da10297abd032c1525a48dbbbadc9fd[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Oct 13 22:04:58 2020 -0500
+
+    Add Harvest Finance
+
+[33mcommit 487ee206ffce88245f2956ccee45a59c8dcc8df6[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Oct 13 15:55:53 2020 -0500
+
+    Add Tornado Cash Dune dashboard
+
+[33mcommit 4ea08952afbdc1dd14361ced02352d00674183f7[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Oct 7 09:01:57 2020 -0500
+
+    Add DODO
+
+[33mcommit 5b2ce55153fcd6bd0d6424769b54072b7213e71a[m
+Merge: 3fa2132 b01fe2b
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Oct 7 09:01:14 2020 -0500
+
+    Merge pull request #168 from emlazzarin/patch-14
+    
+    add Bitquery explorer
+
+[33mcommit b01fe2b72659d83750d2d5d652f403873518f37a[m
+Author: emlazzarin <1141361+emlazzarin@users.noreply.github.com>
+Date:   Sun Oct 4 21:52:30 2020 -0700
+
+    add Bitquery explorer
+
+[33mcommit 3fa213208af6b9c181e6cecfa0b06675da0782c9[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Oct 2 11:47:33 2020 -0500
+
+    Add Cosmos trackers
+
+[33mcommit 11afe93d24c4eb4ba64cfcf8163119237224f69a[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Oct 1 15:57:55 2020 -0500
+
+    Remove outdated trackers
+
+[33mcommit 1293b55230072b9eae603375b172b0963ceb8057[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Sep 30 17:23:23 2020 -0500
+
+    Add Prediction Explorer
+
+[33mcommit 3803d1e96f4c9ad41c5b2daab78f21c1c80795a6[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sat Sep 26 15:23:53 2020 -0500
+
+    Add Liquidity.vision
+
+[33mcommit bd2b5f7af57fb3d9266d3eeb355507266828d9c1[m
+Merge: ca7aeb8 d029a56
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Sep 24 15:31:26 2020 -0500
+
+    Merge pull request #167 from emlazzarin/patch-13
+    
+    update yearn
+
+[33mcommit d029a5610c7ed501b7bd25b43dbe9443c7a0aa0a[m
+Author: emlazzarin <1141361+emlazzarin@users.noreply.github.com>
+Date:   Thu Sep 24 09:10:23 2020 -0700
+
+    update yearn
+    
+    added blockpour, new dune dash, and updated feel-the-yearn link
+
+[33mcommit ca7aeb8912da19b4aad3ce4b0531e6976a65bd4b[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Sep 15 15:23:27 2020 -0500
+
+    Add Sushi
+
+[33mcommit c8bdb840cff32019c032b50f4727174defb3267e[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Sep 14 22:20:25 2020 -0500
+
+    Add gas price oracle
+
+[33mcommit e11660bdc42b07c99afab7fab9dff67c792ba521[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Sep 11 10:44:07 2020 -0500
+
+    Add Cream
+
+[33mcommit 00b61433d054d2db151807f96f5b7e4de7a1c9a1[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Sep 10 15:27:42 2020 -0500
+
+    Add transaction cancellation
+
+[33mcommit 357a339948c465d73612131da7dce7322bd9b928[m
+Merge: fde9e1d 6c31b6f
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Sep 9 18:45:05 2020 -0500
+
+    Merge branch 'master' of github.com:denisnazarov/awesome-crypto-trackers into master
+
+[33mcommit fde9e1d5452d735f1e22134a94af5d7aedd6bfa9[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Sep 9 18:44:55 2020 -0500
+
+    Add SushiSwap tracker
+
+[33mcommit 6c31b6fb081b00223ea355051be16f36b3ff1353[m
+Merge: f1350e0 d74284a
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Aug 31 22:10:19 2020 -0500
+
+    Merge pull request #166 from emlazzarin/patch-12
+    
+    py-earn yearn roi app
+
+[33mcommit f1350e0d2c0ceec02ce53a0f4137439001ca2ff4[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Aug 31 16:37:00 2020 -0500
+
+    Add Sushiswap
+
+[33mcommit 76901f36e35bb671660b76780a4f0a61a3c06d06[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Aug 31 16:04:13 2020 -0500
+
+    Add gas trackers
+
+[33mcommit d74284aecfec19176b03534ad54230194493f9e1[m
+Author: emlazzarin <1141361+emlazzarin@users.noreply.github.com>
+Date:   Mon Aug 31 11:22:34 2020 -0700
+
+    py-earn yearn roi app
+
+[33mcommit 5ca56442f3032835a6539326fc73cfdca311dc63[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Aug 26 16:47:51 2020 -0500
+
+    Remove yearn dashboard
+
+[33mcommit ca2b2b5d27c92f8eb5e88ddfb89d187d6ff967a1[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sun Aug 23 18:26:04 2020 -0500
+
+    Add DeFi Safety
+
+[33mcommit 480d2e8b9b6f5ffa88bcc91d411a6b70d87bf7ca[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sat Aug 22 11:51:07 2020 -0500
+
+    Remove old trackers
+
+[33mcommit cee98ad70fe6bcb6d322a4d429be21cdad9e72e6[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Aug 19 16:22:41 2020 -0500
+
+    Add Gnosis tracker
+
+[33mcommit e201efe32b45759848a4d6b9784c36888beb1603[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Aug 14 09:09:46 2020 -0500
+
+    Add gas price estimate
+
+[33mcommit 7d0ebd00d1ebca08740e75335ef3e742d9b40b25[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Aug 13 09:49:36 2020 -0500
+
+    Update Nexus trackers
+
+[33mcommit 2711d4aabe60b327c9f13dc853a98ea3c008fb55[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Aug 12 10:54:51 2020 -0500
+
+    Add YAM trackers
+
+[33mcommit 5109bb7ab080665be67884b5d6a59cb16a12de92[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Aug 10 18:57:36 2020 -0500
+
+    Add yVault Dune dashboard
+
+[33mcommit a59f1d3a9e0d6247fe006843fe9187f90218431d[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sun Aug 9 11:29:15 2020 -0500
+
+    Add yearn vaults APY
+
+[33mcommit 75069a044da56fcb64eedddb087460bdda7ebc1c[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sat Aug 8 09:41:34 2020 -0500
+
+    Add Foundation tracker
+
+[33mcommit 886caf15b2245252fbbe97847cfb4ca2da526866[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Aug 3 10:44:28 2020 -0500
+
+    Add yearn tracker
+
+[33mcommit a8ad88a8b95c2b7391399f4e233d2b7cb19d97d9[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Aug 3 09:11:14 2020 -0500
+
+    Add Ethereum tracker
+
+[33mcommit 4e6c3945cbc669c36ae1ffb05f3b9844d048e98a[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Jul 30 18:42:21 2020 -0500
+
+    Add SuperRare Dune dashboard
+
+[33mcommit 512e716ab4ef0f365cbeb05e3242f695e296bc85[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Jul 29 21:51:35 2020 -0500
+
+    Add Yield Farming
+
+[33mcommit 00cfc593b1f91c263864405bb4e65866173e4011[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Jul 24 20:41:56 2020 -0500
+
+    Add yearn.finance on DeFi Pulse
+
+[33mcommit 163b50c2f696cbe495d4cf14842f07aa56acc61e[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Jul 23 15:46:35 2020 -0500
+
+    Add Dune dashbaords
+
+[33mcommit 728279620496853437c4a7071eafba3cfa6d01d9[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Jul 22 20:10:59 2020 -0500
+
+    Add Yearn Dune dashboard
+
+[33mcommit 08955fb2b6243b8d5551b45aa9da79af6d2a598b[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Jul 22 08:29:11 2020 -0500
+
+    Add Kleros tracker
+
+[33mcommit 21203a838d906b4486ab5d1b1c4d13d3401e0ac1[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Jul 21 16:25:14 2020 -0500
+
+    Add PieDAO tracker
+
+[33mcommit 63f212595ae406088167d9205cf35defd4024467[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Jul 20 10:25:24 2020 -0500
+
+    Add gas tracker
+
+[33mcommit fd6683f71373858147f336f5196a15e2c8142634[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sun Jul 19 20:16:03 2020 -0500
+
+    Add yield farming calculator
+
+[33mcommit 8ade53cff5a2c4575dbdcf7d91b14ccfd90daa99[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sat Jul 18 09:01:03 2020 -0500
+
+    Add Opyn tracker
+
+[33mcommit e8e9ddceda4a195723cbedaf12f902a793a4c6fb[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Jul 17 21:54:09 2020 -0500
+
+    Add NXM price dashboard
+
+[33mcommit 29ca40e435527cdf4a457311021e8bc9a0086215[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Jul 16 11:06:51 2020 -0500
+
+    Remove CoinGecko trackers
+
+[33mcommit 09c0f3ab119c04a09e0b1cff84b28524750f8d0c[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Jul 16 10:58:57 2020 -0500
+
+    Add mStable trackers
+
+[33mcommit 2ac15d9b557b937a2bb528c0af87a6fc0be6453b[m
+Merge: bab7a0b 1ed58a6
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Jul 15 17:04:35 2020 -0500
+
+    Merge pull request #165 from emlazzarin/patch-11
+    
+    add divided.house to Compound
+
+[33mcommit 1ed58a62f60d1759da3ba9366ea28426835cebd6[m
+Author: emlazzarin <1141361+emlazzarin@users.noreply.github.com>
+Date:   Wed Jul 15 10:59:33 2020 -0700
+
+    add divided.house to Compound
+
+[33mcommit bab7a0b87564cc8b01a0b7cd2d94eb29a7617ff4[m
+Merge: bfac96f fbab359
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Jul 13 16:42:25 2020 -0500
+
+    Merge pull request #163 from emlazzarin/patch-10
+    
+    add Chia and Chia Explorer
+
+[33mcommit fbab359e171a8f1d99de9e02dc9dc680d4149f5e[m
+Author: emlazzarin <1141361+emlazzarin@users.noreply.github.com>
+Date:   Mon Jul 13 11:44:35 2020 -0700
+
+    add Chia and Chia Explorer
+
+[33mcommit bfac96f3129a0fb804433c3e208ea6acb962dec3[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Jul 9 16:52:57 2020 -0500
+
+    Add Curve tracker
+
+[33mcommit 363e603c3470ac4c8bba16571f6e0a164bed53c0[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Jul 8 16:16:44 2020 -0500
+
+    Add tBTC Dune dashboard
+
+[33mcommit 6acddca33d1e6e5e8f3094a66bfe8575c4a90935[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Jul 8 11:33:43 2020 -0500
+
+    Add ENS Dune dashboard
+
+[33mcommit 6ff47ed78b3262f78d8cbfde40aa154d136cfa60[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Jul 7 12:45:35 2020 -0500
+
+    Add MCDEX tracker
+
+[33mcommit 00590da1a9f9366067662b1724ae482b62daa618[m
+Merge: d7ea4e6 fd87376
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Jul 6 13:54:38 2020 -0500
+
+    Merge branch 'master' of github.com:denisnazarov/awesome-crypto-trackers
+
+[33mcommit d7ea4e645ceb4996f7fd2cba1d5299c5568ad3fd[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Jul 6 13:54:28 2020 -0500
+
+    Add Flexa
+
+[33mcommit fd87376f2a193d379387e19576dc35a1fdb71829[m
+Merge: 3bf45f5 eec4d2f
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sun Jul 5 18:12:29 2020 -0500
+
+    Merge pull request #161 from colekennelly1/patch-105
+    
+    Add Balancer trackers
+
+[33mcommit eec4d2ffa4b614f1e6ed3d2660eaa460d4b47685[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sun Jul 5 17:32:22 2020 -0400
+
+    Add Balancer trackers
+
+[33mcommit 3bf45f5e1bb38e68248dffae193d6ec65c7c9265[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sat Jul 4 16:27:42 2020 -0500
+
+    Add COMP calculator
+
+[33mcommit 940aae772e03d1f45e080a503f2e825c068f5f89[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Jul 3 11:39:44 2020 -0500
+
+    Add DeversiFi tracker
+
+[33mcommit 66f4e2ccc31ec459a4734c8b2cf0304843ec43f8[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Jul 3 11:37:27 2020 -0500
+
+    Add Ren tracker
+
+[33mcommit 6b5ed2845cb46f228e9c3b6cf18c9713ea6be5a0[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Jul 2 14:49:11 2020 -0500
+
+    Add COMP ROI
+
+[33mcommit a5cbf102f3dff6c44ee8aa30aa7026023a538f11[m
+Merge: 9fdc1b3 10e3159
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Jul 1 10:05:56 2020 -0500
+
+    Merge branch 'master' of github.com:denisnazarov/awesome-crypto-trackers
+
+[33mcommit 9fdc1b359c615a13c38b416dfc626909bce85eec[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Jul 1 10:05:45 2020 -0500
+
+    Add Balancer liquidity mining tracker
+
+[33mcommit 10e3159a755abb0d7a4b6c3739bac959fcfd834c[m
+Merge: 4361cb9 d5f656d
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Jun 29 16:32:37 2020 -0500
+
+    Merge pull request #160 from colekennelly1/patch-104
+    
+    Add Balancer tracker
+
+[33mcommit 4361cb9b108237f26f978d79c97039ea20502173[m
+Merge: 2d74ea5 a708b05
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Jun 29 16:32:22 2020 -0500
+
+    Merge pull request #159 from colekennelly1/patch-103
+    
+    Add Celo tracker
+
+[33mcommit 2d74ea586e7750791ccfa700105d6a0171cc9356[m
+Merge: 4e911dd eb1fe35
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Jun 29 16:32:08 2020 -0500
+
+    Merge pull request #158 from colekennelly1/patch-99
+    
+    Add trackers
+
+[33mcommit 4e911ddd1a542ff281d236b25182f62d7240a44b[m
+Merge: 914ea3a d2a4a7c
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Jun 29 16:31:49 2020 -0500
+
+    Merge pull request #157 from colekennelly1/patch-98
+    
+    Add Aave trackers
+
+[33mcommit 914ea3a1b20f69809d12855b707a081d4196ce71[m
+Merge: 1c25ff3 0d77628
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Jun 29 16:31:34 2020 -0500
+
+    Merge pull request #156 from colekennelly1/patch-97
+    
+    Add 0x tracker
+
+[33mcommit d5f656d1f9f5692d2f1f5628707da0455bbbc338[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Mon Jun 29 13:15:38 2020 -0400
+
+    Add Balancer tracker
+
+[33mcommit a708b052ddd03d0c99f90131e6620030d3ebd1c8[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Mon Jun 29 13:11:22 2020 -0400
+
+    Add Celo tracker
+
+[33mcommit eb1fe355ccb28fe80392af4dcf20c289092ceddb[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Mon Jun 29 00:32:32 2020 -0400
+
+    Add trackers
+
+[33mcommit d2a4a7c37eb55fe50a91759ca8aba2686e5419fc[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Mon Jun 29 00:28:58 2020 -0400
+
+    Add Aave trackers
+
+[33mcommit 0d77628bc8a01a55a78cbfd9ce80800a5a8fbee1[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Mon Jun 29 00:27:26 2020 -0400
+
+    Add 0x tracker
+
+[33mcommit 1c25ff3c498c24aac8c5f4b8571713544610e97b[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sat Jun 27 11:33:41 2020 -0500
+
+    Add Maker auctions tracker
+
+[33mcommit c15107101294321b44be307ebbba0fd1928314e1[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sat Jun 27 09:35:44 2020 -0500
+
+    Add Synthetix tracker
+
+[33mcommit 92a8062e28f3d44a40ff36ac9e80cd5ab7db22fb[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Jun 26 19:10:34 2020 -0500
+
+    Add Predictions Exchange trackers
+
+[33mcommit f16266aa7041d9c49d3fbe0b430db45dbd491ab8[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Jun 26 11:45:10 2020 -0500
+
+    Add Cosmos block explorer
+
+[33mcommit 37d721bcf9852fdf144d65b6f2e30af9cdd200a5[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Jun 25 10:15:46 2020 -0500
+
+    Add Bitcoin on Ethereum section
+
+[33mcommit ec2b5fa2dbddbcf32510d92cd6ee7049ca6653e3[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Jun 24 10:59:57 2020 -0500
+
+    Add Balancer ROI calculator
+
+[33mcommit c970b98058ef4365df77e0b1f9d32282390e8daf[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sun Jun 21 17:55:34 2020 -0500
+
+    Add security audits list
+
+[33mcommit bd248f2ed90e57487cd29ca083e694256c1c957a[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Jun 18 09:55:13 2020 -0500
+
+    Add Linda's oracle list
+
+[33mcommit eae80aa2245f195ee33d473621b3e6a5b36d4f23[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Jun 17 18:51:29 2020 -0500
+
+    Add Tornado Cash dashboard
+
+[33mcommit dfeec63324c2499f97c25fcb09b4c94611ffdd10[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Jun 17 12:27:11 2020 -0500
+
+    Add BTC on Ethereum Dune dashboard
+
+[33mcommit 6746546293dfab387bfe0787bd2ce96e3a497b30[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Jun 16 09:02:42 2020 -0500
+
+    Add COMP ROI calculator
+
+[33mcommit 723d8d81922762443ce94786c4e0a04595e4c876[m
+Merge: de2ec20 2871968
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Jun 16 09:02:06 2020 -0500
+
+    Merge pull request #155 from emlazzarin/patch-9
+    
+    add Dune's COMP dash
+
+[33mcommit de2ec202753daca97934714356a6187ff27423e2[m
+Merge: 122cff2 d75bea5
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Jun 16 09:00:45 2020 -0500
+
+    Merge pull request #154 from emlazzarin/patch-8
+    
+    update and add Debank
+
+[33mcommit 287196897850ead668cfb824222eba993d56e50b[m
+Author: emlazzarin <1141361+emlazzarin@users.noreply.github.com>
+Date:   Mon Jun 15 21:37:54 2020 -0700
+
+    add Dune's COMP dash
+
+[33mcommit d75bea511fc57d936b0b9d8ea96372e3198c61a2[m
+Author: emlazzarin <1141361+emlazzarin@users.noreply.github.com>
+Date:   Mon Jun 15 17:56:05 2020 -0700
+
+    update and add Debank
+
+[33mcommit 122cff22245728ce741aa583e208d196e8963bce[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Jun 15 17:34:07 2020 -0500
+
+    Add Ethereum mempool tracker
+
+[33mcommit 4a4115e7b66994de12e09f7fdbc499c5cf28936c[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Jun 9 16:05:16 2020 -0500
+
+    Make Dune gash dashboard public
+
+[33mcommit 198ff891892ca2cbd994abf7bfc9b86f9dc85638[m
+Merge: f722cfb 32a1ed9
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Jun 9 16:03:31 2020 -0500
+
+    Merge pull request #153 from colekennelly1/patch-96
+    
+    Add gas tracker
+
+[33mcommit 32a1ed96390c3181d86addb84e465272225b6c53[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sun Jun 7 17:57:56 2020 -0400
+
+    Add gas tracker
+
+[33mcommit f722cfb580c27aa3387919f975bdf4aa87d35b3b[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Jun 5 14:43:46 2020 -0500
+
+    Add 0x trackers
+
+[33mcommit 20a7e6191580408dbe49643a38b499daf303cfbf[m
+Merge: 7e2a09a 328533d
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Jun 5 14:41:31 2020 -0500
+
+    Merge pull request #152 from mangorocoro/patch-1
+    
+    Terra project tracker ammend
+
+[33mcommit 7e2a09a8dacbf8083e5c853c9a94618fd1aea5da[m
+Merge: d0e1e43 33d51c4
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Jun 5 14:41:18 2020 -0500
+
+    Merge pull request #151 from colekennelly1/patch-95
+    
+    Add Uniswap Vision
+
+[33mcommit d0e1e439522d71e7d0d507d6f2ac9b6bebea897e[m
+Merge: 51800a6 0521558
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Jun 5 14:41:04 2020 -0500
+
+    Merge pull request #150 from colekennelly1/patch-94
+    
+    Add Kyber tracker
+
+[33mcommit 328533db0d3eb1efb88b573e081fddabea502d31[m
+Author: Dan <mangorocoro@users.noreply.github.com>
+Date:   Thu Jun 4 17:19:17 2020 -0400
+
+    Terra project tracker ammend
+    
+    Added DSRV Lab's CHAISCAN analytics dashboard for Terra's CHAI payment application.
+
+[33mcommit 33d51c402ac347508af702160f5cc54fe3cdd1b8[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Thu Jun 4 00:37:38 2020 -0400
+
+    Add Uniswap Vision
+
+[33mcommit 05215585d7eb06d1cdf427bf072e02b2330ac1f4[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Thu Jun 4 00:30:16 2020 -0400
+
+    Add Kyber tracker
+
+[33mcommit 51800a62618c2a401a6903648630486dc0c9078d[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Jun 3 22:25:28 2020 -0500
+
+    Add OpenSea Dune dashboard
+
+[33mcommit 214aff856706e21f04414c8e32372a636c312ac1[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Jun 1 10:52:44 2020 -0500
+
+    Make Dune dashboard public
+
+[33mcommit 7f155480fca6ae8d9db0575eb44c3bee3061e08a[m
+Merge: bc3e8a0 1bd1660
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Jun 1 10:50:39 2020 -0500
+
+    Merge pull request #149 from colekennelly1/patch-93
+    
+    Add Balancer trackers
+
+[33mcommit 1bd1660562d0072fb4196995487068c52e92623b[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sat May 30 23:44:09 2020 -0400
+
+    Add Balancer trackers
+
+[33mcommit bc3e8a0386935c6c865b696dfd8e16fe8d3b51c4[m
+Merge: 6188af2 3b0bf3d
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri May 29 10:59:25 2020 -0500
+
+    Merge pull request #148 from milkyklim/bancor
+    
+    Add Bancor Dune dashboard
+
+[33mcommit 3b0bf3d79991ca9d18124a26bb398f00b497544e[m
+Author: milkyklim <10698619+milkyklim@users.noreply.github.com>
+Date:   Thu May 28 04:49:00 2020 +0200
+
+    Add Bancor Dune dashboard
+
+[33mcommit 6188af2294000e5302282d9bd7b3f0f3e519c5bc[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon May 25 10:50:50 2020 -0500
+
+    Add stablecoins Dune dashboard
+
+[33mcommit 03aef2f19f11754b268e7b1a98fae4ea9f71c74e[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon May 25 10:42:47 2020 -0500
+
+    Add bloXroute tracker
+
+[33mcommit 908456ba2e73441dd96df81a694a35b69ee39a78[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sun May 24 21:42:45 2020 -0500
+
+    Add Loopring tracker
+
+[33mcommit b95d219bc86efdeaf2d561daeac065e087f59220[m
+Merge: 15e6ea4 135d013
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri May 22 11:51:02 2020 -0500
+
+    Merge branch 'master' of github.com:denisnazarov/awesome-crypto-trackers
+
+[33mcommit 15e6ea42e182b10c5cab1f871b987358ef3c9f44[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri May 22 11:50:53 2020 -0500
+
+    Add 0x tracker
+
+[33mcommit 135d013fab92d534cb17e8bf298ad1ae9f3e134c[m
+Merge: 621f76a e1470db
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue May 19 11:35:51 2020 -0500
+
+    Merge pull request #146 from colekennelly1/patch-88
+    
+    Add Celo tracker
+
+[33mcommit e1470db84456f2f99a69ef501a6a0e1d5f45f0ff[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Tue May 19 11:48:51 2020 -0400
+
+    Add Celo tracker
+
+[33mcommit 621f76af193b6b54518107e4c5dd2aaf9935ba87[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue May 19 09:21:30 2020 -0500
+
+    Add Reddit tracker
+
+[33mcommit 1fdf862722c7be765db149f836114bc7338cac9d[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sat May 16 19:54:28 2020 -0500
+
+    Add stablecoin tracker
+
+[33mcommit 066d76cb7191819580df774c4875132352a0d265[m
+Merge: 05a3d8f 26e67ef
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sat May 16 09:39:08 2020 -0500
+
+    Merge pull request #144 from colekennelly1/patch-87
+    
+    Add PoolTogether tracker
+
+[33mcommit 05a3d8f1ebdc593ff226de1887a20c25bae5d3db[m
+Merge: 1b792f9 5c266b2
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sat May 16 09:38:55 2020 -0500
+
+    Merge pull request #143 from colekennelly1/patch-86
+    
+    Add NFT tracker
+
+[33mcommit 1b792f9feeb9dea1c445ebfaa4f85884d2e9fc09[m
+Merge: 831c504 fb92967
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sat May 16 09:38:43 2020 -0500
+
+    Merge pull request #141 from colekennelly1/patch-84
+    
+    Add 0x trackers
+
+[33mcommit 831c50490fb3c5cc717cbd4033d6358d7fd51f08[m
+Merge: de2abd0 00b4759
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sat May 16 09:38:30 2020 -0500
+
+    Merge pull request #140 from colekennelly1/patch-83
+    
+    Add Synthetix trackers
+
+[33mcommit de2abd019d59cfe067a6fc61311cbbeaf72ae62f[m
+Merge: 4d1b3b4 8718842
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sat May 16 09:38:08 2020 -0500
+
+    Merge pull request #139 from colekennelly1/patch-82
+    
+    Add Aave tracker
+
+[33mcommit 4d1b3b45c5a27569f1f8897231430b79b8ce379e[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sat May 16 09:37:57 2020 -0500
+
+    Add BTC on Ethereum
+
+[33mcommit 26e67ef81337ff78128f9140b91df5ac08c262ef[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Fri May 15 23:39:35 2020 -0400
+
+    Add PoolTogether tracker
+
+[33mcommit 5c266b2d77510ab0503507e79495d118eb8723db[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Fri May 15 23:25:41 2020 -0400
+
+    Add NFT tracker
+
+[33mcommit fb92967b4a380a190f0abd80696454b6eef39808[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Fri May 15 23:21:36 2020 -0400
+
+    Add 0x trackers
+
+[33mcommit 00b4759dc094f0bf53471f7689b3ed7dea4a0f42[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Fri May 15 23:12:17 2020 -0400
+
+    Add Synthetix trackers
+
+[33mcommit 8718842d65e6541bbeb4b5b5ee43dfa2fc5dfdb7[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Fri May 15 23:09:37 2020 -0400
+
+    Add Aave tracker
+
+[33mcommit 0c28270ff8e7be105eb651c3a7c32d50d1780621[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri May 15 18:44:52 2020 -0500
+
+    Add Cosmos GoZ tracker
+
+[33mcommit 6dbb09bb1e6211351b6bf298405f1e99ffa47573[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed May 13 14:20:53 2020 -0500
+
+    Make Dune dashboards public
+
+[33mcommit 3d34ba654e2a8cb397ba502a9988140a22900d07[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue May 12 21:17:54 2020 -0500
+
+    Add BAT tracker
+
+[33mcommit b3bc770d666f97e18bf384aa24545f7b2b83b8b7[m
+Merge: 89082b1 b33b0d8
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue May 12 15:45:25 2020 -0500
+
+    Merge pull request #138 from colekennelly1/patch-81
+    
+    Remove broken link
+
+[33mcommit 89082b1e4d42ab006931128b0e922c6e6fee78c9[m
+Merge: 41b2501 87bfa82
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue May 12 15:44:39 2020 -0500
+
+    Merge pull request #137 from colekennelly1/patch-77
+    
+    Add Axie trackers
+
+[33mcommit 41b2501412fbf75633e370a63beb70c46dc2ff31[m
+Merge: 5b18358 39853db
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue May 12 15:43:47 2020 -0500
+
+    Merge pull request #136 from colekennelly1/patch-76
+    
+    Add CoinGecko DEX tracker
+
+[33mcommit b33b0d868fe366d7411fd558c7009c1a9d71323a[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Mon May 11 00:14:41 2020 -0400
+
+    Remove broken link
+
+[33mcommit 87bfa823451f4be11d5903e2fa6d48157ad7fcab[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sun May 10 20:35:59 2020 -0400
+
+    Add Axie trackers
+
+[33mcommit 39853db784e46f83d4ab7a79081a53b1259073e0[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sun May 10 20:30:21 2020 -0400
+
+    Add CoinGecko DEX tracker
+
+[33mcommit 5b18358bcdfc45946933a3cff58aa104bb94e7a5[m
+Merge: b616b90 a4647bc
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sun May 10 10:00:00 2020 -0500
+
+    Merge pull request #135 from colekennelly1/patch-75
+    
+    Add Kyber bot
+
+[33mcommit b616b9052a59ad4e4d27f9e51f2faef57551252d[m
+Merge: 9993149 976b039
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sun May 10 09:59:48 2020 -0500
+
+    Merge pull request #134 from colekennelly1/patch-74
+    
+    Add Ethereum tracker
+
+[33mcommit 9993149769466fee02c6cbecc909ce01c451b038[m
+Merge: a1a7e97 a6978f8
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sun May 10 09:59:31 2020 -0500
+
+    Merge pull request #133 from colekennelly1/patch-73
+    
+    Add Sets tracker
+
+[33mcommit a1a7e977407a4115be006e40dbb44c94f924156b[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sun May 10 09:54:00 2020 -0500
+
+    Add Cosmos IBC tracker
+
+[33mcommit a4647bc47bebea6fc5f4a772f786fa89c1f99f54[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sun May 10 01:32:14 2020 -0400
+
+    Add Kyber bot
+
+[33mcommit 976b039c0d43c8b67c272be6443d6cc55bc34539[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sat May 9 16:14:39 2020 -0400
+
+    Add Ethereum tracker
+
+[33mcommit a6978f8b9bcfd5fd3bbde4c00bfdfb786203bb2c[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sat May 9 16:06:42 2020 -0400
+
+    Add Sets tracker
+
+[33mcommit 08e5c86708e74349ca3d106155ab15e897cc03d7[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri May 8 11:39:38 2020 -0500
+
+    Add Aave and Balancer trackers
+
+[33mcommit 702af1300e54e717840378840be3ca757cfbd37f[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon May 4 16:26:07 2020 -0500
+
+    Add 0x tracker
+
+[33mcommit a44eabac8f81a179806c7deabc202bab719b99a2[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sun May 3 18:46:15 2020 -0500
+
+    Fix ordering
+
+[33mcommit 8d23aeec37e00d5c4432c430fe58330c32293687[m
+Merge: 259c7d1 af3961a
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sun May 3 18:45:15 2020 -0500
+
+    Merge pull request #132 from colekennelly1/patch-72
+    
+    Add EtherScan trackers
+
+[33mcommit af3961a7bb12a6cf233be2ebae21b4cdf72c81e7[m
+Merge: 746f406 259c7d1
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sun May 3 18:45:07 2020 -0500
+
+    Merge branch 'master' into patch-72
+
+[33mcommit 259c7d17b8ed69a069bc81c860a11469250ad63f[m
+Merge: a96f1f8 81d60d7
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sun May 3 18:44:26 2020 -0500
+
+    Merge pull request #131 from colekennelly1/patch-71
+    
+    Add Pool Together
+
+[33mcommit a96f1f8be86262dc4170f24a56de0b3c754982db[m
+Merge: 739190e 6f920aa
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sun May 3 18:43:41 2020 -0500
+
+    Merge pull request #130 from colekennelly1/patch-70
+    
+    Add Dapp Radar trackers
+
+[33mcommit 746f406fceb090cb7f3e6a9d1c5085aae1460d70[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sat May 2 23:48:30 2020 -0400
+
+    Add EtherScan trackers
+
+[33mcommit 81d60d7dbeefd2b8e2ee2a8cbdaf3e56794016d2[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sat May 2 23:44:16 2020 -0400
+
+    Add Pool Together
+
+[33mcommit 6f920aad2aadb1431fda4cca0589d825528f86c4[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sat May 2 23:42:43 2020 -0400
+
+    Add Dapp Radar trackers
+
+[33mcommit 739190ed6f48f244bf93e5fa4d7cf382729dbd24[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri May 1 11:19:20 2020 -0500
+
+    Add trackers
+
+[33mcommit f362bacda33400793571d2c60c747c92cf031901[m
+Merge: 50410a0 3ad05b3
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri May 1 11:17:59 2020 -0500
+
+    Merge pull request #129 from colekennelly1/patch-69
+    
+    Add Token Terminal trackers
+
+[33mcommit 50410a08da686b2bdc88284c1323737dbebdeb5b[m
+Merge: 088dbb5 81af712
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri May 1 11:17:46 2020 -0500
+
+    Merge pull request #128 from colekennelly1/patch-68
+    
+    Add Bancor tracker
+
+[33mcommit 088dbb5b799e20a116646c7c636e7cd1d9c7e1da[m
+Merge: 34cbb7e a9a611a
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri May 1 11:17:34 2020 -0500
+
+    Merge pull request #127 from colekennelly1/patch-66
+    
+    Add Aave tracker
+
+[33mcommit 34cbb7e2693ee54f16ccecb3a105938d9f04d1c6[m
+Merge: 0d8065d 10ba73c
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri May 1 11:17:19 2020 -0500
+
+    Merge pull request #126 from colekennelly1/patch-65
+    
+    Add Axie tracker
+
+[33mcommit 3ad05b3db21fc7ef0e8615b8ec2a85f82a5d1a28[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Thu Apr 30 23:42:58 2020 -0400
+
+    Add Token Terminal trackers
+
+[33mcommit 81af712e0ef79da8e6b8cdff6b6151aa4e9a28e0[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Thu Apr 30 23:36:08 2020 -0400
+
+    Add Bancor tracker
+
+[33mcommit a9a611aa2195b004e573197243d25f652fd14d25[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Thu Apr 30 21:14:57 2020 -0400
+
+    Add Aave tracker
+
+[33mcommit 10ba73cf342fe8b6c96d1eedba51db8e3360e481[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Thu Apr 30 21:12:20 2020 -0400
+
+    Add Axie tracker
+
+[33mcommit 0d8065d9968544f287c5fff82ac3965586601bbb[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Apr 30 13:03:29 2020 -0500
+
+    Add Curve tracker
+
+[33mcommit 6781b05cb25c569c8184105abe3ec20ea2b1ccd0[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Apr 29 10:50:29 2020 -0500
+
+    Fix formatting
+
+[33mcommit f7732cf764e9ac3f2387cfc711ac4bc78fc51d0e[m
+Merge: 006abad c72dbe4
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Apr 29 10:47:16 2020 -0500
+
+    Merge pull request #125 from tomhschmidt/patch-1
+    
+    Added oracles.club
+
+[33mcommit c72dbe4f1d30df1427c2d78ceed72be4f9cb9fa0[m
+Author: Tom Schmidt <me@tomhschmidt.com>
+Date:   Wed Apr 29 08:37:26 2020 -0700
+
+    Added oracles.club
+
+[33mcommit 006abad2326a26f1a66ef31a9cb0ea7c14c358c9[m
+Merge: 15bb862 d2136cd
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Apr 29 10:34:42 2020 -0500
+
+    Merge pull request #124 from emlazzarin/patch-7
+    
+    add Celoist
+
+[33mcommit d2136cd66bde95a9cf128856de9a1c99b85b0ae2[m
+Author: emlazzarin <1141361+emlazzarin@users.noreply.github.com>
+Date:   Tue Apr 28 18:20:48 2020 -0700
+
+    Update readme.md
+
+[33mcommit 15bb8620de7e9c077b4cf208709b27c8441606cc[m
+Merge: 422adae f1c998f
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Apr 28 18:40:21 2020 -0500
+
+    Merge pull request #123 from emlazzarin/patch-6
+    
+    add Celo and several explorers
+
+[33mcommit 422adaedb15d231bbeb30cf56e9fde6acb78b3e3[m
+Merge: 58226f1 c741bd7
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Apr 28 18:39:40 2020 -0500
+
+    Merge pull request #122 from jlwaugh/master
+    
+    Add Enigma
+
+[33mcommit f1c998f287eadde20a2ea538f4019f97248cf7a1[m
+Author: emlazzarin <1141361+emlazzarin@users.noreply.github.com>
+Date:   Tue Apr 28 15:49:18 2020 -0700
+
+    add Celo and several explorers
+
+[33mcommit c741bd7dff7fb35db6e0e3981e78f9427a79df67[m
+Author: jlwaugh <jwaugh19@gmail.com>
+Date:   Tue Apr 28 14:05:25 2020 -0400
+
+    Add Enigma
+
+[33mcommit 58226f148a945ee04be39a94e8259ec40ae14bf9[m
+Merge: 049140c 1ff8cb2
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Apr 27 22:26:16 2020 -0500
+
+    Merge pull request #121 from colekennelly1/patch-64
+    
+    Add Axie tracker
+
+[33mcommit 1ff8cb2b10a1d4fec511397293bf94308c3b5019[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Mon Apr 27 21:09:11 2020 -0400
+
+    Add Axie tracker
+
+[33mcommit 049140cd7e728658ff0da4cc16b5c7016b266e0d[m
+Merge: d814d72 45c51b9
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Apr 27 15:58:02 2020 -0500
+
+    Merge pull request #120 from colekennelly1/patch-63
+    
+    Add RAY Twitter bot
+
+[33mcommit d814d72101347fcc161b0d7aad14c5c7fc271efe[m
+Merge: bbf3c1d 0398c99
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Apr 27 15:57:48 2020 -0500
+
+    Merge pull request #119 from colekennelly1/patch-61
+    
+    Add Tezos Twitter bot
+
+[33mcommit bbf3c1d668ebde16d0f49b99f5cd9d29ab080ae4[m
+Merge: 9074263 f7b88d7
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Apr 27 15:57:34 2020 -0500
+
+    Merge pull request #118 from colekennelly1/patch-60
+    
+    Add Erasure twitter tracker
+
+[33mcommit 90742639cbfed94b92a8a6d98438632cfce43f3d[m
+Merge: 84bf7cc eebf3df
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Apr 27 15:57:19 2020 -0500
+
+    Merge pull request #117 from colekennelly1/patch-59
+    
+    Add several Maker trackers
+
+[33mcommit 84bf7cc05acaf5bb633cb435dda738ebe3603260[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Apr 27 15:56:36 2020 -0500
+
+    Add Opyn tracker
+
+[33mcommit 45c51b956dcb5e1743b9d5df0e12056938850244[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sun Apr 26 17:59:42 2020 -0400
+
+    Add RAY Twitter bot
+
+[33mcommit 0398c99913fbc19480f8c404651e420bae062b90[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sun Apr 26 17:44:39 2020 -0400
+
+    Add Tezos Twitter bot
+
+[33mcommit f7b88d7b8c8db8e1819e5e357cac722eb9f5e278[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sat Apr 25 18:05:14 2020 -0400
+
+    Add Erasure twitter tracker
+
+[33mcommit eebf3df8a177b7d7d083e539635547609cea0fa4[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sat Apr 25 15:38:06 2020 -0400
+
+    Add several Maker trackers
+
+[33mcommit 3f3559d4e5f67fbfb08e00ac88c7d06121c28f0f[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Apr 24 09:50:17 2020 -0500
+
+    Add Loopring tracker
+
+[33mcommit 1490fbd06a02133e415b3eb696203d5ab8fb9e70[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Apr 23 14:40:18 2020 -0500
+
+    Add Handshake tracker
+
+[33mcommit ac94fa6b8594bff3a24dfd015d1a6580c8c2f60a[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Apr 23 14:37:51 2020 -0500
+
+    Add Handshake tracker
+
+[33mcommit 0057887bbc93620ddf0e74a3d37563d7d523439e[m
+Merge: e737b8d 74569b1
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Apr 22 16:00:10 2020 -0500
+
+    Merge pull request #116 from colekennelly1/patch-58
+    
+    Remove broken link
+
+[33mcommit e737b8dd09d07cd9dcd3ab8e87de702dd3e0aaba[m
+Merge: 8d43e1d 549afcb
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Apr 22 15:59:44 2020 -0500
+
+    Merge pull request #115 from colekennelly1/patch-56
+    
+    Added several Token Tracker trackers
+
+[33mcommit 549afcb43cde79ca3f31057cd1bb6454263feb26[m
+Merge: f914a01 8d43e1d
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Apr 22 15:59:37 2020 -0500
+
+    Merge branch 'master' into patch-56
+
+[33mcommit 8d43e1d42f947e2280c9f146651c0eb09fa7b5c8[m
+Merge: 56d65b5 ad8a1ff
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Apr 22 15:58:56 2020 -0500
+
+    Merge pull request #114 from colekennelly1/patch-55
+    
+    Add several DeFiMarketCap trackers
+
+[33mcommit 74569b1bff92a682d4e061b37cd1ed66ec54b6b1[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Mon Apr 20 20:50:07 2020 -0400
+
+    Remove broken link
+
+[33mcommit f914a010ca5781d1681f693f342837497dca6458[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sun Apr 19 22:48:30 2020 -0400
+
+    Added several Token Tracker trackers
+
+[33mcommit ad8a1ff4726be10948a4d5c9fc3631be47d2ce3d[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sun Apr 19 22:44:47 2020 -0400
+
+    Add several DeFiMarketCap trackers
+
+[33mcommit 56d65b549ef72ac2139a484d217dae40a61d7b22[m
+Merge: baf4b73 d187063
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Apr 17 10:34:27 2020 -0500
+
+    Merge pull request #113 from colekennelly1/patch-54
+    
+    Add Compound governance leaderboard
+
+[33mcommit baf4b7305adfc87c34565d3ef3b756cb736b3666[m
+Merge: ef98324 db6090a
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Apr 17 10:34:18 2020 -0500
+
+    Merge pull request #112 from colekennelly1/patch-53
+    
+    Add Bloxy gas tracker
+
+[33mcommit d187063d9f339dbfe6692e4773b36425775c3c75[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Fri Apr 17 01:00:46 2020 -0400
+
+    Add Compound governance leaderboard
+
+[33mcommit db6090a52b452f8cbc6563a49328c8ca499df1b7[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Fri Apr 17 00:59:57 2020 -0400
+
+    Add Bloxy gas tracker
+
+[33mcommit ef98324e95d0faa065c681b279e8d98a3951e931[m
+Merge: e29cbb9 362755b
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Apr 16 22:15:45 2020 -0500
+
+    Merge pull request #110 from colekennelly1/patch-56
+    
+    Add KnownOrigin
+
+[33mcommit 362755b37b4b8279949820dc97b94d32db1cc025[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Thu Apr 16 23:12:32 2020 -0400
+
+    Add KnownOrigin
+
+[33mcommit e29cbb98a0d083d150f220b48734beacb8640370[m
+Merge: 1d4cfda 64e186b
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Apr 16 20:42:09 2020 -0500
+
+    Merge pull request #109 from colekennelly1/patch-54
+    
+    Add Dune Analytics wallet dashboard
+
+[33mcommit 1d4cfdae9ff295a1c822dd4486558ad2998537ec[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Apr 16 20:40:38 2020 -0500
+
+    Add Erasure dashboard
+
+[33mcommit 64e186b4907bba1b6fd5bdf9394143e476084a0a[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Thu Apr 16 21:24:11 2020 -0400
+
+    Add Dune Analytics wallet dashboard
+
+[33mcommit 2ed95ab4f39124452f198317e55ce9326dd6e9eb[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Apr 16 20:21:02 2020 -0500
+
+    Update Authereum tracker
+
+[33mcommit a07eea8d4f1479b667e2cab21e66a9712478009d[m
+Merge: d3ca5c4 7fdbbfe
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Apr 16 19:59:14 2020 -0500
+
+    Merge pull request #107 from colekennelly1/patch-51
+    
+    Add ethviewer
+
+[33mcommit 7fdbbfe93321e74f50969989806e1b6864d72083[m
+Merge: c3502cb d3ca5c4
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Apr 16 19:58:56 2020 -0500
+
+    Merge branch 'master' into patch-51
+
+[33mcommit d3ca5c4bb0f4c520329b240936e6d44b13d8d30c[m
+Merge: 92360a3 902b5eb
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Apr 16 19:58:06 2020 -0500
+
+    Merge pull request #106 from colekennelly1/patch-50
+    
+    Add Gitcoin gas history tracker
+
+[33mcommit 902b5eb9de4d59a548ad38e16abc903c7869ed3c[m
+Merge: 43bb131 92360a3
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Apr 16 19:57:43 2020 -0500
+
+    Merge branch 'master' into patch-50
+
+[33mcommit 92360a3a02799d45eea032fae4db1e102368ab4a[m
+Merge: d8cd82b e2d23b9
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Apr 16 19:57:08 2020 -0500
+
+    Merge pull request #105 from colekennelly1/patch-49
+    
+    Add Crypto Art section
+
+[33mcommit d8cd82bceb89181f3d424ff21e47378af33dd109[m
+Merge: 02a5021 f9bd280
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Apr 16 19:56:33 2020 -0500
+
+    Merge pull request #104 from colekennelly1/patch-48
+    
+    Add 0xtracker bot
+
+[33mcommit 02a502194fe82b396b10a7c2ece5ac901a8648f5[m
+Merge: 0cbe170 a05853e
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Apr 16 19:56:21 2020 -0500
+
+    Merge pull request #103 from colekennelly1/patch-46
+    
+    Add KNC Burn Tracker bot
+
+[33mcommit 0cbe17050c908301862cfe0da0fe4d7da4f9eed5[m
+Merge: ffa5024 6f53442
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Apr 16 19:56:03 2020 -0500
+
+    Merge pull request #102 from colekennelly1/patch-45
+    
+    Add Blockchain ETH explorer
+
+[33mcommit ffa5024ef5749fc885761e1ee4e2621f93ca5a69[m
+Merge: 2729efc 0d6fef3
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Apr 16 19:55:44 2020 -0500
+
+    Merge pull request #101 from colekennelly1/patch-44
+    
+    Added CoinCodex stablecoins tracker
+
+[33mcommit 0d6fef3c252f62b619411d404d61cf660ee15a78[m
+Merge: 4b61d9c 2729efc
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Apr 16 19:55:36 2020 -0500
+
+    Merge branch 'master' into patch-44
+
+[33mcommit 2729efcc2f6492f4bb0d708ce05366b7864f2003[m
+Merge: c7152ab 4e49b2e
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Apr 16 19:55:03 2020 -0500
+
+    Merge pull request #100 from colekennelly1/patch-43
+    
+    Add various DeBank trackers
+
+[33mcommit 4e49b2e0450130a6729055fa572ef59ec3a7fe39[m
+Merge: 901210d c7152ab
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Apr 16 19:54:55 2020 -0500
+
+    Merge branch 'master' into patch-43
+
+[33mcommit c7152abc19d1fa897d4a9fdf0f9dd20c2fb6cf20[m
+Merge: 897ee8a 6407615
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Apr 16 19:53:20 2020 -0500
+
+    Merge pull request #99 from colekennelly1/patch-42
+    
+    Add DeFi Stats stablecoins tracker
+
+[33mcommit 897ee8a866331cef11e34826fab5173824f87380[m
+Merge: 7df9616 8e52be2
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Apr 16 19:52:54 2020 -0500
+
+    Merge pull request #98 from colekennelly1/patch-41
+    
+    Add DeFi Prime rates
+
+[33mcommit c3502cb8c6f35734924a48cd2a857c787bf80160[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Thu Apr 16 01:18:07 2020 -0400
+
+    Add ethviewer
+
+[33mcommit 43bb131e8ff65f8ee9964f880a298ee5a1d759f4[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Thu Apr 16 01:15:59 2020 -0400
+
+    Add Gitcoin gas history tracker
+
+[33mcommit e2d23b9136c91dfab6375e1f21302257e8df97cd[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Thu Apr 16 01:08:37 2020 -0400
+
+    Add Crypto Art section
+
+[33mcommit f9bd2801cb3687841a2cc895936e065a4d721b4e[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Wed Apr 15 18:42:29 2020 -0400
+
+    Add 0xtracker bot
+
+[33mcommit a05853e21a9d28b09c0308252690f00084437943[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Wed Apr 15 18:38:53 2020 -0400
+
+    Add KNC Burn Tracker bot
+
+[33mcommit 6f534423461b78bb2eb1c161bf4996320369d611[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Wed Apr 15 18:35:23 2020 -0400
+
+    Add Blockchain ETH explorer
+
+[33mcommit 4b61d9cb364a2a3c4594479a2536628b4aa551c1[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Wed Apr 15 18:27:00 2020 -0400
+
+    Added CoinCodex stablecoins tracker
+
+[33mcommit 901210d9c019cdd2265a7a07661dffa65f20001c[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Wed Apr 15 18:09:33 2020 -0400
+
+    Add various DeBank trackers
+    
+    DEX tracker, debt tracker, & stablecoin tracker
+
+[33mcommit 6407615fa40efc8b3966a31b283802dbfb63333a[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Wed Apr 15 18:07:37 2020 -0400
+
+    Add DeFi Stats stablecoins tracker
+
+[33mcommit 8e52be21d419dc6a3e7e0501d686051943d7a4da[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Wed Apr 15 18:05:55 2020 -0400
+
+    Add DeFi Prime rates
+
+[33mcommit 7df9616f63602aa433a5f069071bfe07aa1817d4[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Apr 15 09:59:33 2020 -0500
+
+    Minor fixes
+
+[33mcommit 4249897c899083eb069f55c875edfbe056518391[m
+Merge: b1246cf 3c5e0e2
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Apr 15 09:57:55 2020 -0500
+
+    Merge pull request #96 from emlazzarin/patch-5
+    
+    add Urbit and two trackers
+
+[33mcommit b1246cf8b32a2b00d0cec2c3fd2b848e3180f11d[m
+Merge: 3effda8 54f4f24
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Apr 15 09:57:36 2020 -0500
+
+    Merge pull request #95 from emlazzarin/patch-4
+    
+    adding DeFi Market Cap
+
+[33mcommit 3effda8fcaef6c6c36b4df8462e36c7cb2e0c9b7[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Apr 15 09:56:43 2020 -0500
+
+    Add Gnosis tracker
+
+[33mcommit 3c5e0e29743f798fb209fcaea9ce876af2f69545[m
+Author: emlazzarin <1141361+emlazzarin@users.noreply.github.com>
+Date:   Tue Apr 14 10:21:23 2020 -0700
+
+    add Urbit and two trackers
+
+[33mcommit 54f4f241a7dc3223d1ed5a51b80557693b3b46fb[m
+Author: emlazzarin <1141361+emlazzarin@users.noreply.github.com>
+Date:   Mon Apr 13 17:38:50 2020 -0700
+
+    adding DeFi Market Cap
+
+[33mcommit 0553f0759a16dfdc907adb6014d7dd7d9d506760[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Apr 13 17:15:09 2020 -0500
+
+    Remove duplicate Dune Analytics MakerDAO dashboard
+
+[33mcommit 73dbd3b5778f643e6403681f2105b7d569d43b08[m
+Merge: 114a20d 42bd491
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Apr 13 16:59:43 2020 -0500
+
+    Merge pull request #94 from colekennelly1/patch-39
+    
+    Added Axie Infinity section + trackers
+
+[33mcommit 114a20d7a30bf1a84c66cb8414a3a77e80cf2a93[m
+Merge: 049d606 c6bbf83
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Apr 13 16:55:58 2020 -0500
+
+    Merge pull request #93 from colekennelly1/patch-38
+    
+    Added second Santiment MakerDAO dashboard
+
+[33mcommit 049d606e7a9afd0f9f213b9999a6f2a9b130367f[m
+Merge: 70c7ef6 8ef14de
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Apr 13 16:55:44 2020 -0500
+
+    Merge pull request #92 from colekennelly1/patch-37
+    
+    Added Dune Analytics ENS Dashboard
+
+[33mcommit 70c7ef6d0bc242e49d702163b2fc689f6fa90e73[m
+Merge: 8dc7424 904f1a1
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Apr 13 16:55:31 2020 -0500
+
+    Merge pull request #91 from colekennelly1/patch-36
+    
+    Added Deep DAO
+
+[33mcommit 8dc74241acd974bc82acb7cec6a3abcffda6b6f6[m
+Merge: 91c297a 98be4bc
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Apr 13 16:55:20 2020 -0500
+
+    Merge pull request #90 from colekennelly1/patch-35
+    
+    Added ETH Dashboard
+
+[33mcommit 91c297a98623a3cb0dc59fa5b8f47849b3d5261e[m
+Merge: 5822940 c45d728
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Apr 13 16:55:07 2020 -0500
+
+    Merge pull request #89 from colekennelly1/patch-34
+    
+    Added Token Terminal
+
+[33mcommit 5822940c82ab498f07e949be12aa424a71e7375f[m
+Merge: 7fbc8c1 cc0cb98
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Apr 13 16:54:52 2020 -0500
+
+    Merge pull request #88 from colekennelly1/patch-33
+    
+    Added Dapp.com
+
+[33mcommit 7fbc8c15def2d635729ecfbeec18a13303cdf748[m
+Merge: 3bb01b9 2484c34
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Apr 13 16:54:30 2020 -0500
+
+    Merge pull request #87 from colekennelly1/patch-32
+    
+    Added Bitcoin Trade Volume by Bitwise tracker
+
+[33mcommit 3bb01b921c89727c34bdf26e51d51240cd349cec[m
+Merge: d468e20 adc8f89
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Apr 13 16:54:00 2020 -0500
+
+    Merge pull request #86 from colekennelly1/patch-31
+    
+    Clark Moody Bitcoin Dashboard
+
+[33mcommit 42bd491e27d387dd2a8d4b8906442deade6b9f7f[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sat Apr 11 19:04:42 2020 -0400
+
+    Added Axie Infinity section + trackers
+
+[33mcommit c6bbf833fa793aa50b13fcb8c3a6be0c41d85f01[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sat Apr 11 17:50:58 2020 -0400
+
+    Added second Santiment MakerDAO dashboard
+
+[33mcommit 8ef14de3436168db8a9efa8957219c39ab6dd826[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sat Apr 11 17:44:21 2020 -0400
+
+    Added Dune Analytics ENS Dashboard
+
+[33mcommit 904f1a15f8de2e8eac3e31c6998eaa3b714151b8[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sat Apr 11 17:37:33 2020 -0400
+
+    Added Deep DAO
+
+[33mcommit 98be4bcee7707f52e9b341bf4970b3a049a9a143[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sat Apr 11 17:36:11 2020 -0400
+
+    Added ETH Dashboard
+
+[33mcommit c45d7285d815a707db671243f8f97a4c9356d7ef[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sat Apr 11 17:33:32 2020 -0400
+
+    Added Token Terminal
+
+[33mcommit cc0cb98411ff61e9178436739d5b6a0244c50c2d[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sat Apr 11 17:29:09 2020 -0400
+
+    Added Dapp.com
+
+[33mcommit 2484c345f95293ec2f98fad0dd59aa17e43b9580[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sat Apr 11 17:26:38 2020 -0400
+
+    Added Bitcoin Trade Volume by Bitwise tracker
+
+[33mcommit adc8f89f852c13b8194e20a62daffe8c323bd5f5[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sat Apr 11 17:24:23 2020 -0400
+
+    Clark Moody Bitcoin Dashboard
+
+[33mcommit d468e20939c7a1764653c6b41103254d33ddaa18[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Apr 10 19:01:49 2020 -0500
+
+    Clean up broken links
+
+[33mcommit 3563d047e4a82900e22a3b4c7647576baef66141[m
+Merge: 06ce14d be3af97
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Mar 30 09:34:59 2020 -0500
+
+    Merge pull request #85 from colekennelly1/patch-30
+    
+    Added Compound Rates dashboard
+
+[33mcommit 06ce14db112c8ed0e61143f27d3208e94397e7a6[m
+Merge: eaa4406 ab8d934
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Mar 30 09:34:50 2020 -0500
+
+    Merge pull request #84 from colekennelly1/patch-29
+    
+    Added several Bitcoin trackers / dashboards
+
+[33mcommit eaa4406a35a41b30566771abbccd3e9fc77438da[m
+Merge: 1ccdf4e 86b41b3
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Mar 30 09:34:32 2020 -0500
+
+    Merge pull request #83 from colekennelly1/patch-28
+    
+    Added CoinGecko Earn Cosmos section
+
+[33mcommit 1ccdf4e98bb198e99553af73367f7d12a797f4fd[m
+Merge: f7a70b0 d13143c
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Mar 30 09:34:21 2020 -0500
+
+    Merge pull request #82 from colekennelly1/patch-27
+    
+    Added RAY landing page
+
+[33mcommit f7a70b06abe27d328020ee6b438055d1b83501dd[m
+Merge: 54d56b7 7baf5de
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Mar 30 09:34:08 2020 -0500
+
+    Merge pull request #81 from colekennelly1/patch-26
+    
+    Added Polkadot.JS Explorer
+
+[33mcommit 54d56b72b5895b3d5e1e7b0fae4009cb17223385[m
+Merge: eb45f9e f44b95c
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Mar 30 09:33:51 2020 -0500
+
+    Merge pull request #80 from colekennelly1/patch-24
+    
+    Added CoinGecko Earn Livepeer section
+
+[33mcommit eb45f9e4d9000176163c690c5e999fecde18d5f6[m
+Merge: 0d6e8a7 257a518
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Mar 30 09:33:35 2020 -0500
+
+    Merge pull request #78 from colekennelly1/patch-22
+    
+    Add CoinGecko Earn Tezos section
+
+[33mcommit 0d6e8a754fce63c2f29e8621cdc2beb0590f8360[m
+Merge: 65a7d72 80e5a49
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Mar 30 09:33:10 2020 -0500
+
+    Merge pull request #77 from colekennelly1/patch-21
+    
+    Added CoinGecko Earn Dai section
+
+[33mcommit 65a7d72a87a99289ec445f396ca3067cf6e5785f[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sun Mar 29 12:57:39 2020 -0500
+
+    Add Opyn dashboard
+
+[33mcommit be3af9732aa406e910e07aeabe1dfbb36406d057[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sat Mar 28 15:48:04 2020 -0400
+
+    Added Compound Rates dashboard
+
+[33mcommit ab8d934b738652df5104ba211ad4d038ae92db61[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sat Mar 28 15:43:54 2020 -0400
+
+    Added several Bitcoin trackers / dashboards
+    
+    Bitcoin Optech Dashboards, Bitaps, OXT, Mempool Space, Zorinaq, Bitcoin.Sipa, & Cambridge Bitcoin Electricity Consumption Index
+
+[33mcommit 86b41b34e5e72288ef39aec1da6fad992a6fed28[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sat Mar 28 15:30:34 2020 -0400
+
+    Added CoinGecko Earn Cosmos section
+
+[33mcommit d13143c2ff036db288614de929ee4913e7242c8e[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sat Mar 28 14:03:29 2020 -0400
+
+    Added RAY landing page
+
+[33mcommit 7baf5de4844361c51ebfee5b8a9c4b4d1ff02efb[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sat Mar 28 14:01:58 2020 -0400
+
+    Added Polkadot.JS Explorer
+
+[33mcommit f44b95c634487e6752dd196b60df9fe8d34cb412[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sat Mar 28 13:54:50 2020 -0400
+
+    Added CoinGecko Earn Livepeer section
+
+[33mcommit 257a5181bde9f15e04d9ac33027a556a8d89e775[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sat Mar 28 13:52:21 2020 -0400
+
+    Add CoinGecko Earn Tezos section
+
+[33mcommit 80e5a49f129488041f11063b8331098bb2440f86[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sat Mar 28 13:46:42 2020 -0400
+
+    Added CoinGecko Earn Dai section
+
+[33mcommit 8c3d4b5545ac1c3ab71aa0e720bee02bae41680d[m
+Merge: 9fe2445 5f8b6b9
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Mar 25 15:38:28 2020 -0500
+
+    Merge pull request #76 from emlazzarin/patch-3
+    
+    add Oasis and oasisscan
+
+[33mcommit 5f8b6b9439b72f2de26310769a7e943fcd1e3910[m
+Author: emlazzarin <1141361+emlazzarin@users.noreply.github.com>
+Date:   Wed Mar 25 11:57:06 2020 -0700
+
+    add Oasis and oasisscan
+
+[33mcommit 9fe244536cb503b61dda7aeb0ea775537211de90[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Mar 20 12:18:21 2020 -0500
+
+    Add MKR auction tracker
+
+[33mcommit 0b0e3ea7a769a56c54b29269ce509e6ee04a3ed4[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Mar 19 09:42:59 2020 -0500
+
+    Add OpenSea tracker
+
+[33mcommit ffb41067affa797dc4a52617668b4f978a0b972e[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Mar 16 16:10:12 2020 -0500
+
+    Add smart contract wallets
+
+[33mcommit c669d17a59a6568b965a1b924a5cfe1345ebf645[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Mar 16 10:51:07 2020 -0500
+
+    Add MakerDAO tracker
+
+[33mcommit c16810ce4d959b31b6991a7c6d1c17fc2cfea3fd[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Mar 12 15:48:05 2020 -0500
+
+    Add Dai Auctions
+
+[33mcommit ec65a6398ada847a7f71d0293336471bdaa3108b[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Mar 11 10:09:20 2020 -0500
+
+    Add dYdX tracker
+
+[33mcommit 88282f0f8e4f3d8e6d0d2ba5dc07e608015a3474[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Mar 9 14:00:37 2020 -0500
+
+    Add dForce tracker
+
+[33mcommit 407ed6dde801a44ea7c782cab1dee74f1e38fa1f[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Mar 9 12:54:58 2020 -0500
+
+    Add 1inch tracker
+
+[33mcommit 9d76b14e1eac21b60b02575a275aa722d4eadb14[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Mar 6 16:27:52 2020 -0800
+
+    Add Handshake tracker
+
+[33mcommit 50063ad4571945915a7587910bd66c825ac0bab5[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Mar 4 13:18:33 2020 -0800
+
+    Add Opyn and RAY trackers
+
+[33mcommit 834724c0894f60faee447f7deb38efee2a40e6f1[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Mar 4 09:23:51 2020 -0800
+
+    Add Erasure tracker
+
+[33mcommit 2fe80cefd46446736670df13efb9f654199f48f6[m
+Merge: a326ccd 2aad01a
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Feb 26 14:29:23 2020 -0800
+
+    Merge pull request #75 from emlazzarin/patch-2
+    
+    adding subscan for Substrate/Polkadot
+
+[33mcommit 2aad01a548747143c7ad83fde4c451951877ae82[m
+Author: emlazzarin <1141361+emlazzarin@users.noreply.github.com>
+Date:   Wed Feb 26 11:36:01 2020 -0800
+
+    adding subscan for Substrate/Polkadot
+
+[33mcommit a326ccdb704009eed660d1cbccd67156cbf780a0[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sat Feb 22 14:56:18 2020 -0800
+
+    Add NuoScan
+
+[33mcommit 74a02f690e9332a73eead320d1672d86b9c20020[m
+Merge: 02d3f98 8e649d2
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Feb 13 11:26:12 2020 -0800
+
+    Merge branch 'master' of github.com:denisnazarov/awesome-crypto-trackers
+
+[33mcommit 02d3f986a4201d0093a640c1a71940a28a11f3d1[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Feb 13 11:26:01 2020 -0800
+
+    Add Handshake tracker
+
+[33mcommit 8e649d2b79015dd23c9d90553751349541a44ae0[m
+Merge: f11fdb0 6d783d2
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Feb 10 15:37:07 2020 -0800
+
+    Merge pull request #74 from colekennelly1/patch-20
+    
+    Added Santiment ERC20 tracker
+
+[33mcommit f11fdb0473b99769bfa6be42cb16b2b2f411651e[m
+Merge: f3c27d2 d3bb485
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Feb 10 15:36:51 2020 -0800
+
+    Merge pull request #72 from colekennelly1/patch-18
+    
+    Added Santiment DEX tracker
+
+[33mcommit f3c27d27404f3c12909c105c8ce5815c2af8cabd[m
+Merge: 69fa7e0 97a1dab
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Feb 10 15:36:38 2020 -0800
+
+    Merge pull request #71 from colekennelly1/patch-17
+    
+    Added Santiment stablecoin tracker
+
+[33mcommit 6d783d29619b96b97b5b266d16a4abb2f9b4da5c[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sun Feb 9 14:28:56 2020 -0500
+
+    Added Santiment ERC20 tracker
+
+[33mcommit d3bb48518ad47ad40ba17d6d988cf15a4124e0e3[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sun Feb 9 14:21:49 2020 -0500
+
+    Added Santiment DEX tracker
+
+[33mcommit 97a1dab84a8373bc45f90f2ae393e241033a2d15[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sun Feb 9 14:20:10 2020 -0500
+
+    Added Santiment stablecoin tracker
+
+[33mcommit 69fa7e05e05c42cbe084a197b703a2138811ea34[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Feb 5 16:14:47 2020 -0800
+
+    Add Aave tracker
+
+[33mcommit 5af3d86402a90acd98cb38da6fbb758af4dd8d36[m
+Merge: 4ee3b98 a51dd3e
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Jan 22 17:40:43 2020 -0800
+
+    Merge pull request #66 from colekennelly1/patch-10
+    
+    Added Etherscan to Ethereum
+
+[33mcommit a51dd3e0c78336252951b952befa8638bb7258ba[m
+Merge: f50b9de 4ee3b98
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Jan 22 17:40:34 2020 -0800
+
+    Merge branch 'master' into patch-10
+
+[33mcommit 4ee3b98c6bfbaea834ef50fd53ec6fbd5a9045f8[m
+Merge: 3372965 b92cf0a
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Jan 22 17:39:57 2020 -0800
+
+    Merge pull request #63 from colekennelly1/master
+    
+    Added MCD Dune Analytics dashboard to MakerDAO
+
+[33mcommit b92cf0aa657f505a0b1343cb3abeadfa9530ec87[m
+Merge: 6e955fe 3372965
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Jan 22 17:39:48 2020 -0800
+
+    Merge branch 'master' into master
+
+[33mcommit 33729651f287cca09eafba8e00ddab0083b7865d[m
+Merge: dc2e00f 0515fe4
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Jan 22 17:37:22 2020 -0800
+
+    Merge pull request #70 from colekennelly1/patch-16
+    
+    Added Bloxy DApp SC List to DApps
+
+[33mcommit dc2e00f1d64639868397bbf929374d0835b7979e[m
+Merge: a72b0d7 6083754
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Jan 22 17:37:08 2020 -0800
+
+    Merge pull request #69 from colekennelly1/patch-15
+    
+    Added Bloxy ERC721 Token List to NFTs
+
+[33mcommit a72b0d7e183625f852171c44d9190cdd6990d050[m
+Merge: fd7926e c9459a3
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Jan 22 17:36:57 2020 -0800
+
+    Merge pull request #68 from colekennelly1/patch-12
+    
+    Added Santiment DEX graphs to DEX
+
+[33mcommit fd7926e63c51a602a87edd7cee60284cfadfe16a[m
+Merge: b998ad4 2ef7ee8
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Jan 22 17:36:30 2020 -0800
+
+    Merge pull request #67 from colekennelly1/patch-11
+    
+    Added Scout Synthetix dashboard
+
+[33mcommit b998ad414c94d50b2a9daa4e8814ac05b497fe7b[m
+Merge: bd6bc38 0f02b3d
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Jan 22 17:35:48 2020 -0800
+
+    Merge pull request #65 from colekennelly1/patch-9
+    
+    + Contracts deployed per / month dashboard
+
+[33mcommit bd6bc384429f9167b35c354bae0abedf2496521b[m
+Merge: 17eca2c f103982
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Jan 22 17:35:35 2020 -0800
+
+    Merge pull request #64 from colekennelly1/patch-8
+    
+    Added Uniswap USD collected fees dashboard
+
+[33mcommit 6e955fe8330171a94c4e177acbf58ec2ccd373dd[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sat Jan 18 17:07:01 2020 -0500
+
+    Added Bloxy Dex Smart Contracts dashboard to DEX
+
+[33mcommit 0515fe49372a8d5e8163de3a8f8c8f8917565602[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sat Jan 18 17:04:40 2020 -0500
+
+    Added Bloxy DApp SC List to DApp
+
+[33mcommit 6083754360e5ec6c291bf57c53cf5a502fcc9fbc[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sat Jan 18 17:02:38 2020 -0500
+
+    Added Bloxy ERC721 Token List to NFTs
+
+[33mcommit d8db42bc6684f074ab7ad90f8adf519f69b59315[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sat Jan 18 17:00:35 2020 -0500
+
+    Added Bloxy ERC721 Token List to NFTs
+
+[33mcommit c9459a3aa7f557387f61c5328937d2e7fca13014[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Fri Jan 17 21:17:13 2020 -0500
+
+    Added Santiment DEX graphs to DEX
+
+[33mcommit 2ef7ee83f0dbef4ee3529936cfc5b5e35295c06f[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Fri Jan 17 21:11:15 2020 -0500
+
+    Added Scout Synthetix dashboard
+
+[33mcommit f50b9de73283a5b0486094976c920c10d1ad9a50[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Fri Jan 17 21:06:10 2020 -0500
+
+    Added Etherscan to Ethereum
+
+[33mcommit 0f02b3d09e74fafb14a095f94528ded0a0720d81[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Fri Jan 17 18:31:26 2020 -0500
+
+    + Contracts deployed per / month dashboard
+
+[33mcommit f10398215a103c5342fbc0f8e6c23c4a39b85d20[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Fri Jan 17 18:25:44 2020 -0500
+
+    Added Uniswap USD collected fees dashboard
+
+[33mcommit 7cb84588b2c7b4908e88f921a0b12dcb65a5c8d9[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Fri Jan 17 18:19:54 2020 -0500
+
+    Added MCD Dune Analytics dashboard to MakerDAO
+
+[33mcommit 17eca2cd3b251b9864fceec807fa0c836e1ca380[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Jan 16 11:21:01 2020 -0800
+
+    Add Cosmos tracker
+
+[33mcommit fe32a3fe6b0f6baf260f4c248695e1a9b111647a[m
+Merge: 670986a dfc4d4d
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Jan 16 10:02:08 2020 -0800
+
+    Merge pull request #62 from colekennelly1/patch-6
+    
+    Added OXT.me to Bitcoin
+
+[33mcommit 670986ad1a50c0f2f2a4b1d016faf877d17262aa[m
+Merge: 213c6db c15f7d1
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Jan 16 10:01:23 2020 -0800
+
+    Merge pull request #61 from colekennelly1/patch-5
+    
+    Added Dai Embassy to MakerDAO
+
+[33mcommit dfc4d4d4ffd18496b10a024212de493746b283ac[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Wed Jan 15 16:38:30 2020 -0500
+
+    Added OXT.me to Bitcoin
+
+[33mcommit c15f7d137bed8b37aace35c7818e10635e763d16[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Wed Jan 15 16:28:43 2020 -0500
+
+    Added Dai Embassy to MakerDAO
+
+[33mcommit 213c6dbb5df6fbee3929eeb4cd9b0e7c8c7e00e5[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Jan 14 11:08:24 2020 -0800
+
+    Add Compound tracker
+
+[33mcommit 3c1aae8e008f46df3951dfdac47fb8772554b598[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Sun Jan 12 19:00:28 2020 -0500
+
+    Added CoinGecko to Price
+
+[33mcommit d86a43a0862bd01246ea6416b2296c0d14a7e274[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Jan 8 18:50:37 2020 -0800
+
+    Add BAT tracker
+
+[33mcommit dbf12e3cc2b8ad646b4a44bd9f6106f84b4b5df3[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Jan 7 11:48:34 2020 -0800
+
+    Add stablecoin stats
+
+[33mcommit db8e433e3c87f595c3dafa4739612adaf698c7b7[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Jan 7 11:17:34 2020 -0800
+
+    Add DEX and Nexus Mutual Twitter bots
+
+[33mcommit be7d352eca9db53d035e2ead909899da37bc96b3[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Jan 1 16:43:51 2020 -0800
+
+    Add Nervos and Polkadot explorers
+
+[33mcommit 47bbc0e389178ff82cb4d57634c0317035e72a54[m
+Merge: 827bbe4 a9bc0cf
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sun Dec 29 19:23:34 2019 -0600
+
+    Merge pull request #59 from colekennelly1/patch-2
+    
+    Added TzStats.com
+
+[33mcommit 827bbe48261140f48560879451a83b3fa505e7ae[m
+Merge: e0df3ef 0834927
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sun Dec 29 19:23:17 2019 -0600
+
+    Merge pull request #58 from colekennelly1/patch-1
+    
+    Added in Staked's Key Staking & Financial Metrics
+
+[33mcommit a9bc0cf618694447828f6a46aa8091468f68df1f[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Fri Dec 27 11:15:43 2019 -0500
+
+    Added TzStats.com
+
+[33mcommit 0834927db0069c478243d5bc36cbd2da1cba93fc[m
+Author: Cole Kennelly <47123881+colekennelly1@users.noreply.github.com>
+Date:   Fri Dec 27 11:13:10 2019 -0500
+
+    Added in Staked's Key Staking & Financial Metrics
+
+[33mcommit e0df3ef32482b1030a8729ceb647fb6ae3840e96[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sun Dec 15 12:49:11 2019 -0800
+
+    Add Dune Analytics WBTC
+
+[33mcommit 5df04d2c7eb9375c15d72c0e23b9b318479979bf[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Dec 3 20:12:30 2019 -0800
+
+    Add Lightning apps
+
+[33mcommit b46ff8efd98027ddd54bea23228820ffa0638acb[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Dec 2 10:44:07 2019 -0800
+
+    Add Defi Explore
+
+[33mcommit 0b8196fb662134fac003ce6b4fa874c552ef9cfc[m
+Merge: c61450c 27f5d67
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Nov 22 15:05:26 2019 -0800
+
+    Merge pull request #57 from emlazzarin/master
+    
+    dune's MCD dash
+
+[33mcommit c61450ca21e8f1fed557ec6ff459385dc5fde33b[m
+Merge: 2360aef 49a740b
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Nov 22 15:04:17 2019 -0800
+
+    Merge pull request #56 from marcuswin/patch-5
+    
+    Fix and update links
+
+[33mcommit 27f5d6749d7c9564c98c65e8ccf5fb44b6145260[m
+Author: Eddy Lazzarin <1141361+emlazzarin@users.noreply.github.com>
+Date:   Fri Nov 22 14:57:28 2019 -0800
+
+    dune's MCD dash
+
+[33mcommit 49a740b6ab3a376c8468f25b54856cb886e1461b[m
+Author: marcuswin <46599751+marcuswin@users.noreply.github.com>
+Date:   Fri Nov 22 16:00:26 2019 +0300
+
+    Fix and update links
+
+[33mcommit 2360aef14717c45cf4e4bacc1ca191cbf7dd96c9[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Nov 18 11:34:09 2019 -0800
+
+    Add Sai2Dai
+
+[33mcommit 1ca5f1db55c3c54d3240dc01606885fd923ef3b9[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sun Nov 17 18:13:42 2019 -0800
+
+    Add Synthetix tracker
+
+[33mcommit f2b05996c25bc05845b4f383db6a045273c76553[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sun Nov 17 10:02:34 2019 -0800
+
+    Add Coingecko and Defi Pulse trackers
+
+[33mcommit a19a0bd6b50d6e92a3cab70d094f3c93a3bf7f0e[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Nov 13 15:53:45 2019 -0800
+
+    Remove Augur tracker
+
+[33mcommit 90eb6b523019e3334779d8dc2fa14a07cdd21ae5[m
+Merge: 30f9eb2 098ad24
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Nov 13 09:25:40 2019 -0800
+
+    Merge pull request #55 from emlazzarin/patch-1
+    
+    add defi.ai
+
+[33mcommit 098ad240652b7692309b47753eea3214bea4c681[m
+Author: emlazzarin <1141361+emlazzarin@users.noreply.github.com>
+Date:   Tue Nov 12 22:13:43 2019 -0800
+
+    add defi.ai
+
+[33mcommit 30f9eb23772c23dec126d2bfebdf176829bf3df6[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Nov 12 13:17:30 2019 -0800
+
+    Add Skew and Loanlist and remove Dispute.tools
+
+[33mcommit 4578ec06ce4404147fb46867bbedb96d348951e1[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Nov 7 16:07:18 2019 -0800
+
+    Add Cosmos explorer
+
+[33mcommit 0bdb0b5631f5943646f040fc173445652c7a6530[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Nov 6 13:42:48 2019 -0800
+
+    Remove Veil trackers
+
+[33mcommit 6527c01fc61d381f5a8c6d935c58c0dd22d6f249[m
+Merge: 28b0fd1 e60a66c
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Nov 5 15:40:16 2019 -0800
+
+    Merge pull request #54 from emlazzarin/master
+    
+    mkrgov.science
+
+[33mcommit e60a66cabe071b2c6f2b455a22b193cddf5a5e67[m
+Author: Eddy Lazzarin <1141361+emlazzarin@users.noreply.github.com>
+Date:   Tue Nov 5 13:31:54 2019 -0800
+
+    mkrgov.science
+
+[33mcommit 28b0fd14b0dfda12b34b775486a579f8076e2e4b[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Oct 28 11:04:44 2019 -0700
+
+    Add daometrics
+
+[33mcommit 03df08fddc810ae9b4f52ddd29abe3a0bf3a3be3[m
+Merge: f35f5e5 6147df1
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Oct 22 13:31:49 2019 -0700
+
+    Merge pull request #53 from emlazzarin/master
+    
+    set protocol user stats dash
+
+[33mcommit 6147df1159285a03ac0012e59be7a208771e4c9b[m
+Author: Eddy Lazzarin <1141361+emlazzarin@users.noreply.github.com>
+Date:   Mon Oct 21 14:45:19 2019 -0700
+
+    set protocol user dash
+
+[33mcommit f35f5e500745a7fc56295438caec504e6eefe57f[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Oct 1 16:59:35 2019 -0700
+
+    Add Pools.fyi
+
+[33mcommit 96b37e2b5a6d304f81a2dbeca8a708f627e8cf2b[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Oct 1 11:41:51 2019 -0700
+
+    Add Uniswap stats
+
+[33mcommit 5c5175db8c16e965a195a71876358d70ac47fef4[m
+Merge: 205bd5c ade49f8
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Sep 17 12:26:34 2019 -0700
+
+    Merge pull request #52 from TrevorJTClarke/master
+    
+    Added amberdata docs and links
+
+[33mcommit ade49f80b42924f54213a02116c1b8724c2f24de[m
+Author: Trevor Clarke <trevorjtclarke@gmail.com>
+Date:   Mon Sep 16 14:25:13 2019 -0700
+
+    Added amberdata docs and links
+
+[33mcommit 205bd5c325bb9587f5bf4e912c7346c90a51c3d7[m
+Merge: 6f4ba07 d3f6365
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Sep 16 11:49:28 2019 -0700
+
+    Merge pull request #51 from itzler/master
+    
+    Adding Nexus Mutual
+
+[33mcommit d3f6365156d6ac743fef22f6915602ca79aa8afe[m
+Author: Jonathan Itzler <jonathan@paradigm.market>
+Date:   Mon Sep 16 14:32:02 2019 -0400
+
+    Adding Nexus Mutual
+
+[33mcommit 6f4ba079a4fcfc1d5b7a47b3483367e6924f0d5b[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sun Sep 15 16:46:17 2019 -0700
+
+    Add Edgeware
+
+[33mcommit 014025b5e8b2e2f95516a3dac6f7d8f5805d0f5c[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Sep 11 13:12:30 2019 -0700
+
+    Add Bitcoin charts
+
+[33mcommit 563af9ebc4e46e40e460d926ea81fde9eb9d09f0[m
+Merge: b19bac5 4734bc4
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Sep 11 17:29:50 2019 +0000
+
+    Merge pull request #50 from emlazzarin/master
+    
+    add everstake for Cosmos
+
+[33mcommit 4734bc40c4b70fe710ed813ca217491d2911d2ff[m
+Author: Eddy Lazzarin <1141361+emlazzarin@users.noreply.github.com>
+Date:   Tue Sep 10 22:56:41 2019 -0700
+
+    add everstake for Cosmos
+
+[33mcommit b19bac5a06c1cadcf23083d9cab5bd01dd0630f2[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Sep 9 23:21:23 2019 +0000
+
+    Add Terra tracker
+
+[33mcommit 9268d4ce78b45adb2a5a7c73875b5ccf51569e59[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Sep 4 11:20:23 2019 -0700
+
+    Add Majority Report to Augur
+
+[33mcommit 4f5cafbb6c9472098e158c5309a5ff5cda1ce91b[m
+Merge: b831c7d 390747d
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Aug 28 09:26:00 2019 -0700
+
+    Merge pull request #49 from ankitchiplunkar/patch-1
+    
+    Added tokenanalyst in coin compare
+
+[33mcommit 390747dce3e5a4104ad6e5a169f1f815582752be[m
+Author: Ankit Chiplunkar <ankitchiplunkar@gmail.com>
+Date:   Wed Aug 28 13:00:10 2019 +0100
+
+    Update readme.md
+
+[33mcommit b831c7d7e35ab2c2a0fccdb70e8908c6ab60c6c4[m
+Merge: 86440ea 91bdd17
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Aug 27 06:06:01 2019 -0700
+
+    Merge pull request #48 from onbjerg/patch-1
+    
+    Add Apiary Explorer
+
+[33mcommit 86440ea4eab30adbc4ade6b483d9fcdeee3c74e6[m
+Merge: 8b05f50 af297b2
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Aug 27 06:05:26 2019 -0700
+
+    Merge pull request #47 from emlazzarin/master
+    
+    Add arweave and coinmetrics
+
+[33mcommit 91bdd17665c55d96ced98e0734a2a1110d841347[m
+Author: Oliver <onbjerg@users.noreply.github.com>
+Date:   Mon Aug 26 03:48:43 2019 +0200
+
+    Add Apiary Explorer
+
+[33mcommit af297b20722c832d28dde3bf19618a65d2b179b2[m
+Author: Eddy Lazzarin <1141361+emlazzarin@users.noreply.github.com>
+Date:   Tue Aug 20 22:14:46 2019 -0700
+
+    added coinmetrics to coin correlations
+
+[33mcommit 6e826f671cc811c47cacbb264216b7871dd06155[m
+Merge: f14efd9 8b05f50
+Author: Eddy Lazzarin <1141361+emlazzarin@users.noreply.github.com>
+Date:   Tue Aug 20 17:28:21 2019 -0700
+
+    Merge remote-tracking branch 'upstream/master'
+
+[33mcommit 8b05f503e98e3bf54681fec1d46483bd25d7ea51[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Aug 16 14:32:41 2019 -0700
+
+    Add Lightning Network tracker
+
+[33mcommit f14efd95bef6bbce7c9fbbe61b3d13400e02237b[m
+Author: Eddy Lazzarin <1141361+emlazzarin@users.noreply.github.com>
+Date:   Wed Aug 14 17:54:36 2019 -0700
+
+    arweave/viewblock
+
+[33mcommit b7fb050ea58dc305ddb93573ea6609459bd1f954[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Aug 7 11:03:06 2019 -0700
+
+    Fix alphabetical formatting
+
+[33mcommit edc4e317d3228ea2a9870fcee1b3a1823b35b6e3[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Aug 7 10:56:49 2019 -0700
+
+    Fix Set Protocol
+
+[33mcommit c3703d8bb371ff3606fd0dec85d72822797b34eb[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Aug 7 10:52:42 2019 -0700
+
+    Add new trackers
+
+[33mcommit fa77f2b87afa907ae6b301dd4ca7cb6a3ea8c2db[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Aug 7 10:19:51 2019 -0700
+
+    Add Dune Analytics DEX tracker
+
+[33mcommit 88202af053a2a3cffa186d687c0c77be51d6342e[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Aug 7 10:17:14 2019 -0700
+
+    Add DutchX tracker
+
+[33mcommit ab0f1e41331447f2e7a77a06b6e2d84c08f8e144[m
+Merge: bac3f06 4fbb87c
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Mon Aug 5 16:03:07 2019 -0700
+
+    Merge pull request #46 from rchen8/master
+    
+    Remove outdated Uniswap trackers and add DeFi lending tracker
+
+[33mcommit 4fbb87c75a2b515c78675a5dda4bbe97c229ed11[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Fri Aug 2 21:16:58 2019 -0700
+
+    Add DeFi lending tracker
+
+[33mcommit 0ef599f680ee77fc8535bb3522e5110fef760b5e[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Jul 24 09:41:38 2019 -0700
+
+    Remove outdated Uniswap trackers
+
+[33mcommit bac3f06ff88211c5e5af1a002740dd1baf5e4d30[m
+Merge: da4db60 31aa300
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Wed Jul 24 09:15:06 2019 -0700
+
+    Merge pull request #44 from onbjerg/patch-1
+    
+    Remove Daolist
+
+[33mcommit da4db604d8526f99c3a82fa0d288168e01c1bedd[m
+Merge: 2c48c48 7ae3822
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Wed Jul 24 09:14:41 2019 -0700
+
+    Merge pull request #45 from rchen8/master
+    
+    Add Dai and Gas trackers
+
+[33mcommit 7ae3822d4e87cc24a4aef21bba78dda646702762[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Jul 22 13:28:58 2019 -0700
+
+    Add Dai and Gas trackers
+
+[33mcommit 31aa30056953f0f08aa662eced2c757212247759[m
+Author: Oliver <onbjerg@users.noreply.github.com>
+Date:   Mon Jul 22 14:35:07 2019 +0200
+
+    Remove Daolist
+
+[33mcommit 2c48c48b68e8d6cd0fc1a56f610d32cf7b5dd822[m
+Merge: 5cb3f9f f52eb48
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Sat Jul 20 12:19:27 2019 -0700
+
+    Merge pull request #30 from marcuswin/patch-4
+    
+    Add Messari boards, CER and Coin360
+
+[33mcommit f52eb48ee604c962297e49910908b6ce2cc9a000[m
+Merge: 0c83db4 5cb3f9f
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Sat Jul 20 12:19:19 2019 -0700
+
+    Merge branch 'master' into patch-4
+
+[33mcommit 5cb3f9f675e739b94a40a7382682e6f5f080a6f9[m
+Merge: 1910115 df5ac2a
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Sat Jul 20 12:17:47 2019 -0700
+
+    Merge pull request #37 from pcowgill/feature/contract-based-accounts
+    
+    Add contract-based accounts
+
+[33mcommit 1910115eac1ac03082905a7a5254224726d59e1d[m
+Merge: 4d49865 aaed24d
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Sat Jul 20 12:16:03 2019 -0700
+
+    Merge pull request #38 from rchen8/master
+    
+    Add trackers
+
+[33mcommit aaed24dc1c2b2bd52a79ba64fd820e3764352d8e[m
+Merge: 84fbc03 4d49865
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Sat Jul 20 12:15:38 2019 -0700
+
+    Merge branch 'master' into master
+
+[33mcommit 4d49865ee20351f94f3e785ce104bffcc51d0ede[m
+Merge: 5f2f57f c2cba1d
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Sat Jul 20 12:14:05 2019 -0700
+
+    Merge pull request #40 from huangkuan/master
+    
+    adding district0x memefactory
+
+[33mcommit 5f2f57f2294506bc2b63cf5aec6f3db462ce7f4a[m
+Merge: 6bc6cf9 4621c45
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Sat Jul 20 12:12:09 2019 -0700
+
+    Merge pull request #41 from calebsheridan/master
+    
+    Add FOAM
+
+[33mcommit 6bc6cf9d72e40d1f885f1042f224d53ae98a0d2e[m
+Merge: 1819389 6a1ae39
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Sat Jul 20 12:09:45 2019 -0700
+
+    Merge pull request #43 from bogdangheorghe/master
+    
+    Update readme.md - Added Alethio DeFi dashboards
+
+[33mcommit 6a1ae39c96f691e1e49a8f18aa2a629442856e7b[m
+Author: Bogdan Gheorghe <gheorghe.mihai.bogdan@gmail.com>
+Date:   Mon Jul 15 16:38:13 2019 +0300
+
+    Update readme.md
+
+[33mcommit 84fbc033fa217e66ec96b58a34471398091a164a[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Jul 9 12:25:38 2019 -0700
+
+    Add Compound ROI calculator
+
+[33mcommit a017b7f75da46f5c47639cb1e98bca48628aef0a[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Jul 8 15:42:50 2019 -0700
+
+    Add Bitcoin electricity usage index
+
+[33mcommit 03318ae2ebc3a60ac909901fb365497a63273a2d[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Jul 8 15:37:24 2019 -0700
+
+    Add Makerburn
+
+[33mcommit 4f170a5b2090f318ee6425dba3492e34e1c300c5[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Jun 24 20:50:27 2019 -0700
+
+    Add Uniswap ROI calculator
+
+[33mcommit 4621c450f1b460a07df1d46041ab3dcd8cb432ae[m
+Author: Caleb Sheridan <calebsheridan@users.noreply.github.com>
+Date:   Fri Jun 14 11:57:01 2019 +0100
+
+    Update readme.md
+
+[33mcommit 185480d48a20f46a1e6f3c455e4cd62d2355e1d6[m
+Author: Caleb Sheridan <calebsheridan@users.noreply.github.com>
+Date:   Fri Jun 14 11:53:49 2019 +0100
+
+    Add FOAM
+
+[33mcommit c2cba1db493caeb3bc2980119265c2ede3290a13[m
+Author: Kuan Huang <huangkuan@gmail.com>
+Date:   Wed Jun 12 12:49:01 2019 -0500
+
+    adding district0x
+
+[33mcommit 9c656f5e64657c80f43ac2ba101b84a0001ba6ed[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Jun 6 09:20:11 2019 -0700
+
+    Add Vishesh's Dai stats
+
+[33mcommit 625781be020f6acce137a766d172998eec6a5593[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Jun 3 15:38:16 2019 -0700
+
+    Add dxDAO
+
+[33mcommit 41ecdafabb867ff40c13f6892699ec92b259e812[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Jun 3 15:35:20 2019 -0700
+
+    Add Sia and Golem stats
+
+[33mcommit df5ac2a8951836728d5c868994dee2ff1c22795a[m
+Author: Paul Cowgill <pauldavidcowgill@gmail.com>
+Date:   Mon Jun 3 14:15:50 2019 -0500
+
+    Move contract-based accounts to Other section
+
+[33mcommit 1819389222c5e1b3f75f5c68627ca073df7a8a69[m
+Merge: 74b1362 a71a5d9
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Wed May 29 11:26:43 2019 -0700
+
+    Merge pull request #36 from rchen8/master
+    
+    Update link for Vishesh's Maker graphs
+
+[33mcommit 74b13624162ea563e9961b779273159ae0f87367[m
+Merge: 2aa58f1 5604c2b
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Wed May 29 11:26:27 2019 -0700
+
+    Merge pull request #35 from huangkuan/master
+    
+    updating from supermax to scout
+
+[33mcommit 627c74ad63ff0ff2bc8d7e9859f78a965860e711[m
+Author: Paul Cowgill <pauldavidcowgill@gmail.com>
+Date:   Tue May 28 10:42:26 2019 -0500
+
+    Add contract-based accounts
+
+[33mcommit a71a5d9e5528fe5e1a09b38981dada62e62375fc[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sat May 18 17:38:26 2019 -0700
+
+    Update link for Vishesh's Maker graphs
+
+[33mcommit 5604c2b50ecba4e6e4360eb665031439f4289796[m
+Author: Kuan Huang <huangkuan@gmail.com>
+Date:   Sat May 18 15:06:32 2019 -0400
+
+    updating from supermax to scout
+
+[33mcommit 2aa58f1d7ec2b799ff93871c53de05f352ca56c7[m
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Wed May 15 22:18:47 2019 -0400
+
+    Update readme.md
+
+[33mcommit 8654f5fb2a4c9bca0812268752f8dd27619d2396[m
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Fri May 10 13:48:49 2019 -0400
+
+    Add tezos
+
+[33mcommit 2948c843526a4b620dd50e304f1a2dff3bc2c93d[m
+Merge: 018955c a99ce55
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Fri May 10 10:47:02 2019 -0700
+
+    Merge pull request #33 from rchen8/master
+    
+    Add Defiscan
+
+[33mcommit a99ce550604448866380483abc19ce8ec2f98e56[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon May 6 09:59:21 2019 -0700
+
+    Add Defiscan
+
+[33mcommit 018955cb154945acf7dfdea35d40a3a4cabdfc93[m
+Merge: aa425ce e7e6bc6
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Fri May 3 07:25:29 2019 -0700
+
+    Merge pull request #32 from rchen8/master
+    
+    Add Cosmos and Kyber trackers
+
+[33mcommit e7e6bc632ba060b81409cea353ff73ec687c13ed[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Apr 30 11:41:27 2019 -0700
+
+    Add Kyber tracker
+
+[33mcommit 95c16d5cc02cf552b9e180575c1280239569dc75[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Apr 29 16:01:26 2019 -0700
+
+    Add Cosmos trackers
+
+[33mcommit aa425ce6245a585cd069f25c36b35866add45555[m
+Merge: 1f27fae e2af1ca
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Mon Apr 29 14:01:45 2019 -0700
+
+    Merge pull request #31 from rchen8/master
+    
+    Add HowMany Confs and Augur market odds
+
+[33mcommit e2af1caab0d0c5b23a49857afd0c3f098ee11403[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Apr 29 12:32:43 2019 -0700
+
+    Add Augur market odds
+
+[33mcommit 9c1fa160866e1bdf0111ffead88c26c80261f84c[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Apr 29 09:24:19 2019 -0700
+
+    Add HowManyConfs
+
+[33mcommit 0c83db44d053619f2bee9f69a50539462d2f5af9[m
+Author: marcuswin <46599751+marcuswin@users.noreply.github.com>
+Date:   Tue Apr 23 12:57:04 2019 +0300
+
+    Add Messari boards, CER and Coin360
+
+[33mcommit 1f27fae2e9b4d03ed4deb6e5ebe7a04c6d02f360[m
+Merge: bb85c97 524cf3b
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Thu Apr 18 14:47:27 2019 -0700
+
+    Merge pull request #29 from marcuswin/patch-3
+    
+    Update links
+
+[33mcommit 524cf3b4cbaa85e42a64f444f0d6505a225df111[m
+Merge: c0b3ae3 bb85c97
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Thu Apr 18 14:47:13 2019 -0700
+
+    Merge branch 'master' into patch-3
+
+[33mcommit bb85c977999b16bc346a1a1980b5363b994e3be2[m
+Merge: d581e43 817f771
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Thu Apr 18 14:45:05 2019 -0700
+
+    Merge pull request #28 from ankitchiplunkar/patch-1
+    
+    added tokenanalyst to exchange info
+
+[33mcommit d581e43a29aa397bc812d16767c70bc9265fa52b[m
+Merge: 67efb6a 1fd51a6
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Thu Apr 18 14:43:20 2019 -0700
+
+    Merge pull request #27 from delitzer/patch-3
+    
+    Add DAI/DeFi tracker
+
+[33mcommit 67efb6a90d8993f81e293e89882562c0beadace9[m
+Merge: fd44976 0f348c4
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Thu Apr 18 14:41:52 2019 -0700
+
+    Merge pull request #25 from rchen8/master
+    
+    Add Cosmos and Uniswap trackers
+
+[33mcommit c0b3ae330ad38d7cdab0ab9f982e02f24d426f56[m
+Author: marcuswin <46599751+marcuswin@users.noreply.github.com>
+Date:   Thu Apr 18 12:49:19 2019 +0300
+
+    Update links
+
+[33mcommit 817f77110edc59b185fa3db263f59e31224480e3[m
+Author: Ankit Chiplunkar <ankitchiplunkar@gmail.com>
+Date:   Wed Apr 17 18:55:20 2019 +0200
+
+    updated exchanges
+
+[33mcommit 1fd51a606d87c717a9d4b915b3aa4ce9e98b9d64[m
+Author: Dan Elitzer <delitzer@gmail.com>
+Date:   Tue Apr 16 14:28:35 2019 -0700
+
+    Add DAI/DeFi tracker
+    
+    Add tracker of DAI locked in DeFi apps
+
+[33mcommit 0f348c491b21db5a2d498118ab3bd9362d4e8dbb[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Apr 16 14:23:35 2019 -0700
+
+    Update readme.md
+
+[33mcommit e02d6fba1280298d58151b70e96f698d10ffa82a[m
+Merge: c0a4fc9 fd44976
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Apr 16 14:21:21 2019 -0700
+
+    Merge branch 'master' into master
+
+[33mcommit fd44976e5dd9c692dbac111da47c8128d6f42c62[m
+Merge: cee2288 5431cf1
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Tue Apr 16 17:17:43 2019 -0400
+
+    Merge pull request #24 from marcuswin/patch-2
+    
+    Add new DAI dashboard
+
+[33mcommit c0a4fc903e8fbe564c25dc4273db3f517032a2c8[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Apr 15 09:51:28 2019 -0700
+
+    Add uniswap.rocks
+
+[33mcommit 254a23c5af03ffad4427481901dae8a38f58fee3[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Apr 9 15:17:02 2019 -0700
+
+    Add B-Harvest for Cosmos
+
+[33mcommit 5431cf101c76d93ceebcbcf6f212f018841095e2[m
+Author: marcuswin <46599751+marcuswin@users.noreply.github.com>
+Date:   Mon Apr 8 13:07:02 2019 +0300
+
+    Add new DAI dashboard
+
+[33mcommit cee2288a43fe6ec6e0c0b872c38aea2858af2951[m
+Merge: 1d56359 5fc0e86
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Wed Apr 3 14:06:55 2019 -0400
+
+    Merge pull request #23 from marcuswin/patch-1
+    
+    Some updates
+
+[33mcommit 5fc0e86c7129289cc7c8eb0d1f028ab0f131b833[m
+Author: marcuswin <46599751+marcuswin@users.noreply.github.com>
+Date:   Wed Apr 3 13:12:17 2019 +0300
+
+    Some updates
+    
+    add staking and social dashboards, http -> https, style consistency
+
+[33mcommit 1d56359a241481775ec2917731434f82489df0b3[m
+Merge: d4b388e 607bdc1
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Tue Apr 2 07:30:23 2019 -0700
+
+    Merge pull request #22 from pcowgill/patch-1
+    
+    Updated link for Aragon after Supermax rebrand
+
+[33mcommit 607bdc1b22bce08c42653e78454e7321d194c1a2[m
+Author: Paul Cowgill <pauldavidcowgill@gmail.com>
+Date:   Mon Mar 25 16:17:44 2019 -0500
+
+    Updated link for Aragon after Supermax rebrand
+
+[33mcommit d4b388e9862ba880d7019f39b8c3432421aec0f6[m
+Merge: 13ca0fb 27fbcc7
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Thu Mar 14 23:04:58 2019 -0400
+
+    Merge pull request #20 from inkymaze/master
+    
+    Add app.bloqboard and LoanScan protocol paths
+
+[33mcommit 27fbcc78e0be224cbe7d96d8608127470d74ec01[m
+Merge: ea7c027 13ca0fb
+Author: Nicholas Cannon <nick@bloqboard.com>
+Date:   Thu Mar 14 15:05:59 2019 -0700
+
+    Merge branch 'master' into master
+
+[33mcommit 13ca0fbab63481c3c9396a9284121001ce61e009[m
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Thu Mar 14 17:47:21 2019 -0400
+
+    Update readme.md
+
+[33mcommit 2574b864e73183f628cef5bc6e2735ba7b799fb0[m
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Thu Mar 14 17:46:06 2019 -0400
+
+    Update readme.md
+
+[33mcommit 02dcd0b66ca96be3a83c30912b20a37cdd6fadca[m
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Thu Mar 14 17:45:12 2019 -0400
+
+    add dharma
+
+[33mcommit 0047d4c2e24387f57524463dd12a150e38ef1745[m
+Merge: ff51f36 18e9dbb
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Thu Mar 14 17:42:04 2019 -0400
+
+    Merge pull request #21 from rchen8/master
+    
+    Update Cosmos explorers
+
+[33mcommit 18e9dbbb06da21893b55644d1f04cd0000e3d0bd[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Mar 13 16:28:23 2019 -0700
+
+    Update Cosmos explorers
+
+[33mcommit ea7c02749c9b4719e2f8425ec71cd83547e84cd4[m
+Merge: 6e4cde7 ff51f36
+Author: Nicholas Cannon <nick@bloqboard.com>
+Date:   Tue Mar 12 15:04:44 2019 -0700
+
+    Merge branch 'master' into master
+
+[33mcommit 6e4cde7fc3232f5533ba408ce88d87102d160288[m
+Author: Nicholas Cannon <nick@bloqboard.com>
+Date:   Tue Mar 12 15:03:02 2019 -0700
+
+    Update readme.md
+
+[33mcommit ff51f36b276d035ee3db127b3f45eb10aa650728[m
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Mon Mar 11 23:34:32 2019 -0400
+
+    fix md formatting
+
+[33mcommit 42575ef36b8a1fa2a904d208602b607c162154da[m
+Author: Nicholas Cannon <nick@bloqboard.com>
+Date:   Mon Mar 11 12:13:43 2019 -0700
+
+    Add Bloqboard and LoanScan
+
+[33mcommit ba4f06745794c3cb65c7d1f3bd216e75624274bb[m
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Mon Mar 11 14:14:43 2019 -0400
+
+    add dharma link
+
+[33mcommit 81ac01aa9a288c71978e1cd01d80462532bfcc20[m
+Author: Nicholas Cannon <nick@bloqboard.com>
+Date:   Wed Mar 6 15:17:27 2019 -0800
+
+    Add Bloqboard, DeFi Research and LoanScan links
+
+[33mcommit f4096be43795fceb88ce6c11d418696cc27a2217[m
+Merge: 7f47b97 71e0cfd
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Tue Mar 5 12:45:40 2019 -0500
+
+    Merge pull request #18 from jbrukh/jake
+    
+    Added fifty.one and Social section
+
+[33mcommit 71e0cfdd91251f743de8a9cee99fb7180d1f306e[m
+Author: Jake Brukhman <jake@coinfund.io>
+Date:   Tue Mar 5 12:28:51 2019 -0500
+
+    Added fifty.one and Social section
+
+[33mcommit 7f47b97bd70d1b915154816b53f45d144853c7b4[m
+Merge: 6a78751 aa9c602
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Tue Mar 5 12:05:14 2019 -0500
+
+    Merge pull request #17 from delitzer/patch-1
+    
+    Add exchange data
+
+[33mcommit 6a78751bfb746a53fa70a041533809edb020b11a[m
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Tue Mar 5 12:04:02 2019 -0500
+
+    add plasma
+
+[33mcommit aa9c602e0726885b6158fcdbde78aa21f35f2dc2[m
+Author: Dan Elitzer <delitzer@gmail.com>
+Date:   Mon Mar 4 22:27:33 2019 -0800
+
+    Add exchange data
+    
+    Add (reliable) data for centralized exchanges
+
+[33mcommit 4bcc01563cc31acde9d7ba2252031736a5d782ab[m
+Merge: 3d66171 eb80c2c
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Mon Mar 4 19:26:21 2019 -0800
+
+    Merge pull request #16 from izqui/patch-1
+    
+    Aragon: add daolist
+
+[33mcommit eb80c2c830962264d97d980719cb85d5bbd8fffd[m
+Author: Jorge Izquierdo <jorge@aragon.one>
+Date:   Mon Mar 4 14:55:00 2019 +0100
+
+    Aragon: add daolist
+
+[33mcommit 3d66171771d7c6f44c69dac64645def6269dd956[m
+Merge: c906a01 af323a1
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Sun Mar 3 10:51:42 2019 -0800
+
+    Merge pull request #15 from rchen8/master
+    
+    Add DEX.AG
+
+[33mcommit af323a1cd12bb2cd46bcf1cbe49fa9b9de47f396[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Feb 28 14:46:32 2019 -0800
+
+    Add DEX.AG
+
+[33mcommit c906a01b438c109c567a9039a04c8b18c01f6937[m
+Merge: 7caef2d 4c0f5be
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Thu Feb 28 13:36:35 2019 -0800
+
+    Merge pull request #14 from rchen8/master
+    
+    Add Dai trackers
+
+[33mcommit 4c0f5be3e6bfbfb4b9b7865bdc9a2965ff898b19[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Feb 28 09:48:21 2019 -0800
+
+    Add Dai trackers
+
+[33mcommit 7caef2d384298453cd4da0d940d1fcae3fe356d7[m
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Wed Feb 27 15:43:31 2019 -0800
+
+    livepeer
+
+[33mcommit 32f76473a3200acc835be7affd5863159294fe7b[m
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Wed Feb 27 15:38:51 2019 -0800
+
+    add livepeer
+
+[33mcommit c1e74f774d9509710437f99feb05f4b30a04e5e0[m
+Merge: aaaa1e2 8bd3d3d
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Wed Feb 27 08:29:36 2019 -0800
+
+    Merge pull request #13 from rchen8/master
+    
+    Add Dai stats and DeFi Pulse
+
+[33mcommit 8bd3d3df868a705c5f3742be538ac4bffaf3885d[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Feb 26 15:55:01 2019 -0800
+
+    Add DeFi Pulse
+
+[33mcommit ba0bb8c5cacf9d0ea769d1277e4b187bb709cf19[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Feb 25 09:26:11 2019 -0800
+
+    Add Dai stats
+
+[33mcommit aaaa1e240b9ea01b4ba55026109069f3a1ac4917[m
+Merge: fd5594c 986a271
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Sat Feb 23 09:39:17 2019 -0800
+
+    Merge pull request #12 from rchen8/master
+    
+    Add Uniswap trackers
+
+[33mcommit 986a271a3f61b8434d55dadb4f8ed2e2a6243ab0[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Feb 18 18:36:44 2019 -0800
+
+    Add Uniswap trackers
+
+[33mcommit fd5594c457ff8e0cde50f8f4d1f32762d97610af[m
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Fri Feb 15 10:44:43 2019 -0800
+
+    Update cosmos
+
+[33mcommit 49203703f36e6a09fa7d96f43af8ff84becf1e48[m
+Merge: e40538c 9824c00
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Wed Feb 13 21:05:05 2019 -0800
+
+    Merge pull request #10 from rchen8/master
+    
+    Add new trackers
+
+[33mcommit 9824c002309fec05e925a7319e32ca07dc63dd77[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Feb 11 11:54:36 2019 -0800
+
+    Add Grin explorer
+
+[33mcommit 0591c1196364762e779d54136f3615f36ba7b62c[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Feb 7 13:49:21 2019 -0800
+
+    Add lots of Bitcoin and Ethereum trackers
+
+[33mcommit c67ace476bb8d083489b52ba81cc95ed1e1d4b81[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Tue Feb 5 14:23:52 2019 -0800
+
+    Add Augur trackers
+
+[33mcommit e40538cc6f38a1091a5d2c67a2bef2f81218e5fc[m
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Fri Feb 1 13:41:17 2019 -0500
+
+    add https://dexindex.io/
+
+[33mcommit 8962c704e4886b57032410c1e96d73f441bad5b6[m
+Merge: 189ec1a 341749e
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Fri Feb 1 13:40:36 2019 -0500
+
+    Merge pull request #9 from jdourlens/patch-1
+    
+    Added some of DAppBoard's dashboards
+
+[33mcommit 189ec1a17baaa5f4a43b471a8eb4f012b1f7c200[m
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Thu Jan 31 18:21:33 2019 -0500
+
+    add bloxy to dydx
+
+[33mcommit 341749e56ef50872f7eef82427356b2600d2dc1a[m
+Author: Jules Dourlens <jdourlens@gmail.com>
+Date:   Wed Jan 30 10:25:16 2019 +0100
+
+    Added some of DAppBoard's dashboards
+
+[33mcommit d473768928a07c1e126bfbc1b8516d3e5290d8a3[m
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Tue Jan 22 14:21:58 2019 -0500
+
+    Update readme.md
+
+[33mcommit 6517417d3b54c850b69f218104aba2b260ef0757[m
+Merge: 33f886b 019c155
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Tue Jan 22 14:07:35 2019 -0500
+
+    Merge pull request #7 from rchen8/master
+    
+    Add several crypto trackers
+
+[33mcommit 33f886b71c500847b4f427022c9dfe26b5216af7[m
+Merge: 9c1d3fd f043f76
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Tue Jan 22 14:04:53 2019 -0500
+
+    Merge pull request #8 from nijynot/master
+    
+    Add grinscan.net
+
+[33mcommit 019c15548f26ad784a6a0302a6e9d18b71639a82[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Mon Jan 21 15:21:24 2019 -0800
+
+    Add dispute crowdsourcer for Augur
+
+[33mcommit f043f76c5db851904906aca8c3e49cac94151df4[m
+Author: nijynot <nijynot@gmail.com>
+Date:   Fri Jan 18 00:51:35 2019 +0100
+
+    Add grinscan.net
+
+[33mcommit ee35237ec6f354ed777d87aefa6677197ec7e5ae[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Thu Jan 17 11:16:49 2019 -0800
+
+    Add OpenSea dApp rankings
+
+[33mcommit e6492bc12552bba8db54eb02fb320ce774dcec0c[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Jan 16 13:53:19 2019 -0800
+
+    Add Ethernodes
+
+[33mcommit b81ebe27b2455f972601236198250835caa12817[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Jan 16 13:42:44 2019 -0800
+
+    Add new dApp lists
+
+[33mcommit 9c1d3fdc6a3541e97ab251aa3a1a72acb8c8fdd9[m
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Wed Jan 16 12:58:01 2019 -0800
+
+    add http://dispute.tools
+
+[33mcommit 5ac042cadf3c76aea99de37aed4b2330d5bd5cb0[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Wed Jan 16 09:36:07 2019 -0800
+
+    Add CoinMarketCap
+
+[33mcommit 482084a1c8252d6f644780ffbf17e492b5f7bd31[m
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Tue Jan 15 14:17:47 2019 -0800
+
+    add grin and bat
+
+[33mcommit d54e1b5fd8cbb752fe58a5519bc92630762c893d[m
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Tue Jan 8 15:56:24 2019 -0800
+
+    Add xDai
+
+[33mcommit 13fcc075ce55c10930dcf978558aa15d7308ecc7[m
+Merge: 631a4b5 38327ea
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Sun Jan 6 23:56:57 2019 -0500
+
+    Merge pull request #6 from rchen8/master
+    
+    Add mining profitability
+
+[33mcommit 38327ea5ce497b55d5176b594eb734f154653f5e[m
+Author: Richard Chen <richardchen39@gmail.com>
+Date:   Sun Jan 6 11:53:26 2019 -0600
+
+    Add mining profitability
+
+[33mcommit 631a4b5387c9211bc0cebbe9004e1824e0b76c05[m
+Merge: b1c2173 c5edcab
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Thu Dec 27 01:14:21 2018 -0500
+
+    Merge pull request #5 from jonnyhsy/master
+    
+    Update with bitcoin related dashboard/trackers
+
+[33mcommit c5edcabfa89fae848afa1b43b87091dc892a1818[m
+Merge: f845478 d9c36ef
+Author: jonnyhsy <jonnyhsy@foxmail.com>
+Date:   Mon Dec 24 05:15:40 2018 -0500
+
+    Merge branch 'master' of https://github.com/jonnyhsy/awesome-crypto-trackers
+
+[33mcommit f845478124b42b6058fb209637cb6a909751d776[m
+Author: jonnyhsy <jonnyhsy@foxmail.com>
+Date:   Mon Dec 24 05:15:32 2018 -0500
+
+    update
+
+[33mcommit b1c217338f579df7b1a58eac0439d0ebd8cf3374[m
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Sun Dec 23 23:44:19 2018 -0500
+
+    add https://cosmos.p2p.org/
+
+[33mcommit d9c36efb452233d2ed3422ae147fb2aa892710a7[m
+Merge: 1c5c3ec 351661f
+Author: jonnyhsy <jonnyhsy@users.noreply.github.com>
+Date:   Sat Dec 22 20:51:23 2018 -0800
+
+    Merge pull request #1 from jonnyhsy/jonnyhsy-patch-1
+    
+    Update with bitcoin related trackers
+
+[33mcommit 351661f1f554f1aed9a2c4a0cadec9d04f4b3e56[m
+Author: jonnyhsy <jonnyhsy@users.noreply.github.com>
+Date:   Sat Dec 22 20:51:08 2018 -0800
+
+    Update with bitcoin related trackers
+
+[33mcommit 1c5c3ecc789451639646cb9a658331a67efeef28[m
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Sat Dec 22 22:48:17 2018 -0500
+
+    add cosmos
+
+[33mcommit 62ce9d52d6c4f71ed94031ee3278355c546aa08d[m
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Sat Dec 22 22:46:07 2018 -0500
+
+    add https://messari.io/onchainfx
+
+[33mcommit f2e77f11bbe0ad9977cc8e8e39d8bc9bd45907da[m
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Sat Dec 22 22:44:26 2018 -0500
+
+    add https://ethstats.io/
+
+[33mcommit bdfc5e6619503726249c0600f32871fe707a0f96[m
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Sat Dec 22 22:41:31 2018 -0500
+
+    Add Niraj Pant suggestions
+
+[33mcommit 3f611809de6d85ca02d71b18ecaf197d15b1c0ee[m
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Sat Dec 22 22:37:59 2018 -0500
+
+    Add polkadot trackers
+
+[33mcommit d1626208d59fd0cce31b2e3139fa77b530bafe5d[m
+Merge: 2329c30 e2ef58d
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Sat Dec 22 22:33:49 2018 -0500
+
+    Merge pull request #3 from pfletcherhill/master
+    
+    Update Veil link and add Augur Open Interest graph
+
+[33mcommit 2329c3058c415f7d66c30866873ecfb8dff0ec50[m
+Merge: 4f80359 afb4b18
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Sat Dec 22 22:33:16 2018 -0500
+
+    Merge pull request #2 from antsankov/master
+    
+    Add in Ethereum Classic Dapp Tracker
+
+[33mcommit e2ef58dc2a8a007eb6c886289876ac83a0a4f8de[m
+Author: Paul Fletcher-Hill <1607180+pfletcherhill@users.noreply.github.com>
+Date:   Sat Dec 22 00:16:50 2018 -0800
+
+    Add Veil Augur Open Interest graph
+
+[33mcommit a9b841d3e7079d1a2f354c891c721b2ebd3df937[m
+Author: Paul Fletcher-Hill <1607180+pfletcherhill@users.noreply.github.com>
+Date:   Sat Dec 22 00:15:25 2018 -0800
+
+    Update Veil URL
+
+[33mcommit afb4b18e38aa9500563c63d3bdcafaa6507e4ef7[m
+Author: Alex Tsankov <antsankov@gmail.com>
+Date:   Fri Dec 21 23:52:59 2018 -0500
+
+    Update readme.md
+
+[33mcommit 4f803599698a649ba1a46fd6c7d87724033032aa[m
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Fri Dec 21 23:28:17 2018 -0500
+
+    Make and kitties
+
+[33mcommit 25dbd36f8e00219cda86b3e233eb3a4d4cde5cd3[m
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Fri Dec 21 23:25:34 2018 -0500
+
+    add http://frontrun.me/
+
+[33mcommit 20b7d80cc25c75ac775dfe6b2349c2883a41acd7[m
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Fri Dec 21 23:14:53 2018 -0500
+
+    Add https://dexterminal.com/
+
+[33mcommit 83096da5f7f766c60eea5bc06c7ee378c1d34b87[m
+Merge: fa4f7d8 d2c4e20
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Fri Dec 21 23:11:17 2018 -0500
+
+    Merge pull request #1 from banteg/patch-1
+    
+    add 0xtracker
+
+[33mcommit fa4f7d8365b7cd19d8dc918dc9e891fab7acb837[m
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Fri Dec 21 23:10:13 2018 -0500
+
+    Add 0xtracker.com
+
+[33mcommit d2c4e20f122722db543451b82a6a6548b2c98c13[m
+Author: banteg <banteeg@gmail.com>
+Date:   Sat Dec 22 07:57:29 2018 +0700
+
+    add 0xtracker
+
+[33mcommit b453a5e1548b8a55f563663ac8c769460ea409e9[m
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Fri Dec 21 18:37:31 2018 -0500
+
+    Delete .yo-rc.json
+
+[33mcommit f7a9b556a746d3e204477eee1817c171c4e23b6e[m
+Author: Denis Nazarov <denisnazarov@users.noreply.github.com>
+Date:   Fri Dec 21 18:36:36 2018 -0500
+
+    Reformat
+
+[33mcommit 469ec9aca07623ac67a366ee4a8dfe78347dd682[m
+Author: Denis Nazarov <dnazarov@users.noreply.github.com>
+Date:   Fri Dec 21 18:26:41 2018 -0500
+
+    add initial projects
+
+[33mcommit 7f4afb725df7ffb3491e48a9a8182616aa784d21[m
+Author: Denis Nazarov <dnazarov@users.noreply.github.com>
+Date:   Fri Dec 21 18:05:01 2018 -0500
+
+    first commit
