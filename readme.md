@@ -339,6 +339,7 @@
 - https://sig.eth.samczsun.com
 - https://clientdiversity.org
 - https://www.validatorqueue.com
+- https://sorellalabs.xyz/dashboard
 
 ## Ethereum Classic
 - https://dappdirect.net
