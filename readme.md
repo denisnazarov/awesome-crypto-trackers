@@ -571,6 +571,7 @@
 - http://www.predictions.exchange/stablecoin
 - https://skew.com/dashboard/stable-coins
 - https://stablecoins.wtf
+- https://www.stablepulse.org
 
 ## Starkware
 - https://voyager.online
