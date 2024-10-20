@@ -35,6 +35,7 @@
 - [Decentralized Exchanges](#decentralized-exchanges)
 - [Decentralized Finance](#decentralized-finance)
 - [dYdX](#dYdX)
+- [Eigenlayer](#eigenlayer)
 - [ENS](#ens)
 - [Ethereum](#ethereum)
 - [Ethereum Classic](#ethereum-classic)
@@ -313,6 +314,9 @@
 
 ## dYdX
 - https://metabase.dydx.exchange/public/dashboard/5fa0ea31-27f7-4cd2-8bb0-bc24473ccaa3
+
+## Eigenlayer
+- https://restaking.info
 
 ## ENS
 - https://www.digitclub.xyz
