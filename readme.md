@@ -677,6 +677,9 @@
 - https://coinmetrics.io/correlation-charts
 - https://cointracker.io/visualizations/coin_correlations
 
+### Fundraising
+- https://crypto-fundraising.info
+
 ### Gas
 - https://www.gasprice.io
 - https://ethgasstation.info
