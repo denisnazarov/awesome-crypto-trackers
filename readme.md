@@ -732,10 +732,12 @@
 ### Security
 - https://www.rekt.news/leaderboard
 - https://hacked.slowmist.io
+- https://quillcheck.quillaudits.com/
 
 ### Audits
 - https://consensys.github.io/blockchainSecurityDB
 - http://defisafety.com
+- https://shield.quillaudits.com/
 
 ### Staking
 - https://stakingrewards.com
