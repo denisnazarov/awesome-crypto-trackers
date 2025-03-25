@@ -530,6 +530,7 @@
 - https://www.awesomepolygon.com
 
 ## Polymarket
+- https://polymarketanalytics.com
 - http://polymarketwhales.info
 
 ## PoolTogether
