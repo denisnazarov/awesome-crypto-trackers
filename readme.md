@@ -174,6 +174,7 @@
 - https://pools.balancer.exchange/#/list
 - http://www.predictions.exchange/balancer/None
 - http://pools.vision
+- https://cryptoinfowatch.com/balancer
 - https://defimarketcap.io/protocol/balancer
 - https://defimarketcap.io/token/0xba100000625a3754423978a60c9317c58a424e3d
 - https://bal-reports.herokuapp.com/#
@@ -193,6 +194,7 @@
 - https://statoshi.info
 - https://bitnodes.earn.com
 - https://fork.lol
+- https://cryptoinfowatch.com
 - https://www.cbeci.org
 - https://buybitcoinworldwide.com/fee-calculator
 - https://charts.woobull.com
