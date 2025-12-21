@@ -194,6 +194,7 @@
 - https://bitnodes.earn.com
 - https://fork.lol
 - https://www.cbeci.org
+- htps://cryptoinfowatch.com
 - https://buybitcoinworldwide.com/fee-calculator
 - https://charts.woobull.com
 - https://www.blockchain.com/en/charts
