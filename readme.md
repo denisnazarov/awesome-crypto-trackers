@@ -289,6 +289,7 @@
 - https://www.dapp.com/ranking
 
 ## Decentralized Exchanges
+- https://dexscreener.com
 - https://dex.watch
 - https://etherscan.io/dextracker
 - https://dexindex.io
