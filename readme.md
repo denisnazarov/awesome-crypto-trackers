@@ -747,6 +747,9 @@
 ### Validator Ratings 
 - https://www.rated.network
 
+### Portfolio Tracking
+- https://octav.fi/api
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
