@@ -658,6 +658,10 @@
 - https://feel-the-yearn.app/vaults
 - https://yearn-finance.vercel.app/system
 
+## Chain Forensics
+- https://chainforensics.ai - Behavioral wallet intelligence API. Detects coordinated wallets, sybil networks, and wash trading across Solana, Ethereum, Base, Arbitrum, Optimism, and Polygon.
+- https://github.com/796farina/chain-forensics-api
+
 ## Other
 ### 51% attacks
 - https://crypto51.app
