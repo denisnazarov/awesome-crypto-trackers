@@ -353,6 +353,7 @@
 - https://www.tokenanalyst.io
 - https://cer.live
 - https://www.bitcointradevolume.com
+- https://coingapradar.com - Real-time crypto premium tracker across 9 countries (kimchi premium, Japan premium, etc.) vs Binance. Free, no login, updates every 60s.
 
 ## Farcaster
 - https://www.farcaster.network
