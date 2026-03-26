@@ -722,9 +722,11 @@
 
 ### Price
 - https://coinmarketcap.com
+- https://coinpaprika.com
 - https://messari.io/screener
 - https://coin360.com
 - https://www.coingecko.com
+- https://dexpaprika.com
 
 ### Rollups
 - https://welovetheblobs.xyz
