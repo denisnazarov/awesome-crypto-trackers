@@ -532,6 +532,7 @@
 ## Polymarket
 - https://polymarketanalytics.com
 - http://polymarketwhales.info
+- https://predscope.com
 
 ## PoolTogether
 - https://www.pooltogether.com/#stats
