@@ -90,6 +90,7 @@
 - [Stablecoins](#stablecoins)
 - [Starkware](#starkware)
 - [Sudoswap](#sudoswap)
+- [SwarmIntellect](#swarmintellect)
 - [Sushi](#sushi)
 - [Synapse](#synapse)
 - [Synthetix](#synthetix)
@@ -583,6 +584,9 @@
 
 ## Sudoswap
 - https://jam516-sudovision-by-pool-owner-6cpc4b.streamlitapp.com
+  
+## SwarmIntellect
+- https://swarmintellect.com - Real-time whale derivative positioning with accuracy-verified consensus signals across 166 tracked wallets
 
 ## Sushi
 - https://sushi.zippo.io
