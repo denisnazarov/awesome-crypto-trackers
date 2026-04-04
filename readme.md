@@ -533,6 +533,12 @@
 - https://polymarketanalytics.com
 - http://polymarketwhales.info
 
+
+## SuiBets
+
+- https://suibets.io - SuiBets decentralized sports betting on Sui blockchain
+- https://suivision.xyz/account/0xfed2649741e4d3f6316434d6bdc51d0d0975167a0dc87447122d04830d59fdf9 - On-chain platform stats & treasury
+- https://github.com/elpou88/suibetsupdatedsecurity - Open source Move smart contracts
 ## PoolTogether
 - https://www.pooltogether.com/#stats
 - https://defimarketcap.io/protocol/pool-together
