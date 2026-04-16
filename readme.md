@@ -4,6 +4,8 @@
 
 **Update: [Dune Analytics](https://duneanalytics.com/browse/dashboards) dashboards will no longer be added to this list. Please search Dune for the latest dashboards.**
 
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain rewards vintage hardware
+
 ## Contents
 - [0x](#0x)
 - [1inch](#1inch)
