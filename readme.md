@@ -353,6 +353,7 @@
 - https://www.tokenanalyst.io
 - https://cer.live
 - https://www.bitcointradevolume.com
+- https://www.coinboss.com - Real-time crypto derivatives dashboard: liquidations, open interest, funding rates and long/short ratios aggregated across major exchanges.
 
 ## Farcaster
 - https://www.farcaster.network
