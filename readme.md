@@ -310,6 +310,7 @@
 - https://defillama.com/home
 - https://etherscan.io/defi-leaderboard
 - https://debank.com/ranking/lending
+- https://cryptool.io
 - https://defi.ethereumwisdom.com
 
 ## dYdX
