@@ -322,8 +322,7 @@
 - https://www.digitclub.xyz
 
 ## Ethereum
-- https://ethstats.net
-- https://ethstats.io
+- https://openchainbench.com/benchmarks
 - https://ethernodes.org
 - https://etherscan.io/charts
 - https://app.santiment.net/assets/erc20
@@ -683,7 +682,7 @@
 
 ### Gas
 - https://www.gasprice.io
-- https://ethgasstation.info
+- https://openchainbench.com/benchmarks/gas-estimation
 - https://gas.blocknative.com
 - https://www.etherchain.org/api/gasPriceOracle
 - https://ethgas.app
