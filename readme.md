@@ -191,14 +191,11 @@
 - https://bitcoinvisuals.com
 - https://jochen-hoenicke.de/queue/#0,24h
 - https://statoshi.info
-- https://bitnodes.earn.com
 - https://fork.lol
 - https://www.cbeci.org
 - https://buybitcoinworldwide.com/fee-calculator
-- https://charts.woobull.com
 - https://www.blockchain.com/en/charts
 - https://bitinfocharts.com
-- https://oxt.me/charts
 - https://dashboard.bitcoinops.org/d/TDhboADmk/bitcoin-optech-dashboards?orgId=1
 - https://bitaps.com
 - https://mempool.space/graphs
@@ -206,6 +203,7 @@
 - http://bitcoin.sipa.be
 - https://bitcoin.clarkmoody.com/dashboard
 - https://www.theblockcrypto.com/data/on-chain-metrics/bitcoin
+- https://alphabitlab.com/crypto/risk-model
 
 ## Bitcoin on Ethereum
 - https://btconethereum.com
