@@ -322,6 +322,7 @@
 - https://www.digitclub.xyz
 
 ## Ethereum
+- https://deepbluealpha.io - Real-time whale wallet tracker for Ethereum — 10,000+ wallets monitored block-by-block, net flow per token, free public API
 - https://ethstats.net
 - https://ethstats.io
 - https://ethernodes.org
@@ -337,6 +338,7 @@
 - https://explorer.bitquery.io/ethereum/calls
 - https://www.theblockcrypto.com/data/on-chain-metrics/ethereum
 - https://etherchain.org/burn
+- https://deepbluealpha.io — Real-time Ethereum whale tracker: 20,000+ wallets, live DEX swap classification, sentiment index, free public API
 - https://ultrasound.money
 - https://ethburned.info
 - https://www.4byte.directory
@@ -344,6 +346,8 @@
 - https://clientdiversity.org
 - https://www.validatorqueue.com
 - https://sorellalabs.xyz/dashboard
+- https://deepbluealpha.io — Real-time Ethereum whale tracker (12,000+ wallets, DEX swap buy/sell classification, Whale Sentiment Index)
+- https://deepbluealpha.io
 
 ## Ethereum Classic
 - https://dappdirect.net
