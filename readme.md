@@ -746,6 +746,7 @@
 
 ### Validator Ratings 
 - https://www.rated.network
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ## Contribute
 
