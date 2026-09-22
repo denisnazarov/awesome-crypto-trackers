@@ -311,6 +311,7 @@
 - https://etherscan.io/defi-leaderboard
 - https://debank.com/ranking/lending
 - https://defi.ethereumwisdom.com
+- https://dificalc.com
 
 ## dYdX
 - https://metabase.dydx.exchange/public/dashboard/5fa0ea31-27f7-4cd2-8bb0-bc24473ccaa3
