@@ -577,6 +577,7 @@
 - https://skew.com/dashboard/stable-coins
 - https://stablecoins.wtf
 - https://www.stablepulse.org
+- https://freezeradar.com - USDT/USDC/PAXG issuer freeze & blacklist tracker with wallet risk checks
 
 ## Starkware
 - https://voyager.online
