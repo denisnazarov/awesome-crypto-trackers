@@ -353,6 +353,7 @@
 - https://www.tokenanalyst.io
 - https://cer.live
 - https://www.bitcointradevolume.com
+- https://1000xleverage.com
 
 ## Farcaster
 - https://www.farcaster.network
